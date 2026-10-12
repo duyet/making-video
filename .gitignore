@@ -1,0 +1,41 @@
+# --- OS / editor ---
+.DS_Store
+*.swp
+
+# --- secrets ---
+.env
+.env.*
+!.env.example
+
+# --- dependencies ---
+node_modules/
+
+# --- large media (local only; ~9 GB). Regenerate or back up outside git ---
+*.mp4
+*.mov
+*.webm
+*.mkv
+*.mp3
+*.wav
+*.m4a
+*.aac
+*.flac
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.heic
+*.gif
+
+# --- render outputs and caches ---
+renders/
+snapshots/
+.thumbnails/
+.waveform-cache/
+.hyperframes/
+**/narration/scripts/*/*/raw/
+**/*.log
+
+# --- personal ---
+CLAUDE.local.md
+.claude/settings.local.json
