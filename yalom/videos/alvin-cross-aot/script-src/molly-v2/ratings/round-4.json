@@ -1,0 +1,155 @@
+[
+  {
+    "shot": "R01",
+    "file": "assets/flow2k_raw/molly-v2/R01/r1-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 9.0,
+    "pass": true,
+    "defects": [
+      "minor: Alvin's eyes read closed rather than lowered",
+      "faint unreadable marks on one book spine"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "R02",
+    "file": "assets/flow2k_raw/molly-v2/R02/r1-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 8
+    },
+    "total": 8.9,
+    "pass": true,
+    "defects": [
+      "Yalom close to the right edge (about 93% of width), little room for a Ken Burns push",
+      "newspapers show ruled lines and blocks only, no legible text"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "R03",
+    "file": "assets/flow2k_raw/molly-v2/R03/r1-1.png",
+    "scores": {
+      "beat": 8,
+      "character": 9,
+      "style": 8.5,
+      "technical": 9,
+      "readability": 7
+    },
+    "total": 8.4,
+    "pass": false,
+    "defects": [
+      "frame dark and grey (mean luma ~65 vs ~78-107 for the reference set), reads murky",
+      "camera sits near chest height, not knee height",
+      "heavier grungy hatching than the redraw set",
+      "floor sheets carry ruled lines (not legible)"
+    ],
+    "revised_prompt": "Create 1 new image, 16:9, using the attached character sheet AOT-CAST-SHEET as the reference for every face and outfit. Low-angle shot with the camera close to the floor at knee height, looking straight down a narrow walkway between tall leaning stacks of plain blank newspapers and cardboard boxes in a 1980s California bungalow, the stacks rising above the frame on both sides, the path barely one person wide, a broad bright shaft of daylight from a window at the end plus soft warm fill light so the stacks, floorboards and walls are clearly readable and the frame is bright, not grey or dim, an empty armchair visible at the far end in the light, a few plain blank sheets on the floor. All paper completely blank: no headlines, no mastheads, no letters, no ruled lines. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, no text, no letters, no captions, no watermark."
+  },
+  {
+    "shot": "R04",
+    "file": "assets/flow2k_raw/molly-v2/R04/r1-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 8,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 8.5
+    },
+    "total": 8.6,
+    "pass": true,
+    "defects": [
+      "Alvin's hair is pale ash-blond, nearly silver overall; temples barely distinct",
+      "left and right headstones carry dash marks (not legible)",
+      "Alvin's smile slightly smug rather than grateful"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "R05",
+    "file": "assets/flow2k_raw/molly-v2/R05/r1-1.png",
+    "scores": {
+      "beat": 8,
+      "character": 9,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 0
+    },
+    "total": 0.0,
+    "pass": false,
+    "defects": [
+      "HARD FAIL: coat embroidery reads \"ALVIN CROSS, M.D.\" (extra readable \"M.D.\")",
+      "film jacket label on the desk carries a letter-like glyph",
+      "paper pinned beside the lightbox has scribble lines",
+      "Alvin is in three-quarter view toward the camera, not profile"
+    ],
+    "revised_prompt": "Create 1 new image, 16:9, using the attached character sheet AOT-CAST-SHEET as the reference for every face and outfit. Medium shot in a 1982 Stanford radiology reading room, Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, strong angular jaw, heavy brows, blue eyes, commanding calm; white doctor coat with \"Alvin Cross\" embroidered in dark blue on the left chest, pale blue shirt, dark tie; the embroidery reads exactly \"Alvin Cross\" and nothing else, no title, no M.D., no other letters on the coat; standing in strict side profile facing left toward a wall-mounted X-ray lightbox showing a chest film, his eyes fixed on the film with a haunted stare, the lightbox glow plus a warm overhead fluorescent light keeping the whole room and his face clearly lit, plain unlabelled film jackets and a beige rotary phone on a desk behind, no papers pinned to the walls, no labels or stickers on the film jackets, both hands relaxed at his sides out of frame. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, 1980s California, calm natural expressions, no captions, no letters, no watermark, no text except the embroidered name \"Alvin Cross\" on the coat."
+  },
+  {
+    "shot": "M01",
+    "file": "assets/flow2k_raw/molly-v2/M01/r4-1.png",
+    "scores": {
+      "beat": 7,
+      "character": 8,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 8.5
+    },
+    "total": 8.0,
+    "pass": false,
+    "defects": [
+      "Jason is not clearly leaving: he stands square to the camera with one hand on an upright chair and the other on the table, which reads as standing up or sitting down",
+      "chair not shoved back or tilted",
+      "whole family stares into the camera, which makes it look staged",
+      "teen Alvin looks early twenties rather than 17"
+    ],
+    "revised_prompt": "Create 1 new image, 16:9, using the attached character sheet AOT-CAST-SHEET as the reference for every face and outfit. Wide-medium shot of a plain 1960s American dining room at night, brightly and evenly lit by a single hanging lamp plus soft fill so the walls and corners are clearly readable, untouched full plates of food, a tense silent family dinner, nobody looks at the camera; at the head of the table a stern balding father about 55 with short grey hair, clean-shaven, in a white shirt and tie, beside him a tight-lipped mother about 50 with short permed greying hair in a plain 1960s housedress, both staring down at their plates; seated stiffly on the left, teenage Alvin Cross, clearly a 17-year-old high-school boy, inspired by Erwin Smith but much younger, slim and boyish, smooth unlined face, blond hair in a neat side part with no grey, heavy brows, blue eyes, in a plain white collared shirt, hands in his lap, staring down at his untouched plate; right of centre, teenage Jason Cross, about 16, inspired by a young Eren Yeager, dark brown shoulder-length hair, intense green eyes, defiant tired stare, lean wiry build, wearing a faded denim jacket over a grey t-shirt, clearly walking out: body turned three-quarters away from the table toward an open doorway on the right, mid-stride with one foot lifted, his wooden chair shoved back and tipped over on the floor behind him, his hands empty at his sides, glancing back over his shoulder at the family with a cold tight-lipped glare, his whole figure well inside the frame with clear space to the right edge. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, no text, no letters, no captions, no watermark."
+  },
+  {
+    "shot": "M05",
+    "file": "assets/flow2k_raw/molly-v2/M05/r4-1.png",
+    "scores": {
+      "beat": 6.5,
+      "character": 8,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 8.5
+    },
+    "total": 7.9,
+    "pass": false,
+    "defects": [
+      "reads as a bound book: thick block of lined pages and a cover hinged like a spine",
+      "closing gesture ambiguous: right hand grips the top edge of a cover raised about 70 degrees, which could be opening or closing, with no palm pressing it shut",
+      "cardigan is olive-grey with a brown vest under it, not a brown cardigan"
+    ],
+    "revised_prompt": "Create 1 new image, 16:9, using the attached character sheet AOT-CAST-SHEET as the reference for every face and outfit. Medium shot, present day, a home study at dusk, wooden desk, bookshelves behind lit by soft even room light plus a brass desk lamp so the whole frame is clearly readable: Dr. Yalom, the same design as the Yalom on the character sheet, inspired by Zeke Yeager, round wire-rim glasses, full trimmed beard, calm intellectual face, kind tired eyes, medium build, brown knit cardigan over a shirt, the cardigan clearly warm brown, but visibly older, about 80, short tousled hair cropped close above the ears, hair and beard mostly silver-white, a few more lines on his face; seated at the desk in the act of closing a thin worn tan manila case folder: a single flat paper file folder no thicker than a finger, with a tab on its top edge, no spine, no binding and no thick block of pages, a few loose blank sheets peeking out; the folder is almost shut, its front cover only a hand's width open at about 20 degrees, and his right palm lies flat on top of the cover pressing it down shut, fingers spread on the cover, his left hand resting flat beside it, clearly a thin paper folder and not a book, a mug of tea and one fountain pen beside it, pensive and quiet, looking down at the folder, his face in the left-centre of the frame. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, no text, no letters, no captions, no watermark."
+  },
+  {
+    "shot": "M06",
+    "file": "assets/flow2k_raw/molly-v2/M06/r4-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "style": 9,
+      "technical": 8,
+      "readability": 8.5
+    },
+    "total": 8.8,
+    "pass": true,
+    "defects": [
+      "hanging X-ray films on the left are drawn as jacket-shaped garments (odd props)",
+      "Alvin's silver temples are faint, but his hair is clearly blond (passes the director check)",
+      "tiny marker glyph on the corner of the X-ray film (not legible)"
+    ],
+    "revised_prompt": ""
+  }
+]

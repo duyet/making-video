@@ -1,0 +1,99 @@
+[
+ {
+  "shot": "R11",
+  "file": "assets/flow2k_raw/molly-v2/R11/bk8-1.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 8,
+   "cinematic": 8.5,
+   "style": 8.5,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "total": 8.5,
+  "pass": false,
+  "defects": [
+   "Alvin's wave is the stiff, flat-palm 'hello' at head height that the brief rules out; it should be a lifted hand at chest height, mid-step",
+   "Alvin and Monica both face square to the camera in a posed two-shot, with fixed smiles; it reads as posed rather than a candid in-between moment (an AI tell)",
+   "Yalom's olive suit jacket does not match the character sheet's grey wool overcoat; his hair is long and swept rather than short and tousled",
+   "Yalom stands at the picket fence with his hand on it, not clearly at an open garden gate; the gate opening on the right is ambiguous",
+   "golden-hour backlight is weak: no lens flare, and the sun sits behind the trees at the centre rather than backlighting the couple",
+   "1K: soft detail on the background faces (not penalised). Hands are OK (Yalom's has 5 fingers, Alvin's has 5). Bottom-right corner is clean, with no sparkle or star",
+   "distinct from R10 bk9-2 (that is a wide shot of Yalom leaving by the gate; this is an over-the-shoulder shot of the arrival), so OK"
+  ],
+  "edit_prompt": "Edit the attached image, keeping the composition, backyard memorial (house, folding chairs, white-draped portrait table, mourners), AoT cel style and Yalom's back-to-camera pose with his head turned over his shoulder. Change only: put Yalom in a grey wool overcoat, with short tousled silver-white hair; open the picket gate beside him so he clearly stands in the open gateway on the sidewalk; lower Alvin's raised hand to chest height, loosely open with fingers relaxed in a small, warm greeting, mid-stride; turn Alvin and Monica slightly toward Yalom (three-quarter), with Monica looking up at Alvin rather than at the camera, and give both soft, natural expressions (brows lifted slightly, gentle eyes, small closed smile); add a low golden sun behind the couple with a subtle lens flare and long shadows toward camera. Matte shading, no gloss.",
+  "res": "1K",
+  "watermark": false
+ },
+ {
+  "shot": "R11",
+  "file": "assets/flow2k_raw/molly-v2/R11/bk8-2.png",
+  "scores": {
+   "beat": 9,
+   "character": 8.5,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.83,
+  "pass": false,
+  "defects": [
+   "Golden backlight is still weak: the sun is a pale wash at the top centre behind the house, with no lens flare and no rim behind the couple. Long shadows toward the camera are now present, which is good",
+   "Yalom's hair is better (silver-white) but still long and swept back over the ears rather than short and tousled; his coat reads as olive-green tweed, not a grey wool overcoat",
+   "Fixed: the gate is clearly open (swung inward) and Yalom stands on the sidewalk side; Alvin's hand is at chest height in a relaxed greeting; Monica looks up at Alvin; the couple is three-quarter and mid-stride",
+   "Yalom's hand on the fence: the fingers are plausible (thumb hidden) but slightly blocky. Alvin's hand is OK. The bottom-right corner is clean, with no sparkle or star",
+   "Cemetery check passes: backyard memorial with a draped portrait table and folding chairs"
+  ],
+  "edit_prompt": "Edit the attached image, keeping everything the same. Change only: make Yalom's coat a mid-grey wool overcoat (not olive); cut his silver-white hair short and slightly tousled above the ears; add a low golden sun just above the porch roof behind the couple, with warm rim light on their shoulders and Panama hat and a subtle anamorphic lens flare streak. Matte cel shading, no gloss.",
+  "res": "2K",
+  "watermark": false
+ },
+ {
+  "shot": "R11",
+  "file": "assets/flow2k_raw/molly-v2/R11/bk8-3.png",
+  "scores": {
+   "beat": 9,
+   "character": 8.5,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.9,
+  "pass": false,
+  "defects": [
+   "Fixed: a strong low golden sun behind the house, with a soft flare and long shadows toward the camera. Yalom's silver hair is now shorter and tousled",
+   "Alvin's face reads about 55, not about 70: smooth skin, dark brows, no age lines under the Panama hat",
+   "Yalom's coat is taupe/khaki rather than a mid-grey wool overcoat. His head is in clean profile rather than a clear over-the-shoulder turn",
+   "The gate's open state is ambiguous: the foreground pickets read as a fence section next to Yalom rather than a clearly swung-open gate leaf",
+   "Hands are fine: Yalom's grip on the fence and Alvin's chest-height open hand have correct fingers. Monica holds his arm. Nobody is cut by the frame, the bottom-right corner is clean with no sparkle, and it reads as a backyard memorial (portrait table, folding chairs), not a cemetery"
+  ],
+  "edit_prompt": "Edit the attached image, keeping everything the same. Change only: age Alvin to about 70 with deeper lines around the eyes and mouth, grey eyebrows and grey hair at the temples under the Panama hat; make Yalom's coat a mid-grey wool overcoat; make the wooden gate leaf in front of Yalom clearly swung open on its hinges. Matte cel shading, no gloss.",
+  "res": "2K",
+  "watermark": false
+ },
+ {
+  "shot": "R11",
+  "file": "assets/flow2k_raw/molly-v2/R11/bk8-4.png",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.0,
+  "pass": true,
+  "defects": [
+   "Fixed: Alvin now reads about 65 to 70, with lines around his eyes and mouth and grey at the temples under the Panama hat. Yalom wears a mid-grey overcoat. The gate leaf visibly swings inward on the lawn side, so the gate reads as open",
+   "Yalom's head is still closer to a clean profile than a full over-the-shoulder turn (minor)",
+   "Monica's face, with heavy lines and a white bun, reads older than Alvin (minor mismatch)",
+   "Hands are fine: Yalom's fingers on the post are correct, Alvin's open hand is at chest height (not an overhead wave), and Monica holds his arm. The bottom-right corner is clean with no sparkle or star. It is a backyard memorial with a portrait table and folding chairs, not a cemetery. Golden backlight, flare and long shadows are kept"
+  ],
+  "edit_prompt": "",
+  "res": "2K",
+  "watermark": false
+ }
+]

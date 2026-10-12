@@ -1,0 +1,46 @@
+[
+ {
+  "shot": "R10",
+  "file": "assets/flow2k_raw/molly-v2/R10/bk7-1.png",
+  "scores": {
+   "beat": 8,
+   "character": 8.5,
+   "cinematic": 8.5,
+   "style": 8.5,
+   "technical": 8.5,
+   "readability": 8.5
+  },
+  "total": 8.42,
+  "pass": false,
+  "defects": [
+   "No Molly memorial: the framed portrait of the elderly woman with flowers is absent, so the backyard reads as a generic gathering, not a memorial",
+   "Yalom glances at his wristwatch with keys in hand: reads as hurried/impatient rather than quietly stepping away; brows slightly knit",
+   "Yalom and the curb friends lean toward staring at camera; layout close to bk6 framing"
+  ],
+  "edit_prompt": "Edit the attached image: keep everything (backyard, gate, chairs, house, guests, golden light, AoT cel style, Yalom's pose and walk toward the gate, Alvin in Panama hat with back turned). Change only: lower Yalom's left arm so he is not checking a watch, hands relaxed at his sides; give him a quiet, gently sad face (inner brows lifted slightly, soft lowered eyes, closed relaxed mouth); add a small white-draped table near the folding chairs with lilies and a framed faded snapshot of a smiling elderly grey-haired woman, in soft focus.",
+  "res": "1K",
+  "watermark": false
+ },
+ {
+  "shot": "R10",
+  "file": "assets/flow2k_raw/molly-v2/R10/bk7-2.png",
+  "scores": {
+   "beat": 8,
+   "character": 8,
+   "cinematic": 8.5,
+   "style": 8.5,
+   "technical": 8.5,
+   "readability": 8.5
+  },
+  "total": 8.33,
+  "pass": false,
+  "defects": [
+   "No Molly memorial: the framed portrait of the elderly woman with flowers is absent, so the backyard reads as a generic gathering, not a memorial",
+   "Yalom glances at his wristwatch with keys in hand: reads as hurried/impatient rather than quietly stepping away; brows slightly knit",
+   "the two friends at the curb look ~50, too young for Yalom's peers (bk7-1 ages them better)"
+  ],
+  "edit_prompt": "Edit the attached image: keep everything (backyard, gate, chairs, house, guests, golden light, AoT cel style, Yalom's pose and walk toward the gate, Alvin in Panama hat with back turned). Change only: lower Yalom's left arm so he is not checking a watch, hands relaxed at his sides; give him a quiet, gently sad face (inner brows lifted slightly, soft lowered eyes, closed relaxed mouth); add a small white-draped table near the folding chairs with lilies and a framed faded snapshot of a smiling elderly grey-haired woman, in soft focus. Also age the two men at the curb to about 80 (white hair, deep lines).",
+  "res": "1K",
+  "watermark": false
+ }
+]

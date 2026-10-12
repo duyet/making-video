@@ -1,0 +1,312 @@
+[
+ {
+  "shot": "R17",
+  "file": "assets/flow2k_raw/molly-v2/R17/bk1-1.png",
+  "res": "1K",
+  "scores": {
+   "beat": 8,
+   "character": 8,
+   "cinematic": 7,
+   "style": 8,
+   "technical": 8,
+   "readability": 8
+  },
+  "total": 7.8,
+  "pass": false,
+  "defects": [
+   "Light is flat olive midday, not brilliant late-afternoon sun with long golden shadows",
+   "Right third is empty lawn; crowd crammed left, weak composition",
+   "Stray extra fence/gate panel standing behind Yalom",
+   "Speaker at the table grins broadly at a memorial",
+   "Portrait figure ambiguous (should clearly be Molly)"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep the high-corner wide view, the house, the street with parked cars, the fence and open gate, the chairs, the guests and the aged Yalom standing apart at the back on the left, unchanged. Change only: brilliant low late-afternoon sun from the right, warm golden light with long shadows stretching across the lawn and a soft rim on the guests; remove the loose fence panel standing behind Yalom; the speaker at the table looks solemn, mouth closed; the framed portrait on the table shows Molly, a smiling woman in her 70s with short grey hair (not a man); add a few guests standing in small groups on the empty right-hand lawn to balance the frame.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the high-corner wide view, the house, the street with parked cars, the fence and open gate, the chairs, the guests and the aged Yalom standing apart at the back on the left, unchanged. Change only: brilliant low late-afternoon sun from the right, warm golden light with long shadows stretching across the lawn and a soft rim on the guests; remove the loose fence panel standing behind Yalom; the speaker at the table looks solemn, mouth closed; the framed portrait on the table shows Molly, a smiling woman in her 70s with short grey hair (not a man); add a few guests standing in small groups on the empty right-hand lawn to balance the frame."
+ },
+ {
+  "shot": "R17",
+  "file": "assets/flow2k_raw/molly-v2/R17/bk1-2.png",
+  "res": "1K",
+  "scores": {
+   "beat": 8,
+   "character": 8,
+   "cinematic": 7,
+   "style": 8,
+   "technical": 7,
+   "readability": 7
+  },
+  "total": 7.6,
+  "pass": false,
+  "defects": [
+   "Letter-like pseudo-text scribble on the lawn above the chairs (approx. x=1250,y=600 of 2752)",
+   "Portrait on the table shows a man in a suit, not Molly",
+   "Flat light, not brilliant late-afternoon sun; table jammed at right edge with empty lawn below"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep the high-corner wide view, the house, porch, fence, garden gate, street, folding chairs, guests and the aged Yalom standing apart near the gate, unchanged. Change only: erase the small scribble marks on the lawn above the chairs so the grass is plain; the framed portrait on the table shows Molly, a smiling woman in her 70s with short grey hair (not a man); warm low late-afternoon sun from the right with long golden shadows across the lawn.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the high-corner wide view, the house, porch, fence, garden gate, street, folding chairs, guests and the aged Yalom standing apart near the gate, unchanged. Change only: erase the small scribble marks on the lawn above the chairs so the grass is plain; the framed portrait on the table shows Molly, a smiling woman in her 70s with short grey hair (not a man); warm low late-afternoon sun from the right with long golden shadows across the lawn."
+ },
+ {
+  "shot": "R10",
+  "file": "assets/flow2k_raw/molly-v2/R10/bk1-1.png",
+  "res": "1K",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.8,
+  "pass": false,
+  "defects": [
+   "Light is soft and flat; no brilliant low late-afternoon sun or long shadows",
+   "Minor: the waiting friends read as a young couple rather than Yalom's contemporaries"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's pose, face, coat, keys and wristwatch gesture, the gate, the friends with the bag at the car and the guests on the lawn, unchanged. Change only the light: brilliant low late-afternoon sun from behind the house at frame right, warm golden rim light on Yalom's hair and shoulders, long shadows across the lawn and sidewalk; make the two friends at the car a man and a woman in their 70s with grey hair.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's pose, face, coat, keys and wristwatch gesture, the gate, the friends with the bag at the car and the guests on the lawn, unchanged. Change only the light: brilliant low late-afternoon sun from behind the house at frame right, warm golden rim light on Yalom's hair and shoulders, long shadows across the lawn and sidewalk; make the two friends at the car a man and a woman in their 70s with grey hair."
+ },
+ {
+  "shot": "R10",
+  "file": "assets/flow2k_raw/molly-v2/R10/bk1-2.png",
+  "res": "1K",
+  "scores": {
+   "beat": 8,
+   "character": 9,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 8,
+   "readability": 8
+  },
+  "total": 8.3,
+  "pass": false,
+  "defects": [
+   "Portrait on the table shows a man in a suit, not Molly",
+   "Yalom's cuff buttons are drawn as digit-like glyphs ('608')",
+   "Flat light, no low late-afternoon sun"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's pose, face, coat, keys and watch gesture, the fence and gate, the two friends with bags at the car and the guests, unchanged. Change only: the framed portrait on the table shows Molly, a smiling woman in her 70s with short grey hair (not a man); draw the three buttons on Yalom's coat cuff as plain round buttons; warm low late-afternoon sun from frame right with long golden shadows.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's pose, face, coat, keys and watch gesture, the fence and gate, the two friends with bags at the car and the guests, unchanged. Change only: the framed portrait on the table shows Molly, a smiling woman in her 70s with short grey hair (not a man); draw the three buttons on Yalom's coat cuff as plain round buttons; warm low late-afternoon sun from frame right with long golden shadows."
+ },
+ {
+  "shot": "R11",
+  "file": "assets/flow2k_raw/molly-v2/R11/bk1-1.png",
+  "res": "1K",
+  "scores": {
+   "beat": 8,
+   "character": 9,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.6,
+  "pass": false,
+  "defects": [
+   "Portrait on the table shows a man in a suit, not Molly",
+   "Not backlit by low sun over the backyard; light is flat midday",
+   "Monica's gaze is toward camera-left rather than at Alvin"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep the street-side view through the open gate, Yalom's hand on the latch, his turned head, mildly surprised face and parted lips, Alvin's raised hand, Panama hat and hopeful smile, and Monica beside him, unchanged. Change only: the framed portrait on the table shows Molly, a smiling woman in her 70s with short grey hair (not a man); backlight the scene with a low warm late-afternoon sun above the backyard behind Alvin and Monica, golden rim light on their hair and hat, long shadows reaching toward the gate; Monica's head turned slightly toward Alvin with a soft smile.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the street-side view through the open gate, Yalom's hand on the latch, his turned head, mildly surprised face and parted lips, Alvin's raised hand, Panama hat and hopeful smile, and Monica beside him, unchanged. Change only: the framed portrait on the table shows Molly, a smiling woman in her 70s with short grey hair (not a man); backlight the scene with a low warm late-afternoon sun above the backyard behind Alvin and Monica, golden rim light on their hair and hat, long shadows reaching toward the gate; Monica's head turned slightly toward Alvin with a soft smile."
+ },
+ {
+  "shot": "R11",
+  "file": "assets/flow2k_raw/molly-v2/R11/bk1-2.png",
+  "res": "1K",
+  "scores": {
+   "beat": 8,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.8,
+  "pass": false,
+  "defects": [
+   "Portrait on the table shows a man in a suit, not Molly",
+   "Yalom's face is near-neutral with lips closed; the brief asks for mild surprise, brows lifted, lips parted"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep the composition, light, gate, Alvin's raised hand, hat and smile, and Monica, unchanged. Change only: the framed portrait on the table shows Molly, a smiling woman in her 70s with short grey hair (not a man); Yalom's face shows mild surprise as his name is called: brows lifted, eyes a little wider and turned toward Alvin, lips slightly parted, no frown.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the composition, light, gate, Alvin's raised hand, hat and smile, and Monica, unchanged. Change only: the framed portrait on the table shows Molly, a smiling woman in her 70s with short grey hair (not a man); Yalom's face shows mild surprise as his name is called: brows lifted, eyes a little wider and turned toward Alvin, lips slightly parted, no frown."
+ },
+ {
+  "shot": "R13",
+  "file": "assets/flow2k_raw/molly-v2/R13/bk1-1.png",
+  "res": "1K",
+  "scores": {
+   "beat": 8,
+   "character": 8,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 8,
+   "readability": 9
+  },
+  "total": 8.2,
+  "pass": false,
+  "defects": [
+   "Yalom's coat is olive green, while R10/R11 have a grey overcoat (continuity)",
+   "Monica looks at Yalom with wide eyes, not at Alvin; Yalom has no courteous smile",
+   "Handshake clasp is muddled (only one hand reads clearly)",
+   "Portrait shows a man in a suit; flat light"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep the over-the-shoulder framing, Alvin's warm open smile, the hat held in his left hand (picture right), the gate, fence, chairs, house and street, unchanged. Change only: Yalom's coat becomes the grey wool overcoat over a brown cardigan; Yalom's profile shows a courteous closed-lip smile with brows lifted, not knitted; Monica turns her head toward Alvin, smiling at him with crinkled eyes of normal size; the handshake shows two clearly interlocked right hands; the framed portrait on the table shows Molly, a smiling woman in her 70s with short grey hair (not a man); warm low late-afternoon sun from behind Alvin.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the over-the-shoulder framing, Alvin's warm open smile, the hat held in his left hand (picture right), the gate, fence, chairs, house and street, unchanged. Change only: Yalom's coat becomes the grey wool overcoat over a brown cardigan; Yalom's profile shows a courteous closed-lip smile with brows lifted, not knitted; Monica turns her head toward Alvin, smiling at him with crinkled eyes of normal size; the handshake shows two clearly interlocked right hands; the framed portrait on the table shows Molly, a smiling woman in her 70s with short grey hair (not a man); warm low late-afternoon sun from behind Alvin."
+ },
+ {
+  "shot": "R13",
+  "file": "assets/flow2k_raw/molly-v2/R13/bk1-2.png",
+  "res": "1K",
+  "scores": {
+   "beat": 8,
+   "character": 8,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 8,
+   "readability": 9
+  },
+  "total": 8.2,
+  "pass": false,
+  "defects": [
+   "No garden gate visible, though the beat is 'by the gate'",
+   "Yalom's coat is olive green, while R10/R11 have a grey overcoat (continuity)",
+   "Monica looks at Yalom, not at Alvin; Yalom has no courteous smile",
+   "Muddled handshake; portrait shows a man"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep the over-the-shoulder framing, Alvin's warm open smile and the hat in his left hand (picture right), the house, chairs and guests, unchanged. Change only: add the open wooden garden gate in the fence at frame right with the street beyond; Yalom's coat becomes the grey wool overcoat over a brown cardigan; Yalom's profile has a courteous closed-lip smile with lifted brows; Monica turns toward Alvin, smiling at him; two clearly interlocked right hands in the handshake; the framed portrait on the table shows Molly, a smiling woman in her 70s with short grey hair (not a man).",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the over-the-shoulder framing, Alvin's warm open smile and the hat in his left hand (picture right), the house, chairs and guests, unchanged. Change only: add the open wooden garden gate in the fence at frame right with the street beyond; Yalom's coat becomes the grey wool overcoat over a brown cardigan; Yalom's profile has a courteous closed-lip smile with lifted brows; Monica turns toward Alvin, smiling at him; two clearly interlocked right hands in the handshake; the framed portrait on the table shows Molly, a smiling woman in her 70s with short grey hair (not a man)."
+ },
+ {
+  "shot": "R14",
+  "file": "assets/flow2k_raw/molly-v2/R14/bk1-1.png",
+  "res": "1K",
+  "scores": {
+   "beat": 9,
+   "character": 8,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 7,
+   "readability": 9
+  },
+  "total": 8.3,
+  "pass": false,
+  "defects": [
+   "A ghost figure (dark head and shoulder) merges with Yalom's cheek behind his face",
+   "Swirl artefact on Yalom's left glasses lens",
+   "Brown coat, while R10/R11 have a grey overcoat; brows knit rather than lifted (puzzled)",
+   "Cut-off picture frame in the bottom-right corner"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's pose, hand at the chin, glasses, face and the background with Alvin and Monica walking back toward the house, unchanged. Change only: remove the dark partial figure behind Yalom's cheek and replace it with fence and lawn; clean the swirl mark on his glasses lens; lift his brows slightly in puzzlement (no knit); remove the cut-off frame in the bottom-right corner; make his coat the grey wool overcoat.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's pose, hand at the chin, glasses, face and the background with Alvin and Monica walking back toward the house, unchanged. Change only: remove the dark partial figure behind Yalom's cheek and replace it with fence and lawn; clean the swirl mark on his glasses lens; lift his brows slightly in puzzlement (no knit); remove the cut-off frame in the bottom-right corner; make his coat the grey wool overcoat."
+ },
+ {
+  "shot": "R14",
+  "file": "assets/flow2k_raw/molly-v2/R14/bk1-2.png",
+  "res": "1K",
+  "scores": {
+   "beat": 8,
+   "character": 8,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.5,
+  "pass": false,
+  "defects": [
+   "Alvin and Monica are pressed against the right edge, at risk in a Ken Burns move",
+   "Portrait shows a man in a suit, not Molly",
+   "Brows knit rather than lifted; swirl mark on the left lens; brown coat breaks continuity with the grey overcoat"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's pose, hand at the chin, face, glasses, the fence, gate, street and house, unchanged. Change only: move Alvin (Panama hat) and Monica (pale blonde hair worn up) left toward the centre-right of the lawn, still walking away toward the house; the framed portrait on the table shows Molly, a smiling woman in her 70s with short grey hair (not a man); lift Yalom's brows slightly in puzzlement; clean the swirl mark on his glasses lens; make his coat the grey wool overcoat.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's pose, hand at the chin, face, glasses, the fence, gate, street and house, unchanged. Change only: move Alvin (Panama hat) and Monica (pale blonde hair worn up) left toward the centre-right of the lawn, still walking away toward the house; the framed portrait on the table shows Molly, a smiling woman in her 70s with short grey hair (not a man); lift Yalom's brows slightly in puzzlement; clean the swirl mark on his glasses lens; make his coat the grey wool overcoat."
+ },
+ {
+  "shot": "S08",
+  "file": "assets/flow2k_raw/molly-v2/S08/bk1-1.png",
+  "res": "1K",
+  "scores": {
+   "beat": 8,
+   "character": 8,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.4,
+  "pass": false,
+  "defects": [
+   "Yalom's eyeline drifts toward the lens instead of to Alvin at frame right",
+   "Face reads ~70: too smooth for 80, and the hair is slicked back unlike the anchor",
+   "Portrait shows a man in a suit, not Molly"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep the over-the-shoulder framing, Alvin's back at right, the backyard, chairs and gate, and Yalom's polite closed smile with lifted inner brows, unchanged. Change only: Yalom's eyes look clearly off-lens toward Alvin's face at frame right; add age: deeper crow's feet, forehead lines and slight sag under the eyes, so he reads 80; the framed portrait on the table shows Molly, a smiling woman in her 70s with short grey hair (not a man); warm low late-afternoon sun from frame right.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the over-the-shoulder framing, Alvin's back at right, the backyard, chairs and gate, and Yalom's polite closed smile with lifted inner brows, unchanged. Change only: Yalom's eyes look clearly off-lens toward Alvin's face at frame right; add age: deeper crow's feet, forehead lines and slight sag under the eyes, so he reads 80; the framed portrait on the table shows Molly, a smiling woman in her 70s with short grey hair (not a man); warm low late-afternoon sun from frame right."
+ },
+ {
+  "shot": "S08",
+  "file": "assets/flow2k_raw/molly-v2/S08/bk1-2.png",
+  "res": "1K",
+  "scores": {
+   "beat": 8,
+   "character": 8,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.6,
+  "pass": false,
+  "defects": [
+   "Yalom's eyeline drifts toward the lens instead of to Alvin",
+   "Face reads ~70: too smooth for 80",
+   "Portrait shows a man in a suit, not Molly"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep the over-the-shoulder framing, warm side light, the house, guests and chairs, and Yalom's polite closed smile with lifted inner brows, unchanged. Change only: Yalom's eyes look clearly off-lens toward Alvin's face at frame right; add age: deeper crow's feet, forehead lines and sag under the eyes, so he reads 80; the framed portrait on the table shows Molly, a smiling woman in her 70s with short grey hair (not a man).",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the over-the-shoulder framing, warm side light, the house, guests and chairs, and Yalom's polite closed smile with lifted inner brows, unchanged. Change only: Yalom's eyes look clearly off-lens toward Alvin's face at frame right; add age: deeper crow's feet, forehead lines and sag under the eyes, so he reads 80; the framed portrait on the table shows Molly, a smiling woman in her 70s with short grey hair (not a man)."
+ },
+ {
+  "shot": "R09",
+  "file": "assets/flow2k_raw/molly-v2/R09/bk1-1.png",
+  "res": "1K",
+  "scores": {
+   "beat": 7,
+   "character": 9,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.3,
+  "pass": false,
+  "defects": [
+   "Expression is plain sad and heavy-lidded with a slight frown, not fond rueful exasperation",
+   "Table has lilies but no portrait; staging is odd, with rows facing the camera and the table behind Yalom",
+   "Posed rows of guests facing the camera (AI tell)"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep the seated framing, Yalom's coat, glasses, hair and beard, the house and lawn, unchanged. Change only Yalom's face: inner brows slightly raised, outer brows relaxed, no knit; eyes softly open (no heavy upper lid) and looking down and to the side at nothing, with a little crinkle at the outer corners; a small symmetric closed-lip rueful smile, one breath from a sigh; jaw loose; head tilted slightly. Also put Molly's framed portrait (a smiling woman in her 70s, short grey hair) beside the lilies, and turn some background guests to look toward the table or at each other.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the seated framing, Yalom's coat, glasses, hair and beard, the house and lawn, unchanged. Change only Yalom's face: inner brows slightly raised, outer brows relaxed, no knit; eyes softly open (no heavy upper lid) and looking down and to the side at nothing, with a little crinkle at the outer corners; a small symmetric closed-lip rueful smile, one breath from a sigh; jaw loose; head tilted slightly. Also put Molly's framed portrait (a smiling woman in her 70s, short grey hair) beside the lilies, and turn some background guests to look toward the table or at each other."
+ },
+ {
+  "shot": "R09",
+  "file": "assets/flow2k_raw/molly-v2/R09/bk1-2.png",
+  "res": "1K",
+  "scores": {
+   "beat": 7,
+   "character": 9,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.3,
+  "pass": false,
+  "defects": [
+   "Expression is plain sad and heavy-lidded, not fond rueful exasperation; no eye crinkle",
+   "Portrait not visible (table cut at the right edge)"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep the seated framing, the guests, the two old colleagues, the fence, gate and street, unchanged. Change only Yalom's face: inner brows slightly raised, outer brows relaxed, no knit; eyes softly open (no heavy upper lid), looking down and to the side, with a small crinkle at the outer corners; a small symmetric closed-lip rueful smile, one breath from a sigh; jaw loose. Show Molly's framed portrait (a smiling woman in her 70s, short grey hair) on the table at right, fully inside the frame.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the seated framing, the guests, the two old colleagues, the fence, gate and street, unchanged. Change only Yalom's face: inner brows slightly raised, outer brows relaxed, no knit; eyes softly open (no heavy upper lid), looking down and to the side, with a small crinkle at the outer corners; a small symmetric closed-lip rueful smile, one breath from a sigh; jaw loose. Show Molly's framed portrait (a smiling woman in her 70s, short grey hair) on the table at right, fully inside the frame."
+ }
+]

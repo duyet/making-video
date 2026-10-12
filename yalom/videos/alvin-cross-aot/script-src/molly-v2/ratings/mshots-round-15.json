@@ -1,0 +1,168 @@
+[
+  {
+    "shot": "M04",
+    "file": "assets/flow2k_raw/molly-v2/M04/c15-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 9.0,
+    "defects": [
+      "Expression fixed for b10: eyes closed, head tipped down, lips parted in a quiet exhale-laugh with both corners lifted. Reads as relief; not a smirk, not staring, not fixed or creepy",
+      "Marginal: the mouth is open wider than the asked 'small soft gap' and a thin sliver of upper teeth shows; eyes are fully closed rather than lowered/soft on Yalom. Light crease between the brows and a cheek line, so 'few lines' is only partly met. Within the brief's 'quiet exhale-laugh is OK', but it sits at the edge",
+      "Yalom fixed: tousled dark-blond hair, round wire-rim glasses, short beard, brown knit cardigan (the c14-1 defect is gone)",
+      "Posture improved: his near hand rests loose over the front of the armrest, the other on his knee; shoulders a little lower. He still sits forward on the seat rather than sinking back",
+      "Hands clean (armrest hand: four fingers with the thumb hidden; knee hand: four fingers with the thumb hidden, natural). Alvin on model; silver at the temples barely visible",
+      "Rest unchanged from c14-1: OTS framing, blind stripes, lamp, tissue box, mug. No text or sparkle; book spines unreadable; right edge clear",
+      "Beats the current file M04/c14-1 (8.68); marginal pass at 9.00"
+    ],
+    "expression_ok": true,
+    "revised_prompt": "",
+    "pass": true
+  },
+  {
+    "shot": "M01",
+    "file": "assets/flow2k_raw/molly-v2/M01/c15-1.png",
+    "scores": {
+      "beat": 8,
+      "character": 8.5,
+      "cinematic": 8,
+      "style": 9,
+      "technical": 9,
+      "readability": 7.5
+    },
+    "total": 8.3,
+    "defects": [
+      "Right-fifth rule broken: the grandmother and grandfather fill ~78-100%, and the right edge cuts the grandfather's shoulder (fixed in c16-1)",
+      "Couple now cuddling: Jason's arm round her shoulder, her head leaning into him, both with messy hair (good)",
+      "Same faces as c16-1 (see that row)"
+    ],
+    "expression_ok": true,
+    "revised_prompt": "Use c16-1 (the outpainted version) instead.",
+    "pass": false
+  },
+  {
+    "shot": "M01",
+    "file": "assets/flow2k_raw/molly-v2/M01/c16-1.png",
+    "scores": {
+      "beat": 8.5,
+      "character": 8.5,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 8.68,
+    "defects": [
+      "Right fifth is now people-free apart from the grandfather's cardigan shoulder, which reaches ~83% across; sideboard, dishes and window fill the rest. Outpaint seam invisible. Star patch at ~93%/87% (sideboard doors) is invisible: wood grain and door panels continue cleanly",
+      "Couple: Jason's arm round her, her head on his shoulder, tousled hair on both, her red nails on the table, freckles, ponytail, brown leather jacket, cheap floral blouse. Matches the book's 'cuddling all evening'",
+      "Jason right: inner brows up, eyes hurt and lowered, not glaring",
+      "Fiancée reads sad and uneasy (inner brows up, eyes sliding sideways, chin down) but not defiant: the 'defiant, chin up' half of the brief is missing",
+      "Alvin (19, blond, no grey) frowns hard with lowered brows, so he reads stern rather than uncomfortable. He is the one allowed hard frown. The father (glasses, ponytail) also knits his brows, though more softly; borderline on 'at most one hard frown'",
+      "The grandfather's open-mouthed gape, fork raised and eyes bulging, is a little loud for a 'silent, stiffly polite' dinner, but his gaze goes to the couple, not the lens. Grandmother and mother worried (inner brows up). Nobody looks into the lens",
+      "The mother looks young (late 20s to early 30s) for the mother of a 19-year-old",
+      "Hands clean, five fingers where visible. The light-switch plate shows only a toggle and screws, no text. No sparkle",
+      "Staged far-side row, but there is good depth with the couple in the near-left foreground and the lamp as the single motivated source",
+      "Beats the current file M01/c14-1 (8.00) but stays under 9.0"
+    ],
+    "expression_ok": true,
+    "revised_prompt": "Keep this image and composition identical and change only these faces: the young woman with freckles leaning on the dark-haired young man lifts her chin slightly and keeps her eyes sliding sideways toward him, mouth set and closed, brows level, uneasy but defiant (no frown, no snarl); the blond young man in the white shirt keeps his eyes down on his plate with brows only slightly drawn, lips pressed, jaw tight, uncomfortable rather than angry; the father with glasses has brows slightly raised and lips pressed thin in stiff disapproval, no frown; the white-haired grandfather has his mouth closed in a frozen, stiff stare at the couple, fork held still; the mother looks about 45 with a few fine lines. Nobody looks at the lens. No text, bottom-right corner plain, no watermark.",
+    "pass": false
+  },
+  {
+    "shot": "S15",
+    "file": "assets/flow2k_raw/molly-v2/S15/c15-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 8.5,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 8.8,
+    "defects": [
+      "Expression right: inner brows drawn up and together (the grief shape), eyes lowered and glistening, lips pressed with the corners down, jaw not clenched, head bowed. Fresh grief, held in. No glare, no lens contact",
+      "The shot is a medium close-up (chest-up), not a close-up, so the face is smaller than briefed",
+      "Yalom is more than a 'soft shoulder plus glasses edge': half his profile with glasses and beard fills the right ~30%, only slightly soft. On anchor (dark-blond tousled hair, wire-rim glasses, beard, brown knit)",
+      "Silver at Alvin's temples is barely visible, so he reads close to 30 rather than ~35",
+      "Background bookshelf is in focus rather than melting into bokeh; the blind stripes sit on the back wall, not across his face. One warm source, matte shading, no dust motes (good)",
+      "No hands visible. No text or sparkle; book spines unreadable. Room for a Ken Burns move"
+    ],
+    "expression_ok": true,
+    "revised_prompt": "Close-up, 100mm telephoto over the shoulder at eye level, Alvin's head and shoulders filling the left half of the frame, the right foreground only a thin, heavily out-of-focus sliver of a brown knit cardigan shoulder and the blurred rim of round wire-rim glasses (no visible face), a quiet 1982 Stanford office used as a therapy room, one warm source of afternoon light through half-open wooden blinds laying soft stripes across Alvin's cheek and coat, the brown leather armchair and bookshelves behind him dissolved into creamy bokeh, matte shading, no glow, no dust motes: Alvin Cross: man about 35, inspired by Erwin Smith, tall, blond hair in a neat side part with clearly visible silver-grey temples, strong angular jaw, heavy brows, blue eyes; white doctor coat, pale blue shirt, dark tie; fresh grief held in: inner brows drawn up and together, eyes lowered to the floor and a little wet, lips pressed lightly together with the corners down, chin faintly puckered, jaw not clenched, head bowed a few degrees, shoulders sunk. The man in the foreground is Dr. Yalom, man about 50, inspired by Zeke Yeager, short tousled dark-blond hair, round wire-rim glasses, brown knit cardigan. Face clearly readable. [STYLE as house format], no text, no captions, no watermark.",
+    "pass": false
+  },
+  {
+    "shot": "S15",
+    "file": "assets/flow2k_raw/molly-v2/S15/c15-2.png",
+    "scores": {
+      "beat": 8,
+      "character": 8.5,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 8.55,
+    "defects": [
+      "Expression weaker: brows mostly level and knit with only a slight inner lift, eyes cut sideways toward the foreground rather than lowered to the floor, mouth pressed. Reads brooding or sullen more than fresh grief; not a hard fail (no glare at the lens, no smirk)",
+      "Medium close-up rather than a close-up; Yalom's profile (glasses, beard) takes the right third, larger than a 'soft shoulder plus glasses edge'",
+      "Silver temples barely visible",
+      "Nice blind stripes across the coat, lamp, tissue box; background bookshelf fairly sharp",
+      "No hands visible; no text or sparkle"
+    ],
+    "expression_ok": true,
+    "revised_prompt": "Same as the S15/c15-1 revised prompt; prefer c15-1's face (inner brows up, eyes on the floor).",
+    "pass": false
+  },
+  {
+    "shot": "S13",
+    "file": "assets/flow2k_raw/molly-v2/S13/c15-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 9.5
+    },
+    "total": 9.05,
+    "defects": [
+      "Clock fixed: an old round twin-bell wind-up alarm clock with tick marks and two faint hands; no numerals or digits are readable. It suits ≈1972 better than the flip clock",
+      "Rest unchanged: a pixel diff against redraw/S13.png shows changes only around the nightstand clock (x ~44-69%, y ~5-47%); Alvin, bed, moonlight shaft and photo are identical",
+      "The star patch at ~93%/87% is invisible: flat dark floor/wall",
+      "Alvin early twenties, blond, no grey, white T-shirt, hand on the chest with clean fingers; parents' photo on the nightstand reads as a faded snapshot",
+      "Watch: in this top shot his wide, pale-irised eyes on the ceiling also meet the lens. The stare is motivated (sleepless), not a hard fail, but it is slightly hollow",
+      "No other text or sparkle. Carry-over minors: dark slab cabinet at left, bed foot close to the bottom edge",
+      "Beats the current S13 (c12-1 / redraw, now a hard fail for its readable clock)"
+    ],
+    "expression_ok": true,
+    "revised_prompt": "",
+    "pass": true
+  },
+  {
+    "shot": "S13",
+    "file": "assets/redraw/S13.png",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 0
+    },
+    "total": 0.0,
+    "defects": [
+      "HARD FAIL: the flip clock reads '3 05', which is readable text and digits. The rubric scores this 0 overall",
+      "Otherwise identical to S13/c15-1, which replaces it"
+    ],
+    "expression_ok": true,
+    "revised_prompt": "Replace with S13/c15-1.",
+    "pass": false
+  }
+]

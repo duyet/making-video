@@ -1,0 +1,233 @@
+[
+ {
+  "shot": "R10",
+  "file": "assets/flow2k_raw/molly-v2/R10/bk3-1.png",
+  "res": "1K",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 8.5,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.85,
+  "pass": false,
+  "defects": [
+   "1K",
+   "the gate is only a gap in the fence, no gate leaf",
+   "light fairly even, little low-sun shape or rim; heavy comic outlines",
+   "furrowed, glum brow reads more sad than hurried"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's pose, face, white beard, round glasses, grey overcoat over the brown cardigan, keys in his hand, the wristwatch gesture, the fence, the friends with the travel bag by the car, the guests, chairs and house unchanged. Change only: in the gap in the fence draw an open wooden garden gate leaf swung outward on its hinges; a low golden late-afternoon sun from behind the house at frame right, a warm gold edge on Yalom's hair and shoulders, his long shadow reaching toward the gate; his brows relaxed, a hurried, preoccupied glance at the watch rather than a frown; remove the table edge at the bottom-right corner. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom, no text, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's pose, face, white beard, round glasses, grey overcoat over the brown cardigan, keys in his hand, the wristwatch gesture, the fence, the friends with the travel bag by the car, the guests, chairs and house unchanged. Change only: in the gap in the fence draw an open wooden garden gate leaf swung outward on its hinges; a low golden late-afternoon sun from behind the house at frame right, a warm gold edge on Yalom's hair and shoulders, his long shadow reaching toward the gate; his brows relaxed, a hurried, preoccupied glance at the watch rather than a frown; remove the table edge at the bottom-right corner. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom, no text, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9."
+ },
+ {
+  "shot": "R10",
+  "file": "assets/flow2k_raw/molly-v2/R10/bk3-2.png",
+  "res": "1K",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 8.5,
+   "technical": 9,
+   "readability": 8.5
+  },
+  "total": 8.8,
+  "pass": false,
+  "defects": [
+   "1K",
+   "near-identical to bk3-1",
+   "the gate is only a gap in the fence",
+   "a white table edge intrudes at the bottom-right corner"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's pose, face, white beard, round glasses, grey overcoat over the brown cardigan, keys in his hand, the wristwatch gesture, the fence, the friends with the travel bag by the car, the guests, chairs and house unchanged. Change only: in the gap in the fence draw an open wooden garden gate leaf swung outward on its hinges; a low golden late-afternoon sun from behind the house at frame right, a warm gold edge on Yalom's hair and shoulders, his long shadow reaching toward the gate; his brows relaxed, a hurried, preoccupied glance at the watch rather than a frown; remove the table edge at the bottom-right corner. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom, no text, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's pose, face, white beard, round glasses, grey overcoat over the brown cardigan, keys in his hand, the wristwatch gesture, the fence, the friends with the travel bag by the car, the guests, chairs and house unchanged. Change only: in the gap in the fence draw an open wooden garden gate leaf swung outward on its hinges; a low golden late-afternoon sun from behind the house at frame right, a warm gold edge on Yalom's hair and shoulders, his long shadow reaching toward the gate; his brows relaxed, a hurried, preoccupied glance at the watch rather than a frown; remove the table edge at the bottom-right corner. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom, no text, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9."
+ },
+ {
+  "shot": "R12",
+  "file": "assets/flow2k_raw/molly-v2/R12/bk3-1.png",
+  "res": "1K",
+  "scores": {
+   "beat": 8.5,
+   "character": 9,
+   "cinematic": 8,
+   "style": 8.5,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.62,
+  "pass": false,
+  "defects": [
+   "1K",
+   "correct hand (his left, picture right) and correct earnest-warm expression looking at Yalom",
+   "framed as a medium shot, not a close-up",
+   "flat, cool-green even daylight, not golden late-afternoon sun; Yalom foreground only slightly soft"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep Alvin's face, expression, silver hair, dark suit and tie, the cream Panama hat held to his chest in his own left hand at picture right with the same grip, the soft grey shoulder and back of Yalom's head at the left, the chairs, portrait table, fence and house unchanged. Change only: push in to an 85mm medium close-up so Alvin's head and the hat fill the right-centre of the frame (face at about 60 percent across, a little headroom); Yalom at the left becomes more out of focus; warm golden low late-afternoon sun from frame right, gold edge on Alvin's hair and cheek, long shadows on the lawn, creamy golden bokeh behind. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom, no smirk, no stare into the lens, no text, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep Alvin's face, expression, silver hair, dark suit and tie, the cream Panama hat held to his chest in his own left hand at picture right with the same grip, the soft grey shoulder and back of Yalom's head at the left, the chairs, portrait table, fence and house unchanged. Change only: push in to an 85mm medium close-up so Alvin's head and the hat fill the right-centre of the frame (face at about 60 percent across, a little headroom); Yalom at the left becomes more out of focus; warm golden low late-afternoon sun from frame right, gold edge on Alvin's hair and cheek, long shadows on the lawn, creamy golden bokeh behind. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom, no smirk, no stare into the lens, no text, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9."
+ },
+ {
+  "shot": "R12",
+  "file": "assets/flow2k_raw/molly-v2/R12/bk3-2.png",
+  "res": "1K",
+  "scores": {
+   "beat": 6,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 8.5,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.1,
+  "pass": false,
+  "defects": [
+   "1K",
+   "WRONG HAND: the hat is held by Alvin's anatomical right hand (sleeve enters from picture left); spec requires his left hand at picture right",
+   "expression and close-up framing good"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep the framing, Alvin's face, warm nervous smile, silver hair, dark suit and tie, the cream Panama hat against his chest, Yalom's soft shoulder and head at the left, the backyard background and golden light unchanged. Change only: the hand on the hat is Alvin's own LEFT hand, its sleeve coming from his left side at picture right, back of the hand to camera, thumb on the picture-right side of the brim, four fingers over the crown; his right arm hangs down out of frame at picture left. Natural and candid, matte shading, no glowing outlines, no smirk, no stare into the lens, no text, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the framing, Alvin's face, warm nervous smile, silver hair, dark suit and tie, the cream Panama hat against his chest, Yalom's soft shoulder and head at the left, the backyard background and golden light unchanged. Change only: the hand on the hat is Alvin's own LEFT hand, its sleeve coming from his left side at picture right, back of the hand to camera, thumb on the picture-right side of the brim, four fingers over the crown; his right arm hangs down out of frame at picture left. Natural and candid, matte shading, no glowing outlines, no smirk, no stare into the lens, no text, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9."
+ },
+ {
+  "shot": "R13",
+  "file": "assets/flow2k_raw/molly-v2/R13/bk3-1.png",
+  "res": "1K",
+  "scores": {
+   "beat": 8.5,
+   "character": 8.5,
+   "cinematic": 8.5,
+   "style": 8.5,
+   "technical": 7.5,
+   "readability": 8
+  },
+  "total": 8.3,
+  "pass": false,
+  "defects": [
+   "1K",
+   "handshake is a lumpy, mushy clasp with no distinct fingers (curled blobs under the grip)",
+   "the gate itself is not in frame",
+   "Monica cut by the right edge, little Ken Burns room",
+   "expressions good: Alvin grateful, Monica smiling at Alvin, Yalom polite"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep the over-the-shoulder framing, Yalom's grey herringbone coat, profile and courteous smile, Alvin's grateful open smile, the hat in his left hand at picture right, Monica's face and smile toward Alvin, the portrait table, chairs, house, fence and street unchanged. Change only: redraw the handshake as two clean right hands clasped palm to palm, each with a thumb over the other's hand and four distinct fingers wrapped round the palm, no lumps or extra knuckles; show the open wooden garden gate in the fence behind Alvin; shift the framing slightly left so Monica's whole head and shoulders sit inside the right edge with some margin. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom, no text, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the over-the-shoulder framing, Yalom's grey herringbone coat, profile and courteous smile, Alvin's grateful open smile, the hat in his left hand at picture right, Monica's face and smile toward Alvin, the portrait table, chairs, house, fence and street unchanged. Change only: redraw the handshake as two clean right hands clasped palm to palm, each with a thumb over the other's hand and four distinct fingers wrapped round the palm, no lumps or extra knuckles; show the open wooden garden gate in the fence behind Alvin; shift the framing slightly left so Monica's whole head and shoulders sit inside the right edge with some margin. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom, no text, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9."
+ },
+ {
+  "shot": "R13",
+  "file": "assets/flow2k_raw/molly-v2/R13/bk3-2.png",
+  "res": "1K",
+  "scores": {
+   "beat": 8.5,
+   "character": 8.5,
+   "cinematic": 8.5,
+   "style": 8.5,
+   "technical": 7.5,
+   "readability": 8
+  },
+  "total": 8.3,
+  "pass": false,
+  "defects": [
+   "1K",
+   "same lumpy handshake as bk3-1 with no distinct fingers",
+   "the gate not in frame",
+   "Monica cut by the right edge; her closed smile is fine"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep the over-the-shoulder framing, Yalom's grey herringbone coat, profile and courteous smile, Alvin's grateful open smile, the hat in his left hand at picture right, Monica's face and smile toward Alvin, the portrait table, chairs, house, fence and street unchanged. Change only: redraw the handshake as two clean right hands clasped palm to palm, each with a thumb over the other's hand and four distinct fingers wrapped round the palm, no lumps or extra knuckles; show the open wooden garden gate in the fence behind Alvin; shift the framing slightly left so Monica's whole head and shoulders sit inside the right edge with some margin. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom, no text, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the over-the-shoulder framing, Yalom's grey herringbone coat, profile and courteous smile, Alvin's grateful open smile, the hat in his left hand at picture right, Monica's face and smile toward Alvin, the portrait table, chairs, house, fence and street unchanged. Change only: redraw the handshake as two clean right hands clasped palm to palm, each with a thumb over the other's hand and four distinct fingers wrapped round the palm, no lumps or extra knuckles; show the open wooden garden gate in the fence behind Alvin; shift the framing slightly left so Monica's whole head and shoulders sit inside the right edge with some margin. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom, no text, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9."
+ },
+ {
+  "shot": "R14",
+  "file": "assets/flow2k_raw/molly-v2/R14/bk3-1.png",
+  "res": "1K",
+  "scores": {
+   "beat": 9,
+   "character": 8.5,
+   "cinematic": 8.5,
+   "style": 8.5,
+   "technical": 7.5,
+   "readability": 9
+  },
+  "total": 8.53,
+  "pass": false,
+  "defects": [
+   "1K",
+   "the requested fixes were not applied: a small oval loop artefact is still drawn on the lens over Yalom's eye, and a dark hairy scribble is still on the knuckles of his chin hand",
+   "Alvin (seen from behind) has a white beard",
+   "glyph-like number plate on the gate post (not readable)"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's pose, puzzled face, hand at the chin, round glasses, white beard, grey coat, Alvin and Monica walking toward the house, the portrait table, chairs, fence, gate, street and golden light unchanged. Change only: the lens over Yalom's left-hand eye in the picture is clean glass, remove the small oval loop drawn near its outer edge; the knuckles of his chin hand are smooth skin with simple crease lines, remove the dark hairy scribble under the folded fingers; Alvin, seen from behind, is clean-shaven with no beard; the gate post is plain wood with no number plate. Natural and candid, matte shading, no glowing outlines, no text, no letters, no numbers, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's pose, puzzled face, hand at the chin, round glasses, white beard, grey coat, Alvin and Monica walking toward the house, the portrait table, chairs, fence, gate, street and golden light unchanged. Change only: the lens over Yalom's left-hand eye in the picture is clean glass, remove the small oval loop drawn near its outer edge; the knuckles of his chin hand are smooth skin with simple crease lines, remove the dark hairy scribble under the folded fingers; Alvin, seen from behind, is clean-shaven with no beard; the gate post is plain wood with no number plate. Natural and candid, matte shading, no glowing outlines, no text, no letters, no numbers, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9."
+ },
+ {
+  "shot": "R14",
+  "file": "assets/flow2k_raw/molly-v2/R14/bk3-2.png",
+  "res": "1K",
+  "scores": {
+   "beat": 9,
+   "character": 8.5,
+   "cinematic": 8.5,
+   "style": 8.5,
+   "technical": 7.5,
+   "readability": 9
+  },
+  "total": 8.53,
+  "pass": false,
+  "defects": [
+   "1K",
+   "near-identical to bk3-1: the lens loop artefact and the knuckle scribble are still there",
+   "Alvin has a white beard",
+   "glyph-like number plate on the gate post"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's pose, puzzled face, hand at the chin, round glasses, white beard, grey coat, Alvin and Monica walking toward the house, the portrait table, chairs, fence, gate, street and golden light unchanged. Change only: the lens over Yalom's left-hand eye in the picture is clean glass, remove the small oval loop drawn near its outer edge; the knuckles of his chin hand are smooth skin with simple crease lines, remove the dark hairy scribble under the folded fingers; Alvin, seen from behind, is clean-shaven with no beard; the gate post is plain wood with no number plate. Natural and candid, matte shading, no glowing outlines, no text, no letters, no numbers, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's pose, puzzled face, hand at the chin, round glasses, white beard, grey coat, Alvin and Monica walking toward the house, the portrait table, chairs, fence, gate, street and golden light unchanged. Change only: the lens over Yalom's left-hand eye in the picture is clean glass, remove the small oval loop drawn near its outer edge; the knuckles of his chin hand are smooth skin with simple crease lines, remove the dark hairy scribble under the folded fingers; Alvin, seen from behind, is clean-shaven with no beard; the gate post is plain wood with no number plate. Natural and candid, matte shading, no glowing outlines, no text, no letters, no numbers, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9."
+ },
+ {
+  "shot": "S08",
+  "file": "assets/flow2k_raw/molly-v2/S08/bk3-1.png",
+  "res": "1K",
+  "scores": {
+   "beat": 9,
+   "character": 8.5,
+   "cinematic": 8.5,
+   "style": 8.5,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.75,
+  "pass": false,
+  "defects": [
+   "1K",
+   "expression is right (lifted inner brows, polite closed smile)",
+   "coat is dark charcoal, not the mid-grey overcoat of the other backyard shots",
+   "near-frontal face with the gaze close to the lens axis; only slightly toward Alvin"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep the over-the-shoulder framing with Alvin's shoulder and silver hair in the foreground, Yalom's face, polite uncertain closed smile, lifted inner brows, beard, round glasses, the house, guests, chairs, portrait table and golden light unchanged. Change only: Yalom's coat becomes a mid-grey wool overcoat (lighter than Alvin's dark suit) over a visible brown cardigan; his eyes turn a little further toward Alvin at frame right so he clearly looks at Alvin, not the lens; his head tilts slightly. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom, no smirk, no stare into the lens, no text, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the over-the-shoulder framing with Alvin's shoulder and silver hair in the foreground, Yalom's face, polite uncertain closed smile, lifted inner brows, beard, round glasses, the house, guests, chairs, portrait table and golden light unchanged. Change only: Yalom's coat becomes a mid-grey wool overcoat (lighter than Alvin's dark suit) over a visible brown cardigan; his eyes turn a little further toward Alvin at frame right so he clearly looks at Alvin, not the lens; his head tilts slightly. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom, no smirk, no stare into the lens, no text, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9."
+ },
+ {
+  "shot": "S08",
+  "file": "assets/flow2k_raw/molly-v2/S08/bk3-2.png",
+  "res": "1K",
+  "scores": {
+   "beat": 9,
+   "character": 8.5,
+   "cinematic": 8,
+   "style": 8.5,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.65,
+  "pass": false,
+  "defects": [
+   "1K",
+   "same face and expression as bk3-1",
+   "coat dark charcoal, not mid-grey",
+   "greener and flatter light than bk3-1, weak golden low sun",
+   "gaze close to the lens axis"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep the over-the-shoulder framing with Alvin's shoulder and silver hair in the foreground, Yalom's face, polite uncertain closed smile, lifted inner brows, beard, round glasses, the house, guests, chairs and portrait table unchanged. Change only: Yalom's coat becomes a mid-grey wool overcoat (lighter than Alvin's dark suit) over a visible brown cardigan; his eyes turn a little further toward Alvin at frame right so he clearly looks at Alvin, not the lens; his head tilts slightly; warm golden low late-afternoon sun from frame right, gold light on the lawn and his cheek, long shadows. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom, no smirk, no stare into the lens, no text, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the over-the-shoulder framing with Alvin's shoulder and silver hair in the foreground, Yalom's face, polite uncertain closed smile, lifted inner brows, beard, round glasses, the house, guests, chairs and portrait table unchanged. Change only: Yalom's coat becomes a mid-grey wool overcoat (lighter than Alvin's dark suit) over a visible brown cardigan; his eyes turn a little further toward Alvin at frame right so he clearly looks at Alvin, not the lens; his head tilts slightly; warm golden low late-afternoon sun from frame right, gold light on the lawn and his cheek, long shadows. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom, no smirk, no stare into the lens, no text, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9."
+ }
+]

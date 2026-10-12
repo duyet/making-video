@@ -1,0 +1,89 @@
+[
+  {
+    "shot": "R13",
+    "file": "assets/flow2k_raw/molly-v2/R13/r11-1.png",
+    "res": "1K",
+    "scores": {
+      "beat": 8,
+      "character": 8,
+      "cinematic": 7,
+      "style": 8,
+      "technical": 8,
+      "readability": 6
+    },
+    "total": 7.6,
+    "pass": false,
+    "defects": [
+      "Monica's face crammed at ~89% across and her gesturing gloved hand cut by the right frame edge",
+      "Yalom is a sharp, oversized left-half profile rather than a soft over-the-shoulder foreground; his expression reads stern/neutral more than puzzled",
+      "Background headstones on the left carry letter-like inscription marks (not legible, but text-like)",
+      "Flat, hazy light; no real golden-hour backlight or long shadows",
+      "Handshake fingers slightly mushy (1K)"
+    ],
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep Alvin (silver side part, open charcoal overcoat, white shirt, black tie, cream Panama hat held to his chest in his left hand, right hand shaking Yalom's), Monica's face, hair and smile, Yalom's identity, the willows and the cemetery path. Change only: pull the camera back slightly and shift the couple left so Monica's whole figure and her open gloved hand sit inside the frame with her face at about 75% across; make Yalom a softer, smaller over-the-shoulder foreground in the left third with brows raised and a puzzled squint; make every headstone completely plain and blank with no marks; add low warm golden sun from the left with long shadows on the path. No text, no watermark, no black bars."
+  },
+  {
+    "shot": "R13",
+    "file": "assets/flow2k_raw/molly-v2/R13/r11-2.png",
+    "res": "1K",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 8,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 8.8,
+    "pass": false,
+    "defects": [
+      "Light is flat and hazy: no clear low golden-hour sun, rim light or long shadows, so the mood is muted for the beat",
+      "Yalom's profile reads calm/neutral; brows are not visibly raised, so 'puzzled' is weak",
+      "flow_unsparkle --check reported MARK (0.22/0.59) but no star is visible in the bottom-right on inspection (gloved hand/tree); treated as false positive"
+    ],
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep the composition, all three people, their faces, clothes, hands, the handshake, the hat and the headstones exactly as they are. Change only: make the light a low warm golden-hour sun from the left with soft long shadows across the path and a gentle warm rim on Alvin's and Monica's hair, and give Yalom's visible profile raised brows and a slight puzzled squint behind his glasses. No fog, no god rays, no text, no watermark, no black bars."
+  },
+  {
+    "shot": "R13",
+    "file": "assets/flow2k_raw/molly-v2/R13/r11-3.png",
+    "res": "1K",
+    "scores": {
+      "beat": 8,
+      "character": 9,
+      "cinematic": 8,
+      "style": 9,
+      "technical": 7,
+      "readability": 7
+    },
+    "total": 8.1,
+    "pass": false,
+    "defects": [
+      "Monica shows two stacked palm-up gloved hands, a duplicated decorative gesture that reads like an extra hand",
+      "Two background headstones (left and centre) carry letter-like inscription marks",
+      "Flat hazy light, weak golden hour; Yalom's puzzlement is weak in profile"
+    ],
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep the composition, Yalom from behind, Alvin (hat held to his chest in his left hand, right hand shaking Yalom's) and Monica's face, hair and smile exactly as they are. Change only: Monica shows a single black-gloved hand open palm-up toward Yalom at waist height, and her other hand is hidden at her side behind her coat; make every headstone completely plain, smooth and blank with no letters or marks; add low warm golden sun from the left with long shadows. No text, no watermark, no black bars."
+  },
+  {
+    "shot": "R13",
+    "file": "assets/flow2k_raw/molly-v2/R13/r11-4.png",
+    "res": "1K",
+    "scores": {
+      "beat": 8,
+      "character": 9,
+      "cinematic": 8,
+      "style": 9,
+      "technical": 7,
+      "readability": 8
+    },
+    "total": 8.2,
+    "pass": false,
+    "defects": [
+      "Handshake at frame centre is mushy: the two hands fuse with unclear fingers and thumbs (focal area)",
+      "Yalom is a sharp side profile rather than a soft over-the-shoulder foreground",
+      "Centre headstone carries faint letter-like inscription marks",
+      "Flat hazy light, weak golden hour"
+    ],
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep the composition, all three faces, the clothes, Alvin's hat held to his chest in his left hand and Monica's open gloved hand exactly as they are. Change only: redraw the handshake as a clean, clear clasp of Yalom's right hand and Alvin's right hand, each with one thumb on top and four fingers wrapped round the other's palm; make the headstone behind them completely plain and blank with no marks; add low warm golden sun from the left with long shadows. No text, no watermark, no black bars."
+  }
+]

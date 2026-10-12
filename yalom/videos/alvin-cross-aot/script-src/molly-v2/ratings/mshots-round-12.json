@@ -1,0 +1,32 @@
+[
+  {
+    "shot": "S13",
+    "file": "assets/flow2k_raw/molly-v2/S13/c12-1.png",
+    "scores": {"beat": 9, "character": 9, "cinematic": 9, "style": 9, "technical": 9, "readability": 9},
+    "total": 9.00,
+    "pass": true,
+    "defects": [
+      "Outpaint landed: the whole bed now fits, foot end and slatted base visible at ~95-99% down (tight to the bottom edge but inside), with ~21% of dark floor and a right wall plane beside it; Alvin's face moved to ~65% across, 30% down, so there is good Ken Burns room on every side and the figure is small in the frame as the brief asks",
+      "No visible seam at the 82% boundaries: floorboards, blanket folds and the moonlight shaft carry across; no repeated content, no leftover grey. Brightened inspection shows the right strip turning into a flatter, plain dark wall/floor band from ~93% across; the star patch at ~93%/87% sits inside it and is invisible at normal exposure",
+      "Alvin unchanged and right: early twenties, blond, no grey, white T-shirt, eyes open, five clean fingers on the chest; flip clock 3 05 (allowed), parents' photo still matches F26; no other text or sparkle",
+      "Carry-over minors: the nightstand still shows its front drawer (slight perspective mix), the left cabinet is a featureless dark slab with a small bracket at ~18% across, and the bed foot sits very close to the bottom edge",
+      "Beats the current S13 (c11-1, 8.85) by the numbers (9.00); marginal pass"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "M01",
+    "file": "assets/flow2k_raw/molly-v2/M01/c12-1.png",
+    "scores": {"beat": 9, "character": 9, "cinematic": 8.5, "style": 9, "technical": 9, "readability": 9},
+    "total": 8.90,
+    "pass": false,
+    "defects": [
+      "Fixed: the two slash marks on Alvin's cheek are gone (clean cel-shaded skin); the clasp is now a grip, with Jason's hand wrapped over and around hers, his denim cuff over her leather cuff, fingers clean (her own fingers are mostly hidden under his, so it still reads mostly one-sided); a clear gap of dark wall now separates the foreground figure from Alvin, and Alvin (19, no grey, blond, profile) is fully readable at ~79% across",
+      "Not fixed: the father still looks straight at the lens, not at the fiancée",
+      "The mother over-shrank: she is now only a dark, soft sliver of cheek, ear and shoulder at 92-100% across with her head cut off by the top and right edges. She no longer reads as a person or as the mother, and the frame loses the over-the-shoulder depth layer c11-1 had; it now looks like something jammed against the right edge",
+      "The four seated figures now line up almost flat across the frame (fiancée, Jason, father, Alvin), a little staged; lamp, roast, untouched plates and late-1960s look all kept; no text, no sparkle",
+      "Beats the current M01 (c11-1, 8.88) only barely (8.90)"
+    ],
+    "revised_prompt": "[edit of M01/c12-1] Turn the father's eyes clearly to his right, toward the fiancée on the far left of the table, so his gaze is visibly away from the camera, with a stiff, shocked expression. Make the blurred mother in the right foreground a readable over-the-shoulder figure: the back of her head with her dark hair pinned up in a bun and one shoulder in a dark cardigan, her whole head inside the frame (top of her hair visible below the top edge), filling the right 18% of the frame, soft and out of focus, with a clear gap of dark wall still between her head and Alvin's face. On the clasp, show a few of the fiancée's fingers curled back over the side of Jason's hand. Keep Alvin's clean cheek, all faces, outfits, the lamp, roast, plates and everything else identical. No text, bottom-right corner plain, no watermark."
+  }
+]

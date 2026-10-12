@@ -1,0 +1,114 @@
+[
+ {
+  "shot": "R80",
+  "replaces": "B23",
+  "file": "assets/flow2k_raw/molly-v2/R80/r6-1.png",
+  "source": "1K",
+  "scores": {
+   "beat": 9.5,
+   "character": 8.5,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.03,
+  "pass": true,
+  "defects": [],
+  "minor": [
+   "Alvin's hair pale ash-blond, a touch greyish at zoom but reads blond and young (round-5 grey/old defect fixed)",
+   "Alvin's back and olive sweater are evenly lit although he sits against the window: less of the asked near-black silhouette",
+   "Yalom is a large near figure (~85% of frame height, not the asked 55%); feet inside the frame, face, glasses, beard and hand on the chair clean at zoom",
+   "dark doorway jamb fills ~10% of the left edge (not a pure black bar: textured, std>7), reads as frame-within-frame",
+   "armchair edge defect of r3/r4 fixed: Alvin small, centred on the back window, chair fully inside; no loose papers",
+   "blank spines and boxes, no text; bottom-right clean, no sparkle",
+   "mild softness from the 1K upscale (not penalised)"
+  ],
+  "better_than_current_best": true
+ },
+ {
+  "shot": "R80",
+  "replaces": "B23",
+  "file": "assets/flow2k_raw/molly-v2/R80/r6-2.png",
+  "source": "1K",
+  "scores": {
+   "beat": 9,
+   "character": 7.5,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "total": 8.63,
+  "pass": false,
+  "defects": [
+   "Alvin's hair renders pale grey-white with a thin crown at zoom: reads as an old man, not blond mid-30s (same age defect as round 5)"
+  ],
+  "minor": [
+   "a vague dark figure-like smudge in the left pane of the window behind Alvin",
+   "padded armchair right, Alvin small and centred at the window; Yalom face and hand clean",
+   "blank spines and boxes, no text; bottom-right clean, no sparkle",
+   "mild softness from the 1K upscale (not penalised)"
+  ],
+  "better_than_current_best": false
+ },
+ {
+  "shot": "R84",
+  "replaces": "B14",
+  "file": "assets/flow2k_raw/molly-v2/R84/r5-1.png",
+  "source": "1K",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 8.5
+  },
+  "total": 8.78,
+  "pass": false,
+  "defects": [
+   "beam fans upward from the TOP of the carousel and only reaches the bottom edge of the screen; it does not come from the lens or cover the screen face (physically wrong light origin, round-4 defect persists)",
+   "Alvin's head runs to the right edge (about 78-100% across, cut): no push room on the right"
+  ],
+  "minor": [
+   "Alvin is now an out-of-focus dark silhouette with blond hair (round-4 sharp-foreground defect fixed); no coat lettering",
+   "screen 41-72% across (right of the asked 30-62%), all edges inside",
+   "Yalom face, glasses and open hand clean at zoom; speaking gesture reads",
+   "sparser audience with an empty band in the middle-right",
+   "screen blank (no ghost text even at high contrast); bottom-right clean, no sparkle",
+   "mild softness from the 1K upscale (not penalised)"
+  ],
+  "better_than_current_best": false,
+  "revised_prompt": "Use the attached AOT-CAST-SHEET as the reference for faces, outfits and line style only. Wide shot, 28mm lens, eye level, camera placed in the last row of a raked 1982 medical conference lecture hall with wood panelling, looking straight down the centre aisle toward the stage, one-point perspective. The large blank white projection screen hangs centred on the stage, about 30% to 62% across the frame, all four edges of the screen fully inside the frame and well clear of the left and right edges. In the centre aisle, in the lower middle of the frame, a 1980s carousel slide projector on a TALL metal stand, so tall that its lens is level with the MIDDLE of the screen, seen strictly from behind with the round slide carousel flat on top, the lens on the far side of the body pointing straight at the screen. The light comes ONLY out of the front lens, never out of the top or the carousel: one long, almost horizontal cone of pale light, a small bright point at the lens, widening steadily as it crosses the hall, its four edges running exactly to the four corners of the screen, so the wide end covers the whole screen face from its top edge to its bottom edge, and the whole screen glows evenly from it; dust floating inside the cone; nothing above the carousel is lit; no other light beams anywhere, the beam never touches the walls or the stage floor and never passes near Alvin. In the right-third foreground, very close to the camera and strongly out of focus (soft blurred edges, no fine line detail), the back of the head and shoulders of Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples (golden blond hair of a man in his thirties, only faint silver at the temples, clearly NOT grey), strong angular jaw, heavy brows, blue eyes, commanding calm; white doctor coat with \"Alvin Cross\" embroidered in dark blue on the left chest, pale blue shirt, dark tie, seen strictly from behind as a dark soft silhouette in shadow, the plain back of the white coat with no lettering, no embroidery and no marks on the back or shoulders, only a thin cold rim of light on his blond hair; his whole head and both shoulders inside the frame: the back of his head between 64% and 82% across the frame, the top of his head well below the top edge, and a clear strip of dim hall and audience at least 12% of the frame wide between his head and the right edge of the frame; he is darker than everything else in the frame. Rows of doctors in white coats as dim, varied silhouettes (different hair, heights and postures) on both sides of the aisle leading toward the stage. On the stage, left of the screen at about 22% across the frame, at a plain wooden lectern, Dr. Yalom: man about 50, inspired by Zeke Yeager, short tousled dark-blond hair, full trimmed blond beard, round wire-rim glasses, calm intellectual face, kind tired eyes, medium build; brown knit cardigan over a shirt, no overcoat; speaking calmly with one hand open toward the audience, his face lit by the bright spill from the screen and fully readable, his whole figure from head to the lectern inside the frame. The rest of the hall in cool institutional slate shadow. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, faces always clearly readable, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+ },
+ {
+  "shot": "R84",
+  "replaces": "B14",
+  "file": "assets/flow2k_raw/molly-v2/R84/r5-2.png",
+  "source": "1K",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 8.5
+  },
+  "total": 8.88,
+  "pass": false,
+  "defects": [
+   "beam fans upward from the top of the carousel to the bottom edge of the screen only, not from the lens across the whole screen face (light origin still wrong)",
+   "Alvin's head runs to the right edge (about 80-100% across, cut): little push room on the right"
+  ],
+  "minor": [
+   "Alvin out of focus, dark, blond hair, no lettering (round-4 defect fixed)",
+   "dense, varied audience (different hair, a bun) gives good depth; tripod stand",
+   "screen 40-72% across, all edges inside; Yalom clean at zoom",
+   "screen blank; bottom-right clean, no sparkle",
+   "mild softness from the 1K upscale (not penalised)"
+  ],
+  "better_than_current_best": true,
+  "revised_prompt": "Use the attached AOT-CAST-SHEET as the reference for faces, outfits and line style only. Wide shot, 28mm lens, eye level, camera placed in the last row of a raked 1982 medical conference lecture hall with wood panelling, looking straight down the centre aisle toward the stage, one-point perspective. The large blank white projection screen hangs centred on the stage, about 30% to 62% across the frame, all four edges of the screen fully inside the frame and well clear of the left and right edges. In the centre aisle, in the lower middle of the frame, a 1980s carousel slide projector on a TALL metal stand, so tall that its lens is level with the MIDDLE of the screen, seen strictly from behind with the round slide carousel flat on top, the lens on the far side of the body pointing straight at the screen. The light comes ONLY out of the front lens, never out of the top or the carousel: one long, almost horizontal cone of pale light, a small bright point at the lens, widening steadily as it crosses the hall, its four edges running exactly to the four corners of the screen, so the wide end covers the whole screen face from its top edge to its bottom edge, and the whole screen glows evenly from it; dust floating inside the cone; nothing above the carousel is lit; no other light beams anywhere, the beam never touches the walls or the stage floor and never passes near Alvin. In the right-third foreground, very close to the camera and strongly out of focus (soft blurred edges, no fine line detail), the back of the head and shoulders of Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples (golden blond hair of a man in his thirties, only faint silver at the temples, clearly NOT grey), strong angular jaw, heavy brows, blue eyes, commanding calm; white doctor coat with \"Alvin Cross\" embroidered in dark blue on the left chest, pale blue shirt, dark tie, seen strictly from behind as a dark soft silhouette in shadow, the plain back of the white coat with no lettering, no embroidery and no marks on the back or shoulders, only a thin cold rim of light on his blond hair; his whole head and both shoulders inside the frame: the back of his head between 64% and 82% across the frame, the top of his head well below the top edge, and a clear strip of dim hall and audience at least 12% of the frame wide between his head and the right edge of the frame; he is darker than everything else in the frame. Rows of doctors in white coats as dim, varied silhouettes (different hair, heights and postures) on both sides of the aisle leading toward the stage. On the stage, left of the screen at about 22% across the frame, at a plain wooden lectern, Dr. Yalom: man about 50, inspired by Zeke Yeager, short tousled dark-blond hair, full trimmed blond beard, round wire-rim glasses, calm intellectual face, kind tired eyes, medium build; brown knit cardigan over a shirt, no overcoat; speaking calmly with one hand open toward the audience, his face lit by the bright spill from the screen and fully readable, his whole figure from head to the lectern inside the frame. The rest of the hall in cool institutional slate shadow. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, faces always clearly readable, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+ }
+]

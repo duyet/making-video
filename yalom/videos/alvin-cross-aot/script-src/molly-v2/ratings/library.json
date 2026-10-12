@@ -1,0 +1,1168 @@
+[
+ {
+  "shot": "N21",
+  "file": "assets/redraw/N21.png",
+  "lines": [
+   "a01"
+  ],
+  "scores": {
+   "beat": 9,
+   "character": 8,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.75,
+  "pass": true,
+  "defects": [
+   "Yalom small at frame left; fine"
+  ]
+ },
+ {
+  "shot": "F24",
+  "file": "assets/redraw/F24.png",
+  "lines": [
+   "a01 (fallback)"
+  ],
+  "scores": {
+   "beat": 5,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 7
+  },
+  "total": 7.6,
+  "pass": false,
+  "defects": [
+   "grey fog, empty cemetery: neither sunny nor a funeral crowd",
+   "weather mismatch with VO 'buổi chiều đầy nắng'"
+  ],
+  "revised_prompt": "Wide establishing shot of a sunlit old California cemetery on a clear warm afternoon, weeping willows, headstones and a winding gravel path in bright golden light, small mourners in black gathered around a flower-covered coffin in the distance, no fog, all headstones blank. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, no text, no captions, no watermark."
+ },
+ {
+  "shot": "F31",
+  "file": "assets/redraw/F31.png",
+  "lines": [
+   "a01"
+  ],
+  "scores": {
+   "beat": 5,
+   "character": 8,
+   "style": 9,
+   "technical": 9,
+   "readability": 7
+  },
+  "total": 7.35,
+  "pass": false,
+  "defects": [
+   "heavy grey fog right after sunny N21: day/weather jump",
+   "lone Yalom at fresh grave, no funeral; fog fx doubles it"
+  ],
+  "revised_prompt": "Wide shot of a sunlit old California cemetery on a clear warm afternoon, weeping willows and headstones in bright golden light, long soft shadows on green grass, a small crowd of mourners in black standing by a flower-covered coffin in the middle distance. Foreground left, standing apart with hands in coat pockets, looking toward the coffin: Dr. Yalom: man about 50, inspired by Zeke Yeager, short tousled dark-blond hair, full trimmed blond beard, round wire-rim glasses, calm intellectual face, kind tired eyes, medium build; grey wool overcoat over a brown knit cardigan, dark trousers; quiet, reflective. No fog, no mist. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, no text, no captions, no watermark."
+ },
+ {
+  "shot": "X13",
+  "file": "assets/redraw/X13.png",
+  "lines": [
+   "a02"
+  ],
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.9,
+  "pass": true,
+  "defects": [
+   "papers carry pseudo-scribble, not legible"
+  ]
+ },
+ {
+  "shot": "N01",
+  "file": "assets/redraw/N01.png",
+  "lines": [
+   "a02",
+   "c07"
+  ],
+  "scores": {
+   "beat": 10,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.3,
+  "pass": true,
+  "defects": []
+ },
+ {
+  "shot": "N02",
+  "file": "assets/redraw/N02.png",
+  "lines": [
+   "a02"
+  ],
+  "scores": {
+   "beat": 10,
+   "character": 9,
+   "style": 9,
+   "technical": 8,
+   "readability": 9
+  },
+  "total": 9.1,
+  "pass": true,
+  "defects": [
+   "workman's pole saw slightly ambiguous"
+  ]
+ },
+ {
+  "shot": "X11",
+  "file": "assets/redraw/X11.png",
+  "lines": [
+   "a02"
+  ],
+  "scores": {
+   "beat": 7,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.3,
+  "pass": false,
+  "defects": [
+   "foggy cemetery vs sunny funeral",
+   "expression fits the wry 'drove him crazy' beat"
+  ],
+  "revised_prompt": "Close-up of Dr. Yalom: man about 50, inspired by Zeke Yeager, short tousled dark-blond hair, full trimmed blond beard, round wire-rim glasses, calm intellectual face, kind tired eyes, medium build; grey wool overcoat over a brown knit cardigan, dark trousers; standing at a sunlit graveside, white lilies in the foreground, looking down with a small rueful fond half-smile, as if remembering being bossed around, clear warm afternoon light, blurred green willows and headstones behind, no fog, all headstones blank. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, no text, no captions, no watermark."
+ },
+ {
+  "shot": "F22",
+  "file": "assets/redraw/F22.png",
+  "lines": [
+   "a03"
+  ],
+  "scores": {
+   "beat": 8,
+   "character": 8,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.45,
+  "pass": false,
+  "defects": [
+   "mist with sun glow, not a clear sunny afternoon; fog fx makes it greyer",
+   "Yalom small"
+  ],
+  "revised_prompt": "Medium-wide shot from behind and to the side of Dr. Yalom: man about 50, inspired by Zeke Yeager, short tousled dark-blond hair, full trimmed blond beard, round wire-rim glasses, calm intellectual face, kind tired eyes, medium build; grey wool overcoat over a brown knit cardigan, dark trousers; hands in coat pockets, walking away down a gravel path between blank headstones toward an open wrought-iron gate, the funeral crowd small and dispersing far behind him, clear warm late-afternoon sun, long shadows, weeping willows, no fog; his face in three-quarter profile, readable, placed at the centre-right third. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, no text, no captions, no watermark."
+ },
+ {
+  "shot": "N03",
+  "file": "assets/redraw/N03.png",
+  "lines": [
+   "a03"
+  ],
+  "scores": {
+   "beat": 10,
+   "character": 9,
+   "style": 9,
+   "technical": 8,
+   "readability": 9
+  },
+  "total": 9.1,
+  "pass": true,
+  "defects": [
+   "Panama hat present; good"
+  ]
+ },
+ {
+  "shot": "X10",
+  "file": "assets/redraw/X10.png",
+  "lines": [
+   "a04"
+  ],
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.9,
+  "pass": true,
+  "defects": [
+   "mist; hat held in hand (good continuity from N03)"
+  ]
+ },
+ {
+  "shot": "F23",
+  "file": "assets/redraw/F23.png",
+  "lines": [
+   "a04"
+  ],
+  "scores": {
+   "beat": 7,
+   "character": 8,
+   "style": 9,
+   "technical": 8,
+   "readability": 8
+  },
+  "total": 7.85,
+  "pass": false,
+  "defects": [
+   "Monica not smiling (hand on chest, sad)",
+   "Yalom not puzzled",
+   "Panama hat vanished (held in X10)",
+   "grey fog"
+  ],
+  "revised_prompt": "Medium shot on a sunlit cemetery path, weeping willows behind, clear warm afternoon light, no fog. Left: Monica: woman early 30s, inspired by Historia Reiss, small and slender, long pale blonde hair, large blue eyes, gentle quiet face, soft smile; black funeral dress under a black wool coat, black leather gloves; smiling warmly and speaking, one gloved hand open toward Yalom. Centre: Alvin Cross: man about 40, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, strong angular jaw, heavy brows, blue eyes, quiet warmth; charcoal suit, white shirt, black tie, dark overcoat, a cream Panama hat with a black band; the Panama hat held against his chest in his left hand, his right hand shaking Yalom's hand, a polite grateful smile. Right: Dr. Yalom: man about 50, inspired by Zeke Yeager, short tousled dark-blond hair, full trimmed blond beard, round wire-rim glasses, calm intellectual face, kind tired eyes, medium build; grey wool overcoat over a brown knit cardigan, dark trousers; shaking Alvin's hand, polite but visibly puzzled, brows slightly raised, trying to place the face. Hands clean and simple, all headstones blank. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, no text, no captions, no watermark."
+ },
+ {
+  "shot": "F15",
+  "file": "assets/redraw/F15.png",
+  "lines": [
+   "a04"
+  ],
+  "scores": {
+   "beat": 8,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.7,
+  "pass": true,
+  "defects": [
+   "arm touch, not the sheet's handshake; fog"
+  ]
+ },
+ {
+  "shot": "F20",
+  "file": "assets/redraw/F20.png",
+  "lines": [
+   "a05"
+  ],
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "style": 9,
+   "technical": 8,
+   "readability": 8
+  },
+  "total": 8.7,
+  "pass": true,
+  "defects": [
+   "fog; hand-on-chin clean"
+  ]
+ },
+ {
+  "shot": "X03",
+  "file": "assets/redraw/X03.png",
+  "lines": [
+   "a06"
+  ],
+  "scores": {
+   "beat": 10,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.3,
+  "pass": true,
+  "defects": []
+ },
+ {
+  "shot": "N04",
+  "file": "assets/redraw/N04.png",
+  "lines": [
+   "a06"
+  ],
+  "scores": {
+   "beat": 10,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.3,
+  "pass": true,
+  "defects": []
+ },
+ {
+  "shot": "N05",
+  "file": "assets/redraw/N05.png",
+  "lines": [
+   "a06",
+   "c02"
+  ],
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.9,
+  "pass": true,
+  "defects": [
+   "handwriting is blurred scribble; typed index card illegible"
+  ]
+ },
+ {
+  "shot": "X01",
+  "file": "assets/redraw/X01.png",
+  "lines": [
+   "b01"
+  ],
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.0,
+  "pass": true,
+  "defects": [
+   "dusk light, 1980s cars; good"
+  ]
+ },
+ {
+  "shot": "F10",
+  "file": "assets/redraw/F10.png",
+  "lines": [
+   "b01"
+  ],
+  "scores": {
+   "beat": 10,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.3,
+  "pass": true,
+  "defects": [
+   "embroidered name allowed"
+  ]
+ },
+ {
+  "shot": "X02",
+  "file": "assets/redraw/X02.png",
+  "lines": [
+   "b02"
+  ],
+  "scores": {
+   "beat": 7,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.4,
+  "pass": false,
+  "defects": [
+   "line beat is Yalom's talk; a hand at a lightbox does not show it (fits the 'bắt đầu' cue instead)"
+  ],
+  "revised_prompt": "(swap preferred: B14 at line start; X02 moves to the 'bắt đầu' cue where it passes)"
+ },
+ {
+  "shot": "F11",
+  "file": "assets/redraw/F11.png",
+  "lines": [
+   "b02",
+   "b07"
+  ],
+  "scores": {
+   "beat": 8,
+   "character": 9,
+   "style": 9,
+   "technical": 8,
+   "readability": 6
+  },
+  "total": 8.2,
+  "pass": false,
+  "defects": [
+   "dark, murky room; flicker fx makes it darker",
+   "embroidered name allowed"
+  ],
+  "revised_prompt": "Medium shot in a 1982 Stanford radiology reading room, Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, strong angular jaw, heavy brows, blue eyes, commanding calm; white doctor coat with \"Alvin Cross\" embroidered in dark blue on the left chest, pale blue shirt, dark tie; standing in profile before a wall-mounted X-ray lightbox showing a chest film, studying it with a fixed haunted stare, the lightbox glow plus a warm overhead fluorescent light keeping the whole room and his face clearly lit, film jackets and a beige rotary phone on a desk behind, both hands relaxed at his sides out of frame. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, no captions, no watermark, no text except the embroidered name on the coat."
+ },
+ {
+  "shot": "F32",
+  "file": "assets/redraw/F32.png",
+  "lines": [
+   "b02",
+   "b09",
+   "b12"
+  ],
+  "scores": {
+   "beat": 0,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 6
+  },
+  "total": 0.0,
+  "pass": false,
+  "defects": [
+   "HARD FAIL: framed diploma reads 'Certifitot of Connonnars' (legible pseudo-text)",
+   "used 3x"
+  ],
+  "revised_prompt": "Medium-wide two-shot in a quiet 1982 Stanford office used as a therapy room, warm afternoon light through half-open blinds, bookshelves, a small lamp and a tissue box on a side table; plain bare walls with no framed certificates, no diplomas, no posters. Left, in a brown leather armchair, leaning slightly forward with gentle attention, hands loosely clasped: Dr. Yalom: man about 50, inspired by Zeke Yeager, short tousled dark-blond hair, full trimmed blond beard, round wire-rim glasses, calm intellectual face, kind tired eyes, medium build; brown knit cardigan over a shirt, dark trousers. Right, in a matching armchair, sitting stiffly, eyes lowered, hands resting on his knees: Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, strong angular jaw, heavy brows, blue eyes, commanding calm; white doctor coat with \"Alvin Cross\" embroidered in dark blue on the left chest, pale blue shirt, dark tie. Faces fully readable. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, no captions, no watermark, no text except the embroidered name on the coat."
+ },
+ {
+  "shot": "N06",
+  "file": "assets/redraw/N06.png",
+  "lines": [
+   "b03",
+   "b12"
+  ],
+  "scores": {
+   "beat": 10,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.3,
+  "pass": true,
+  "defects": []
+ },
+ {
+  "shot": "F19",
+  "file": "assets/redraw/F19.png",
+  "lines": [
+   "b03"
+  ],
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "style": 9,
+   "technical": 8,
+   "readability": 8
+  },
+  "total": 8.7,
+  "pass": true,
+  "defects": []
+ },
+ {
+  "shot": "F06",
+  "file": "assets/redraw/F06.png",
+  "lines": [
+   "b04 (fallback for M01)"
+  ],
+  "scores": {
+   "beat": 6,
+   "character": 8,
+   "style": 9,
+   "technical": 8,
+   "readability": 8
+  },
+  "total": 7.55,
+  "pass": false,
+  "defects": [
+   "hallway confrontation, not the tense family dinner; B16 is exactly that beat"
+  ],
+  "revised_prompt": "(fallback only: replace with B16, the tense family dinner)"
+ },
+ {
+  "shot": "F30",
+  "file": "assets/redraw/F30.png",
+  "lines": [
+   "b04"
+  ],
+  "scores": {
+   "beat": 9,
+   "character": 7,
+   "style": 9,
+   "technical": 9,
+   "readability": 7
+  },
+  "total": 8.3,
+  "pass": false,
+  "defects": [
+   "back views only, night; unanchored woman with Jason",
+   "cue is 'mâu thuẫn' (conflict) - B17 shows it"
+  ],
+  "revised_prompt": "(swap preferred: B17)"
+ },
+ {
+  "shot": "F34",
+  "file": "assets/redraw/F34.png",
+  "lines": [
+   "b05 (fallback for M02)",
+   "b07"
+  ],
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.9,
+  "pass": true,
+  "defects": [
+   "for M02 (phone call) B18 is the exact beat"
+  ]
+ },
+ {
+  "shot": "N07",
+  "file": "assets/redraw/N07.png",
+  "lines": [
+   "b05"
+  ],
+  "scores": {
+   "beat": 10,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.3,
+  "pass": true,
+  "defects": []
+ },
+ {
+  "shot": "X07",
+  "file": "assets/redraw/X07.png",
+  "lines": [
+   "b05"
+  ],
+  "scores": {
+   "beat": 9,
+   "character": 8,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.65,
+  "pass": true,
+  "defects": []
+ },
+ {
+  "shot": "N08",
+  "file": "assets/redraw/N08.png",
+  "lines": [
+   "b06"
+  ],
+  "scores": {
+   "beat": 10,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.3,
+  "pass": true,
+  "defects": []
+ },
+ {
+  "shot": "N09",
+  "file": "assets/redraw/N09.png",
+  "lines": [
+   "b06"
+  ],
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.9,
+  "pass": true,
+  "defects": []
+ },
+ {
+  "shot": "F27",
+  "file": "assets/redraw/F27.png",
+  "lines": [
+   "b08"
+  ],
+  "scores": {
+   "beat": 9,
+   "character": 8,
+   "style": 9,
+   "technical": 8,
+   "readability": 8
+  },
+  "total": 8.45,
+  "pass": false,
+  "defects": [
+   "dim (intended) but Alvin small; raven reads well"
+  ],
+  "revised_prompt": "Medium-wide shot of a small tiled 1980s bathroom at night, a single dim bulb above a mirror giving soft but readable light, in the mirror a large black raven with spread wings looms behind the reflection of Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, strong angular jaw, heavy brows, blue eyes, guarded calm; striped pyjamas; he stands frozen staring at the mirror, face clearly visible, cool blue-grey palette, eerie but readable, not murky. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, no text, no captions, no watermark."
+ },
+ {
+  "shot": "F28",
+  "file": "assets/redraw/F28.png",
+  "lines": [
+   "b08"
+  ],
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.9,
+  "pass": true,
+  "defects": []
+ },
+ {
+  "shot": "X04",
+  "file": "assets/redraw/X04.png",
+  "lines": [
+   "b09",
+   "b11",
+   "b13"
+  ],
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.0,
+  "pass": true,
+  "defects": [
+   "used 3x within b09-b13: repetition"
+  ]
+ },
+ {
+  "shot": "X05",
+  "file": "assets/redraw/X05.png",
+  "lines": [
+   "b10 (fallback for M04)"
+  ],
+  "scores": {
+   "beat": 8,
+   "character": 9,
+   "style": 9,
+   "technical": 8,
+   "readability": 9
+  },
+  "total": 8.5,
+  "pass": true,
+  "defects": []
+ },
+ {
+  "shot": "F01",
+  "file": "assets/redraw/F01.png",
+  "lines": [
+   "b10"
+  ],
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.0,
+  "pass": true,
+  "defects": [
+   "embroidered name allowed"
+  ]
+ },
+ {
+  "shot": "N12",
+  "file": "assets/redraw/N12.png",
+  "lines": [
+   "b11"
+  ],
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "style": 9,
+   "technical": 8,
+   "readability": 8
+  },
+  "total": 8.7,
+  "pass": true,
+  "defects": []
+ },
+ {
+  "shot": "N11",
+  "file": "assets/redraw/N11.png",
+  "lines": [
+   "b11"
+  ],
+  "scores": {
+   "beat": 9,
+   "character": 8,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.75,
+  "pass": true,
+  "defects": []
+ },
+ {
+  "shot": "N13",
+  "file": "assets/redraw/N13.png",
+  "lines": [
+   "b12"
+  ],
+  "scores": {
+   "beat": 9,
+   "character": 8,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.65,
+  "pass": true,
+  "defects": []
+ },
+ {
+  "shot": "X08",
+  "file": "assets/redraw/X08.png",
+  "lines": [
+   "b13"
+  ],
+  "scores": {
+   "beat": 8,
+   "character": 7,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.2,
+  "pass": false,
+  "defects": [
+   "Yalom a tiny back view; F17 (Alvin opens his door to Yalom) is the stronger beat"
+  ],
+  "revised_prompt": "(swap preferred: F17)"
+ },
+ {
+  "shot": "F12",
+  "file": "assets/redraw/F12.png",
+  "lines": [
+   "b14",
+   "c05 (fallback for M06)"
+  ],
+  "scores": {
+   "beat": 0,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 4
+  },
+  "total": 0.0,
+  "pass": false,
+  "defects": [
+   "HARD FAIL: legible newspaper text bottom of frame ('Medical ...', 'Health of the Nerves')"
+  ],
+  "revised_prompt": "Medium-wide shot inside a 1980s California bungalow living room crammed with knee-high to shoulder-high stacks of plain folded newspapers, file boxes and books, only narrow walkways left between the piles, a buried sofa and lamp, daylight through dusty blinds keeping the room evenly lit. Right third, just inside the doorway, standing still in shock: Dr. Yalom: man about 50, inspired by Zeke Yeager, short tousled dark-blond hair, full trimmed blond beard, round wire-rim glasses, calm intellectual face, kind tired eyes, medium build; grey wool overcoat over a brown knit cardigan, dark trousers. Every newspaper, page and box completely blank: no headlines, no mastheads, no printed letters anywhere. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, no text, no captions, no watermark."
+ },
+ {
+  "shot": "F25",
+  "file": "assets/redraw/F25.png",
+  "lines": [
+   "b14"
+  ],
+  "scores": {
+   "beat": 7,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 5
+  },
+  "total": 8.0,
+  "pass": false,
+  "defects": [
+   "newspaper masthead and body pseudo-text in focus",
+   "a bundle, not 'only narrow paths left'"
+  ],
+  "revised_prompt": "Low-angle shot at knee height down a narrow walkway between tall leaning stacks of plain blank newspapers and cardboard boxes in a 1980s California bungalow, the path barely one person wide, dust motes in a shaft of daylight from a window at the end, an empty armchair visible at the far end, evenly lit. All paper completely blank: no headlines, no mastheads, no letters. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, no text, no captions, no watermark."
+ },
+ {
+  "shot": "N14",
+  "file": "assets/redraw/N14.png",
+  "lines": [
+   "b15"
+  ],
+  "scores": {
+   "beat": 10,
+   "character": 8,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.95,
+  "pass": true,
+  "defects": []
+ },
+ {
+  "shot": "X09",
+  "file": "assets/redraw/X09.png",
+  "lines": [
+   "b15"
+  ],
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "style": 9,
+   "technical": 8,
+   "readability": 8
+  },
+  "total": 8.7,
+  "pass": true,
+  "defects": []
+ },
+ {
+  "shot": "F18",
+  "file": "assets/redraw/F18.png",
+  "lines": [
+   "b15"
+  ],
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "style": 9,
+   "technical": 8,
+   "readability": 8
+  },
+  "total": 8.7,
+  "pass": true,
+  "defects": []
+ },
+ {
+  "shot": "N15",
+  "file": "assets/redraw/N15.png",
+  "lines": [
+   "c01",
+   "c02"
+  ],
+  "scores": {
+   "beat": 10,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.3,
+  "pass": true,
+  "defects": [
+   "c01 -> c02 back-to-back reuse"
+  ]
+ },
+ {
+  "shot": "N16",
+  "file": "assets/redraw/N16.png",
+  "lines": [
+   "c03"
+  ],
+  "scores": {
+   "beat": 10,
+   "character": 8,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.05,
+  "pass": true,
+  "defects": [
+   "Yalom looks no older than in 1982 (anchor convention)"
+  ]
+ },
+ {
+  "shot": "N17",
+  "file": "assets/redraw/N17.png",
+  "lines": [
+   "c04"
+  ],
+  "scores": {
+   "beat": 10,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.3,
+  "pass": true,
+  "defects": []
+ },
+ {
+  "shot": "N18",
+  "file": "assets/redraw/N18.png",
+  "lines": [
+   "c04",
+   "c06"
+  ],
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.0,
+  "pass": true,
+  "defects": []
+ },
+ {
+  "shot": "F16",
+  "file": "assets/redraw/F16.png",
+  "lines": [
+   "c05"
+  ],
+  "scores": {
+   "beat": 10,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 9.2,
+  "pass": true,
+  "defects": []
+ },
+ {
+  "shot": "F02",
+  "file": "assets/redraw/F02.png",
+  "lines": [
+   "c05 (fallback for M07)"
+  ],
+  "scores": {
+   "beat": 8,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.7,
+  "pass": true,
+  "defects": []
+ },
+ {
+  "shot": "N19",
+  "file": "assets/redraw/N19.png",
+  "lines": [
+   "c05"
+  ],
+  "scores": {
+   "beat": 10,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.3,
+  "pass": true,
+  "defects": []
+ },
+ {
+  "shot": "X12",
+  "file": "assets/redraw/X12.png",
+  "lines": [
+   "c08"
+  ],
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.9,
+  "pass": true,
+  "defects": []
+ },
+ {
+  "shot": "B02",
+  "file": "assets/redraw/B02.png",
+  "lines": [
+   "a01"
+  ],
+  "scores": {
+   "beat": 8.5,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.85,
+  "pass": false,
+  "defects": [
+   "portrait insert of Molly, not the sheet's 'Yalom standing in the crowd' (N21 carries that); names whose funeral it is",
+   "sunny, matches N21; backyard table but close framing hides the location",
+   "Molly face matches the N01/M06 anchor"
+  ]
+ },
+ {
+  "shot": "B03",
+  "file": "assets/redraw/B03.png",
+  "lines": [
+   "a02"
+  ],
+  "scores": {
+   "beat": 7,
+   "character": 7,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 7.9,
+  "pass": false,
+  "defects": [
+   "cue is 'khiến ông phát điên' but Yalom reads sad and downcast, not wry",
+   "backyard funeral with white folding chairs vs N21's cemetery (location jump on the 'cut back to the funeral')",
+   "cardigan only, no grey overcoat (N21/F22/F20 have it)",
+   "present day: Yalom looks ~50, not ~80 (aged redraw pending)"
+  ]
+ },
+ {
+  "shot": "B14",
+  "file": "assets/redraw/B14.png",
+  "lines": [
+   "b02"
+  ],
+  "scores": {
+   "beat": 9,
+   "character": 8,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "total": 8.65,
+  "pass": false,
+  "defects": [
+   "Yalom in a white doctor coat at the lectern, off his cardigan anchor (reads fine)",
+   "Alvin in the audience is mid-frame right, readable; small crowd faces simplified"
+  ]
+ },
+ {
+  "shot": "B15",
+  "file": "assets/redraw/B15.png",
+  "lines": [
+   "b02"
+  ],
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 8.5
+  },
+  "total": 8.95,
+  "pass": false,
+  "defects": [
+   "ghostly face inside the chest film = 'the people behind the X-rays', strong",
+   "left half (Alvin profile) dark; subject split at the left edge leaves little Ken Burns room",
+   "second lightbox frame back to back with X02"
+  ]
+ },
+ {
+  "shot": "B17",
+  "file": "assets/redraw/B17.png",
+  "lines": [
+   "b04"
+  ],
+  "scores": {
+   "beat": 7.5,
+   "character": 7.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 8.5
+  },
+  "total": 8.12,
+  "pass": false,
+  "defects": [
+   "porch argument at night, not the sheet's dinner -> Jason leaves",
+   "Alvin reads ~25-30 while M01 (same 1960s flashback) shows him as a teen; Jason fine",
+   "night, yellow bulb; readable"
+  ]
+ },
+ {
+  "shot": "B23",
+  "file": "assets/redraw/B23.png",
+  "lines": [
+   "c02"
+  ],
+  "scores": {
+   "beat": 6.5,
+   "character": 9,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 8
+  },
+  "total": 8.05,
+  "pass": false,
+  "defects": [
+   "c02 beat is 'Yalom puts the phone down, brooding' (in his office); this is Yalom inside Alvin's hoard",
+   "newspapers and wall sheets carry dense pseudo-print (not legible)",
+   "as a b15 shot (Alvin back turned at the window, Yalom in the room) it fits the sheet's wide static: beat 9.5, total ~8.9"
+  ]
+ },
+ {
+  "shot": "F14",
+  "file": "assets/redraw/F14.png",
+  "lines": [
+   "b09"
+  ],
+  "scores": {
+   "beat": 8,
+   "character": 8,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.45,
+  "pass": false,
+  "defects": [
+   "hands insert: 'Alvin sharing' without his face",
+   "tan suit jacket, not Alvin's white lab coat from N06/M04/R01",
+   "hands clean, five fingers each"
+  ]
+ },
+ {
+  "shot": "F17",
+  "file": "assets/redraw/F17.png",
+  "lines": [
+   "b13"
+  ],
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.0,
+  "pass": true,
+  "defects": [
+   "golden-hour daylight; 1p sheet wants the front door at night",
+   "Alvin olive sweater matches M02/X09/F18; Yalom overcoat matches R02"
+  ]
+ },
+ {
+  "shot": "N10",
+  "file": "assets/redraw/N10.png",
+  "lines": [
+   "b11"
+  ],
+  "scores": {
+   "beat": 8.5,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 8.5
+  },
+  "total": 8.8,
+  "pass": false,
+  "defects": [
+   "hospital cafeteria lunch, not 'dinner alone' (N12 is the dinner)",
+   "notice-board sheets carry tiny pseudo-text, not legible; embroidered name allowed"
+  ]
+ }
+]

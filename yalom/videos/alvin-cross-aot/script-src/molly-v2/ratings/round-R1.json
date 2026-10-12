@@ -1,0 +1,97 @@
+[
+ {
+  "shot": "R01",
+  "file": "assets/flow2k_raw/molly-v2/R01/r1-1.png",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.0,
+  "pass": true,
+  "defects": [
+   "minor: Alvin's eyes read closed rather than lowered",
+   "faint unreadable marks on one book spine"
+  ],
+  "revised_prompt": ""
+ },
+ {
+  "shot": "R02",
+  "file": "assets/flow2k_raw/molly-v2/R02/r1-1.png",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.9,
+  "pass": true,
+  "defects": [
+   "Yalom close to the right edge (about 93% of width), little room for a Ken Burns push",
+   "newspapers show ruled lines and blocks only, no legible text"
+  ],
+  "revised_prompt": ""
+ },
+ {
+  "shot": "R03",
+  "file": "assets/flow2k_raw/molly-v2/R03/r1-1.png",
+  "scores": {
+   "beat": 8,
+   "character": 9,
+   "style": 8.5,
+   "technical": 9,
+   "readability": 7
+  },
+  "total": 8.4,
+  "pass": false,
+  "defects": [
+   "frame dark and grey (mean luma ~65 vs ~78-107 for the reference set), reads murky",
+   "camera sits near chest height, not knee height",
+   "heavier grungy hatching than the redraw set",
+   "floor sheets carry ruled lines (not legible)"
+  ],
+  "revised_prompt": "Create 1 new image, 16:9, using the attached character sheet AOT-CAST-SHEET as the reference for every face and outfit. Low-angle shot with the camera close to the floor at knee height, looking straight down a narrow walkway between tall leaning stacks of plain blank newspapers and cardboard boxes in a 1980s California bungalow, the stacks rising above the frame on both sides, the path barely one person wide, a broad bright shaft of daylight from a window at the end plus soft warm fill light so the stacks, floorboards and walls are clearly readable and the frame is bright, not grey or dim, an empty armchair visible at the far end in the light, a few plain blank sheets on the floor. All paper completely blank: no headlines, no mastheads, no letters, no ruled lines. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, no text, no letters, no captions, no watermark."
+ },
+ {
+  "shot": "R04",
+  "file": "assets/flow2k_raw/molly-v2/R04/r1-1.png",
+  "scores": {
+   "beat": 9,
+   "character": 8,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 8.5
+  },
+  "total": 8.6,
+  "pass": true,
+  "defects": [
+   "Alvin's hair is pale ash-blond, nearly silver overall; temples barely distinct",
+   "left and right headstones carry dash marks (not legible)",
+   "Alvin's smile slightly smug rather than grateful"
+  ],
+  "revised_prompt": ""
+ },
+ {
+  "shot": "R05",
+  "file": "assets/flow2k_raw/molly-v2/R05/r1-1.png",
+  "scores": {
+   "beat": 8,
+   "character": 9,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 0
+  },
+  "total": 0.0,
+  "pass": false,
+  "defects": [
+   "HARD FAIL: coat embroidery reads \"ALVIN CROSS, M.D.\" (extra readable \"M.D.\")",
+   "film jacket label on the desk carries a letter-like glyph",
+   "paper pinned beside the lightbox has scribble lines",
+   "Alvin is in three-quarter view toward the camera, not profile"
+  ],
+  "revised_prompt": "Create 1 new image, 16:9, using the attached character sheet AOT-CAST-SHEET as the reference for every face and outfit. Medium shot in a 1982 Stanford radiology reading room, Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, strong angular jaw, heavy brows, blue eyes, commanding calm; white doctor coat with \"Alvin Cross\" embroidered in dark blue on the left chest, pale blue shirt, dark tie; the embroidery reads exactly \"Alvin Cross\" and nothing else, no title, no M.D., no other letters on the coat; standing in strict side profile facing left toward a wall-mounted X-ray lightbox showing a chest film, his eyes fixed on the film with a haunted stare, the lightbox glow plus a warm overhead fluorescent light keeping the whole room and his face clearly lit, plain unlabelled film jackets and a beige rotary phone on a desk behind, no papers pinned to the walls, no labels or stickers on the film jackets, both hands relaxed at his sides out of frame. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, 1980s California, calm natural expressions, no captions, no letters, no watermark, no text except the embroidered name \"Alvin Cross\" on the coat."
+ }
+]

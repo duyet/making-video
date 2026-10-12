@@ -1,0 +1,60 @@
+[
+ {
+  "shot": "R80",
+  "replaces": "B23",
+  "file": "assets/flow2k_raw/molly-v2/R80/r5-1.png",
+  "source": "1K original upscaled to 2752x1536 (Flow 2K upscaler failing)",
+  "scores": {
+   "beat": 9,
+   "character": 7.5,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 8
+  },
+  "total": 8.525,
+  "pass": false,
+  "defects": [
+   "Alvin's hair renders grey/white (reads as an old man), not blond with silver temples: wrong age for 1982 mid-30s Alvin",
+   "loose sheet of paper on the floor bottom-right carries pseudo-print lines (no readable letters, but the 'all paper blank' rule is broken)",
+   "Yalom is a large foreground figure (~85% of frame height) whose feet run off the bottom edge rather than a mid-sized figure inside the frame"
+  ],
+  "minor": [
+   "armchair-edge defect of r3/r4 fixed: Alvin small, centred on the back window, chair fully inside the frame",
+   "strong one-point perspective: path as leading line, backlit window, cold palette, foreground stack frame left",
+   "Yalom face, glasses, beard and both hands clean at zoom; olive sweater read on Alvin",
+   "chair is a thin office-style chair rather than a padded armchair",
+   "no sparkle bottom-right; no readable text",
+   "mild softness from the 1K upscale (not penalised)"
+  ],
+  "better_than_old": true
+ },
+ {
+  "shot": "R80",
+  "replaces": "B23",
+  "file": "assets/flow2k_raw/molly-v2/R80/r5-2.png",
+  "source": "1K original upscaled to 2752x1536 (Flow 2K upscaler failing)",
+  "scores": {
+   "beat": 9,
+   "character": 7.5,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 7.5,
+   "readability": 8.5
+  },
+  "total": 8.425,
+  "pass": false,
+  "defects": [
+   "solid black pillar bar ~110 px wide down the whole left edge (columns 0-110 are pure black): needs a crop/reframe before use",
+   "Alvin's hair renders grey/white (reads as an old man), not blond with silver temples: wrong age for 1982",
+   "Yalom's feet run off the bottom edge"
+  ],
+  "minor": [
+   "same good composition as r5-1: Alvin small and centred at the back window, chair fully inside the frame, window shaft and dust",
+   "Yalom face and hands clean at zoom",
+   "box labels are blank white rectangles; bottom-right clean, no sparkle, no text",
+   "mild softness from the 1K upscale (not penalised)"
+  ],
+  "better_than_old": true
+ }
+]

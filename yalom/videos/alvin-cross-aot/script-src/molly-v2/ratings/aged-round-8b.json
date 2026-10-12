@@ -1,0 +1,136 @@
+[
+ {
+  "shot": "R11",
+  "file": "assets/flow2k_raw/molly-v2/R11/r8-1.png",
+  "res": "1K",
+  "scores": {
+   "beat": 8,
+   "character": 8,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 6,
+   "readability": 8
+  },
+  "total": 7.8,
+  "defects": [
+   "Extra headless fourth figure (a man in a coat, his head hidden behind Alvin's raised hand) stands on the path behind the group, a generation artifact",
+   "Yalom only glances right and walks beside the couple rather than a clear step ahead and turning back",
+   "Aged Alvin's face is harsher and narrower-eyed than R07"
+  ],
+  "revised_prompt": "",
+  "edit_prompt": "",
+  "pass": false
+ },
+ {
+  "shot": "R11",
+  "file": "assets/flow2k_raw/molly-v2/R11/r8-2.png",
+  "res": "1K",
+  "scores": {
+   "beat": 8.5,
+   "character": 8,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 8.5
+  },
+  "total": 8.5,
+  "defects": [
+   "Yalom's body faces forward and only his eyes and head turn slightly toward Alvin; the turn-back is weak and the three read as walking abreast",
+   "Aged Alvin's face (squarer, harsher, heavy-lidded) is a weaker match to the R07/R13 Alvin",
+   "Faint glyph-like marks on the left headstone; not readable but visible on a zoomed view",
+   "1K softness (not penalised)"
+  ],
+  "revised_prompt": "",
+  "edit_prompt": "",
+  "pass": false
+ },
+ {
+  "shot": "R12",
+  "file": "assets/flow2k_raw/molly-v2/R12/r8-1.png",
+  "res": "1K",
+  "scores": {
+   "beat": 7,
+   "character": 9,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.3,
+  "defects": [
+   "Hat is held in his RIGHT hand (wrist enters from his right side, fingers point to his left), not the LEFT hand the beat asks for, so it breaks continuity with R13",
+   "Camera is at eye level, not slightly low; the face sits centre-right rather than on the right third, which leaves less negative space to the left",
+   "Coat reads brown rather than dark charcoal in the warm light",
+   "1K softness (not penalised)"
+  ],
+  "revised_prompt": "",
+  "edit_prompt": "",
+  "pass": false
+ },
+ {
+  "shot": "R12",
+  "file": "assets/flow2k_raw/molly-v2/R12/r8-2.png",
+  "res": "1K",
+  "scores": {
+   "beat": 7,
+   "character": 9,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.3,
+  "defects": [
+   "Hat is held in his RIGHT hand (wrist enters from his right side, fingers point to his left), not the LEFT hand the beat asks for, so it breaks continuity with R13",
+   "Camera is at eye level, not slightly low; the face sits centre-right rather than on the right third",
+   "1K softness (not penalised)"
+  ],
+  "revised_prompt": "",
+  "edit_prompt": "",
+  "pass": false
+ },
+ {
+  "shot": "R12",
+  "file": "assets/flow2k_raw/molly-v2/R12/r8-3.png",
+  "res": "1K",
+  "scores": {
+   "beat": 7.5,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 6
+  },
+  "total": 8.2,
+  "defects": [
+   "Hat is held in his RIGHT hand (wrist enters from his right side, fingers point to his left), not the LEFT hand the beat asks for, so it breaks continuity with R13",
+   "Headstones on the left carry text-like pseudo-inscriptions (lettering blocks on 3 to 4 stones) that are nearly legible",
+   "Shoulder and hat are cropped by the right and bottom edges, which leaves limited Ken Burns room"
+  ],
+  "revised_prompt": "",
+  "edit_prompt": "",
+  "pass": false
+ },
+ {
+  "shot": "R12",
+  "file": "assets/flow2k_raw/molly-v2/R12/r8-4.png",
+  "res": "1K",
+  "scores": {
+   "beat": 7.5,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 6
+  },
+  "total": 8.2,
+  "defects": [
+   "Hat is held in his RIGHT hand (wrist enters from his right side, fingers point to his left), not the LEFT hand the beat asks for, so it breaks continuity with R13",
+   "Headstones on the left carry text-like pseudo-inscriptions (e.g. '...n ALMAN' on the leftmost stone) that are nearly legible",
+   "Shoulder and hat are cropped by the right and bottom edges"
+  ],
+  "revised_prompt": "",
+  "edit_prompt": "",
+  "pass": false
+ }
+]

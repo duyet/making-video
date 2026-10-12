@@ -1,0 +1,41 @@
+[
+  {
+    "shot": "R57",
+    "replaces": "F26",
+    "file": "assets/flow2k_raw/molly-v2/R57/r5-3.png",
+    "scores": {"beat": 8.5, "character": 9, "cinematic": 8.5, "style": 8.5, "technical": 8.5, "readability": 9},
+    "total": 8.65,
+    "pass": false,
+    "defects": [
+      "The edit did not land. r5-3.png, r5-3.orig.jpg and r5-3.1k.jpg are byte-identical to r4-3 (same MD5 hashes, zero pixel difference), so the capture probably saved the source tile rather than the edited result. Every r4-3 defect remains",
+      "The clock still has three hands: a long hand at 12 plus two short hands splayed in a V, one at 3 and one at about 4 (technical 8.5)",
+      "The snapshot is still crisp, glossy anime line art, as sharp as the frame around it. It is not a faded, grainy, softly blurred real print (CINEMATIC 'Natural'), so cinematic and style stay at 8.5"
+    ],
+    "minor": [
+      "1K softness",
+      "Same strengths as r4-3: warm, natural parents (F26 brief met), cold moonlit nightstand, a period-plausible ~1972 setting",
+      "No readable text or numerals, and no star or diamond marks"
+    ],
+    "edit_instruction": "Re-run the same r5 edit on lb-R57-r4e and confirm the downloaded tile differs from r4-3 before saving: Change only the alarm clock hands: remove the short hand pointing at 4, leaving exactly two hands, a short hour hand on 3 and a long minute hand on 12. Then make the photo inside the frame look like an old printed snapshot: softer focus, faded warm colour, visible film grain, lower contrast line work. Keep everything else the same."
+  },
+  {
+    "shot": "R58",
+    "replaces": "N08",
+    "file": "assets/flow2k_raw/molly-v2/R58/r5-3.png",
+    "scores": {"beat": 8.5, "character": 8.5, "cinematic": 7.5, "style": 9, "technical": 8.5, "readability": 7.5},
+    "total": 8.25,
+    "pass": false,
+    "defects": [
+      "The canvas was not widened: the framing is pixel-for-pixel the same as r4-3. Jason's armchair and the ashtray are still cut by the right frame edge, and his figure sits within ~5% of it, leaving no room for a Ken Burns move toward him (readability 7.5)",
+      "The room is darker overall, but the light is still evenly spread. Alvin's face and shirt are not shaped by cold grey window light, and the ember glow does not model Jason. With the mirror-symmetric staging (two seated figures flanking a dead-centre fireplace), it still reads as an illustration, not a low-key film frame (cinematic 7.5, up from 7)"
+    ],
+    "minor": [
+      "1K softness",
+      "Iris fix landed: Jason's eyes are now a dull grey-green, with no glow",
+      "The global darkening helps the mood, with the corners and ceiling dimmer",
+      "Faces unchanged and on-brief: Alvin tentative (inner brows up, lips parted, eyes searching), hands clasped and clean; Jason gaunt, sallow, prematurely old, with a flat, worn sideways look, a cigarette and curling smoke",
+      "No text and no star or diamond marks"
+    ],
+    "edit_instruction": "Zoom-out edits are ignored in Flow's editor: outpaint by uploading a shrunk canvas and filling the right strip (see the flow-outpaint-widen memory). Then: keep both characters exactly as they are; the only light is cold grey daylight from the left window falling across the blond man's face and shirt, and a low orange ember glow rim-lighting the dark-haired man's face and blanket from the fireplace side, with the walls between them in deep shadow."
+  }
+]

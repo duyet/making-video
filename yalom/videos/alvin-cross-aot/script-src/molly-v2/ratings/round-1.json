@@ -1,0 +1,156 @@
+[
+ {
+  "shot": "M01",
+  "file": "assets/flow2k_raw/molly-v2/M01/r1-1.png",
+  "scores": {
+   "beat": 8,
+   "character": 8,
+   "style": 7,
+   "technical": 8,
+   "readability": 8
+  },
+  "total": 0.0,
+  "total_before_hard_fail": 7.9,
+  "pass_before_hard_fail": false,
+  "hard_fail": "watermark",
+  "pass": false,
+  "defects": [
+   "Gemini sparkle watermark in the bottom-right corner (~2650,1430 at 2752x1536) = hard fail per rubric; not fixable by re-prompting, must be inpainted/cropped in post or re-exported clean",
+   "teen Jason's bared-teeth snarl is too aggressive for the calm restrained set",
+   "Jason gripping the chair beside him rather than clearly pushing his chair back and turning to leave",
+   "line art thinner and shading flatter/brighter than the redraw set (little heavy ink shadow)"
+  ],
+  "revised_prompt": "Create 1 new image, 16:9, using the attached character sheet AOT-CAST-SHEET as the reference for every face and outfit. Wide-medium shot of a plain 1960s American dining room at night lit evenly by a single hanging lamp, untouched plates of food, a tense silent family dinner; at the head of the table a stern balding father about 55 with short grey hair, clean-shaven, in a white shirt and tie, beside him a tight-lipped mother about 50 with short permed greying hair in a plain 1960s housedress, both frozen and not looking at him; seated stiffly on the left, teenage Alvin Cross, about 17, inspired by Erwin Smith but younger, slim and boyish, blond hair in a neat side part, strong angular jaw, heavy brows, blue eyes, in a plain white collared shirt, staring down at his plate; on the right, teenage Jason Cross, about 16, inspired by a young Eren Yeager, dark brown shoulder-length hair, intense green eyes, defiant tired stare, lean wiry build, in a plain dark t-shirt, already standing with his own chair pushed back behind him, body turned toward the door at the right, looking back over his shoulder with a cold tight-lipped glare, mouth closed, one hand at his side and the other on the door frame, his face in the right third of the frame not touching the edge. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, no text, no captions, no watermark. Use heavier black ink shadows on faces and clothing and the bolder line weight of the reference set. Even, readable lighting; no text, no letters, no captions, no watermark, no logo or sparkle icon in any corner."
+ },
+ {
+  "shot": "M02",
+  "file": "assets/flow2k_raw/molly-v2/M02/r1-1.png",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "style": 8,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 0.0,
+  "total_before_hard_fail": 8.8,
+  "pass_before_hard_fail": true,
+  "hard_fail": "watermark",
+  "pass": false,
+  "defects": [
+   "Gemini sparkle watermark in the bottom-right corner (~2650,1430 at 2752x1536) = hard fail per rubric; not fixable by re-prompting, must be inpainted/cropped in post or re-exported clean",
+   "minor: left quarter (doorway/hall) is dark"
+  ],
+  "revised_prompt": ""
+ },
+ {
+  "shot": "M03",
+  "file": "assets/flow2k_raw/molly-v2/M03/r1-1.png",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "style": 8,
+   "technical": 8,
+   "readability": 9
+  },
+  "total": 0.0,
+  "total_before_hard_fail": 8.7,
+  "pass_before_hard_fail": true,
+  "hard_fail": "watermark",
+  "pass": false,
+  "defects": [
+   "Gemini sparkle watermark in the bottom-right corner (~2650,1430 at 2752x1536) = hard fail per rubric; not fixable by re-prompting, must be inpainted/cropped in post or re-exported clean",
+   "minor: a pair of eyeglasses on the nightstand although Alvin wears none",
+   "minor: cracked grimy wall slightly at odds with 'tidy'"
+  ],
+  "revised_prompt": ""
+ },
+ {
+  "shot": "M04",
+  "file": "assets/flow2k_raw/molly-v2/M04/r1-1.png",
+  "scores": {
+   "beat": 9,
+   "character": 8,
+   "style": 8,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 0.0,
+  "total_before_hard_fail": 8.6,
+  "pass_before_hard_fail": true,
+  "hard_fail": "watermark",
+  "pass": false,
+  "defects": [
+   "Gemini sparkle watermark in the bottom-right corner (~2650,1430 at 2752x1536) = hard fail per rubric; not fixable by re-prompting, must be inpainted/cropped in post or re-exported clean",
+   "minor: smile reads slightly smug rather than soft and genuine",
+   "no 'Alvin Cross' embroidery visible (not required by beat)"
+  ],
+  "revised_prompt": ""
+ },
+ {
+  "shot": "M05",
+  "file": "assets/flow2k_raw/molly-v2/M05/r1-1.png",
+  "scores": {
+   "beat": 8,
+   "character": 8,
+   "style": 8,
+   "technical": 9,
+   "readability": 7
+  },
+  "total": 0.0,
+  "total_before_hard_fail": 8.1,
+  "pass_before_hard_fail": false,
+  "hard_fail": "watermark",
+  "pass": false,
+  "defects": [
+   "Gemini sparkle watermark in the bottom-right corner (~2650,1430 at 2752x1536) = hard fail per rubric; not fixable by re-prompting, must be inpainted/cropped in post or re-exported clean",
+   "folder is held half-open with pages showing rather than being closed",
+   "left half of the frame (bookshelves) is dark and murky",
+   "hair longer and shaggier than the Yalom design (should be short tousled, now silver)"
+  ],
+  "revised_prompt": "Create 1 new image, 16:9, using the attached character sheet AOT-CAST-SHEET as the reference for every face and outfit. Medium shot, present day, a home study at dusk, wooden desk, bookshelves behind lit by soft even room light plus a brass desk lamp so the whole frame is clearly readable: Dr. Yalom, the same design as the Yalom on the character sheet, inspired by Zeke Yeager, round wire-rim glasses, full trimmed beard, calm intellectual face, kind tired eyes, medium build, brown knit cardigan over a shirt, but visibly older, about 80, short tousled hair and beard mostly silver-white, a few more lines on his face; seated at the desk, both hands pressing down on the front cover of a worn tan manila case folder that is nearly shut, only a thin edge of pages visible, a mug of tea and a fountain pen beside it, pensive and quiet, his face in the left-centre of the frame. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, no text, no captions, no watermark. Even, readable lighting; no text, no letters, no captions, no watermark, no logo or sparkle icon in any corner."
+ },
+ {
+  "shot": "M06",
+  "file": "assets/flow2k_raw/molly-v2/M06/r1-1.png",
+  "scores": {
+   "beat": 9,
+   "character": 7,
+   "style": 8,
+   "technical": 8,
+   "readability": 8
+  },
+  "total": 0.0,
+  "total_before_hard_fail": 8.1,
+  "pass_before_hard_fail": false,
+  "hard_fail": "watermark",
+  "pass": false,
+  "defects": [
+   "Gemini sparkle watermark in the bottom-right corner (~2650,1430 at 2752x1536) = hard fail per rubric; not fixable by re-prompting, must be inpainted/cropped in post or re-exported clean",
+   "Alvin's whole head reads silver-grey and older than mid-30s; anchor is blond with only silver-grey temples",
+   "Alvin beside Molly rather than a little behind her in the doorway"
+  ],
+  "revised_prompt": "Create 1 new image, 16:9, using the attached character sheet AOT-CAST-SHEET as the reference for every face and outfit. Wide shot, 1982, the front door of a small California bungalow opening into a hoarded living room: towering stacks of newspapers, books, cardboard file boxes and X-ray film jackets reaching shoulder height with only narrow paths between them, a buried sofa, dusty venetian blinds letting in daylight; Molly: woman in her 50s, Hange-like practical energy, brown hair in a loose tied-back ponytail, small round glasses, warm no-nonsense face, sturdy build; beige apron over a rolled-sleeve checked shirt, work trousers; she has just stepped through the doorway, standing one step inside in the centre of the frame, hands on her hips, pausing to assess the room with a calm determined look; Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, golden-blond hair in a neat side part with silver-grey only at the temples, strong angular jaw, heavy brows, blue eyes, guarded calm; olive knit sweater over a collared shirt, grey trousers; he stands one step behind her still inside the door frame, partly behind her shoulder, shoulders slumped, eyes lowered, ashamed. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, no text, no captions, no watermark. All papers blank or blurred with no readable writing. Even, readable lighting; no text, no letters, no captions, no watermark, no logo or sparkle icon in any corner."
+ },
+ {
+  "shot": "M07",
+  "file": "assets/flow2k_raw/molly-v2/M07/r1-1.png",
+  "scores": {
+   "beat": 9,
+   "character": 8,
+   "style": 8,
+   "technical": 8,
+   "readability": 9
+  },
+  "total": 0.0,
+  "total_before_hard_fail": 8.4,
+  "pass_before_hard_fail": false,
+  "hard_fail": "watermark",
+  "pass": false,
+  "defects": [
+   "Gemini sparkle watermark in the bottom-right corner (~2650,1430 at 2752x1536) = hard fail per rubric; not fixable by re-prompting, must be inpainted/cropped in post or re-exported clean",
+   "pseudo-handwriting squiggle on the top letter of the paper stack on the desk (near-text)"
+  ],
+  "revised_prompt": "Create 1 new image, 16:9, using the attached character sheet AOT-CAST-SHEET as the reference for every face and outfit. Medium-wide shot, years later, the same bungalow living room now tidy and lived-in, clean polished wooden floor, an orderly bookshelf, a sofa with cushions, warm golden afternoon light through open blinds; Molly: woman in her 50s, Hange-like practical energy, brown hair in a loose tied-back ponytail, small round glasses, warm no-nonsense face, sturdy build; beige apron over a rolled-sleeve checked shirt, work trousers; now a bit older with grey streaks in her hair, seated at a small wooden desk sorting a stack of plain blank envelopes, all envelopes and papers completely blank with no writing, no stamps and no marks; on the wall above the desk a framed family photo of a man, a woman and two children, no writing on the frame or photo. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, no text, no captions, no watermark. Even, readable lighting; no text, no letters, no captions, no watermark, no logo or sparkle icon in any corner."
+ }
+]

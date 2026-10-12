@@ -1,0 +1,215 @@
+[
+  {
+    "shot": "R10",
+    "file": "assets/flow2k_raw/molly-v2/R10/bk5-1.png",
+    "res": "1K",
+    "scores": {
+      "beat": 7.5,
+      "character": 8,
+      "cinematic": 7.5,
+      "style": 8,
+      "technical": 8,
+      "readability": 7.5
+    },
+    "total": 7.72,
+    "pass": false,
+    "defects": [
+      "keys hand cropped by the bottom edge, keys not readable",
+      "requested low golden side sun, gold edge and long shadow toward the gate barely present; light flat",
+      "Yalom's hair reads brownish-blond rather than silver-white",
+      "head close to top edge, figure crowds the right half"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's pose, face, white beard, round glasses, grey overcoat over the brown cardigan, the wristwatch gesture, the open wooden gate, the friends with the travel bag by the car, fence, house and lawn unchanged. Change only: pull the camera back a little so his whole lower hand is in frame with a small bunch of car keys clearly dangling from it and a little space above his head; his hair silver-white; a low golden late-afternoon sun from frame right puts a warm edge on his hair and shoulder and throws his long shadow across the lawn toward the gate. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom; faces never scowling, no smirk, no stare into the lens. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no numbers, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's pose, face, white beard, round glasses, grey overcoat over the brown cardigan, the wristwatch gesture, the open wooden gate, the friends with the travel bag by the car, fence, house and lawn unchanged. Change only: pull the camera back a little so his whole lower hand is in frame with a small bunch of car keys clearly dangling from it and a little space above his head; his hair silver-white; a low golden late-afternoon sun from frame right puts a warm edge on his hair and shoulder and throws his long shadow across the lawn toward the gate. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom; faces never scowling, no smirk, no stare into the lens. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no numbers, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+  },
+  {
+    "shot": "R10",
+    "file": "assets/flow2k_raw/molly-v2/R10/bk5-2.png",
+    "res": "1K",
+    "scores": {
+      "beat": 9,
+      "character": 8,
+      "cinematic": 7.5,
+      "style": 8,
+      "technical": 8.5,
+      "readability": 8
+    },
+    "total": 8.22,
+    "pass": false,
+    "defects": [
+      "light flat: no low golden side sun, no gold edge or long shadow toward the gate as briefed",
+      "Yalom's hair reads brownish-blond rather than silver-white (vs R11/S08)",
+      "head close to the top edge; guest at far right cut by the edge"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's pose, face, eyes on the watch, white beard, round glasses, grey overcoat over the brown cardigan, the watch hand, the car keys in his lower hand, the open wooden gate, the friends with the travel bag by the car, fence, house and lawn unchanged. Change only: his hair silver-white like his beard; a low golden late-afternoon sun from frame right puts a warm gold edge on his hair and shoulder and throws his long shadow across the lawn toward the gate; a little more headroom above him; the guest at the far right moved inward so nobody is cut by the edge. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom; faces never scowling, no smirk, no stare into the lens. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no numbers, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's pose, face, eyes on the watch, white beard, round glasses, grey overcoat over the brown cardigan, the watch hand, the car keys in his lower hand, the open wooden gate, the friends with the travel bag by the car, fence, house and lawn unchanged. Change only: his hair silver-white like his beard; a low golden late-afternoon sun from frame right puts a warm gold edge on his hair and shoulder and throws his long shadow across the lawn toward the gate; a little more headroom above him; the guest at the far right moved inward so nobody is cut by the edge. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom; faces never scowling, no smirk, no stare into the lens. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no numbers, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+  },
+  {
+    "shot": "R12",
+    "file": "assets/flow2k_raw/molly-v2/R12/bk5-1.png",
+    "res": "1K",
+    "scores": {
+      "beat": 8,
+      "character": 8.5,
+      "cinematic": 7.5,
+      "style": 8,
+      "technical": 7.5,
+      "readability": 7
+    },
+    "total": 7.83,
+    "pass": false,
+    "defects": [
+      "Alvin jammed against the right edge (1K crop): hat brim, sleeve and shoulder touch the edge, no room for Ken Burns",
+      "hat hand splayed flat on the crown, not gripping; brief's thumb-over-brim grip not drawn",
+      "smile slightly higher at the picture-right corner (mild, not a smirk); inner brows lifted reads warm-nervous, OK",
+      "flat light, little shape"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep Alvin's face, silver hair, lifted inner brows, gentle eyes toward Yalom, dark suit and tie, the cream Panama hat held to his chest in his own left hand at picture right, the soft grey shoulder and back of Yalom's head at the left, the chairs, portrait table and house unchanged. Change only: move Alvin left so he sits at about two-thirds across, with clear space between the hat brim, his shoulder and the right edge and a little headroom; his hand grips the hat naturally, thumb over the brim and four fingers curled round the crown, clean skin; his smile even, both corners lifted equally; one soft warm sun from frame right. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom; faces never scowling, no smirk, no stare into the lens. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no numbers, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep Alvin's face, silver hair, lifted inner brows, gentle eyes toward Yalom, dark suit and tie, the cream Panama hat held to his chest in his own left hand at picture right, the soft grey shoulder and back of Yalom's head at the left, the chairs, portrait table and house unchanged. Change only: move Alvin left so he sits at about two-thirds across, with clear space between the hat brim, his shoulder and the right edge and a little headroom; his hand grips the hat naturally, thumb over the brim and four fingers curled round the crown, clean skin; his smile even, both corners lifted equally; one soft warm sun from frame right. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom; faces never scowling, no smirk, no stare into the lens. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no numbers, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+  },
+  {
+    "shot": "R12",
+    "file": "assets/flow2k_raw/molly-v2/R12/bk5-2.png",
+    "res": "1K",
+    "scores": {
+      "beat": 8,
+      "character": 8.5,
+      "cinematic": 7.5,
+      "style": 8,
+      "technical": 7.5,
+      "readability": 6.5
+    },
+    "total": 7.78,
+    "pass": false,
+    "defects": [
+      "top of Alvin's head cut by the top edge and his body crammed against the right edge (1K crop)",
+      "hat hand splayed flat on the crown with dark spots on the knuckles, not a natural grip",
+      "smile slightly higher at the picture-right corner (mild)",
+      "flat light"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep Alvin's face, silver hair, lifted inner brows, gentle eyes toward Yalom, dark suit and tie, the cream Panama hat held to his chest in his own left hand at picture right, the soft grey shoulder and back of Yalom's head at the left, the chairs, portrait table and house unchanged. Change only: move Alvin left and down so his whole head is in frame with headroom and clear space between the hat brim, his shoulder and the right edge; his hand grips the hat naturally, thumb over the brim and four fingers curled round the crown, clean skin with no dark spots; his smile even, both corners lifted equally; one soft warm sun from frame right. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom; faces never scowling, no smirk, no stare into the lens. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no numbers, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep Alvin's face, silver hair, lifted inner brows, gentle eyes toward Yalom, dark suit and tie, the cream Panama hat held to his chest in his own left hand at picture right, the soft grey shoulder and back of Yalom's head at the left, the chairs, portrait table and house unchanged. Change only: move Alvin left and down so his whole head is in frame with headroom and clear space between the hat brim, his shoulder and the right edge; his hand grips the hat naturally, thumb over the brim and four fingers curled round the crown, clean skin with no dark spots; his smile even, both corners lifted equally; one soft warm sun from frame right. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom; faces never scowling, no smirk, no stare into the lens. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no numbers, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+  },
+  {
+    "shot": "R13",
+    "file": "assets/flow2k_raw/molly-v2/R13/bk5-1.png",
+    "res": "1K",
+    "scores": {
+      "beat": 7,
+      "character": 7.5,
+      "cinematic": 8,
+      "style": 8,
+      "technical": 7,
+      "readability": 7
+    },
+    "total": 7.4,
+    "pass": false,
+    "defects": [
+      "Monica cut by the right edge (shoulder and arm), not fully in frame",
+      "no garden gate visible behind the couple",
+      "Yalom in a brown coat, not the grey overcoat used in R10/R11/R14",
+      "Yalom's profile neutral with slightly parted lips, not the polite uncertain closed smile",
+      "Monica looks forward, not turned to Alvin; smile slightly one-sided",
+      "handshake mushy: one thumb, a cluster of small fingertips below, fingers not countable"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep Alvin's face and open grateful smile, his silver hair, dark suit and tie, the cream Panama hat held to his chest in his own left hand at picture right, Monica's face and pale blonde bun, the backyard lawn, folding chairs, house and the open wooden garden gate behind the couple unchanged. Change only: pull the camera back slightly so Monica is fully inside the frame with clear space between her shoulder and the right edge; Yalom (white beard, round glasses) wears a grey wool overcoat over a brown cardigan instead of the brown coat; Yalom's face politely uncertain, brows lifted (not knitted), a courteous closed-lip smile, head tilted slightly; Monica turns her head toward Alvin and smiles at him, eyes normal-sized with soft crinkles, an even smile; the handshake is two clearly drawn right hands clasped, each thumb visible on top, fingers wrapped round the other's palm, no extra fingertips. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom; faces never scowling, no smirk, no stare into the lens. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no numbers, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep Alvin's face and open grateful smile, his silver hair, dark suit and tie, the cream Panama hat held to his chest in his own left hand at picture right, Monica's face and pale blonde bun, the backyard lawn, folding chairs, house and the open wooden garden gate behind the couple unchanged. Change only: pull the camera back slightly so Monica is fully inside the frame with clear space between her shoulder and the right edge; Yalom (white beard, round glasses) wears a grey wool overcoat over a brown cardigan instead of the brown coat; Yalom's face politely uncertain, brows lifted (not knitted), a courteous closed-lip smile, head tilted slightly; Monica turns her head toward Alvin and smiles at him, eyes normal-sized with soft crinkles, an even smile; the handshake is two clearly drawn right hands clasped, each thumb visible on top, fingers wrapped round the other's palm, no extra fingertips. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom; faces never scowling, no smirk, no stare into the lens. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no numbers, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+  },
+  {
+    "shot": "R13",
+    "file": "assets/flow2k_raw/molly-v2/R13/bk5-2.png",
+    "res": "1K",
+    "scores": {
+      "beat": 7.5,
+      "character": 7.5,
+      "cinematic": 8,
+      "style": 8,
+      "technical": 7,
+      "readability": 7
+    },
+    "total": 7.53,
+    "pass": false,
+    "defects": [
+      "Monica cut by the right edge (shoulder and arm), not fully in frame",
+      "Yalom in a brown coat, not the grey overcoat used in R10/R11/R14",
+      "Yalom's profile neutral, not polite-uncertain with a closed smile",
+      "Monica looks forward, not turned to Alvin",
+      "handshake mushy: one thumb, a cluster of small fingertips, not countable"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep Alvin's face and open grateful smile, his silver hair, dark suit and tie, the cream Panama hat held to his chest in his own left hand at picture right, Monica's face and pale blonde bun, the backyard lawn, folding chairs, house and the open wooden garden gate behind the couple unchanged. Change only: pull the camera back slightly so Monica is fully inside the frame with clear space between her shoulder and the right edge; Yalom (white beard, round glasses) wears a grey wool overcoat over a brown cardigan instead of the brown coat; Yalom's face politely uncertain, brows lifted (not knitted), a courteous closed-lip smile, head tilted slightly; Monica turns her head toward Alvin and smiles at him, eyes normal-sized with soft crinkles, an even smile; the handshake is two clearly drawn right hands clasped, each thumb visible on top, fingers wrapped round the other's palm, no extra fingertips. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom; faces never scowling, no smirk, no stare into the lens. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no numbers, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep Alvin's face and open grateful smile, his silver hair, dark suit and tie, the cream Panama hat held to his chest in his own left hand at picture right, Monica's face and pale blonde bun, the backyard lawn, folding chairs, house and the open wooden garden gate behind the couple unchanged. Change only: pull the camera back slightly so Monica is fully inside the frame with clear space between her shoulder and the right edge; Yalom (white beard, round glasses) wears a grey wool overcoat over a brown cardigan instead of the brown coat; Yalom's face politely uncertain, brows lifted (not knitted), a courteous closed-lip smile, head tilted slightly; Monica turns her head toward Alvin and smiles at him, eyes normal-sized with soft crinkles, an even smile; the handshake is two clearly drawn right hands clasped, each thumb visible on top, fingers wrapped round the other's palm, no extra fingertips. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom; faces never scowling, no smirk, no stare into the lens. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no numbers, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+  },
+  {
+    "shot": "R13",
+    "file": "assets/flow2k_raw/molly-v2/R13/bk5-3.png",
+    "res": "1K",
+    "scores": {
+      "beat": 7.5,
+      "character": 7.5,
+      "cinematic": 8,
+      "style": 8,
+      "technical": 7,
+      "readability": 7
+    },
+    "total": 7.53,
+    "pass": false,
+    "defects": [
+      "Monica cut by the right edge (shoulder and arm), not fully in frame",
+      "Yalom in a brown coat, not the grey overcoat used in R10/R11/R14",
+      "Yalom's profile neutral, not polite-uncertain with a closed smile",
+      "Monica looks forward, not turned to Alvin",
+      "handshake mushy: one thumb, a cluster of small fingertips, not countable",
+      "best of the four: open gate behind, Alvin's grateful open smile right"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep Alvin's face and open grateful smile, his silver hair, dark suit and tie, the cream Panama hat held to his chest in his own left hand at picture right, Monica's face and pale blonde bun, the backyard lawn, folding chairs, house and the open wooden garden gate behind the couple unchanged. Change only: pull the camera back slightly so Monica is fully inside the frame with clear space between her shoulder and the right edge; Yalom (white beard, round glasses) wears a grey wool overcoat over a brown cardigan instead of the brown coat; Yalom's face politely uncertain, brows lifted (not knitted), a courteous closed-lip smile, head tilted slightly; Monica turns her head toward Alvin and smiles at him, eyes normal-sized with soft crinkles, an even smile; the handshake is two clearly drawn right hands clasped, each thumb visible on top, fingers wrapped round the other's palm, no extra fingertips. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom; faces never scowling, no smirk, no stare into the lens. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no numbers, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep Alvin's face and open grateful smile, his silver hair, dark suit and tie, the cream Panama hat held to his chest in his own left hand at picture right, Monica's face and pale blonde bun, the backyard lawn, folding chairs, house and the open wooden garden gate behind the couple unchanged. Change only: pull the camera back slightly so Monica is fully inside the frame with clear space between her shoulder and the right edge; Yalom (white beard, round glasses) wears a grey wool overcoat over a brown cardigan instead of the brown coat; Yalom's face politely uncertain, brows lifted (not knitted), a courteous closed-lip smile, head tilted slightly; Monica turns her head toward Alvin and smiles at him, eyes normal-sized with soft crinkles, an even smile; the handshake is two clearly drawn right hands clasped, each thumb visible on top, fingers wrapped round the other's palm, no extra fingertips. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom; faces never scowling, no smirk, no stare into the lens. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no numbers, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+  },
+  {
+    "shot": "R13",
+    "file": "assets/flow2k_raw/molly-v2/R13/bk5-4.png",
+    "res": "1K",
+    "scores": {
+      "beat": 7,
+      "character": 7.5,
+      "cinematic": 8,
+      "style": 8,
+      "technical": 7,
+      "readability": 7
+    },
+    "total": 7.4,
+    "pass": false,
+    "defects": [
+      "Monica cut by the right edge (shoulder and arm), not fully in frame",
+      "no garden gate visible, only fence",
+      "Yalom in a brown coat, not the grey overcoat used in R10/R11/R14",
+      "Yalom's profile neutral, not polite-uncertain",
+      "Monica looks forward, not turned to Alvin",
+      "handshake mushy: one thumb, a cluster of small fingertips, not countable"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep Alvin's face and open grateful smile, his silver hair, dark suit and tie, the cream Panama hat held to his chest in his own left hand at picture right, Monica's face and pale blonde bun, the backyard lawn, folding chairs, house and the open wooden garden gate behind the couple unchanged. Change only: pull the camera back slightly so Monica is fully inside the frame with clear space between her shoulder and the right edge; Yalom (white beard, round glasses) wears a grey wool overcoat over a brown cardigan instead of the brown coat; Yalom's face politely uncertain, brows lifted (not knitted), a courteous closed-lip smile, head tilted slightly; Monica turns her head toward Alvin and smiles at him, eyes normal-sized with soft crinkles, an even smile; the handshake is two clearly drawn right hands clasped, each thumb visible on top, fingers wrapped round the other's palm, no extra fingertips. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom; faces never scowling, no smirk, no stare into the lens. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no numbers, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep Alvin's face and open grateful smile, his silver hair, dark suit and tie, the cream Panama hat held to his chest in his own left hand at picture right, Monica's face and pale blonde bun, the backyard lawn, folding chairs, house and the open wooden garden gate behind the couple unchanged. Change only: pull the camera back slightly so Monica is fully inside the frame with clear space between her shoulder and the right edge; Yalom (white beard, round glasses) wears a grey wool overcoat over a brown cardigan instead of the brown coat; Yalom's face politely uncertain, brows lifted (not knitted), a courteous closed-lip smile, head tilted slightly; Monica turns her head toward Alvin and smiles at him, eyes normal-sized with soft crinkles, an even smile; the handshake is two clearly drawn right hands clasped, each thumb visible on top, fingers wrapped round the other's palm, no extra fingertips. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom; faces never scowling, no smirk, no stare into the lens. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no numbers, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+  },
+  {
+    "shot": "R14",
+    "file": "assets/flow2k_raw/molly-v2/R14/bk5-1.png",
+    "res": "1K",
+    "scores": {
+      "beat": 8,
+      "character": 7.5,
+      "cinematic": 8,
+      "style": 8,
+      "technical": 8.5,
+      "readability": 7.5
+    },
+    "total": 7.92,
+    "pass": false,
+    "defects": [
+      "Yalom drawn balding with thin hair on top; refs show a full head of silver hair",
+      "top of his head cut by the frame",
+      "Alvin and Monica at the extreme right (~92%), Monica touching the edge; the house they walk toward is not visible",
+      "framed portrait still drawn in the glossy style, not a faded snapshot"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's puzzled face, lifted brows, eyes up and to the side, hand at the chin, round glasses, white beard, grey tweed coat, the fence, gate, street, lilies and golden light unchanged. Change only: give Yalom a full head of silver-white hair swept back, like his beard, with the whole head inside the frame and a little headroom; move Alvin (Panama hat, dark suit) and Monica (pale blonde bun, black dress) left to about 70 percent across, both fully in frame, walking side by side toward the corner of a two-storey wood-and-stucco house now visible at the right; the framed portrait looks like a faded real photo with a white border. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom; faces never scowling, no smirk, no stare into the lens. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no numbers, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's puzzled face, lifted brows, eyes up and to the side, hand at the chin, round glasses, white beard, grey tweed coat, the fence, gate, street, lilies and golden light unchanged. Change only: give Yalom a full head of silver-white hair swept back, like his beard, with the whole head inside the frame and a little headroom; move Alvin (Panama hat, dark suit) and Monica (pale blonde bun, black dress) left to about 70 percent across, both fully in frame, walking side by side toward the corner of a two-storey wood-and-stucco house now visible at the right; the framed portrait looks like a faded real photo with a white border. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom; faces never scowling, no smirk, no stare into the lens. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no numbers, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+  }
+]

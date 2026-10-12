@@ -1,0 +1,106 @@
+[
+ {
+  "shot": "R17",
+  "file": "assets/flow2k_raw/molly-v2/R17/bk3-1.png",
+  "scores": {
+   "beat": 8,
+   "character": 7,
+   "cinematic": 7.5,
+   "style": 7,
+   "technical": 7,
+   "readability": 8
+  },
+  "total": 7.45,
+  "pass": false,
+  "defects": [
+   "Aged Yalom (by the gate, grey overcoat, white beard, glasses) wears a broad toothy grin at a memorial; emotion mismatches the beat",
+   "House is a one-storey bungalow, not the two-storey wood-and-stucco house of the shared set; Yalom stands at the left edge by the gate rather than at the back of the crowd",
+   "Light is muted ochre/sepia dusk, not a brilliantly sunny afternoon; flat, no foreground framing or depth layering",
+   "Posed ring staging: standing guests form a neat semicircle around the chairs, chairs face in inconsistent directions",
+   "Line style reads as Western comic illustration (thick uniform outlines, flat fill) rather than the AOT cel look; small faces mushy at 1K",
+   "Right-side crying couple adds a candid moment (plus)",
+   "Watermark check ok (flow_unsparkle --check ok; no star seen in bottom-right); no readable text"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep the high-angle wide composition, the backyard lawn, the wooden fence and open garden gate onto the street with parked modern cars, the folding chairs, the guests in dark clothes and suits, the flower table with white lilies and the framed portrait of an elderly woman, and the aged Yalom (about 80, silver hair, white beard, round glasses, grey overcoat) by the fence. Change only: Yalom's face to quiet, solemn grief (brows lifted slightly at the inner corners, eyes lowered toward the portrait table, mouth closed and relaxed, no smile); make the house behind a two-storey wood-and-stucco California house; brighten the light to a brilliant late-afternoon sun with clear warm highlights and long soft shadows, green natural grass instead of ochre; loosen the staging so guests stand in small irregular clusters, some turned to each other, chairs in neat rows facing the table; add an out-of-focus tree branch in the top foreground for depth; AOT Wit Studio cel shading with finer line weight. No text, no headstones, no cemetery, no coffin.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the high-angle wide composition, the backyard lawn, the wooden fence and open garden gate onto the street with parked modern cars, the folding chairs, the guests in dark clothes and suits, the flower table with white lilies and the framed portrait of an elderly woman, and the aged Yalom (about 80, silver hair, white beard, round glasses, grey overcoat) by the fence. Change only: Yalom's face to quiet, solemn grief (brows lifted slightly at the inner corners, eyes lowered toward the portrait table, mouth closed and relaxed, no smile); make the house behind a two-storey wood-and-stucco California house; brighten the light to a brilliant late-afternoon sun with clear warm highlights and long soft shadows, green natural grass instead of ochre; loosen the staging so guests stand in small irregular clusters, some turned to each other, chairs in neat rows facing the table; add an out-of-focus tree branch in the top foreground for depth; AOT Wit Studio cel shading with finer line weight. No text, no headstones, no cemetery, no coffin.",
+  "res": "1K"
+ },
+ {
+  "shot": "R17",
+  "file": "assets/flow2k_raw/molly-v2/R17/bk3-2.png",
+  "scores": {
+   "beat": 8,
+   "character": 7,
+   "cinematic": 7,
+   "style": 7,
+   "technical": 7,
+   "readability": 8
+  },
+  "total": 7.35,
+  "pass": false,
+  "defects": [
+   "Aged Yalom (by the gate, grey overcoat, white beard, glasses) wears a broad toothy grin at a memorial; emotion mismatches the beat",
+   "House is a one-storey bungalow, not the two-storey wood-and-stucco house of the shared set; Yalom stands at the left edge by the gate rather than at the back of the crowd",
+   "Light is muted ochre/sepia dusk, not a brilliantly sunny afternoon; flat, no foreground framing or depth layering",
+   "Posed ring staging: standing guests form a neat semicircle around the chairs, chairs face in inconsistent directions",
+   "Line style reads as Western comic illustration (thick uniform outlines, flat fill) rather than the AOT cel look; small faces mushy at 1K",
+   "Right side reads as random scattered mourners, weaker than bk3-1/4",
+   "Watermark check ok (flow_unsparkle --check ok; no star seen in bottom-right); no readable text"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep the high-angle wide composition, the backyard lawn, the wooden fence and open garden gate onto the street with parked modern cars, the folding chairs, the guests in dark clothes and suits, the flower table with white lilies and the framed portrait of an elderly woman, and the aged Yalom (about 80, silver hair, white beard, round glasses, grey overcoat) by the fence. Change only: Yalom's face to quiet, solemn grief (brows lifted slightly at the inner corners, eyes lowered toward the portrait table, mouth closed and relaxed, no smile); make the house behind a two-storey wood-and-stucco California house; brighten the light to a brilliant late-afternoon sun with clear warm highlights and long soft shadows, green natural grass instead of ochre; loosen the staging so guests stand in small irregular clusters, some turned to each other, chairs in neat rows facing the table; add an out-of-focus tree branch in the top foreground for depth; AOT Wit Studio cel shading with finer line weight. No text, no headstones, no cemetery, no coffin.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the high-angle wide composition, the backyard lawn, the wooden fence and open garden gate onto the street with parked modern cars, the folding chairs, the guests in dark clothes and suits, the flower table with white lilies and the framed portrait of an elderly woman, and the aged Yalom (about 80, silver hair, white beard, round glasses, grey overcoat) by the fence. Change only: Yalom's face to quiet, solemn grief (brows lifted slightly at the inner corners, eyes lowered toward the portrait table, mouth closed and relaxed, no smile); make the house behind a two-storey wood-and-stucco California house; brighten the light to a brilliant late-afternoon sun with clear warm highlights and long soft shadows, green natural grass instead of ochre; loosen the staging so guests stand in small irregular clusters, some turned to each other, chairs in neat rows facing the table; add an out-of-focus tree branch in the top foreground for depth; AOT Wit Studio cel shading with finer line weight. No text, no headstones, no cemetery, no coffin.",
+  "res": "1K"
+ },
+ {
+  "shot": "R17",
+  "file": "assets/flow2k_raw/molly-v2/R17/bk3-3.png",
+  "scores": {
+   "beat": 7.5,
+   "character": 7,
+   "cinematic": 6.5,
+   "style": 7,
+   "technical": 6,
+   "readability": 8
+  },
+  "total": 6.98,
+  "pass": false,
+  "defects": [
+   "Aged Yalom (by the gate, grey overcoat, white beard, glasses) wears a broad toothy grin at a memorial; emotion mismatches the beat",
+   "House is a one-storey bungalow, not the two-storey wood-and-stucco house of the shared set; Yalom stands at the left edge by the gate rather than at the back of the crowd",
+   "Light is muted ochre/sepia dusk, not a brilliantly sunny afternoon; flat, no foreground framing or depth layering",
+   "Posed ring staging: standing guests form a neat semicircle around the chairs, chairs face in inconsistent directions",
+   "Line style reads as Western comic illustration (thick uniform outlines, flat fill) rather than the AOT cel look; small faces mushy at 1K",
+   "Right third is an empty, oversaturated ochre lawn with orphan shadows whose casters are off-frame; unbalanced composition",
+   "Watermark check ok (flow_unsparkle --check ok; no star seen in bottom-right); no readable text"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep the high-angle wide composition, the backyard lawn, the wooden fence and open garden gate onto the street with parked modern cars, the folding chairs, the guests in dark clothes and suits, the flower table with white lilies and the framed portrait of an elderly woman, and the aged Yalom (about 80, silver hair, white beard, round glasses, grey overcoat) by the fence. Change only: Yalom's face to quiet, solemn grief (brows lifted slightly at the inner corners, eyes lowered toward the portrait table, mouth closed and relaxed, no smile); make the house behind a two-storey wood-and-stucco California house; brighten the light to a brilliant late-afternoon sun with clear warm highlights and long soft shadows, green natural grass instead of ochre; loosen the staging so guests stand in small irregular clusters, some turned to each other, chairs in neat rows facing the table; add an out-of-focus tree branch in the top foreground for depth; AOT Wit Studio cel shading with finer line weight. No text, no headstones, no cemetery, no coffin.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the high-angle wide composition, the backyard lawn, the wooden fence and open garden gate onto the street with parked modern cars, the folding chairs, the guests in dark clothes and suits, the flower table with white lilies and the framed portrait of an elderly woman, and the aged Yalom (about 80, silver hair, white beard, round glasses, grey overcoat) by the fence. Change only: Yalom's face to quiet, solemn grief (brows lifted slightly at the inner corners, eyes lowered toward the portrait table, mouth closed and relaxed, no smile); make the house behind a two-storey wood-and-stucco California house; brighten the light to a brilliant late-afternoon sun with clear warm highlights and long soft shadows, green natural grass instead of ochre; loosen the staging so guests stand in small irregular clusters, some turned to each other, chairs in neat rows facing the table; add an out-of-focus tree branch in the top foreground for depth; AOT Wit Studio cel shading with finer line weight. No text, no headstones, no cemetery, no coffin.",
+  "res": "1K"
+ },
+ {
+  "shot": "R17",
+  "file": "assets/flow2k_raw/molly-v2/R17/bk3-4.png",
+  "scores": {
+   "beat": 8,
+   "character": 7,
+   "cinematic": 7.5,
+   "style": 7,
+   "technical": 7,
+   "readability": 8
+  },
+  "total": 7.45,
+  "pass": false,
+  "defects": [
+   "Aged Yalom (by the gate, grey overcoat, white beard, glasses) wears a broad toothy grin at a memorial; emotion mismatches the beat",
+   "House is a one-storey bungalow, not the two-storey wood-and-stucco house of the shared set; Yalom stands at the left edge by the gate rather than at the back of the crowd",
+   "Light is muted ochre/sepia dusk, not a brilliantly sunny afternoon; flat, no foreground framing or depth layering",
+   "Posed ring staging: standing guests form a neat semicircle around the chairs, chairs face in inconsistent directions",
+   "Line style reads as Western comic illustration (thick uniform outlines, flat fill) rather than the AOT cel look; small faces mushy at 1K",
+   "Right-side consoling couple adds a candid moment (plus)",
+   "Watermark check ok (flow_unsparkle --check ok; no star seen in bottom-right); no readable text"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep the high-angle wide composition, the backyard lawn, the wooden fence and open garden gate onto the street with parked modern cars, the folding chairs, the guests in dark clothes and suits, the flower table with white lilies and the framed portrait of an elderly woman, and the aged Yalom (about 80, silver hair, white beard, round glasses, grey overcoat) by the fence. Change only: Yalom's face to quiet, solemn grief (brows lifted slightly at the inner corners, eyes lowered toward the portrait table, mouth closed and relaxed, no smile); make the house behind a two-storey wood-and-stucco California house; brighten the light to a brilliant late-afternoon sun with clear warm highlights and long soft shadows, green natural grass instead of ochre; loosen the staging so guests stand in small irregular clusters, some turned to each other, chairs in neat rows facing the table; add an out-of-focus tree branch in the top foreground for depth; AOT Wit Studio cel shading with finer line weight. No text, no headstones, no cemetery, no coffin.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the high-angle wide composition, the backyard lawn, the wooden fence and open garden gate onto the street with parked modern cars, the folding chairs, the guests in dark clothes and suits, the flower table with white lilies and the framed portrait of an elderly woman, and the aged Yalom (about 80, silver hair, white beard, round glasses, grey overcoat) by the fence. Change only: Yalom's face to quiet, solemn grief (brows lifted slightly at the inner corners, eyes lowered toward the portrait table, mouth closed and relaxed, no smile); make the house behind a two-storey wood-and-stucco California house; brighten the light to a brilliant late-afternoon sun with clear warm highlights and long soft shadows, green natural grass instead of ochre; loosen the staging so guests stand in small irregular clusters, some turned to each other, chairs in neat rows facing the table; add an out-of-focus tree branch in the top foreground for depth; AOT Wit Studio cel shading with finer line weight. No text, no headstones, no cemetery, no coffin.",
+  "res": "1K"
+ }
+]

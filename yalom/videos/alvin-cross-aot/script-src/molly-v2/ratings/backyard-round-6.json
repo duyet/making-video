@@ -1,0 +1,175 @@
+[
+  {
+    "shot": "R10",
+    "file": "assets/flow2k_raw/molly-v2/R10/bk6-1.jpg (was .png at assignment; converted on disk during review)",
+    "scores": {
+      "beat": 8,
+      "character": 9,
+      "cinematic": 7.5,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 8.45,
+    "pass": false,
+    "defects": [
+      "Framing nearly duplicates R11 (same gate-left medium-wide angle, same Alvin/Monica placement), so cutting R10 into R11 breaks the variety rule",
+      "Yalom reads as standing by the gate and glancing sideways rather than walking briskly",
+      "Alvin and Monica stand prominently mid-frame, facing him, which anticipates R11",
+      "Friends at the car are small and partly hidden behind the fence"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's face, grey overcoat, brown cardigan, round glasses, the watch and the keys, the backyard, fence, house and golden backlight. Change only the following: pull back to a full-figure wide shot with Yalom mid-stride across the lawn toward the open wooden gate on the left, eyes down on his watch. Show the two friends clearly on the sidewalk beyond the gate beside a parked car, one holding a small travel bag. Move Alvin (Panama hat) and Monica deep into the background, small, turned toward other guests and not looking at Yalom. No text.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's face, grey overcoat, brown cardigan, round glasses, the watch and the keys, the backyard, fence, house and golden backlight. Change only the following: pull back to a full-figure wide shot with Yalom mid-stride across the lawn toward the open wooden gate on the left, eyes down on his watch. Show the two friends clearly on the sidewalk beyond the gate beside a parked car, one holding a small travel bag. Move Alvin (Panama hat) and Monica deep into the background, small, turned toward other guests and not looking at Yalom. No text.",
+    "res": "1K"
+  },
+  {
+    "shot": "R10",
+    "file": "assets/flow2k_raw/molly-v2/R10/bk6-2.png",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 8.9,
+    "pass": false,
+    "defects": [
+      "Just under the bar: Alvin and Monica are large mid-right and Alvin is turned toward Yalom with a gesturing hand, so he seems about to approach",
+      "The two friends look about 40, far younger than Yalom's peers",
+      "Composition is a little flat and evenly spaced"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep everything (Yalom mid-stride with watch and keys, the open gate, the friends with the travel bag at the curb, the backyard and the light). Change only the following: make the two friends at the curb men in their late 70s with grey hair. Shrink Alvin (Panama hat) and Monica a little, and turn them in conversation toward the couple behind them, eyes off Yalom, with Alvin's hand lowered. No text.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep everything (Yalom mid-stride with watch and keys, the open gate, the friends with the travel bag at the curb, the backyard and the light). Change only the following: make the two friends at the curb men in their late 70s with grey hair. Shrink Alvin (Panama hat) and Monica a little, and turn them in conversation toward the couple behind them, eyes off Yalom, with Alvin's hand lowered. No text.",
+    "res": "1K"
+  },
+  {
+    "shot": "R14",
+    "file": "assets/flow2k_raw/molly-v2/R14/bk6-1.png",
+    "scores": {
+      "beat": 9.5,
+      "character": 8.5,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 8.5
+    },
+    "total": 8.97,
+    "pass": false,
+    "defects": [
+      "Monica's hair is pale blonde here but silver-grey in the passing R11/R10 set (continuity break)",
+      "Monica's back is clipped by the right frame edge"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's face, puzzled expression, hand at his chin, glasses and coat, Alvin from behind in the Panama hat, the backyard and the light. Change only the following: make Monica's hair silver-grey in a low bun, matching the previous shots, and shift the walking couple slightly left so that Monica sits fully inside the frame with a margin on the right. No text.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's face, puzzled expression, hand at his chin, glasses and coat, Alvin from behind in the Panama hat, the backyard and the light. Change only the following: make Monica's hair silver-grey in a low bun, matching the previous shots, and shift the walking couple slightly left so that Monica sits fully inside the frame with a margin on the right. No text.",
+    "res": "1K"
+  },
+  {
+    "shot": "R14",
+    "file": "assets/flow2k_raw/molly-v2/R14/bk6-2.png",
+    "scores": {
+      "beat": 9.5,
+      "character": 9.5,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 8.5
+    },
+    "total": 9.18,
+    "pass": true,
+    "defects": [
+      "Minor: Monica's right shoulder is near the right frame edge"
+    ],
+    "revised_prompt": "",
+    "edit_prompt": "",
+    "res": "1K"
+  },
+  {
+    "shot": "R13",
+    "file": "assets/flow2k_raw/molly-v2/R13/bk6-1.png",
+    "scores": {
+      "beat": 5,
+      "character": 8,
+      "cinematic": 8,
+      "style": 9,
+      "technical": 2,
+      "readability": 8
+    },
+    "total": 0.0,
+    "pass": false,
+    "defects": [
+      "HARD FAIL: Alvin has three hands. His right hand holds the hat to his chest, his left arm is around Monica's shoulder, and a third hand shakes Yalom's",
+      "The hat is in Alvin's right hand (picture left), not his left",
+      "Monica smiles at Yalom, not at Alvin"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep the over-the-shoulder framing, Yalom from behind, Alvin's warm face, Monica's face, the backyard, the house and the light. Change only the following: Alvin has exactly two hands. His RIGHT hand (picture left) shakes Yalom's right hand, with five fingers each. His LEFT hand (picture right) holds the Panama hat against his chest. Remove the arm around Monica. Monica stands beside him, head turned up toward Alvin, smiling at him. No text.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep the over-the-shoulder framing, Yalom from behind, Alvin's warm face, Monica's face, the backyard, the house and the light. Change only the following: Alvin has exactly two hands. His RIGHT hand (picture left) shakes Yalom's right hand, with five fingers each. His LEFT hand (picture right) holds the Panama hat against his chest. Remove the arm around Monica. Monica stands beside him, head turned up toward Alvin, smiling at him. No text.",
+    "res": "1K"
+  },
+  {
+    "shot": "R13",
+    "file": "assets/flow2k_raw/molly-v2/R13/bk6-2.png",
+    "scores": {
+      "beat": 8.5,
+      "character": 9,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 9
+    },
+    "total": 8.7,
+    "pass": false,
+    "defects": [
+      "Yalom's profile shows an open, friendly smile rather than polite uncertainty, and his brows are not visible",
+      "The handshake is small and slightly fused, although no extra fingers are visible",
+      "The reverse angle shows the street, not the son's house or memorial guests, so the set reads only weakly as the memorial"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep the framing, Alvin's warm smile, the hat in his left hand (picture right), the handshake, Monica smiling up at Alvin, the gate, the fence and the light. Change only the following: turn Yalom's head a few degrees toward camera so that his brow shows, lifted and uncertain, with a courteous closed-lip smile and his head tilted slightly. Draw the handshake clearly: Yalom's right hand and Alvin's right hand clasped, with one thumb on top for each. Add a few small guests in dark clothes and a folding chair in the soft background on the lawn. No text.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep the framing, Alvin's warm smile, the hat in his left hand (picture right), the handshake, Monica smiling up at Alvin, the gate, the fence and the light. Change only the following: turn Yalom's head a few degrees toward camera so that his brow shows, lifted and uncertain, with a courteous closed-lip smile and his head tilted slightly. Draw the handshake clearly: Yalom's right hand and Alvin's right hand clasped, with one thumb on top for each. Add a few small guests in dark clothes and a folding chair in the soft background on the lawn. No text.",
+    "res": "1K"
+  },
+  {
+    "shot": "R13",
+    "file": "assets/flow2k_raw/molly-v2/R13/bk6-3.png",
+    "scores": {
+      "beat": 7,
+      "character": 9,
+      "cinematic": 8,
+      "style": 9,
+      "technical": 9,
+      "readability": 7.5
+    },
+    "total": 8.15,
+    "pass": false,
+    "defects": [
+      "Monica is cut in half by the right frame edge (brief requires her fully in frame)",
+      "Yalom's eyes are squeezed shut in a broad smile, which reads as delight rather than polite uncertainty",
+      "Monica looks toward Yalom or camera rather than at Alvin"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's back and coat, Alvin's warm face, the hat in his left hand (picture right), the handshake, the backyard and the light. Change only the following: widen the framing to the right, or move Alvin and Monica left, so that Monica is fully in frame from head to waist beside Alvin, head turned toward him and smiling at him. Give Yalom's visible profile open eyes, lifted brows and a small courteous closed smile, politely unsure. No text.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's back and coat, Alvin's warm face, the hat in his left hand (picture right), the handshake, the backyard and the light. Change only the following: widen the framing to the right, or move Alvin and Monica left, so that Monica is fully in frame from head to waist beside Alvin, head turned toward him and smiling at him. Give Yalom's visible profile open eyes, lifted brows and a small courteous closed smile, politely unsure. No text.",
+    "res": "1K"
+  },
+  {
+    "shot": "R13",
+    "file": "assets/flow2k_raw/molly-v2/R13/bk6-4.png",
+    "scores": {
+      "beat": 7.5,
+      "character": 9,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 9,
+      "readability": 8
+    },
+    "total": 8.43,
+    "pass": false,
+    "defects": [
+      "Monica's bun and right shoulder are cut by the right frame edge, so she is not fully in frame",
+      "Yalom shows a broad warm smile instead of polite uncertainty"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep everything (the open gate, Yalom from behind, Alvin's grateful face, the hat in his left hand, the handshake, Monica smiling at Alvin, the house and the light). Change only the following: shift Alvin and Monica slightly left so that Monica's whole head, bun and shoulders sit inside the frame with a margin on the right. Give Yalom lifted brows and a small courteous closed-lip smile, his head tilted slightly, polite but unsure. No text.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep everything (the open gate, Yalom from behind, Alvin's grateful face, the hat in his left hand, the handshake, Monica smiling at Alvin, the house and the light). Change only the following: shift Alvin and Monica slightly left so that Monica's whole head, bun and shoulders sit inside the frame with a margin on the right. Give Yalom lifted brows and a small courteous closed-lip smile, his head tilted slightly, polite but unsure. No text.",
+    "res": "1K"
+  }
+]

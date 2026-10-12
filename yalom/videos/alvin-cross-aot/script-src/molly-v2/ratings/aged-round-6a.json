@@ -1,0 +1,95 @@
+[
+  {
+    "shot": "R13",
+    "file": "assets/flow2k_raw/molly-v2/R13/r6-1.png",
+    "res": "1K",
+    "scores": {
+      "beat": 8.5,
+      "character": 8.5,
+      "cinematic": 7,
+      "style": 8.5,
+      "technical": 8,
+      "readability": 7.5
+    },
+    "total": 8.0,
+    "pass": false,
+    "defects": [
+      "Yalom's face and body sit in the right-most fifth and his shoulder is cut by the right edge, leaving no room for a Ken Burns move",
+      "posed, near-symmetrical staging, with Alvin square to the camera and rim light on every edge (AI tells); not the candid over-the-shoulder version that storyboard-fixes asked for",
+      "the cemetery reads only from small background headstones, and there is no blurred blank headstone in the foreground",
+      "faint pseudo-inscription smudges on three background headstones (not readable)",
+      "the handshake clasp is a little mushy, with Yalom's fingertips bunched under Alvin's hand; all 6 hands are accounted for (Monica 2 gloved, Alvin hat and shake, Yalom shake and pocket)",
+      "Alvin matches R12 well: bareheaded, hat in left hand, black tie. Monica is speaking warmly, golden hour, no fog, no star (check ok)"
+    ],
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep Monica, Alvin (bareheaded, cream Panama hat held to his chest in his left hand, dark overcoat, white shirt, black tie, same face), aged Yalom (white swept-back hair, beard, round glasses, grey overcoat over brown cardigan), the handshake, the willows and the golden backlight exactly the same, and change only: (1) shift the whole group left so Yalom's head and shoulders sit fully inside the frame around 65-75 percent across, with an empty strip of sunlit willow and lawn in the right-most fifth; (2) make it unmistakably a cemetery: add several more small out-of-focus headstones on the lawn behind the group and one large blurred headstone edge in the left foreground, every stone perfectly smooth and blank with no marks, carving or letters; (3) make it candid rather than posed: Alvin's eyes on Yalom, not the camera, Yalom's brows raised in puzzlement, warm side light rather than rim light on every edge. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+  },
+  {
+    "shot": "R13",
+    "file": "assets/flow2k_raw/molly-v2/R13/r6-2.png",
+    "res": "1K",
+    "scores": {
+      "beat": 8,
+      "character": 8.5,
+      "cinematic": 7.5,
+      "style": 8.5,
+      "technical": 8,
+      "readability": 7.5
+    },
+    "total": 8.0,
+    "pass": false,
+    "defects": [
+      "near-duplicate of r6-1, with the same posed staging and Yalom pushed into the right-most fifth and cut by the frame edge",
+      "fewer headstones than r6-1 (about 4, small), so the cemetery reads weaker; still no foreground blank headstone",
+      "the left headstone carries a three-line pseudo-inscription smudge (not readable)",
+      "the willow frond in the top-left foreground adds a little depth",
+      "the handshake clasp is slightly mushy; the hand count is correct at 6. Alvin matches R12; no star (check ok)"
+    ],
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep Monica, Alvin (bareheaded, cream Panama hat held to his chest in his left hand, dark overcoat, white shirt, black tie, same face), aged Yalom (white swept-back hair, beard, round glasses, grey overcoat over brown cardigan), the handshake, the willows and the golden backlight exactly the same, and change only: (1) shift the whole group left so Yalom's head and shoulders sit fully inside the frame around 65-75 percent across, with an empty strip of sunlit willow and lawn in the right-most fifth; (2) make it unmistakably a cemetery: add several more small out-of-focus headstones on the lawn behind the group and one large blurred headstone edge in the left foreground, every stone perfectly smooth and blank with no marks, carving or letters; (3) make it candid rather than posed: Alvin's eyes on Yalom, not the camera, Yalom's brows raised in puzzlement, warm side light rather than rim light on every edge. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+  },
+  {
+    "shot": "R15",
+    "file": "assets/flow2k_raw/molly-v2/R15/r6-1.png",
+    "res": "1K",
+    "scores": {
+      "beat": 7.5,
+      "character": 8,
+      "cinematic": 7.5,
+      "style": 8.5,
+      "technical": 8.5,
+      "readability": 7.5
+    },
+    "total": 7.9,
+    "pass": false,
+    "defects": [
+      "the frame-within-frame is weak: the right door band is only a thin black strip at the very edge, which reads like a side bar rather than a door frame",
+      "Yalom's hand, the open drawer and the cabinet sit in the right-most fifth, and the cabinet is cropped by the edge",
+      "the brass dome lamp is at the far-left end of the desk, so it does not light the drawer or his face; the room is evenly lit rather than one warm practical against moonlight",
+      "he wears a brown pullover, not M05's buttoned cardigan, and there is no overcoat over the chair",
+      "the face, hair and glasses match aged Yalom (M05); the tabs are blank; no star (check ok)"
+    ],
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep aged Yalom (silver-white swept-back hair, beard, round glasses), the open grey filing-cabinet drawer with blank tan folders, the bookshelves, the leather armchair, the night window, the desk and the dark door band on the left exactly the same, and change only: (1) add a matching dark door-frame silhouette on the right about as wide as the left one, and move Yalom and the filing cabinet left so the cabinet stands at about 60-75 percent across, fully visible inside the doorway, with nothing important in the right-most fifth; (2) keep exactly ONE brass dome-shaded desk lamp, moved to the end of the desk right beside the cabinet, its warm pool lighting the open drawer, his hands, the side of his face and his glasses; remove any other lamp; (3) make the rest of the room much darker: deep shadow with cool blue moonlight from the window, so the lamp is the only warm light; (4) dress him in a buttoned brown cardigan over a collared shirt, with a grey overcoat draped over the leather armchair. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, heavy black ink shadows, flat cel shading, no text, no letters, no labels on folders, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+  },
+  {
+    "shot": "R15",
+    "file": "assets/flow2k_raw/molly-v2/R15/r6-2.png",
+    "res": "1K",
+    "scores": {
+      "beat": 7.5,
+      "character": 8,
+      "cinematic": 7.5,
+      "style": 8.5,
+      "technical": 8,
+      "readability": 7.5
+    },
+    "total": 7.8,
+    "pass": false,
+    "defects": [
+      "there are now two brass dome lamps: one on the desk and a second floating against the bookshelf behind the cabinet (duplicated prop, odd placement)",
+      "the right door band is a hairline strip, so the frame-within-frame is still only one-sided",
+      "the cabinet, drawer and hand are in the right-most fifth and the cabinet is cropped by the edge",
+      "the room is still evenly lit; the warm pool reaches the drawer but not his face or glasses",
+      "brown pullover instead of the cardigan, and no overcoat on the chair. The face matches M05; no star (check ok)"
+    ],
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep aged Yalom (silver-white swept-back hair, beard, round glasses), the open grey filing-cabinet drawer with blank tan folders, the bookshelves, the leather armchair, the night window, the desk and the dark door band on the left exactly the same, and change only: (1) add a matching dark door-frame silhouette on the right about as wide as the left one, and move Yalom and the filing cabinet left so the cabinet stands at about 60-75 percent across, fully visible inside the doorway, with nothing important in the right-most fifth; (2) keep exactly ONE brass dome-shaded desk lamp, moved to the end of the desk right beside the cabinet, its warm pool lighting the open drawer, his hands, the side of his face and his glasses; remove any other lamp; (3) make the rest of the room much darker: deep shadow with cool blue moonlight from the window, so the lamp is the only warm light; (4) dress him in a buttoned brown cardigan over a collared shirt, with a grey overcoat draped over the leather armchair. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, heavy black ink shadows, flat cel shading, no text, no letters, no labels on folders, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "shot": "R41",
+    "replaces": "F27",
+    "file": "assets/flow2k_raw/molly-v2/R41/r5-1.png",
+    "scores": {
+      "beat": 9.5,
+      "character": 9,
+      "cinematic": 8.5,
+      "style": 8.5,
+      "technical": 8.5,
+      "readability": 9
+    },
+    "total": 8.9,
+    "defects": [
+      "The requested 10-degree dutch tilt is gone: frame is level, so the nightmare reads flatter than r3-3/r5-3",
+      "Raven's leg on the reflection's left shoulder is drawn as a knotted rope-like strand (about x=870-930,y=700-830 full size)",
+      "Heavier western-comic grime and drip hatching on tiles and mirror than the AOT redraw set"
+    ],
+    "minor": [
+      "Gaze fixed: reflection in three-quarter view, eyes turned toward frame right at the real Alvin",
+      "Real and reflected faces match: wide eyes, sweat drops, parted lips; same pale blond hair and same broad-striped pyjamas",
+      "Corners filled with tile, no black triangles; no text or sparkle",
+      "Long stray hatching strokes on the back of the pyjama sleeve",
+      "1K upsample: soft"
+    ],
+    "pass": false
+  },
+  {
+    "shot": "R41",
+    "replaces": "F27",
+    "file": "assets/flow2k_raw/molly-v2/R41/r5-2.png",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 9
+    },
+    "total": 8.825,
+    "defects": [
+      "Level frame, no dutch tilt",
+      "Reflection's eyes look out at the viewer, not back at the real Alvin",
+      "Right hand on the sink edge is mushy (fingers merge) and long stray curved strokes cross the pyjama sleeve and back"
+    ],
+    "minor": [
+      "Real face terrified and matching the reflection; hair the same pale blond",
+      "Clean AOT-like cel look, good bulb top light",
+      "Corners clean, no text or sparkle",
+      "1K upsample: soft"
+    ],
+    "pass": false
+  },
+  {
+    "shot": "R41",
+    "replaces": "F27",
+    "file": "assets/flow2k_raw/molly-v2/R41/r5-3.png",
+    "scores": {
+      "beat": 9.5,
+      "character": 9,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 9
+    },
+    "total": 9.05,
+    "defects": [
+      "Curved dark fold strokes across the pyjama back at lower right remain (carried from r3-3/r4-3)"
+    ],
+    "minor": [
+      "Edit worked on both asks: real Alvin's face is fearful again (wide eye, raised brow, parted lips, sweat bead) and the black corner triangles are now filled with continuous tile",
+      "Reflection head stays slightly turned to frame right with pupils near centre; with the camera just behind his shoulder this reads as looking back at himself, acceptable",
+      "Real hair now close to the reflection's pale ash blond",
+      "Filled top-right tiles bend slightly, only visible when zoomed",
+      "Keeps the dutch tilt, frame-within-frame mirror and hard bulb top light; best R41 so far",
+      "1K upsample: soft"
+    ],
+    "pass": true
+  },
+  {
+    "shot": "R45",
+    "replaces": "F18",
+    "file": "assets/flow2k_raw/molly-v2/R45/r5-1.png",
+    "scores": {
+      "beat": 9.5,
+      "character": 8.5,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 9,
+      "readability": 8.5
+    },
+    "total": 8.875,
+    "defects": [
+      "Alvin's grey is a broad silver patch over the whole side and back of the head, not a thin temple streak",
+      "Headroom still only about 25 px of 1536 above Alvin's hair (asked for 1/8 of the frame); a push-in will clip it",
+      "Left quarter is dead black doorway and the centre is a flat empty wall, so the kitchen reads less cramped and cluttered than asked"
+    ],
+    "minor": [
+      "Beat clear: Yalom mid-sentence with both hands open, Alvin turned away, arms crossed, eyes down",
+      "Hands clean on both men; paper bundles blank, tied with string; no print",
+      "Corners clean, no text or sparkle",
+      "1K upsample: soft"
+    ],
+    "pass": false
+  },
+  {
+    "shot": "R45",
+    "replaces": "F18",
+    "file": "assets/flow2k_raw/molly-v2/R45/r5-2.png",
+    "scores": {
+      "beat": 9.5,
+      "character": 9,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 8.5
+    },
+    "total": 9.075,
+    "defects": [
+      "Headroom above Alvin still small: about 35 px of 1536 (asked for 1/8 of the frame); whole head now inside the frame and clear of the right edge, but a centred push-in will graze the hair"
+    ],
+    "minor": [
+      "Beat clear: Yalom takes a step in, one hand half-raised, mid-sentence; Alvin arms crossed tight, eyes lowered, jaw set",
+      "Cramped cluttered 1982 kitchen: dishes in sink, cups, utensil jar, open cabinets; paper bundles blank, no print",
+      "Doorway frame-within-frame at the left, blinds throwing stripes, good depth; more cinematic than F18",
+      "Alvin golden blond with thin silver temples; Yalom matches the anchor with round glasses and beard",
+      "Hands clean; corners clean, no text or sparkle",
+      "1K upsample: soft"
+    ],
+    "pass": true
+  }
+]

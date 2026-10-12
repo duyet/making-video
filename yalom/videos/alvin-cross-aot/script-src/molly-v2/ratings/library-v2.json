@@ -1,0 +1,1587 @@
+[
+ {
+  "shot": "N21",
+  "file": "assets/redraw/N21.png",
+  "lines": [
+   "a01"
+  ],
+  "size": "W",
+  "angle": "eye",
+  "scores": {
+   "beat": 9,
+   "character": 7,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.5,
+  "pass": false,
+  "defects": [
+   "Yalom small at frame left; fine",
+   "cinematic: golden backlight through trees, Yalom foreground left vs crowd midground: good depth; Yalom ~50 not ~80",
+   "present day: faces not aged (Yalom ~80 / Alvin ~70 / Monica ~60 required)"
+  ],
+  "reshoot": "Extreme wide, high angle from a low hill, 24mm deep focus: the sunlit cemetery with the small crowd around the casket in the middle third, aged Yalom (~80) a lone figure standing at the edge of the crowd on the left third, long golden-hour shadows raking toward camera, lens flare through willow leaves top right, foreground out-of-focus headstone edge bottom left."
+ },
+ {
+  "shot": "B02",
+  "file": "assets/redraw/B02.png",
+  "lines": [
+   "a01"
+  ],
+  "size": "INS",
+  "angle": "eye",
+  "scores": {
+   "beat": 8.5,
+   "character": 9,
+   "cinematic": 7.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.57,
+  "pass": false,
+  "defects": [
+   "portrait insert of Molly, not the sheet's 'Yalom standing in the crowd' (N21 carries that); names whose funeral it is",
+   "sunny, matches N21; backyard table but close framing hides the location",
+   "Molly face matches the N01/M06 anchor",
+   "cinematic: centred static still-life, dappled light; illustration-like"
+  ],
+  "reshoot": "Insert, 85mm, camera low at table height: Molly's framed portrait on the right third, shallow focus, a blurred out-of-focus row of mourners and folding chairs in warm backlight behind, lily in soft foreground blur bottom left, sun flare kissing the frame edge; portrait face blank of any text."
+ },
+ {
+  "shot": "X13",
+  "file": "assets/redraw/X13.png",
+  "lines": [
+   "a02"
+  ],
+  "size": "INS",
+  "angle": "top",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 7.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.6,
+  "pass": false,
+  "defects": [
+   "papers carry pseudo-scribble, not legible",
+   "cinematic: top shot of hands on papers, flat even light"
+  ],
+  "reshoot": "Extreme close-up insert, 100mm macro feel, low 3/4 angle across the desk surface: Molly's hands squaring a stack of blank letters, a warm window shaft cutting diagonally across the paper with dust motes, everything beyond the hands melting into amber bokeh."
+ },
+ {
+  "shot": "N01",
+  "file": "assets/redraw/N01.png",
+  "lines": [
+   "a02",
+   "c07"
+  ],
+  "size": "M",
+  "angle": "eye",
+  "scores": {
+   "beat": 10,
+   "character": 9,
+   "cinematic": 7.0,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.85,
+  "pass": false,
+  "defects": [
+   "cinematic: centred, flat even light; memory not hazy"
+  ],
+  "reshoot": "Medium, 50mm, eye level from the kitchen doorway (door frame dark on the left as frame-within-frame): Molly at the table sorting blank cards on the right third, backlit by the window so her hair has a soft rim, gentle memory haze and bloom, warm golden palette."
+ },
+ {
+  "shot": "N02",
+  "file": "assets/redraw/N02.png",
+  "lines": [
+   "a02"
+  ],
+  "size": "W",
+  "angle": "eye",
+  "scores": {
+   "beat": 10,
+   "character": 9,
+   "cinematic": 7.5,
+   "style": 9,
+   "technical": 8,
+   "readability": 9
+  },
+  "total": 8.8,
+  "pass": false,
+  "defects": [
+   "workman's pole saw slightly ambiguous",
+   "cinematic: busy, flat midday light, no focal hierarchy"
+  ],
+  "reshoot": "Wide, 35mm, low angle from the lawn: Molly in the foreground right third pointing up with authority, the workman on the ladder in the oak framed against the sky, Yalom small on the porch in the left background with a helpless shrug; golden afternoon backlight through the branches, long shadows."
+ },
+ {
+  "shot": "B03",
+  "file": "assets/redraw/B03.png",
+  "lines": [
+   "a02"
+  ],
+  "size": "M",
+  "angle": "eye",
+  "scores": {
+   "beat": 7,
+   "character": 6.5,
+   "cinematic": 8.0,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 7.8,
+  "pass": false,
+  "defects": [
+   "cue is 'khiến ông phát điên' but Yalom reads sad and downcast, not wry",
+   "backyard funeral with white folding chairs vs N21's cemetery (location jump on the 'cut back to the funeral')",
+   "cardigan only, no grey overcoat (N21/F22/F20 have it)",
+   "present day: Yalom looks ~50, not ~80 (aged redraw pending)",
+   "cinematic: layered foreground shoulders, telephoto feel; wrong location/costume/age",
+   "present day: faces not aged (Yalom ~80 / Alvin ~70 / Monica ~60 required)"
+  ],
+  "reshoot": "Medium close-up, 135mm telephoto between two out-of-focus mourners' shoulders at the N21 cemetery: aged Yalom (~80) in grey overcoat seated, a wry rueful half-smile, golden-hour rim light on his silver hair and glasses, background willows as soft bokeh."
+ },
+ {
+  "shot": "F22",
+  "file": "assets/redraw/F22.png",
+  "lines": [
+   "a03"
+  ],
+  "size": "W",
+  "angle": "eye",
+  "scores": {
+   "beat": 8,
+   "character": 8,
+   "cinematic": 8.0,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.35,
+  "pass": false,
+  "defects": [
+   "mist with sun glow, not a clear sunny afternoon; fog fx makes it greyer",
+   "Yalom small",
+   "cinematic: leading path, lonely back view; grey mist breaks the sunny mood map"
+  ],
+  "reshoot": "Wide, 24mm, eye level behind him: aged Yalom walking away down the curving cemetery path (leading line to the right third), long golden-hour shadow stretching back toward camera, sun low ahead creating a soft backlit halo and flare, willows framing both sides, no fog."
+ },
+ {
+  "shot": "N03",
+  "file": "assets/redraw/N03.png",
+  "lines": [
+   "a03"
+  ],
+  "size": "MW",
+  "angle": "eye",
+  "scores": {
+   "beat": 10,
+   "character": 6.5,
+   "cinematic": 7.5,
+   "style": 9,
+   "technical": 8,
+   "readability": 9
+  },
+  "total": 8.3,
+  "pass": false,
+  "defects": [
+   "Panama hat present; good",
+   "cinematic: gate gives a partial frame, flat mist",
+   "present day: faces not aged (Yalom ~80 / Alvin ~70 / Monica ~60 required)"
+  ],
+  "reshoot": "Medium-wide, 50mm, through the open iron cemetery gate (bars as frame-within-frame, soft in the foreground): aged Alvin (~70) with Panama hat and Monica (~60) walking toward aged Yalom on the left third, warm golden backlight, long shadows across the path, no fog."
+ },
+ {
+  "shot": "X10",
+  "file": "assets/redraw/X10.png",
+  "lines": [
+   "a04"
+  ],
+  "size": "CU",
+  "angle": "eye",
+  "scores": {
+   "beat": 9,
+   "character": 7,
+   "cinematic": 7.0,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.1,
+  "pass": false,
+  "defects": [
+   "mist; hat held in hand (good continuity from N03)",
+   "cinematic: centred, flat grey mist",
+   "present day: faces not aged (Yalom ~80 / Alvin ~70 / Monica ~60 required)"
+  ],
+  "reshoot": "Close-up, 85mm, slightly low angle: aged Alvin (~70) on the right third, Panama hat pressed to his chest, warm golden side light carving his lined face, background a creamy bokeh of willows and sun flare, negative space on the left where Yalom stands off frame."
+ },
+ {
+  "shot": "R04",
+  "file": "assets/flow2k_raw/molly-v2/R04/r1-1.png",
+  "lines": [
+   "a04"
+  ],
+  "size": "M",
+  "angle": "eye",
+  "scores": {
+   "beat": 9,
+   "character": 7.5,
+   "cinematic": 7.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 8.5
+  },
+  "total": 8.28,
+  "pass": false,
+  "defects": [
+   "Alvin's hair is pale ash-blond, nearly silver overall; temples barely distinct",
+   "left and right headstones carry dash marks (not legible)",
+   "Alvin's smile slightly smug rather than grateful",
+   "cinematic: symmetric three-shot, even light",
+   "present day: faces not aged (Yalom ~80 / Alvin ~70 / Monica ~60 required)"
+  ],
+  "reshoot": "Medium, 50mm, over Yalom's shoulder (his grey coat soft in the left foreground): aged Alvin and Monica facing camera, handshake in the lower centre, Monica's warm smile to her husband, golden backlight rims all three, Yalom's puzzled profile partly visible."
+ },
+ {
+  "shot": "F15",
+  "file": "assets/redraw/F15.png",
+  "lines": [
+   "a04"
+  ],
+  "size": "INS",
+  "angle": "eye",
+  "scores": {
+   "beat": 8,
+   "character": 9,
+   "cinematic": 7.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.45,
+  "pass": false,
+  "defects": [
+   "arm touch, not the sheet's handshake; fog",
+   "cinematic: insert of an arm touch; misty"
+  ],
+  "reshoot": "Insert, 100mm: Monica's gloved hand resting gratefully on Yalom's grey coat sleeve, shallow focus, golden backlight through the fabric edges, background a warm blur of willows; no fog."
+ },
+ {
+  "shot": "F20",
+  "file": "assets/redraw/F20.png",
+  "lines": [
+   "a05"
+  ],
+  "size": "MCU",
+  "angle": "eye",
+  "scores": {
+   "beat": 9,
+   "character": 7,
+   "cinematic": 7.5,
+   "style": 9,
+   "technical": 8,
+   "readability": 8
+  },
+  "total": 8.05,
+  "pass": false,
+  "defects": [
+   "fog; hand-on-chin clean",
+   "cinematic: telephoto bokeh; misty grey",
+   "present day: faces not aged (Yalom ~80 / Alvin ~70 / Monica ~60 required)"
+  ],
+  "reshoot": "Medium close-up, 135mm telephoto, aged Yalom (~80) on the left third, hand at his beard, eyes searching, soft golden side light, the departing couple as two out-of-focus silhouettes in the right background."
+ },
+ {
+  "shot": "X03",
+  "file": "assets/redraw/X03.png",
+  "lines": [
+   "a06"
+  ],
+  "size": "MW",
+  "angle": "eye",
+  "scores": {
+   "beat": 10,
+   "character": 7,
+   "cinematic": 8.0,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.65,
+  "pass": false,
+  "defects": [
+   "cinematic: lamp practicals, night study; Yalom ~50",
+   "present day: faces not aged (Yalom ~80 / Alvin ~70 / Monica ~60 required)"
+  ],
+  "reshoot": "Medium-wide, 28mm, from the dark hallway through the study door (door frame as frame-within-frame): aged Yalom at the open file cabinet on the right third, lit only by a green banker's lamp and the cabinet drawer glow, deep blue night through the window."
+ },
+ {
+  "shot": "N04",
+  "file": "assets/redraw/N04.png",
+  "lines": [
+   "a06"
+  ],
+  "size": "INS",
+  "angle": "pov",
+  "scores": {
+   "beat": 10,
+   "character": 9,
+   "cinematic": 8.0,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.05,
+  "pass": true,
+  "defects": [
+   "cinematic: POV hands in drawer"
+  ]
+ },
+ {
+  "shot": "N05",
+  "file": "assets/redraw/N05.png",
+  "lines": [
+   "a06",
+   "c02"
+  ],
+  "size": "INS",
+  "angle": "pov",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8.0,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.7,
+  "pass": false,
+  "defects": [
+   "handwriting is blurred scribble; typed index card illegible",
+   "cinematic: warm practical insert"
+  ],
+  "reshoot": "Insert, 50mm, slightly high angle: the open case file under a pool of lamp light, page edges glowing, everything else falling into dark; composition left-weighted so it can match-cut to the therapy room."
+ },
+ {
+  "shot": "X01",
+  "file": "assets/redraw/X01.png",
+  "lines": [
+   "b01"
+  ],
+  "size": "EW",
+  "angle": "high",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.9,
+  "pass": false,
+  "defects": [
+   "dusk light, 1980s cars; good",
+   "cinematic: extreme wide establishing, dusk reflection"
+  ],
+  "reshoot": "Extreme wide, high angle, 24mm: keep the dusk campus and pool reflection, but put the building on the upper third with the pool as a leading line from the bottom-left corner, a palm silhouette as dark foreground frame right, a few lit windows as warm practicals against a cooling slate sky."
+ },
+ {
+  "shot": "F10",
+  "file": "assets/redraw/F10.png",
+  "lines": [
+   "b01"
+  ],
+  "size": "MCU",
+  "angle": "eye",
+  "scores": {
+   "beat": 10,
+   "character": 9,
+   "cinematic": 6.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.75,
+  "pass": false,
+  "defects": [
+   "embroidered name allowed",
+   "cinematic: portrait smiling to camera, flat clinical light; mood map wants cold lightbox glow"
+  ],
+  "reshoot": "Medium close-up, 85mm, 3/4 profile: Alvin (1982) studying a film on the lightbox, cold blue-white lightbox glow on his face from screen left, the room behind in slate-green shadow, embroidered name catching the light, a calm confident half-smile."
+ },
+ {
+  "shot": "B14",
+  "file": "assets/redraw/B14.png",
+  "lines": [
+   "b02"
+  ],
+  "size": "W",
+  "angle": "ots",
+  "scores": {
+   "beat": 9,
+   "character": 8,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "total": 8.62,
+  "pass": false,
+  "defects": [
+   "Yalom in a white doctor coat at the lectern, off his cardigan anchor (reads fine)",
+   "Alvin in the audience is mid-frame right, readable; small crowd faces simplified",
+   "cinematic: OTS audience depth, deep focus"
+  ],
+  "reshoot": "Wide, 28mm, from behind the audience: Alvin's blond head and shoulders as a foreground silhouette right third, Yalom at the lectern lit by the projector beam in the left third, dust in the beam, the hall in cool institutional shadow."
+ },
+ {
+  "shot": "X02",
+  "file": "assets/redraw/X02.png",
+  "lines": [
+   "b02"
+  ],
+  "size": "INS",
+  "angle": "eye",
+  "scores": {
+   "beat": 8.5,
+   "character": 9,
+   "cinematic": 8.0,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.68,
+  "pass": false,
+  "defects": [
+   "line beat is Yalom's talk; a hand at a lightbox does not show it (fits the 'bắt đầu' cue instead)",
+   "cinematic: lightbox glow insert"
+  ],
+  "reshoot": "Insert, 85mm: Alvin's hand sliding a chest film onto the lightbox, cold glow backlighting the fingers, other films soft and out of focus beyond."
+ },
+ {
+  "shot": "B15",
+  "file": "assets/redraw/B15.png",
+  "lines": [
+   "b02"
+  ],
+  "size": "MCU",
+  "angle": "ots",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9.0,
+   "style": 9,
+   "technical": 9,
+   "readability": 8.5
+  },
+  "total": 8.95,
+  "pass": false,
+  "defects": [
+   "ghostly face inside the chest film = 'the people behind the X-rays', strong",
+   "left half (Alvin profile) dark; subject split at the left edge leaves little Ken Burns room",
+   "second lightbox frame back to back with X02",
+   "cinematic: profile foreground + lightbox glow, ghost face"
+  ],
+  "reshoot": "Keep: profile foreground + lightbox glow. Lift the left half with a cold rim on Alvin's cheek and move him 10% in from the left edge so the push-in has room."
+ },
+ {
+  "shot": "N06",
+  "file": "assets/redraw/N06.png",
+  "lines": [
+   "b03",
+   "b12"
+  ],
+  "size": "MCU",
+  "angle": "eye",
+  "scores": {
+   "beat": 10,
+   "character": 9,
+   "cinematic": 8.0,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.05,
+  "pass": true,
+  "defects": [
+   "cinematic: window shafts, warm"
+  ]
+ },
+ {
+  "shot": "F19",
+  "file": "assets/redraw/F19.png",
+  "lines": [
+   "b03"
+  ],
+  "size": "CU",
+  "angle": "eye",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8,
+   "readability": 8
+  },
+  "total": 8.65,
+  "pass": false,
+  "defects": [
+   "cinematic: smoke and blind shafts"
+  ],
+  "reshoot": "Close-up, 85mm, Jason on the right third, cigarette smoke curling through a hard window shaft, background near black, faint memory haze."
+ },
+ {
+  "shot": "M01",
+  "file": "assets/flow2k_raw/molly-v2/M01/r3-1.png",
+  "lines": [
+   "b04"
+  ],
+  "size": "W",
+  "angle": "eye",
+  "scores": {
+   "beat": 9,
+   "character": 8,
+   "cinematic": 8.0,
+   "style": 8,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.4,
+  "pass": false,
+  "defects": [
+   "Jason sits close to the right door frame (still inside right third, usable)",
+   "dark night windows and slightly dim upper corners",
+   "line weight a touch lighter than the redraw set",
+   "Jason's own pushed-back chair not clearly shown",
+   "cinematic: hanging lamp practical, symmetric"
+  ],
+  "reshoot": "Wide, 24mm, low angle from the floor end of the table: the single hanging lamp at top centre, parents and teen Alvin at the table in pooled light, teen Jason in the right foreground already turning away into shadow toward the doorway."
+ },
+ {
+  "shot": "B17",
+  "file": "assets/redraw/B17.png",
+  "lines": [
+   "b04"
+  ],
+  "size": "M",
+  "angle": "eye",
+  "scores": {
+   "beat": 7.5,
+   "character": 7.5,
+   "cinematic": 8.0,
+   "style": 9,
+   "technical": 9,
+   "readability": 8.5
+  },
+  "total": 8.07,
+  "pass": false,
+  "defects": [
+   "porch argument at night, not the sheet's dinner -> Jason leaves",
+   "Alvin reads ~25-30 while M01 (same 1960s flashback) shows him as a teen; Jason fine",
+   "night, yellow bulb; readable",
+   "cinematic: porch bulb practical vs night blue"
+  ],
+  "reshoot": "(drop from b04) if kept: medium two-shot, 50mm, through the screen door: teen Alvin and teen Jason face to face under the bulb, moonlit blue night behind."
+ },
+ {
+  "shot": "M02",
+  "file": "assets/flow2k_raw/molly-v2/M02/r1-1.png",
+  "lines": [
+   "b05"
+  ],
+  "size": "M",
+  "angle": "eye",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 8.5
+  },
+  "total": 8.78,
+  "pass": false,
+  "defects": [
+   "Expression leans toward a frown/scowl rather than still listening",
+   "Hand on the counter is cut by the bottom edge, knuckle shading a little rough",
+   "Left third (doorway) is quite dark",
+   "cinematic: phone foreground, practicals"
+  ],
+  "reshoot": "Keep the wall-phone foreground; let a single kitchen practical be the only key light, Alvin's face half in warm light half in night-blue from the window; bring his hand fully inside the frame."
+ },
+ {
+  "shot": "N07",
+  "file": "assets/redraw/N07.png",
+  "lines": [
+   "b05"
+  ],
+  "size": "EW",
+  "angle": "high",
+  "scores": {
+   "beat": 10,
+   "character": 9,
+   "cinematic": 9.0,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.25,
+  "pass": true,
+  "defects": [
+   "cinematic: extreme wide, sun shafts and dust"
+  ]
+ },
+ {
+  "shot": "X07",
+  "file": "assets/redraw/X07.png",
+  "lines": [
+   "b05"
+  ],
+  "size": "MCU",
+  "angle": "ots",
+  "scores": {
+   "beat": 9,
+   "character": 8,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.6,
+  "pass": false,
+  "defects": [
+   "cinematic: OTS depth"
+  ],
+  "reshoot": "Keep the OTS; add a cold window shaft between the two brothers so the reaching hand crosses from shadow into light; Jason's shoulder darker as a near-silhouette."
+ },
+ {
+  "shot": "N08",
+  "file": "assets/redraw/N08.png",
+  "lines": [
+   "b06"
+  ],
+  "size": "W",
+  "angle": "eye",
+  "scores": {
+   "beat": 10,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.15,
+  "pass": true,
+  "defects": [
+   "cinematic: symmetric negative space, firelight"
+  ]
+ },
+ {
+  "shot": "N09",
+  "file": "assets/redraw/N09.png",
+  "lines": [
+   "b06"
+  ],
+  "size": "W",
+  "angle": "eye",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8.0,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.7,
+  "pass": false,
+  "defects": [
+   "cinematic: empty chair, cold"
+  ],
+  "reshoot": "Wide, 50mm, low angle: the empty armchair on the left third, dead embers in the stone fireplace, cold grey window light, dust in the air, long negative space to the right."
+ },
+ {
+  "shot": "R05",
+  "file": "assets/flow2k_raw/molly-v2/R05/r2-1.png",
+  "lines": [
+   "b07"
+  ],
+  "size": "M",
+  "angle": "eye",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 7.0,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.6,
+  "pass": false,
+  "defects": [
+   "Expression reads more stern/frowning than haunted (minor)",
+   "Embroidery is a script font vs the sans-serif on N06 (minor); reads exactly 'Alvin Cross', no M.D. or other text; folder labels and film jackets blank",
+   "Clean profile facing the lightbox, room and face clearly lit; bottom-right corner shows only a faint smudge, no recognisable sparkle",
+   "cinematic: flat even light, generic framing; mood map wants cold glow"
+  ],
+  "reshoot": "Medium, 50mm, from behind the lightbox wall (films soft in the foreground): Alvin in profile on the right third, cold lightbox glow on his face, the reading room behind falling into slate-green dark, a fixed haunted stare."
+ },
+ {
+  "shot": "F34",
+  "file": "assets/redraw/F34.png",
+  "lines": [
+   "b07"
+  ],
+  "size": "INS",
+  "angle": "eye",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8.0,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.7,
+  "pass": false,
+  "defects": [
+   "for M02 (phone call) B18 is the exact beat",
+   "cinematic: glowing X-ray in dark room"
+  ],
+  "reshoot": "Insert, 100mm: the tumour shadow on the chest film filling the right third, cold glow, Alvin's reflection faint in the glass."
+ },
+ {
+  "shot": "F27",
+  "file": "assets/redraw/F27.png",
+  "lines": [
+   "b08"
+  ],
+  "size": "W",
+  "angle": "low",
+  "scores": {
+   "beat": 9,
+   "character": 8,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8,
+   "readability": 8
+  },
+  "total": 8.45,
+  "pass": false,
+  "defects": [
+   "dim (intended) but Alvin small; raven reads well",
+   "cinematic: low-angle dread, dark"
+  ],
+  "reshoot": "Low angle, 24mm, slight dutch tilt (dream only), near-monochrome: the raven's wings filling the upper frame, Alvin larger on the right third in a cold bulb light, his reflection in the mirror frame-within-frame."
+ },
+ {
+  "shot": "F28",
+  "file": "assets/redraw/F28.png",
+  "lines": [
+   "b08"
+  ],
+  "size": "ECU",
+  "angle": "eye",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9.0,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.9,
+  "pass": false,
+  "defects": [
+   "cinematic: ECU raven eye"
+  ],
+  "reshoot": "Keep the ECU; add Alvin's tiny reflected figure in the raven's eye and a cold catch-light; near-monochrome grade."
+ },
+ {
+  "shot": "F14",
+  "file": "assets/redraw/F14.png",
+  "lines": [
+   "b09"
+  ],
+  "size": "INS",
+  "angle": "eye",
+  "scores": {
+   "beat": 8,
+   "character": 8,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.45,
+  "pass": false,
+  "defects": [
+   "hands insert: 'Alvin sharing' without his face",
+   "tan suit jacket, not Alvin's white lab coat from N06/M04/R01",
+   "hands clean, five fingers each",
+   "cinematic: blind-stripe shafts across clasped hands"
+  ],
+  "reshoot": "Insert, 100mm: Alvin's clasped hands over a white lab coat (not a tan jacket), blind-stripe light across the knuckles, leather armchair arm soft in the foreground."
+ },
+ {
+  "shot": "X04",
+  "file": "assets/redraw/X04.png",
+  "lines": [
+   "b09",
+   "b13"
+  ],
+  "size": "M",
+  "angle": "eye",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 7.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.7,
+  "pass": false,
+  "defects": [
+   "used 3x within b09-b13: repetition",
+   "cinematic: even window light, centred"
+  ],
+  "reshoot": "Medium close-up, 85mm, over Alvin's out-of-focus shoulder (left foreground): Yalom (1982) listening, pen still, warm window shaft on his face, bookshelves in shadow."
+ },
+ {
+  "shot": "M04",
+  "file": "assets/flow2k_raw/molly-v2/M04/r1-1.png",
+  "lines": [
+   "b10"
+  ],
+  "size": "MCU",
+  "angle": "eye",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 8.0,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "total": 8.72,
+  "pass": false,
+  "defects": [
+   "Smile reads slightly smug rather than soft and genuine; face a touch broader than the N06 Alvin",
+   "No 'Alvin Cross' embroidery on the coat (allowed, not required)",
+   "Faint ghost outline of the removed sparkle in the dark bottom-right corner (minor)",
+   "cinematic: blinds, frontal",
+   "natural: looks straight into the lens + glossy rim"
+  ],
+  "reshoot": "Medium close-up, 85mm, from the window side: Alvin relaxed in the armchair on the right third, a soft genuine smile, warm afternoon light through blinds wrapping his face, Yalom's shoulder soft in the left foreground."
+ },
+ {
+  "shot": "M03",
+  "file": "assets/flow2k_raw/molly-v2/M03/r1-1.png",
+  "lines": [
+   "b10"
+  ],
+  "size": "MCU",
+  "angle": "high",
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 8.0,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "total": 8.85,
+  "pass": false,
+  "defects": [
+   "Neck and jaw a little elongated at this angle",
+   "Faint ghost outline of the removed sparkle at bottom-right on the sheet (minor)",
+   "cinematic: morning window, plain",
+   "natural: god rays + dust specks + bloom stacked",
+   "natural: god rays + dust specks + bloom stacked",
+   "natural: god rays + dust specks + bloom stacked"
+  ],
+  "reshoot": "Medium, 35mm, top shot straight down over the bed: Alvin asleep peacefully, a pale morning shaft from the curtains across the blanket, the tidy bedside table in the corner."
+ },
+ {
+  "shot": "F01",
+  "file": "assets/redraw/F01.png",
+  "lines": [
+   "b10"
+  ],
+  "size": "INS",
+  "angle": "eye",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 7.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.7,
+  "pass": false,
+  "defects": [
+   "embroidered name allowed",
+   "cinematic: embroidery insert on dark"
+  ],
+  "reshoot": "(replace with F10 re-shoot at b10) or insert, 100mm: the embroidered name in focus as Alvin turns to the lightbox, cold glow on the coat, films soft beyond."
+ },
+ {
+  "shot": "N10",
+  "file": "assets/redraw/N10.png",
+  "lines": [
+   "b11"
+  ],
+  "size": "W",
+  "angle": "eye",
+  "scores": {
+   "beat": 8.5,
+   "character": 9,
+   "cinematic": 7.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 8.5
+  },
+  "total": 8.53,
+  "pass": false,
+  "defects": [
+   "hospital cafeteria lunch, not 'dinner alone' (N12 is the dinner)",
+   "notice-board sheets carry tiny pseudo-text, not legible; embroidered name allowed",
+   "cinematic: deep focus but flat fluorescent"
+  ],
+  "reshoot": "Wide, 24mm, high angle from the cafeteria corner: Alvin small and alone at a table in the middle third, empty chairs all around as negative space, a cool fluorescent wash and a hard window shaft across the floor."
+ },
+ {
+  "shot": "N12",
+  "file": "assets/redraw/N12.png",
+  "lines": [
+   "b11"
+  ],
+  "size": "W",
+  "angle": "eye",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8,
+   "readability": 8
+  },
+  "total": 8.65,
+  "pass": false,
+  "defects": [
+   "cinematic: single hanging lamp, negative space, foreground chair"
+  ],
+  "reshoot": "Keep the single hanging lamp and foreground empty chair; tighten to medium-wide so Alvin reads clearly, deeper black around the lamp pool, blue night window."
+ },
+ {
+  "shot": "N11",
+  "file": "assets/redraw/N11.png",
+  "lines": [
+   "b11"
+  ],
+  "size": "EW",
+  "angle": "high",
+  "scores": {
+   "beat": 9,
+   "character": 8,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.7,
+  "pass": false,
+  "defects": [
+   "cinematic: lonely figure in negative space"
+  ],
+  "reshoot": "Keep the extreme wide; put the kayak on the lower-right third with a long wake as a leading line, warm low sun cutting through the mist behind him (mist kept soft, not grey)."
+ },
+ {
+  "shot": "R01",
+  "file": "assets/flow2k_raw/molly-v2/R01/r1-1.png",
+  "lines": [
+   "b12"
+  ],
+  "size": "MW",
+  "angle": "eye",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 7.0,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.6,
+  "pass": false,
+  "defects": [
+   "minor: Alvin's eyes read closed rather than lowered",
+   "faint unreadable marks on one book spine",
+   "cinematic: symmetric two-shot, even light"
+  ],
+  "reshoot": "Medium two-shot, 50mm, over Yalom's shoulder (cardigan soft in the left foreground): Alvin stiff in the far armchair on the right third, eyes lowered, a hard window shaft dividing the two chairs, room in slate-green shadow."
+ },
+ {
+  "shot": "N13",
+  "file": "assets/redraw/N13.png",
+  "lines": [
+   "b12"
+  ],
+  "size": "W",
+  "angle": "frame",
+  "scores": {
+   "beat": 9,
+   "character": 8,
+   "cinematic": 9.0,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.7,
+  "pass": false,
+  "defects": [
+   "cinematic: through the doorway, dusk"
+  ],
+  "reshoot": "Keep the doorway frame-within-frame; brighten the dusk sky slightly so the woman's walking silhouette reads, and give Alvin's half-face a warm porch-light rim."
+ },
+ {
+  "shot": "F17",
+  "file": "assets/redraw/F17.png",
+  "lines": [
+   "b13"
+  ],
+  "size": "MW",
+  "angle": "ots",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.9,
+  "pass": false,
+  "defects": [
+   "golden-hour daylight; 1p sheet wants the front door at night",
+   "Alvin olive sweater matches M02/X09/F18; Yalom overcoat matches R02",
+   "cinematic: OTS foreground Yalom, golden hour"
+  ],
+  "reshoot": "Keep the OTS golden-hour door; push to 50mm so Alvin in the doorway fills the right third, the dark hallway behind him a black void hinting at what is inside."
+ },
+ {
+  "shot": "R02",
+  "file": "assets/flow2k_raw/molly-v2/R02/r1-1.png",
+  "lines": [
+   "b14"
+  ],
+  "size": "W",
+  "angle": "eye",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 7.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.6,
+  "pass": false,
+  "defects": [
+   "Yalom close to the right edge (about 93% of width), little room for a Ken Burns push",
+   "newspapers show ruled lines and blocks only, no legible text",
+   "cinematic: deep but evenly lit, Yalom near the edge"
+  ],
+  "reshoot": "Wide, 21mm, low angle from inside the room past a towering foreground stack (left third, soft): Yalom frozen in the bright doorway as a near-silhouette in the right-centre, a dusty window shaft cutting across the stacks, claustrophobic deep focus."
+ },
+ {
+  "shot": "R03",
+  "file": "assets/flow2k_raw/molly-v2/R03/r2-1.png",
+  "lines": [
+   "b14"
+  ],
+  "size": "W",
+  "angle": "low",
+  "scores": {
+   "beat": 9,
+   "character": 10,
+   "cinematic": 9.0,
+   "style": 8,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.1,
+  "pass": true,
+  "defects": [
+   "No people by design; character axis not applicable (scored 10)",
+   "Warm sepia cast is slightly heavier and more textured than the N05/F12 redraws, but the frame is bright and clearly lit, not grey or dim",
+   "Camera reads as roughly knee/seat height (vanishing point at armchair seat level), stacks rise out of frame on both sides",
+   "Zero legible text: all stacks, boxes and loose sheets blank (one floor sheet has a faint non-letter scribble); no watermark trace in bottom-right",
+   "cinematic: low leading-line path, window shaft"
+  ]
+ },
+ {
+  "shot": "N14",
+  "file": "assets/redraw/N14.png",
+  "lines": [
+   "b15"
+  ],
+  "size": "W",
+  "angle": "ots",
+  "scores": {
+   "beat": 10,
+   "character": 8,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.85,
+  "pass": false,
+  "defects": [
+   "cinematic: back-turned foreground, Yalom far"
+  ],
+  "reshoot": "Keep: Alvin's back in the foreground, Yalom far in the doorway. Make Alvin a silhouette against the bright window (sheet: back turned at the window), a window shaft across the stacks between them."
+ },
+ {
+  "shot": "X09",
+  "file": "assets/redraw/X09.png",
+  "lines": [
+   "b15"
+  ],
+  "size": "MCU",
+  "angle": "eye",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 7.5,
+   "style": 9,
+   "technical": 8,
+   "readability": 8
+  },
+  "total": 8.45,
+  "pass": false,
+  "defects": [
+   "cinematic: frontal, blinds"
+  ],
+  "reshoot": "(drop from b15) or close-up, 85mm, Alvin in silhouette against the bright kitchen window, arms crossed, face mostly in shadow with only a rim of light."
+ },
+ {
+  "shot": "F18",
+  "file": "assets/redraw/F18.png",
+  "lines": [
+   "b15"
+  ],
+  "size": "M",
+  "angle": "eye",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 7.5,
+   "style": 9,
+   "technical": 8,
+   "readability": 8
+  },
+  "total": 8.45,
+  "pass": false,
+  "defects": [
+   "cinematic: backlit window, frontal two-shot"
+  ],
+  "reshoot": "Medium two-shot, 35mm, Alvin at the bright window as a backlit silhouette on the right third, arms crossed, Yalom in the left foreground reaching a hand out, half his face in shadow."
+ },
+ {
+  "shot": "N15",
+  "file": "assets/redraw/N15.png",
+  "lines": [
+   "c01"
+  ],
+  "size": "M",
+  "angle": "eye",
+  "scores": {
+   "beat": 10,
+   "character": 9,
+   "cinematic": 8.0,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.05,
+  "pass": true,
+  "defects": [
+   "c01 -> c02 back-to-back reuse",
+   "cinematic: lamp practical, blinds"
+  ]
+ },
+ {
+  "shot": "B23",
+  "file": "assets/redraw/B23.png",
+  "lines": [
+   "c02"
+  ],
+  "size": "W",
+  "angle": "eye",
+  "scores": {
+   "beat": 6.5,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 8
+  },
+  "total": 8.1,
+  "pass": false,
+  "defects": [
+   "c02 beat is 'Yalom puts the phone down, brooding' (in his office); this is Yalom inside Alvin's hoard",
+   "newspapers and wall sheets carry dense pseudo-print (not legible)",
+   "as a b15 shot (Alvin back turned at the window, Yalom in the room) it fits the sheet's wide static: beat 9.5, total ~8.9",
+   "cinematic: deep wide, figures layered"
+  ],
+  "reshoot": "(move to b15) Wide, 24mm deep focus: Alvin a dark silhouette in the armchair against the bright window, Yalom in the foreground right third half-lit, towering stacks framing both sides; blank papers, no pseudo-print."
+ },
+ {
+  "shot": "M05",
+  "file": "assets/flow2k_raw/molly-v2/M05/r3-1.png",
+  "lines": [
+   "c02"
+  ],
+  "size": "M",
+  "angle": "eye",
+  "scores": {
+   "beat": 9,
+   "character": 8,
+   "cinematic": 8.0,
+   "style": 8,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.4,
+  "pass": false,
+  "defects": [
+   "hair is long and swept over the ears, not cropped close",
+   "cardigan reads dark olive rather than brown",
+   "two fountain pens on the desk (duplicated prop)",
+   "faint vertical scribble marks on the mug (not letters)",
+   "dusk palette slightly dim on the left shelves",
+   "cinematic: lamp practical at dusk"
+  ],
+  "reshoot": "Medium, 50mm, from behind the desk lamp (soft foreground glow): aged Yalom closing the folder, single lamp the only key light, dusk blue window behind, framed to match S02."
+ },
+ {
+  "shot": "N16",
+  "file": "assets/redraw/N16.png",
+  "lines": [
+   "c03"
+  ],
+  "size": "MW",
+  "angle": "eye",
+  "scores": {
+   "beat": 10,
+   "character": 6.5,
+   "cinematic": 8.0,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.55,
+  "pass": false,
+  "defects": [
+   "Yalom looks no older than in 1982 (anchor convention)",
+   "cinematic: backlit window two-shot; un-aged",
+   "present day: faces not aged (Yalom ~80 / Alvin ~70 / Monica ~60 required)"
+  ],
+  "reshoot": "Medium-wide two-shot, 50mm, from outside through the café window (reflections and the window frame as frame-within-frame): aged Yalom and aged Alvin at the marble table, golden late sun, Panama hat on the table."
+ },
+ {
+  "shot": "N17",
+  "file": "assets/redraw/N17.png",
+  "lines": [
+   "c04"
+  ],
+  "size": "MCU",
+  "angle": "ots",
+  "scores": {
+   "beat": 10,
+   "character": 7,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.75,
+  "pass": false,
+  "defects": [
+   "cinematic: OTS, telephoto; un-aged",
+   "present day: faces not aged (Yalom ~80 / Alvin ~70 / Monica ~60 required)"
+  ],
+  "reshoot": "as R07: medium close-up, 85mm over aged Yalom's shoulder, aged Alvin explaining with a warm smile, golden side light, street bokeh."
+ },
+ {
+  "shot": "N18",
+  "file": "assets/redraw/N18.png",
+  "lines": [
+   "c04",
+   "c06"
+  ],
+  "size": "MCU",
+  "angle": "eye",
+  "scores": {
+   "beat": 9,
+   "character": 7,
+   "cinematic": 8.0,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.4,
+  "pass": false,
+  "defects": [
+   "cinematic: window light; un-aged",
+   "present day: faces not aged (Yalom ~80 / Alvin ~70 / Monica ~60 required)"
+  ],
+  "reshoot": "as R08: close-up, 100mm, aged Yalom by the window on the right third, sun across his glasses, street as creamy bokeh, negative space on the left."
+ },
+ {
+  "shot": "M06",
+  "file": "assets/flow2k_raw/molly-v2/M06/r4-1.png",
+  "lines": [
+   "c05"
+  ],
+  "size": "W",
+  "angle": "frame",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8,
+   "readability": 8.5
+  },
+  "total": 8.7,
+  "pass": false,
+  "defects": [
+   "hanging X-ray films on the left are drawn as jacket-shaped garments (odd props)",
+   "Alvin's silver temples are faint, but his hair is clearly blond (passes the director check)",
+   "tiny marker glyph on the corner of the X-ray film (not legible)",
+   "cinematic: doorway frame-within-frame, backlit"
+  ],
+  "reshoot": "Keep the doorway frame-within-frame and backlight; reshape the X-ray films on the left as flat sheets clipped to a line, clean hands and boots."
+ },
+ {
+  "shot": "F16",
+  "file": "assets/redraw/F16.png",
+  "lines": [
+   "c05"
+  ],
+  "size": "M",
+  "angle": "eye",
+  "scores": {
+   "beat": 10,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 9.05,
+  "pass": true,
+  "defects": [
+   "cinematic: window shaft as curtain opens"
+  ]
+ },
+ {
+  "shot": "M07",
+  "file": "assets/flow2k_raw/molly-v2/M07/r2-1.png",
+  "lines": [
+   "c05"
+  ],
+  "size": "MW",
+  "angle": "eye",
+  "scores": {
+   "beat": 9,
+   "character": 8.5,
+   "cinematic": 7.5,
+   "style": 8,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "total": 8.43,
+  "pass": false,
+  "defects": [
+   "Style slightly softer and warmer than the redraw set (lighter ink shadows)",
+   "Molly reads slimmer than the sturdy anchor; framed photo shows three children instead of two (harmless)",
+   "Faint ghost outline of the removed sparkle at bottom-right (minor)",
+   "cinematic: warm afternoon but flat"
+  ],
+  "reshoot": "Medium-wide, 35mm, through the doorway into the tidy living room (frame-within-frame): older Molly at the desk on the left third, soft memory haze and bloom, golden afternoon shaft across the floor, framed family photo with two children catching the light."
+ },
+ {
+  "shot": "N19",
+  "file": "assets/redraw/N19.png",
+  "lines": [
+   "c05"
+  ],
+  "size": "M",
+  "angle": "eye",
+  "scores": {
+   "beat": 10,
+   "character": 9,
+   "cinematic": 7.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.95,
+  "pass": false,
+  "defects": [
+   "cinematic: two-shot + photo, flat"
+  ],
+  "reshoot": "Insert-to-medium, 85mm, rack focus feel: the framed family photo (Alvin, Monica, two children) sharp in the foreground right, Alvin and Monica soft behind looking at it, warm window light."
+ },
+ {
+  "shot": "X12",
+  "file": "assets/redraw/X12.png",
+  "lines": [
+   "c08"
+  ],
+  "size": "EW",
+  "angle": "high",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.8,
+  "pass": false,
+  "defects": [
+   "cinematic: extreme wide aerial, path leading line; grey fog cools Act 3"
+  ],
+  "reshoot": "Extreme wide, high angle, 24mm: the cemetery at golden hour with the winding path leading to a tiny lone figure, long shadows, warm haze instead of grey fog, big negative sky at the top for the end title."
+ },
+ {
+  "shot": "F02",
+  "file": "assets/redraw/F02.png",
+  "lines": [
+   "c05"
+  ],
+  "size": "W",
+  "angle": "eye",
+  "scores": {
+   "beat": 8.5,
+   "character": 9,
+   "cinematic": 7.5,
+   "style": 8.5,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.53,
+  "pass": false,
+  "defects": [
+   "end state of the tidy room only, no time-lapse progression and no Molly",
+   "room layout (sofa, shelves, wall panel) does not match M06/F16/M07's bungalow living room",
+   "one-point symmetric, flat even light, no foreground layer; lighter line weight than the redraw set"
+  ],
+  "reshoot": "Wide, 24mm, same camera position as M06 (front door looking in): the same living room half-cleared, cardboard boxes of bundled newspapers stacked by the open door, floor visible again, a warm window shaft with dust across the bare boards, Molly's apron hung on a chair as the only trace of her; matching M06/F16 walls and window."
+ },
+ {
+  "shot": "F26",
+  "file": "assets/redraw/F26.png",
+  "lines": [],
+  "size": null,
+  "angle": null,
+  "scores": {
+   "beat": 8.5,
+   "character": 8.5,
+   "cinematic": 7.5,
+   "style": 8,
+   "technical": 8.5,
+   "readability": 8
+  },
+  "total": 8.2,
+  "pass": false,
+  "defects": [
+   "used with crop [0.27,0.06,0.81,0.6]: the pseudo-text masthead and newspaper body are cropped out (no hard fail as used); uncropped file still hard-fails",
+   "AI tells: blind-stripe god rays + floating dust + glossy portrait-in-photo",
+   "crop is ~1.9x enlargement: soft at 1080p"
+  ],
+  "reshoot": "Redraw as an insert at 85mm, slightly high angle: the parents' photo as a real faded snapshot (white border, soft colour, grain) on the 1982 nightstand, cold moonlight and the red clock glow, no papers. Would also match S13's nightstand."
+ },
+ {
+  "shot": "F30",
+  "file": "assets/redraw/F30.png",
+  "lines": [],
+  "size": null,
+  "angle": null,
+  "scores": {
+   "beat": 9,
+   "character": 8.5,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.7,
+  "pass": false,
+  "defects": [
+   "night street rather than 'before dawn'; both back views, so the faces are unreadable (OK for the beat)",
+   "fiancée matches the AOT-YOUNG-SHEET anchor (ponytail, leather jacket, suitcase); Jason in his denim jacket matches M01",
+   "one-point symmetric street, centred figures: slightly staged"
+  ],
+  "reshoot": "(stand-in for S12) Wide, 35mm, from the porch looking down the street at blue pre-dawn light: Jason and the fiancée small on the right third, walking off, each with a bag, a single porch light behind camera throwing their shadows ahead of them, the house's dark front door ajar in the soft left foreground."
+ },
+ {
+  "shot": "R92",
+  "file": "assets/redraw/R92.png",
+  "lines": [],
+  "size": null,
+  "angle": null,
+  "scores": {
+   "beat": 8.5,
+   "character": 7,
+   "cinematic": 7.5,
+   "style": 8,
+   "technical": 9,
+   "readability": 8.5
+  },
+  "total": 8.03,
+  "pass": false,
+  "defects": [
+   "user flagged as AI-looking: posed couple, hand placed decoratively on the table/shoulder, glossy rim light + god rays + dust, photo-within-photo drawn in the same glossy style",
+   "c06 is 'now': Alvin and Monica read ~40/~30, not ~70/~60"
+  ],
+  "reshoot": "Insert, 85mm, eye level on a present-day mantel: a real-looking faded family snapshot (white border, warm-shifted colour, film grain, slight blur) of Alvin ~45, Monica ~35 and two children (one dark-haired boy, one blonde girl) in a backyard, leaning against a newer photo of the same family grown up with aged Alvin ~70 and Monica ~60. A worn wooden mantel with a little clutter (keys, a coffee ring), soft afternoon window light from the left, no god rays, no dust motes."
+ },
+ {
+  "shot": "R11",
+  "file": "assets/redraw/R11.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 8.5,
+   "cinematic": 8.5,
+   "style": 8.5,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.62,
+  "pass": false,
+  "defects": [
+   "natural: posed walk toward camera, glossy rim on every edge",
+   "natural: posed walk toward camera, glossy rim on every edge",
+   "natural: posed walk toward camera, glossy rim on every edge"
+  ]
+ }
+]

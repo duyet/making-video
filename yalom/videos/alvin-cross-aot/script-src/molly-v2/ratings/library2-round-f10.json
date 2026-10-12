@@ -1,0 +1,199 @@
+[
+  {
+    "shot": "S19",
+    "replaces": "none (R14 holds)",
+    "file": "assets/flow2k_raw/molly-v2/S19/r2-1.png",
+    "source": "1K",
+    "scores": {
+      "beat": 9.5,
+      "character": 9,
+      "cinematic": 8.75,
+      "style": 8.5,
+      "technical": 8.5,
+      "readability": 9
+    },
+    "total": 8.95,
+    "pass": false,
+    "expression_ok": true,
+    "defects": [
+      "Alvin's card hand: the curled fingers under the card are a lumpy, hard-to-count knot with starburst tendon hatching (not broken, but the weakest area).",
+      "Hands still drawn with dense western-comic hatch strokes, heavier than the AOT redraw set."
+    ],
+    "minor": [
+      "Fixes r1-2's sleeve: smooth plain grey overcoat over a buttoned brown cardigan with ribbed cuff; Yalom's hand has age spots and reads ~80.",
+      "Card shows only three soft grey bars, nothing letter-shaped; wallet worn and open; gate centred; folding chairs as bokeh; no cemetery.",
+      "Yalom's coat body on the left gives foreground depth.",
+      "Bottom-right corner clean, no sparkle.",
+      "No faces, expression check n/a.",
+      "Just under the bar (8.95); r2-2 is cleaner."
+    ],
+    "ai_tells": [
+      "dense decorative hatching on hands"
+    ],
+    "better_than_current": false
+  },
+  {
+    "shot": "S19",
+    "replaces": "none (R14 holds)",
+    "file": "assets/flow2k_raw/molly-v2/S19/r2-2.png",
+    "source": "1K",
+    "scores": {
+      "beat": 9.5,
+      "character": 9,
+      "cinematic": 9,
+      "style": 8.5,
+      "technical": 9,
+      "readability": 9.5
+    },
+    "total": 9.125,
+    "pass": true,
+    "expression_ok": true,
+    "defects": [
+      "Hands still carry some western-comic hatch lines (lighter than r1-2 and r2-1), style axis held at 8.5.",
+      "Wallet is closed: the card is already out rather than being drawn from the wallet (minor beat nuance)."
+    ],
+    "minor": [
+      "Fixes both r1-2 defects: Yalom's sleeve is now a smooth plain grey overcoat with a ribbed brown cardigan cuff and no buttons/herringbone; his hand is papery with age spots (~80).",
+      "Alvin: navy-black suit, white cuff, plain round silver cufflink with no emblem; lined, veined hand reads ~70.",
+      "Hands clean: Alvin's card hand four curled fingers with the card between index and middle; wallet hand thumb on top and four fingertips below; Yalom thumb on card with four fingers under.",
+      "Card: only three soft blurred grey bars, no letter shapes, numbers or logo.",
+      "Wooden garden gate framed between the hands, sun rim light, lawn bokeh, no cemetery.",
+      "Bottom-right corner clean lawn bokeh, no sparkle.",
+      "Passes at 9.13; better than saved r1-2 (8.975)."
+    ],
+    "ai_tells": [],
+    "better_than_current": true
+  },
+  {
+    "shot": "S20",
+    "replaces": "none (N08 holds)",
+    "file": "assets/flow2k_raw/molly-v2/S20/r2-1.png",
+    "source": "1K",
+    "scores": {
+      "beat": 8,
+      "character": 8.5,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 8
+    },
+    "total": 8.375,
+    "pass": false,
+    "expression_ok": true,
+    "defects": [
+      "Notes are four flat US-dollar-style bills with a portrait oval and seal ovals, not three folded plain notes.",
+      "Jason's head, shoulder and arm cut by the right edge; he is nearly in focus.",
+      "Roaring fire behind the table is the key light; reads warm, not dim grey daylight."
+    ],
+    "minor": [
+      "Hand withdrawing with fingertips lifting: good; four fingers, thumb hidden, clean.",
+      "Ashtray with smoke, chipped mug fully in frame, cigarettes, fieldstone fireplace all present.",
+      "Jason (dark hair, denim jacket) bowed and not looking: expression fits.",
+      "No legible numbers or words; bottom-right corner clean."
+    ],
+    "ai_tells": [],
+    "better_than_current": false,
+    "revised_prompt": "Extreme close-up insert, 85mm, slightly high angle onto a worn scratched wooden kitchen table in a run-down 1982 North Carolina shack, dim grey daylight from a small dusty window on the left as the main light: a man's clean hand in a white shirt cuff with a plain button, fingertips just lifting off and withdrawing after setting down exactly three banknotes, each folded once in half and clearly countable as three separate notes in a small slightly fanned pile with nothing beneath them, the notes drawn as plain pale green paper with only a thin plain border and soft blank texture, no ovals, no circles, no seals, no portraits, no numbers and no words; beside them an overflowing glass ashtray with a thin curl of cigarette smoke, a chipped coffee mug fully inside the frame and a pack of cigarettes; in the strongly blurred soft-focus background, placed between the centre and the right third with a wide empty margin of wall to his right so his whole body, both hands, knees and the whole armchair sit well inside the frame, a gaunt hunched man with hollow cheeks, stubble and shoulder-length dark brown hair in a worn denim jacket, seated in a worn armchair right beside a rough fieldstone fireplace whose low fire is visible as a small secondary warm glow, head bowed, eyes down, not looking toward the table or the camera. Quiet, heavy, restrained. Hands simple and natural with five fingers each. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, 1980s rural North Carolina, calm natural mood, no text, no captions, no watermark, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain."
+  },
+  {
+    "shot": "S20",
+    "replaces": "none (N08 holds)",
+    "file": "assets/flow2k_raw/molly-v2/S20/r2-2.png",
+    "source": "1K",
+    "scores": {
+      "beat": 9,
+      "character": 8.5,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 8.5
+    },
+    "total": 8.85,
+    "pass": false,
+    "expression_ok": true,
+    "defects": [
+      "Jason still not fully inside the frame: his hands and knees run into the right edge.",
+      "Notes: top note folded once, but the pile reads as three to four notes and still carries dollar-style seal ovals and a faint portrait-oval ghost (no numbers, words or face: not a hard fail).",
+      "Jason reads as a dark-haired man in denim, but not clearly gaunt; fireplace only as stone wall behind him, no fire glow."
+    ],
+    "minor": [
+      "Fixes r1-2: dim grey window light is now the key, notes folded, hand clearly withdrawing with fingertips just lifting (four fingers, thumb hidden, clean).",
+      "Chipped grey mug fully inside the frame; ashtray with smoke curl; plain cigarette pack with no logo.",
+      "Jason bowed, eyes down, not looking: expression fits the heavy beat.",
+      "Bottom-right corner clean (table leg), no sparkle.",
+      "Best of the pair at 8.85 and better than saved r1-2 (8.75), still below the bar."
+    ],
+    "ai_tells": [],
+    "better_than_current": true,
+    "revised_prompt": "Extreme close-up insert, 85mm, slightly high angle onto a worn scratched wooden kitchen table in a run-down 1982 North Carolina shack, dim grey daylight from a small dusty window on the left as the main light: a man's clean hand in a white shirt cuff with a plain button, fingertips just lifting off and withdrawing after setting down exactly three banknotes, each folded once in half and clearly countable as three separate notes in a small slightly fanned pile with nothing beneath them, the notes drawn as plain pale green paper with only a thin plain border and soft blank texture, no ovals, no circles, no seals, no portraits, no numbers and no words; beside them an overflowing glass ashtray with a thin curl of cigarette smoke, a chipped coffee mug fully inside the frame and a pack of cigarettes; in the strongly blurred soft-focus background, placed between the centre and the right third with a wide empty margin of wall to his right so his whole body, both hands, knees and the whole armchair sit well inside the frame, a gaunt hunched man with hollow cheeks, stubble and shoulder-length dark brown hair in a worn denim jacket, seated in a worn armchair right beside a rough fieldstone fireplace whose low fire is visible as a small secondary warm glow, head bowed, eyes down, not looking toward the table or the camera. Quiet, heavy, restrained. Hands simple and natural with five fingers each. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, 1980s rural North Carolina, calm natural mood, no text, no captions, no watermark, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain."
+  },
+  {
+    "shot": "R92",
+    "replaces": "N19",
+    "file": "assets/flow2k_raw/molly-v2/R92/re2-1.png",
+    "source": "1K",
+    "scores": {
+      "beat": 8,
+      "character": 8.5,
+      "cinematic": 7.5,
+      "style": 8,
+      "technical": 8.5,
+      "readability": 7.5
+    },
+    "total": 8.025,
+    "pass": false,
+    "expression_ok": true,
+    "defects": [
+      "Zoom-out failed again: Alvin's hair runs off the top edge, no headroom.",
+      "Hand still on her upper arm/shoulder, not her forearm.",
+      "Photo became a thick white beveled frame/mat holding the same glossy painted group, not a faded white-border print.",
+      "Alvin's smile closed-mouthed with the viewer-right corner a little higher (slight lopsidedness, unchanged from re1-1)."
+    ],
+    "minor": [
+      "Faces unchanged from re1-1: Alvin's eyes open and soft on the photo, not heavy-lidded, nobody looking at the lens; Monica silver hair, warm crinkled smile.",
+      "Hands clean (his four fingers with thumb hidden; her hands on the photo clean).",
+      "No lettering; bottom-right corner clean.",
+      "Ties re1-1 (8.025), not better."
+    ],
+    "ai_tells": [
+      "glossy painted photo-within-photo",
+      "decorative hand on shoulder",
+      "posed side-by-side staging"
+    ],
+    "better_than_current": false
+  },
+  {
+    "shot": "R92",
+    "replaces": "N19",
+    "file": "assets/flow2k_raw/molly-v2/R92/re2-2.png",
+    "source": "1K",
+    "scores": {
+      "beat": 8,
+      "character": 8.5,
+      "cinematic": 7.75,
+      "style": 8.25,
+      "technical": 8.5,
+      "readability": 7.5
+    },
+    "total": 8.1,
+    "pass": false,
+    "expression_ok": true,
+    "defects": [
+      "Zoom-out failed: Alvin's hair still runs off the top edge, no headroom.",
+      "Hand only slid slightly lower: still on her upper arm near the elbow, cut by the bottom edge, not on her forearm.",
+      "Alvin's closed smile slightly lopsided (viewer-right corner higher), as in re1-1."
+    ],
+    "minor": [
+      "Photo edit took: now a thin white-border print with faded, soft, grainy colours, reads as a real snapshot.",
+      "Faces kept: Alvin's eyes open and soft, warm; Monica silver hair, crinkled smile; nobody looks at the lens; not a smirk.",
+      "Hands clean (four fingers with thumb hidden; her hands on the print clean).",
+      "No text; bottom-right corner clean, no sparkle.",
+      "Marginally better than saved re1-1 (8.10 vs 8.025) thanks to the snapshot fix."
+    ],
+    "ai_tells": [
+      "decorative hand on shoulder",
+      "posed side-by-side staging"
+    ],
+    "better_than_current": true
+  }
+]

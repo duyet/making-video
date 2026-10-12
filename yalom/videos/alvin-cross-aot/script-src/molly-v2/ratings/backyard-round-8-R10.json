@@ -1,0 +1,50 @@
+[
+ {
+  "shot": "R10",
+  "file": "assets/flow2k_raw/molly-v2/R10/bk8-1.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 8.5,
+   "technical": 8,
+   "readability": 9
+  },
+  "total": 8.58,
+  "defects": [
+   "duplicate portrait/white frame fragment visible at the far right by the porch steps behind the guests",
+   "framing nearly duplicates R11: same camera angle, gate and picket fence at left, Yalom as a large left-third foreground figure, same porch/chairs backdrop; R10 should read as a wider, lonelier shot of him stepping away",
+   "Yalom stands at the gate with his hand hanging by his side, not yet leaving; the 'getting ready to leave' beat is implied rather than shown",
+   "brow slightly knit and a hard cheek crease give a faint scowl rather than quiet grief",
+   "Molly's portrait is drawn in the same clean cel style as the scene (photo-within-photo AI tell); still clearly an elderly woman, OK"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the sunlit backyard memorial, the son's house and porch, the white folding chairs, the white-draped table with lilies, the mourners in dark clothes, the wooden picket fence and gate, the AoT cel style and golden late-afternoon light, and the aged Yalom (silver hair and beard, round wire glasses, grey-green overcoat). Change only: pull the camera back so Yalom is a smaller figure (about half the frame height) walking away from the memorial toward the gate, seen from a three-quarter back view, his hand reaching for the gate latch; soften his face to quiet sadness (inner brows slightly lifted, eyes lowered, relaxed closed mouth, no frown); make the portrait in the frame look like a real faded snapshot of the elderly woman (muted colour, slight grain, white border). No text, no watermark.",
+  "res": "1K",
+  "watermark": "none (bottom-right corner checked at zoom, clean)",
+  "pass": false
+ },
+ {
+  "shot": "R10",
+  "file": "assets/flow2k_raw/molly-v2/R10/bk8-2.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 8.5,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "total": 8.67,
+  "defects": [
+   "porch-edge cleanup left a slightly smeared patch with doubled chair legs at the far right (minor)",
+   "framing nearly duplicates R11: same camera angle, gate and picket fence at left, Yalom as a large left-third foreground figure, same porch/chairs backdrop; R10 should read as a wider, lonelier shot of him stepping away",
+   "Yalom stands at the gate with his hand hanging by his side, not yet leaving; the 'getting ready to leave' beat is implied rather than shown",
+   "brow slightly knit and a hard cheek crease give a faint scowl rather than quiet grief",
+   "Molly's portrait is drawn in the same clean cel style as the scene (photo-within-photo AI tell); still clearly an elderly woman, OK"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the sunlit backyard memorial, the son's house and porch, the white folding chairs, the white-draped table with lilies, the mourners in dark clothes, the wooden picket fence and gate, the AoT cel style and golden late-afternoon light, and the aged Yalom (silver hair and beard, round wire glasses, grey-green overcoat). Change only: pull the camera back so Yalom is a smaller figure (about half the frame height) walking away from the memorial toward the gate, seen from a three-quarter back view, his hand reaching for the gate latch; soften his face to quiet sadness (inner brows slightly lifted, eyes lowered, relaxed closed mouth, no frown); make the portrait in the frame look like a real faded snapshot of the elderly woman (muted colour, slight grain, white border). No text, no watermark.",
+  "res": "1K",
+  "watermark": "none (bottom-right corner checked at zoom, clean)",
+  "pass": false
+ }
+]

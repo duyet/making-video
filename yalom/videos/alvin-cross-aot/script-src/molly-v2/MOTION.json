@@ -1,0 +1,541 @@
+{
+ "R17": {
+  "move": "pull",
+  "target": [
+   0.3,
+   0.35
+  ],
+  "hero": true,
+  "xf": null,
+  "why": "memorial opens, reveal the gathering"
+ },
+ "R83": {
+  "move": "still",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "portrait insert, let it rest"
+ },
+ "R55": {
+  "move": "push",
+  "target": [
+   0.72,
+   0.25
+  ],
+  "hero": false,
+  "xf": null,
+  "why": "into Molly's working face"
+ },
+ "R87": {
+  "move": "drift_left",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "wide yard, gentle lateral glide"
+ },
+ "R11": {
+  "move": "drift_right",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "follow couple walking toward Yalom"
+ },
+ "R12": {
+  "move": "push",
+  "target": [
+   0.72,
+   0.3
+  ],
+  "hero": false,
+  "xf": null,
+  "why": "Alvin's hopeful face, hat"
+ },
+ "R13": {
+  "move": "pull",
+  "target": [
+   0.62,
+   0.35
+  ],
+  "hero": false,
+  "xf": null,
+  "why": "widen to the three together"
+ },
+ "R14": {
+  "move": "still",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "short beat, blank memory"
+ },
+ "S19": {
+  "move": "still",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "hands insert, short"
+ },
+ "R15": {
+  "move": "still",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "short establishing night study"
+ },
+ "R16": {
+  "move": "fall",
+  "target": [
+   0.55,
+   0.6
+  ],
+  "hero": false,
+  "xf": null,
+  "why": "down into the file drawer"
+ },
+ "R52": {
+  "move": "push",
+  "target": [
+   0.6,
+   0.45
+  ],
+  "hero": false,
+  "xf": null,
+  "why": "toward the 1982 folder"
+ },
+ "S01": {
+  "move": "still",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "empty chairs, short rest"
+ },
+ "R89": {
+  "move": "still",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "very short Stanford insert"
+ },
+ "R86": {
+  "move": "push",
+  "target": [
+   0.7,
+   0.3
+  ],
+  "hero": false,
+  "xf": null,
+  "why": "radiologist at his films"
+ },
+ "S21": {
+  "move": "still",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "lecture hall, short rest"
+ },
+ "R40": {
+  "move": "still",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "hand on X-ray insert"
+ },
+ "R91": {
+  "move": "push",
+  "target": [
+   0.4,
+   0.3
+  ],
+  "hero": false,
+  "xf": null,
+  "why": "Alvin facing the film"
+ },
+ "S15": {
+  "move": "drift_right",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "grief settles, slow glide"
+ },
+ "R46": {
+  "move": "push",
+  "target": [
+   0.45,
+   0.35
+  ],
+  "hero": false,
+  "xf": "dissolve",
+  "why": "Jason introduced, soft memory"
+ },
+ "M01": {
+  "move": "pull",
+  "target": [
+   0.5,
+   0.4
+  ],
+  "hero": false,
+  "xf": null,
+  "why": "family table, distance revealed"
+ },
+ "S17": {
+  "move": "drift_left",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "Jason leaves down steps"
+ },
+ "M02": {
+  "move": "push",
+  "target": [
+   0.72,
+   0.3
+  ],
+  "hero": false,
+  "xf": null,
+  "why": "the phone call face"
+ },
+ "R51": {
+  "move": "still",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "X-ray from behind, rest"
+ },
+ "S23": {
+  "move": "still",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "short plane insert"
+ },
+ "R43": {
+  "move": "drift_right",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "brothers by the fire"
+ },
+ "R58": {
+  "move": "pull",
+  "target": [
+   0.5,
+   0.45
+  ],
+  "hero": false,
+  "xf": null,
+  "why": "gap between them widens"
+ },
+ "S20": {
+  "move": "still",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "hand and money insert"
+ },
+ "R53": {
+  "move": "still",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "empty room, absence"
+ },
+ "R05": {
+  "move": "push",
+  "target": [
+   0.75,
+   0.35
+  ],
+  "hero": false,
+  "xf": null,
+  "why": "obsession with the films"
+ },
+ "R41": {
+  "move": "push",
+  "target": [
+   0.35,
+   0.3
+  ],
+  "hero": false,
+  "xf": null,
+  "why": "crow in the mirror"
+ },
+ "R50": {
+  "move": "still",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "crow eye, short shock"
+ },
+ "R81": {
+  "move": "rise",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "from clasped hands upward"
+ },
+ "R85": {
+  "move": "push",
+  "target": [
+   0.6,
+   0.3
+  ],
+  "hero": false,
+  "xf": null,
+  "why": "Yalom's realization"
+ },
+ "R57": {
+  "move": "push",
+  "target": [
+   0.3,
+   0.3
+  ],
+  "hero": false,
+  "xf": null,
+  "why": "parents' photo, ticking clock"
+ },
+ "S13": {
+  "move": "drift_right",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "sleepless body across bed"
+ },
+ "M04": {
+  "move": "drift_left",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "recovery, relaxed glide"
+ },
+ "M03": {
+  "move": "still",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "short peaceful sleep"
+ },
+ "R82": {
+  "move": "pull",
+  "target": [
+   0.55,
+   0.4
+  ],
+  "hero": false,
+  "xf": null,
+  "why": "alone in empty cafeteria"
+ },
+ "R49": {
+  "move": "drift_right",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "lone kayak follows wake"
+ },
+ "R47": {
+  "move": "push",
+  "target": [
+   0.55,
+   0.45
+  ],
+  "hero": false,
+  "xf": null,
+  "why": "lonely figure at table"
+ },
+ "R60": {
+  "move": "fall",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "head bowed, confession"
+ },
+ "R42": {
+  "move": "drift_right",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "woman walks away right"
+ },
+ "R01": {
+  "move": "drift_left",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "two-shot, Yalom proposes"
+ },
+ "S14": {
+  "move": "push",
+  "target": [
+   0.45,
+   0.35
+  ],
+  "hero": false,
+  "xf": null,
+  "why": "7am call, tense face"
+ },
+ "S10": {
+  "move": "drift_right",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "Yalom calmly persuades"
+ },
+ "R59": {
+  "move": "still",
+  "target": null,
+  "hero": false,
+  "xf": "cut",
+  "why": "door opens, hard arrival"
+ },
+ "R02": {
+  "move": "pull",
+  "target": [
+   0.85,
+   0.45
+  ],
+  "hero": true,
+  "xf": null,
+  "why": "first sight of the hoard"
+ },
+ "R03": {
+  "move": "still",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "narrow paths, rest after hero"
+ },
+ "R56": {
+  "move": "push",
+  "target": [
+   0.6,
+   0.35
+  ],
+  "hero": false,
+  "xf": null,
+  "why": "toward Alvin's turned back"
+ },
+ "S18": {
+  "move": "drift_left",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "silent standoff, slow glide"
+ },
+ "N15": {
+  "move": "push",
+  "target": [
+   0.6,
+   0.3
+  ],
+  "hero": false,
+  "xf": null,
+  "why": "Yalom takes the ending call"
+ },
+ "S02": {
+  "move": "still",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "hand on closed file"
+ },
+ "M05": {
+  "move": "drift_right",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "years of self-blame"
+ },
+ "R06": {
+  "move": "pull",
+  "target": [
+   0.55,
+   0.4
+  ],
+  "hero": false,
+  "xf": null,
+  "why": "café reunion revealed"
+ },
+ "S07": {
+  "move": "push",
+  "target": [
+   0.4,
+   0.3
+  ],
+  "hero": false,
+  "xf": null,
+  "why": "Yalom understands at last"
+ },
+ "R07": {
+  "move": "still",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "Alvin speaks, rest"
+ },
+ "S22": {
+  "move": "still",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "short phone flashback"
+ },
+ "M06": {
+  "move": "still",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "Molly arrives, short"
+ },
+ "S16": {
+  "move": "push",
+  "target": [
+   0.7,
+   0.35
+  ],
+  "hero": true,
+  "xf": null,
+  "why": "Molly's hands, her work"
+ },
+ "M07": {
+  "move": "drift_left",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "Molly reading, calm glide"
+ },
+ "R08": {
+  "move": "push",
+  "target": [
+   0.5,
+   0.3
+  ],
+  "hero": false,
+  "xf": "dissolve",
+  "why": "Yalom absorbs it, tender"
+ },
+ "R92": {
+  "move": "drift_right",
+  "target": null,
+  "hero": false,
+  "xf": null,
+  "why": "family kitchen, warm life"
+ },
+ "S11": {
+  "move": "pull",
+  "target": [
+   0.4,
+   0.45
+  ],
+  "hero": false,
+  "xf": "dissolve",
+  "why": "Yalom alone in window"
+ },
+ "R88": {
+  "move": "push",
+  "target": [
+   0.82,
+   0.5
+  ],
+  "hero": true,
+  "xf": "dissolve",
+  "why": "Thank you, Molly"
+ }
+}

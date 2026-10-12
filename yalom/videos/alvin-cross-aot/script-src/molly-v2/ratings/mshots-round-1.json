@@ -1,0 +1,487 @@
+[
+  {
+    "shot": "M01",
+    "file": "assets/redraw/M01.png",
+    "scores": {
+      "beat": 8,
+      "character": 7.5,
+      "cinematic": 6.5,
+      "style": 8,
+      "technical": 8.5,
+      "readability": 8
+    },
+    "total": 7.68,
+    "pass": false,
+    "defects": [
+      "Flat frontal stage-like composition, even exposure, no foreground/depth layer (cinematic weak)",
+      "Jason in a black t-shirt, no denim jacket (anchor miss)",
+      "Both boys read early 20s rather than teens",
+      "Jason close to the right door frame"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "M01",
+    "file": "assets/flow2k_raw/molly-v2/M01/c1-1.png",
+    "scores": {
+      "beat": 8,
+      "character": 8,
+      "cinematic": 8.5,
+      "style": 8.5,
+      "technical": 8,
+      "readability": 7.5
+    },
+    "total": 8.1,
+    "pass": false,
+    "defects": [
+      "Father and mother are actively eating with forks, plates not untouched (beat)",
+      "Jason squeezed against the right door jamb, part of his body overlapped by the foreground frame (edge crowding)",
+      "Left ~22% of frame is dead dark wall",
+      "Teen boys read ~20",
+      "Tiny 6px ghost residue near bottom-right corner (likely removed-mark remnant)"
+    ],
+    "revised_prompt": "M01: Wide shot, 24mm lens, deep focus, camera at seated eye level looking through an open doorway from a dark hallway into a plain 1960s American dining room at night, the door frame forming a dark frame-within-frame in the foreground; a single hanging lamp over the table throws a hard warm cone of light onto the table and untouched full plates, the corners falling into soft shadow, a cold blue night window behind; a tense silent family dinner, nobody looks at the camera: at the head of the table a stern balding father about 55 with short grey hair, clean-shaven, white shirt and tie, beside him a tight-lipped mother about 50 with short permed greying hair in a plain housedress, both frozen with hands in their laps and cutlery lying untouched beside full untouched plates, staring down at their plates; seated stiffly on the left, teenage Alvin Cross, a 17-year-old boy, inspired by Erwin Smith but much younger, slim, smooth unlined face, blond hair in a neat side part with no grey, heavy brows, blue eyes, plain white collared shirt, hands in his lap, eyes down; on the right third, teenage Jason Cross, about 16, inspired by a young Eren Yeager, dark brown shoulder-length hair, intense green eyes, defiant tired stare, lean wiry build, faded denim jacket over a grey t-shirt, standing up and turning away from the table, his chair shoved back, glancing back with a cold glare, his long shadow cast across the tablecloth by the lamp; Jason standing at about 70% across the frame, fully inside the doorway opening with clear space between him and the right door jamb, both hands visible and natural. The dark foreground door frame occupies no more than the outer 10% on each side; the room fills the rest of the frame. Both boys clearly teenagers with soft, smooth, youthful faces. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, faces always clearly readable, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+  },
+  {
+    "shot": "M01",
+    "file": "assets/flow2k_raw/molly-v2/M01/c1-2.png",
+    "scores": {
+      "beat": 7,
+      "character": 8,
+      "cinematic": 7.5,
+      "style": 8.5,
+      "technical": 6.5,
+      "readability": 8
+    },
+    "total": 7.48,
+    "pass": false,
+    "defects": [
+      "Unexplained head-and-shoulders shadow on the tablecloth with no one casting it (focal-area artifact)",
+      "Jason leans on a chair facing the camera, staring into lens, not standing to leave",
+      "Mother eating, plates not untouched",
+      "Teens read ~20"
+    ],
+    "revised_prompt": "M01: Wide shot, 24mm lens, deep focus, camera at seated eye level looking through an open doorway from a dark hallway into a plain 1960s American dining room at night, the door frame forming a dark frame-within-frame in the foreground; a single hanging lamp over the table throws a hard warm cone of light onto the table and untouched full plates, the corners falling into soft shadow, a cold blue night window behind; a tense silent family dinner, nobody looks at the camera: at the head of the table a stern balding father about 55 with short grey hair, clean-shaven, white shirt and tie, beside him a tight-lipped mother about 50 with short permed greying hair in a plain housedress, both frozen with hands in their laps and cutlery lying untouched beside full untouched plates, staring down at their plates; seated stiffly on the left, teenage Alvin Cross, a 17-year-old boy, inspired by Erwin Smith but much younger, slim, smooth unlined face, blond hair in a neat side part with no grey, heavy brows, blue eyes, plain white collared shirt, hands in his lap, eyes down; on the right third, teenage Jason Cross, about 16, inspired by a young Eren Yeager, dark brown shoulder-length hair, intense green eyes, defiant tired stare, lean wiry build, faded denim jacket over a grey t-shirt, standing up and turning away from the table, his chair shoved back, his body already turned toward an exit on the right mid-step, glancing back over his shoulder at his father with a cold glare, not looking at the camera, his long shadow cast across the tablecloth by the lamp; Jason standing at about 70% across the frame, fully inside the doorway opening with clear space to the right door jamb. The only shadow on the tablecloth is Jason's, falling to the right; no other silhouettes or shadows of unseen people. Both boys clearly teenagers with soft, smooth, youthful faces. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, faces always clearly readable, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+  },
+  {
+    "shot": "M02",
+    "file": "assets/redraw/M02.png",
+    "scores": {
+      "beat": 8.5,
+      "character": 8,
+      "cinematic": 7,
+      "style": 9,
+      "technical": 8,
+      "readability": 8
+    },
+    "total": 8.03,
+    "pass": false,
+    "defects": [
+      "Medium shot, not the MCU asked; frontal, flatly lit (cinematic)",
+      "Frowning scowl rather than still listening",
+      "Handset sits in front of the ear",
+      "Faint smudge marks near the mug in the bottom-right corner"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "M02",
+    "file": "assets/flow2k_raw/molly-v2/M02/c1-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 8,
+      "cinematic": 8.5,
+      "style": 8.5,
+      "technical": 7.5,
+      "readability": 8
+    },
+    "total": 8.33,
+    "pass": false,
+    "defects": [
+      "Handset held against cheek/nose, ear is well behind it (anatomy/prop error in focal area)",
+      "Brows knit into a frown despite 'no frown'",
+      "No visible silver-grey temples",
+      "Left ~40% is near-black door frame; slightly heavy"
+    ],
+    "revised_prompt": "M02: Medium close-up, 85mm telephoto, shallow depth of field, 1982 evening in a small California bungalow kitchen, shot from the dark hallway past an out-of-focus door frame edge in the left foreground; a single warm practical lamp on the counter lights one side of his face while the window behind him glows cold dusk blue, rim light on his hair; Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, strong angular jaw, heavy brows, blue eyes, guarded calm; olive knit sweater over a collared shirt, grey trousers; standing at a beige wall-mounted rotary phone, holding the receiver with the earpiece pressed flat against his ear and the mouthpiece at the corner of his jaw, his fingers wrapped behind the handset, well clear of his nose and mouth, the coiled cord hanging in the foreground, his face still and quiet as he listens to bad news, eyes lowered, mouth closed, no frown, brows relaxed and level; his face on the right third, his free hand out of frame. Clearly visible silver-grey at his temples. The out-of-focus door frame edge occupies only the left fifth of the frame. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, faces always clearly readable, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+  },
+  {
+    "shot": "M02",
+    "file": "assets/flow2k_raw/molly-v2/M02/c1-2.png",
+    "scores": {
+      "beat": 9.5,
+      "character": 8,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 7.5,
+      "readability": 9
+    },
+    "total": 8.7,
+    "pass": false,
+    "defects": [
+      "Handset held at cheek/nose with the earpiece near the temple, not at the ear (prop/anatomy error in focal area)",
+      "No visible silver-grey temples"
+    ],
+    "revised_prompt": "M02: Medium close-up, 85mm telephoto, shallow depth of field, 1982 evening in a small California bungalow kitchen, shot from the dark hallway past an out-of-focus door frame edge in the left foreground; a single warm practical lamp on the counter lights one side of his face while the window behind him glows cold dusk blue, rim light on his hair; Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, strong angular jaw, heavy brows, blue eyes, guarded calm; olive knit sweater over a collared shirt, grey trousers; standing at a beige wall-mounted rotary phone, holding the receiver with the earpiece pressed flat against his ear and the mouthpiece at the corner of his jaw, his fingers wrapped behind the handset, well clear of his nose and mouth, the coiled cord hanging in the foreground, his face still and quiet as he listens to bad news, eyes lowered, mouth closed, no frown; his face on the right third, his free hand out of frame. Clearly visible silver-grey at his temples. Keep his eyes gently closed as he listens. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, faces always clearly readable, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+  },
+  {
+    "shot": "M03",
+    "file": "assets/redraw/M03.png",
+    "scores": {
+      "beat": 9,
+      "character": 8.5,
+      "cinematic": 6.5,
+      "style": 8.5,
+      "technical": 8,
+      "readability": 8.5
+    },
+    "total": 8.15,
+    "pass": false,
+    "defects": [
+      "Flat even lighting, no light shafts, generic angle (cinematic)",
+      "Neck/jaw elongated"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "M03",
+    "file": "assets/flow2k_raw/molly-v2/M03/c1-1.png",
+    "scores": {
+      "beat": 8,
+      "character": 8,
+      "cinematic": 8.5,
+      "style": 8,
+      "technical": 7.5,
+      "readability": 9
+    },
+    "total": 8.13,
+    "pass": false,
+    "defects": [
+      "Cold blue light reads as moonlight, not early morning",
+      "Brow knitted, face reads tense not peaceful",
+      "Two hands bunched on chest/sheet with an elongated torso",
+      "No silver-grey temples"
+    ],
+    "revised_prompt": "M03: Medium shot, high-angle top-down view looking straight down at the bed, 35mm, soft early-morning sunlight streaming through thin white curtains in long diagonal shafts across the white sheets, dust motes glowing in the beams, warm pale-gold morning light, only soft light-grey shadows in the rest of the room, no blue night tint; Alvin Cross: man mid-30s, inspired by Erwin Smith, blond hair in a neat side part with silver-grey temples, strong angular jaw, heavy brows, guarded calm, asleep peacefully on his back, face relaxed and calm, brows smooth and unfurrowed, a faint peaceful softness at the mouth, natural neck and shoulders, only his right hand resting on the sheet over his chest, his left arm hidden under the sheet, wearing a plain grey sleep shirt; a tidy bedside table at the edge with a small lamp, a glass of water and a folded pair of glasses; his face in the upper-left third, lots of quiet negative space of white sheets. Clearly visible silver-grey at his temples; natural adult body proportions. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, faces always clearly readable, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+  },
+  {
+    "shot": "M03",
+    "file": "assets/flow2k_raw/molly-v2/M03/c1-2.png",
+    "scores": {
+      "beat": 9.5,
+      "character": 8.5,
+      "cinematic": 9,
+      "style": 8.5,
+      "technical": 8.5,
+      "readability": 9
+    },
+    "total": 8.9,
+    "pass": false,
+    "defects": [
+      "Total just below the 9.0 bar",
+      "No silver-grey temples",
+      "Line work slightly lighter/softer than the redraw set; ink shadows less heavy",
+      "Upper arm slightly long"
+    ],
+    "revised_prompt": "M03: Medium shot, high-angle top-down view looking straight down at the bed, 35mm, soft early-morning sunlight streaming through thin white curtains in long diagonal shafts across the white sheets, dust motes glowing in the beams, cool blue shadows in the rest of the room; Alvin Cross: man mid-30s, inspired by Erwin Smith, blond hair in a neat side part with silver-grey temples, strong angular jaw, heavy brows, guarded calm, asleep peacefully on his back, face relaxed and calm, natural neck and shoulders, one arm resting on the sheet over his chest, wearing a plain grey sleep shirt; a tidy bedside table at the edge with a small lamp, a glass of water and a folded pair of glasses; his face in the upper-left third, lots of quiet negative space of white sheets. Clearly visible silver-grey at his temples; natural arm proportions. Bold heavy black ink outlines and firm cel-shadow shapes like the rest of the series. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, faces always clearly readable, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+  },
+  {
+    "shot": "M04",
+    "file": "assets/redraw/M04.png",
+    "scores": {
+      "beat": 8.5,
+      "character": 8,
+      "cinematic": 6.5,
+      "style": 8.5,
+      "technical": 8.5,
+      "readability": 8
+    },
+    "total": 7.95,
+    "pass": false,
+    "defects": [
+      "Frontal centred medium, flat light (cinematic) and cuts poorly after X04 (same armchair medium)",
+      "Smile reads smug",
+      "Faint star ghost in the bottom-right corner"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "M04",
+    "file": "assets/flow2k_raw/molly-v2/M04/c1-1.png",
+    "scores": {
+      "beat": 8,
+      "character": 7.5,
+      "cinematic": 8.5,
+      "style": 8.5,
+      "technical": 8.5,
+      "readability": 8.5
+    },
+    "total": 8.18,
+    "pass": false,
+    "defects": [
+      "Smile reads as a knowing smirk, eyes nearly to camera",
+      "Foreground Yalom has no glasses and dark-brown hair (anchor miss)",
+      "No silver-grey temples visible"
+    ],
+    "revised_prompt": "M04: Medium close-up, over-the-shoulder, 85mm telephoto, shallow depth of field: the out-of-focus shoulder and back of the head of Dr. Yalom in the left foreground: short tousled dark-blond hair, the arm of his round wire-rim glasses visible over his ear, the edge of his blond beard, brown knit cardigan, framing Alvin across the room in the right two-thirds; a 1982 Stanford psychiatrist's office, half-open venetian blinds behind him casting warm striped bands of afternoon light across the room and a golden rim light on his hair and shoulders, bookshelves softly blurred behind, no diplomas, no certificates, no lettering; Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, strong angular jaw, heavy brows, blue eyes, commanding calm; white doctor coat, pale blue shirt, dark tie, no visible lettering; seated in a brown leather armchair, relaxed, shoulders loose, a small soft genuine closed-mouth smile of relief, eyes softened and a little moist, brows relaxed and lifted slightly, no smirk, no grin, gaze on the man opposite and not at the camera, hands out of frame. Clearly visible silver-grey at Alvin's temples. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, faces always clearly readable, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+  },
+  {
+    "shot": "M04",
+    "file": "assets/flow2k_raw/molly-v2/M04/c1-2.png",
+    "scores": {
+      "beat": 8.5,
+      "character": 8.5,
+      "cinematic": 9,
+      "style": 8.5,
+      "technical": 8.5,
+      "readability": 9
+    },
+    "total": 8.65,
+    "pass": false,
+    "defects": [
+      "Smile still reads slightly smirky/knowing rather than soft relief",
+      "No silver-grey temples visible"
+    ],
+    "revised_prompt": "M04: Medium close-up, over-the-shoulder, 85mm telephoto, shallow depth of field: the out-of-focus dark shoulder of a man in a brown knit cardigan in the left foreground, framing Alvin across the room in the right two-thirds; a 1982 Stanford psychiatrist's office, half-open venetian blinds behind him casting warm striped bands of afternoon light across the room and a golden rim light on his hair and shoulders, bookshelves softly blurred behind, no diplomas, no certificates, no lettering; Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, strong angular jaw, heavy brows, blue eyes, commanding calm; white doctor coat, pale blue shirt, dark tie, no visible lettering; seated in a brown leather armchair, relaxed, shoulders loose, a small soft genuine closed-mouth smile of relief, eyes softened and a little moist, brows relaxed and lifted slightly, no smirk, no grin, gaze on the man opposite and not at the camera, hands out of frame. Clearly visible silver-grey at Alvin's temples. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, faces always clearly readable, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+  },
+  {
+    "shot": "M05",
+    "file": "assets/redraw/M05.png",
+    "scores": {
+      "beat": 9,
+      "character": 8,
+      "cinematic": 7,
+      "style": 8,
+      "technical": 8,
+      "readability": 7.5
+    },
+    "total": 8.0,
+    "pass": false,
+    "defects": [
+      "Faint star ghost on the book in the bottom-right corner",
+      "Cinematic: front-on, little depth/rim light",
+      "Two fountain pens (duplicated prop)",
+      "Cardigan reads olive"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "M05",
+    "file": "assets/flow2k_raw/molly-v2/M05/c1-1.png",
+    "scores": {
+      "beat": 8.5,
+      "character": 8.5,
+      "cinematic": 8.5,
+      "style": 8.5,
+      "technical": 7.5,
+      "readability": 8.5
+    },
+    "total": 8.35,
+    "pass": false,
+    "defects": [
+      "Folder construction incoherent: tabbed manila flap over a thick bound page block (half folder, half book)",
+      "Face sits centre-left, not on the left third",
+      "Hair long and swept over ears"
+    ],
+    "revised_prompt": "M05: Medium shot, 50mm, eye level across the desk, present day, a home study at dusk: one brass desk lamp is the main light, a warm pool of light on the desk and on his face, deep blue dusk light from a window behind him rim-lighting his hair and shoulders, bookshelves falling into soft shadow, a stack of out-of-focus books in the right foreground for depth; Dr. Yalom about 80, inspired by an aged Zeke Yeager, silver-white short tousled hair, full trimmed silver-white beard, round wire-rim glasses, kind tired eyes with deep crow's feet, slightly stooped; a brown knit cardigan over a shirt; seated at a wooden desk, both hands resting on a single thin worn tan manila file folder (one folded sheet of card with a small blank tab and a few loose sheets inside, no spine, no binding, no thick page block), closing it slowly, the cover nearly shut, no tab label, clearly a folder not a book, one mug of tea beside it, pensive, eyes lowered on the folder; camera framed so his head sits on the left-third line, lamp and window on the right. Hair trimmed short above the ears. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, faces always clearly readable, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+  },
+  {
+    "shot": "M05",
+    "file": "assets/flow2k_raw/molly-v2/M05/c1-2.png",
+    "scores": {
+      "beat": 8,
+      "character": 8.5,
+      "cinematic": 9,
+      "style": 8.5,
+      "technical": 8.5,
+      "readability": 9
+    },
+    "total": 8.53,
+    "pass": false,
+    "defects": [
+      "Folder reads as a thick closed hardcover book; weak match-cut to N05's open manila folder",
+      "Face centre-left rather than left third",
+      "Hair long over ears"
+    ],
+    "revised_prompt": "M05: Medium shot, 50mm, eye level across the desk, present day, a home study at dusk: one brass desk lamp is the main light, a warm pool of light on the desk and on his face, deep blue dusk light from a window behind him rim-lighting his hair and shoulders, bookshelves falling into soft shadow, a stack of out-of-focus books in the right foreground for depth; Dr. Yalom about 80, inspired by an aged Zeke Yeager, silver-white short tousled hair, full trimmed silver-white beard, round wire-rim glasses, kind tired eyes with deep crow's feet, slightly stooped; a brown knit cardigan over a shirt; seated at a wooden desk, both hands resting on a single thin worn tan manila file folder (one folded sheet of card with a small blank tab and a few loose sheets inside, no spine, no binding, no thick page block), closing it slowly, the cover nearly shut, no tab label, clearly a folder not a book, one mug of tea beside it, pensive, eyes lowered on the folder; camera framed so his head sits on the left-third line, lamp and window on the right. Hair trimmed short above the ears. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, faces always clearly readable, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+  },
+  {
+    "shot": "M06",
+    "file": "assets/redraw/M06.png",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 7,
+      "style": 9,
+      "technical": 8,
+      "readability": 8
+    },
+    "total": 8.35,
+    "pass": false,
+    "defects": [
+      "Flat even light, frontal stage composition (cinematic)",
+      "Hanging X-ray films drawn as jacket-shaped garments",
+      "Faint star ghost in bottom-right corner"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "M06",
+    "file": "assets/flow2k_raw/molly-v2/M06/c1-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 8.5,
+      "cinematic": 9,
+      "style": 8.5,
+      "technical": 8.5,
+      "readability": 8.5
+    },
+    "total": 8.73,
+    "pass": false,
+    "defects": [
+      "Figures small: faces soft at 1080p",
+      "No daylight rim on Molly; doorway light weak",
+      "Molly standing inside, not stepping over the threshold",
+      "Alvin's silver-grey temples not visible"
+    ],
+    "revised_prompt": "M06: Wide shot, 24mm, deep focus, camera low inside a 1982 hoarded bungalow living room looking toward the open front door: towering dark stacks of plain folded newspapers, books and unlabelled cardboard file boxes rise out of frame in the near foreground on both sides as dark silhouettes, forming leading lines along one narrow path toward the doorway; bright daylight floods through the open door, dust glowing in the shaft of light; framed in the bright doorway in the centre: Molly: woman in her 50s, Hange-like practical energy, brown hair in a loose tied-back ponytail, small round glasses, warm no-nonsense face, sturdy build; beige apron over a rolled-sleeve checked shirt, work trousers; one boot just stepping over the threshold, sleeves rolled, hands on her hips, calmly assessing the room, a bright daylight rim outlining her hair and shoulders, her face still clearly readable; just behind her shoulder on the porch: Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, strong angular jaw, heavy brows, blue eyes, guarded calm; olive knit sweater over a collared shirt, grey trousers; shoulders slumped, eyes lowered, ashamed. Every newspaper shows only plain grey blocks, every box unlabelled, no handwriting. Camera a little closer so the two figures fill about half the frame height. Clearly visible silver-grey at Alvin's temples. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, faces always clearly readable, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+  },
+  {
+    "shot": "M06",
+    "file": "assets/flow2k_raw/molly-v2/M06/c1-2.png",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 7.5,
+      "style": 9,
+      "technical": 8,
+      "readability": 8.5
+    },
+    "total": 8.5,
+    "pass": false,
+    "defects": [
+      "Near-copy of the current winner layout; ignores low knee-height camera and silhouetted foreground stacks",
+      "Hanging garment-like 'X-ray jackets' on stacks again",
+      "No rim light on Molly"
+    ],
+    "revised_prompt": "M06: Wide shot, 24mm, deep focus, camera at knee height deep inside a 1982 hoarded bungalow living room looking toward the open front door: towering dark stacks of plain folded newspapers, books and unlabelled cardboard file boxes rise out of frame in the near foreground on both sides as dark silhouettes, forming leading lines along one narrow path toward the doorway; bright daylight floods through the open door, dust glowing in the shaft of light; framed in the bright doorway in the centre: Molly: woman in her 50s, Hange-like practical energy, brown hair in a loose tied-back ponytail, small round glasses, warm no-nonsense face, sturdy build; beige apron over a rolled-sleeve checked shirt, work trousers; one foot over the threshold, sleeves rolled, hands on her hips, calmly assessing the room, rim-lit by the daylight with her face still readable; just behind her shoulder on the porch: Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, strong angular jaw, heavy brows, blue eyes, guarded calm; olive knit sweater over a collared shirt, grey trousers; shoulders slumped, eyes lowered, ashamed. Every newspaper shows only plain grey blocks, every box unlabelled, no handwriting. No sofa in view, no clothing or jackets hanging anywhere; any X-ray film jackets are flat brown envelopes in a pile. The doorway is small and centred at the end of the path, the figures framed between the dark stacks. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, faces always clearly readable, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+  },
+  {
+    "shot": "M07",
+    "file": "assets/redraw/M07.png",
+    "scores": {
+      "beat": 9,
+      "character": 8.5,
+      "cinematic": 7,
+      "style": 8,
+      "technical": 8.5,
+      "readability": 8
+    },
+    "total": 8.23,
+    "pass": false,
+    "defects": [
+      "Flat medium-wide without depth framing (cinematic)",
+      "Style softer than the redraw set",
+      "Faint star ghost in the bottom-right corner"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "M07",
+    "file": "assets/flow2k_raw/molly-v2/M07/c1-1.png",
+    "scores": {
+      "beat": 7.5,
+      "character": 8.5,
+      "cinematic": 7.5,
+      "style": 8.5,
+      "technical": 8,
+      "readability": 7.5
+    },
+    "total": 7.88,
+    "pass": false,
+    "defects": [
+      "Peeling, stained wallpaper contradicts 'tidy and lived-in' years later",
+      "Doorway frames an empty room while Molly sits outside it at the right edge; desk cut by frame",
+      "Framed photo includes a Molly-like woman in glasses and apron"
+    ],
+    "revised_prompt": "M07: Medium-wide shot, 35mm, framed through an open interior doorway in the dark foreground (frame-within-frame), years later: the same bungalow living room now tidy and lived-in, polished wooden floor, an orderly bookshelf, a sofa with cushions, warm golden afternoon light pouring through a window in long shafts with dust in the air, long soft shadows; Molly: woman in her 50s, Hange-like practical energy, brown hair in a loose tied-back ponytail, small round glasses, warm no-nonsense face, sturdy build; beige apron over a rolled-sleeve checked shirt, work trousers; now a bit older with grey streaks in her hair, seated at a small wooden desk by the window sorting a stack of plain blank envelopes, a calm content half-smile, backlit by the sun with her face clearly readable; on the wall above the desk a framed family photo of a fair-haired man, a woman without glasses and two children, no writing anywhere; Molly seated inside the doorway opening at about 65% across the frame, the whole desk visible, clear space between her and the right edge; nothing in the right foreground. Clean intact cream wallpaper, no stains, no peeling, no cracks. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, faces always clearly readable, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+  },
+  {
+    "shot": "M07",
+    "file": "assets/flow2k_raw/molly-v2/M07/c1-2.png",
+    "scores": {
+      "beat": 8.5,
+      "character": 8,
+      "cinematic": 8,
+      "style": 8.5,
+      "technical": 8,
+      "readability": 8
+    },
+    "total": 8.18,
+    "pass": false,
+    "defects": [
+      "Hair fully silver instead of brown with grey streaks",
+      "Molly outside the inner doorway frame, near the right edge",
+      "Unidentified dark round object cut at the right edge"
+    ],
+    "revised_prompt": "M07: Medium-wide shot, 35mm, framed through an open interior doorway in the dark foreground (frame-within-frame), years later: the same bungalow living room now tidy and lived-in, polished wooden floor, an orderly bookshelf, a sofa with cushions, warm golden afternoon light pouring through a window in long shafts with dust in the air, long soft shadows; Molly: woman in her 50s, Hange-like practical energy, brown hair in a loose tied-back ponytail, small round glasses, warm no-nonsense face, sturdy build; beige apron over a rolled-sleeve checked shirt, work trousers; now a bit older, her hair still mostly brown with a few grey streaks, seated at a small wooden desk by the window sorting a stack of plain blank envelopes, a calm content half-smile, backlit by the sun with her face clearly readable; on the wall above the desk a framed family photo of a man, a woman and two children, no writing anywhere; Molly seated inside the doorway opening at about 65% across the frame, the whole desk visible, clear space between her and the right edge; nothing in the right foreground. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, faces always clearly readable, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+  },
+  {
+    "shot": "R02",
+    "file": "assets/redraw/R02.png",
+    "scores": {
+      "beat": 8.5,
+      "character": 8.5,
+      "cinematic": 7,
+      "style": 8.5,
+      "technical": 8.5,
+      "readability": 8
+    },
+    "total": 8.15,
+    "pass": false,
+    "defects": [
+      "Flat evenly lit room, no foreground depth or light shaft (cinematic)",
+      "Shock expression mild; hand not on the door handle",
+      "Faint mark near bottom-right"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "R02",
+    "file": "assets/flow2k_raw/molly-v2/R02/c1-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 8.5,
+      "cinematic": 8,
+      "style": 8.5,
+      "technical": 8.5,
+      "readability": 9
+    },
+    "total": 8.58,
+    "pass": false,
+    "defects": [
+      "Weak foreground layer and light shaft; layout nearly identical to current winner",
+      "Hand reaches beside the knob rather than holding it"
+    ],
+    "revised_prompt": "R02: Wide shot, 24mm, deep focus, camera deep inside a 1980s California bungalow living room crammed with towering stacks of plain folded newspapers, file boxes and books, looking back toward the front door: out-of-focus dark stacks in the near foreground on the left, a narrow walkway leading between the piles to the doorway; bright daylight behind him through the open door, dust glowing in the light shaft, the rest of the room in dim warm shadow; standing just inside the doorway at the right-centre of the frame, about two-thirds across, well away from the edge, rim-lit by the doorway light with his face clearly readable: Dr. Yalom: man about 50, inspired by Zeke Yeager, short tousled dark-blond hair, full trimmed blond beard, round wire-rim glasses, calm intellectual face, kind tired eyes, medium build; grey wool overcoat over a brown knit cardigan, dark trousers; frozen in shock, eyes wide, lips parted, one hand gripping the door handle. Every newspaper, page and box completely blank: no headlines, no mastheads, no printed letters anywhere. A tall out-of-focus dark stack cuts the near-left foreground; a strong shaft of daylight from the doorway falls diagonally across the floor with glowing dust. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, faces always clearly readable, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+  },
+  {
+    "shot": "R02",
+    "file": "assets/flow2k_raw/molly-v2/R02/c1-2.png",
+    "scores": {
+      "beat": 8,
+      "character": 8.5,
+      "cinematic": 7.5,
+      "style": 8.5,
+      "technical": 8.5,
+      "readability": 6
+    },
+    "total": 7.93,
+    "pass": false,
+    "defects": [
+      "Yalom jammed against the right edge, shoulder cut off, no room for Ken Burns",
+      "Room composition near-identical to winner"
+    ],
+    "revised_prompt": "R02: Wide shot, 24mm, deep focus, camera deep inside a 1980s California bungalow living room crammed with towering stacks of plain folded newspapers, file boxes and books, looking back toward the front door: out-of-focus dark stacks in the near foreground on the left, a narrow walkway leading between the piles to the doorway; bright daylight behind him through the open door, dust glowing in the light shaft, the rest of the room in dim warm shadow; standing just inside the doorway at the right-centre of the frame, about 65% across the frame, his whole body including both shoulders inside the frame with clear space to the right edge, rim-lit by the doorway light with his face clearly readable: Dr. Yalom: man about 50, inspired by Zeke Yeager, short tousled dark-blond hair, full trimmed blond beard, round wire-rim glasses, calm intellectual face, kind tired eyes, medium build; grey wool overcoat over a brown knit cardigan, dark trousers; frozen in shock, eyes wide, lips parted, one hand still on the door handle. Every newspaper, page and box completely blank: no headlines, no mastheads, no printed letters anywhere. A tall out-of-focus dark stack cuts the near-left foreground; a strong shaft of daylight from the doorway falls diagonally across the floor with glowing dust. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, faces always clearly readable, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+  }
+]

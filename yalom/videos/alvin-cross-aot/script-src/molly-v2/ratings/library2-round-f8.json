@@ -1,0 +1,170 @@
+[
+  {
+    "shot": "S18",
+    "replaces": "R80 (stand-in), new b15 shot",
+    "file": "assets/flow2k_raw/molly-v2/S18/r3-1.png",
+    "source": "1K",
+    "scores": {
+      "beat": 8.5,
+      "character": 9,
+      "cinematic": 8,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 8.5
+    },
+    "total": 8.55,
+    "pass": false,
+    "expression_ok": true,
+    "defects": [
+      "No window or venetian blinds anywhere in frame (right edge is plain dark wall), so the cut into R56 loses its shared window; brief and prompt both asked for the window edge at far right.",
+      "Light is flat and even: no cool window key shaping Alvin's face, no warm practical deep in the room; the 'cool window vs warm lamp' contrast is missing."
+    ],
+    "minor": [
+      "Expression right: eyes lowered and wet, brow creased with the inner end lifted, mouth a tight down-turned line, arms crossed tight: ashamed/sad, not scowling.",
+      "Yalom now reads as Yalom: round glasses, full blond beard, dark-blond hair, grey overcoat, seated on a wooden chair at the end of the aisle, open hand reaching toward Alvin (fixes r2-2's moustache-only figure).",
+      "Yalom is midground-sized (~35% frame height), not the small far silhouette asked for, and his gaze points roughly toward camera/Alvin.",
+      "Chair (mottled faded brown), olive sweater over collared shirt, grey trousers match R56; silver-grey at the temple visible.",
+      "Crossed hands clean (four fingertips each side, no extra digits).",
+      "Alvin's elbow and the chair arm reach ~97% across; head centred ~78% with modest headroom.",
+      "Blank light-switch plate by the doorway (no text); tied newspaper stacks, no readable print; bottom-right corner clean, no sparkle.",
+      "1K upscale softness (not penalised)."
+    ],
+    "ai_tells": [
+      "flat even illustration lighting with no motivated source"
+    ],
+    "better_than_current": true
+  },
+  {
+    "shot": "S12",
+    "replaces": "X06 (stand-in)",
+    "file": "assets/flow2k_raw/molly-v2/S12/r11-1.png",
+    "source": "1K",
+    "scores": {
+      "beat": 9,
+      "character": 8.5,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 8
+    },
+    "total": 8.63,
+    "pass": false,
+    "expression_ok": true,
+    "defects": [
+      "Jason sits at x ~72-91% with the open door leaf filling the right edge: little Ken Burns room on the right, and he is large (~80% frame height) rather than small in a wide hallway."
+    ],
+    "minor": [
+      "Expression right: inner brows raised, eyes wide, lips just parted: a startled, fearful glance back (fear of being heard), not a glare; gaze goes off to the left toward the stairs, not into the lens (close call: head turned nearly to camera).",
+      "Alone, back to camera, stepping out onto the moonlit porch with a canvas duffel, hand on the door edge; open empty tin on the side table foreground left; staircase leads up to a small warm lit window: good story geometry.",
+      "Hair reads auburn/reddish-brown under the blue light, a touch redder than chestnut; Eren-like face, green-grey eyes.",
+      "Tin clasp has a small keyhole shape that looks like an 'S'/'$' when zoomed; illegible at viewing size, not a hard fail.",
+      "Door hand a clean fist with thumb; bottom-right corner clean, no sparkle; no text.",
+      "1K upscale softness (not penalised)."
+    ],
+    "ai_tells": [],
+    "better_than_current": false
+  },
+  {
+    "shot": "S12",
+    "replaces": "X06 (stand-in)",
+    "file": "assets/flow2k_raw/molly-v2/S12/r11-2.png",
+    "source": "1K",
+    "scores": {
+      "beat": 7.5,
+      "character": 9,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 8,
+      "readability": 9
+    },
+    "total": 8.48,
+    "pass": false,
+    "expression_ok": false,
+    "defects": [
+      "Expression: heavy brow drawn low and nearly level, angling down toward the nose, over a hard sideways look: wary/stern, not furtive and guilty with raised tense brows (face-audit S12 brief; same AOT-default brow f7 failed). Sweat drop and pressed lips help but don't save it.",
+      "Hand on the doorknob is a mitten shape with no readable fingers (in the lit focal area)."
+    ],
+    "minor": [
+      "Best composition of the round: figure centre-right (~60-72%), smaller in frame, doorway frame-within-frame, cast shadow on the floor, warm upstairs window vs cold moonlight, open empty tin foreground left.",
+      "Dark chestnut-brown shoulder-length hair, Eren-like profile; denim jacket, white T-shirt hem, jeans, duffel; alone.",
+      "Blank light-switch plate on the wall (no text); bottom-right corner clean, no sparkle.",
+      "1K upscale softness (not penalised)."
+    ],
+    "ai_tells": [],
+    "better_than_current": false
+  },
+  {
+    "shot": "R92",
+    "replaces": "N19",
+    "file": "assets/flow2k_raw/molly-v2/R92/r11-1.png",
+    "source": "1K",
+    "scores": {
+      "beat": 7.5,
+      "character": 7.5,
+      "cinematic": 7,
+      "style": 8,
+      "technical": 8.5,
+      "readability": 8.5
+    },
+    "total": 7.7,
+    "pass": false,
+    "expression_ok": true,
+    "defects": [
+      "Alvin: eyes open and on the photo, broad open-mouthed grin, but the brows are still heavy, low and knit: reads eager/delighted, a little leering, not tender contentment with relaxed lifted brows (no smirk, so not a hard fail; borderline).",
+      "Monica's hair is golden blonde with no grey; R13 shows her silver-grey, and the brief asks blonde-grey: she reads ~50, not ~60, and won't match R12/R13.",
+      "The snapshot is a painterly, saturated group of five drawn in the same soft glossy style, no white border or film grain: not a faded real photo.",
+      "Flat, even, shadowless light; both figures squared up in one plane, posed."
+    ],
+    "minor": [
+      "Alvin's face shape, grey side-parted hair and lined skin match R13; grey cardigan over white shirt.",
+      "Monica's own face is good: crinkled eyes looking down at the photo, soft closed smile, real lines.",
+      "Alvin's hand on her back is relaxed with five clean fingers; her hands on the frame clean.",
+      "Full heads in frame with headroom; chipped mug, reading glasses, envelopes (no lettering) on the shelf; bottom-right corner clean, no sparkle.",
+      "Line work lighter and more western-comic than the AOT redraw set.",
+      "1K upscale softness (not penalised)."
+    ],
+    "ai_tells": [
+      "flat even lighting with no motivated source",
+      "hand placed decoratively on her back",
+      "photo-within-photo drawn in the same glossy style",
+      "posed side-by-side staging"
+    ],
+    "better_than_current": true
+  },
+  {
+    "shot": "R92",
+    "replaces": "N19",
+    "file": "assets/flow2k_raw/molly-v2/R92/r11-2.png",
+    "source": "1K",
+    "scores": {
+      "beat": 6.5,
+      "character": 7.5,
+      "cinematic": 7.5,
+      "style": 8,
+      "technical": 8.5,
+      "readability": 7.5
+    },
+    "total": 7.45,
+    "pass": false,
+    "expression_ok": false,
+    "defects": [
+      "Alvin: upper lids lowered (heavy-lidded), low heavy brow, a lopsided smile lifted at one corner: the knowing/sly smirk the Expressions rule hard-fails.",
+      "Monica's hair golden blonde with no grey vs silver-grey in R13; reads younger than ~60.",
+      "Alvin's hair touches the top edge: his head is not fully in frame with headroom.",
+      "Alvin's hand rests on her upper arm/shoulder in the posed way the prompt tried to avoid."
+    ],
+    "minor": [
+      "Snapshot is the best of the round: faded warm colour, soft grain and blur (an older couple and a child in an autumn garden), not line art; no white border.",
+      "Monica's face good: crinkled eyes on the photo, soft closed smile.",
+      "Hands clean (five fingers, no fusion); envelopes and books carry no lettering; bottom-right corner clean, no sparkle.",
+      "Window left plus a doorway right give a little depth, but light is still flat.",
+      "1K upscale softness (not penalised)."
+    ],
+    "ai_tells": [
+      "flat even lighting",
+      "hand placed decoratively on her shoulder",
+      "posed side-by-side staging"
+    ],
+    "better_than_current": false
+  }
+]

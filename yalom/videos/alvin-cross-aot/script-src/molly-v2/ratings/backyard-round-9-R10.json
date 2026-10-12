@@ -1,0 +1,72 @@
+[
+ {
+  "shot": "R10",
+  "file": "assets/flow2k_raw/molly-v2/R10/bk9-2.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.92,
+  "pass": false,
+  "defects": [
+   "Yalom already has his hand on the gate latch and is mid-stride out: reads as 'leaving', a step past 'getting ready to leave', and drifts toward R11's 'Yalom at the gate, left of frame' beat",
+   "Yalom's eyes are hidden behind his glasses and he looks down at the ground; the quiet, reflective feel comes only from his posture",
+   "the portrait and lilies in the foreground are cut hard at the right and bottom edges; the framing works, but it leaves little room for a push-in",
+   "1K: slight softness in the background guests' faces (not penalised)"
+  ],
+  "edit_prompt": "Edit the attached image: keep everything (the backyard memorial, the picket fence and gate, the street and car, the folding chairs, the guests in black, the foreground table with lilies and the framed portrait of the smiling grey-haired elderly woman, the AoT cel style and golden light, and Yalom's look). Change only: move Yalom one step back from the gate, his hand dropped to his side, not on the latch; he half-turns his head back toward the portrait table with soft, lowered, gently sad eyes visible behind his round glasses, as if pausing before leaving. Keep the gate closed.",
+  "res": "1K",
+  "watermark": "none"
+ },
+ {
+  "shot": "R10",
+  "file": "assets/flow2k_raw/molly-v2/R10/bk9-3.png",
+  "scores": {
+   "beat": 8,
+   "character": 9,
+   "cinematic": 7.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 8.5
+  },
+  "total": 8.42,
+  "pass": false,
+  "defects": [
+   "Yalom's gaze reads as looking into the lens: at full-res zoom his pupils are centred and look straight out of frame toward the viewer, not down-right at the portrait. This is a CINEMATIC.md hard fail ('staring dead into the lens')",
+   "his body is mid-stride, walking toward the camera/right, away from the gate, so 'pausing before leaving' now reads as wandering back in. His expression is also more of a wary over-the-shoulder glance than quiet grief",
+   "the gate is now drawn ajar/open with a broken-looking diagonal brace (it was closed in bk9-2), which muddies the fence geometry",
+   "1K: slight softness in the background faces, the face is a little mushy at full res (not penalised beyond technical)"
+  ],
+  "edit_prompt": "Edit the attached image: keep everything else identical (backyard memorial, picket fence, chairs, guests in black, lilies, the framed portrait of the smiling grey-haired elderly woman, AoT cel style, golden light, Yalom's look and position). Change only: Yalom stands still with both feet planted and his weight settled, not walking; his head is turned in three-quarter profile down and to the right, and his eyes, lowered and soft, look clearly at the portrait on the foreground table, NOT at the camera; his eyelids are heavy with quiet sadness. Close the garden gate behind him, with its brace intact.",
+  "res": "1K",
+  "watermark": "none"
+ },
+ {
+  "shot": "R10",
+  "file": "assets/flow2k_raw/molly-v2/R10/bk9-4.png",
+  "scores": {
+   "beat": 8,
+   "character": 8.5,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 8.5
+  },
+  "total": 8.58,
+  "pass": false,
+  "defects": [
+   "Gaze is NOT into the lens (fixed), but it is not on the portrait either: at full-res zoom his head is turned down toward frame-left and his eyes fall on the grass/chairs, while the portrait sits bottom-right behind him. The 'last look at Molly' does not read; it reads as a sad glance at the ground",
+   "Body faces away from the gate and the portrait (back three-quarter toward the left), so it is unclear whether he is leaving or arriving; the gate is behind him on the right rather than being where he is heading",
+   "Hair is drawn longer and swept back over the ears, not the short tousled silver-white hair on the sheet; the beard and glasses are on-model",
+   "Gate: closed, Z-brace intact, latch clean (fixed vs bk9-3). It is a separate small gate set in front of the fence line, so the fence geometry is a bit odd but acceptable",
+   "1K: background faces are slightly soft (not penalised)"
+  ],
+  "edit_prompt": "Edit the attached image: keep everything else identical (backyard memorial, picket fence, closed gate with its brace, street and car, folding chairs, guests in black, lilies, the framed portrait of the smiling grey-haired elderly woman, AoT cel style, golden light, Yalom's coat and position). Change only Yalom: his body angles toward the gate as if about to go out, and he turns his head back over his right shoulder, down and to the right, so that his soft, lowered eyes behind his round glasses look clearly at the portrait on the foreground table (not at the camera, not at the ground). Keep his silver-white hair short and tousled.",
+  "res": "1K",
+  "watermark": "none"
+ }
+]

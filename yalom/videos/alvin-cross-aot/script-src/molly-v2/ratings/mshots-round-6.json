@@ -1,0 +1,184 @@
+[
+  {
+    "shot": "M01",
+    "file": "assets/flow2k_raw/molly-v2/M01/c6-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 8.5,
+      "cinematic": 7.5,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 7
+    },
+    "total": 8.33,
+    "pass": false,
+    "defects": [
+      "Cast and beat elements read: freckled dark-ponytail fiancée in a brown leather jacket on the near left, Jason beside her with his hand over hers, Grisha-like father, rigid mother, Alvin 19 blond side part with no grey; plates untouched, single hanging lamp, wood-panelled room",
+      "Candid instruction failed: the father stares straight into the lens from dead centre and Jason looks almost into it too; symmetrical row-of-faces staging reads as a posed lineup",
+      "Alvin still crowded against the right edge: his shoulder, arm and shirt run off the frame (~85-100% across), no Ken Burns room",
+      "Squiggle patterns on the tablecloth border and the mother's blouse read faintly like pseudo-script"
+    ],
+    "revised_prompt": "Medium-wide shot, 35mm, camera low at the near corner of the table looking diagonally down its length (not straight on), late-1960s rural Virginia dining room, single warm hanging lamp, dark wood-panelled walls in shadow, a roast and untouched plates. Nobody looks toward the camera: the father at the far end turns his head to stare at the fiancée, the mother looks down at her plate, Jason looks at his father, the fiancée meets the father's stare, Alvin watches Jason. Alvin's head and shoulders at about 72% across with plain dark wall filling the right 20% of the frame; nobody touches the right edge. [keep all cast descriptions from c6-1 verbatim] Plain white tablecloth with no border pattern, mother in a plain solid-colour blouse. [STYLE] No text, no watermark, no sparkle icon in any corner."
+  },
+  {
+    "shot": "M01",
+    "file": "assets/flow2k_raw/molly-v2/M01/c6-2.png",
+    "scores": {
+      "beat": 9,
+      "character": 8.5,
+      "cinematic": 8,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 7.5
+    },
+    "total": 8.48,
+    "pass": false,
+    "defects": [
+      "Tension reads better than c6-1: worried mother looking at the couple, fiancée glancing sideways at the father with a guarded defiant look, Jason glaring, Alvin watching Jason; freckles, ponytail, leather jacket, Alvin no grey",
+      "Father still stares into the lens from dead centre (posed/frontal tell); symmetrical lineup staging remains",
+      "Alvin's shoulder and arm cut by the right edge again (~83-100% across)",
+      "Hand clasp between Jason and the fiancée not clearly readable; father holds knife and fork over his plate (reads as eating); plain olive wall loses the wood-panel period detail"
+    ],
+    "revised_prompt": "Medium-wide shot, 35mm, camera low at the near corner of the table looking diagonally down its length (not straight on), late-1960s rural Virginia dining room with dark wood-panelled walls in shadow, single warm hanging lamp, roast and untouched plates. Nobody looks toward the camera: the father turns his head to stare at the fiancée with his hands flat on the table and his fork lying on his plate, the mother looks anxiously at Jason, the fiancée meets the father's stare, Jason looks at his father, Alvin watches Jason. Jason's hand clearly clasps the fiancée's hand on the tablecloth in the foreground. Alvin's head and shoulders at about 72% across with plain dark wall filling the right 20% of the frame; nobody touches the right edge. [keep all cast descriptions from c6-2 verbatim] [STYLE] No text, no watermark, no sparkle icon in any corner."
+  },
+  {
+    "shot": "R01",
+    "file": "assets/flow2k_raw/molly-v2/R01/c6-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 9.0,
+    "pass": true,
+    "defects": [
+      "Edit achieved: foreground Yalom's hair and beard now dark golden blond, round wire glasses; rest of the frame unchanged (blank coat chest, lowered eyes, lamp, tissue box, hard window shaft)",
+      "Silver-grey temple visible on Alvin; no text anywhere; Alvin at ~65% with room on the right",
+      "Minor: Yalom's hair reads slightly bright/yellow and is not softened out of focus as asked"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "S02",
+    "file": "assets/flow2k_raw/molly-v2/S02/c6-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 8.5,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 8.9,
+    "pass": false,
+    "defects": [
+      "Edits achieved: hair trimmed short above the collar; open folder is now a thin manila folder with a few loose blank sheets",
+      "Hair and beard read olive/ash-brown rather than dark blond",
+      "Ears still mostly covered by the side hair"
+    ],
+    "revised_prompt": "EDIT of S02/c6-1 (manual editor): keep this image identical and change only Yalom's hair and beard colour to a warm dark golden blond (not olive or ash), and tuck the side hair behind the ear so the ear is visible. Bottom-right corner plain, no text, no watermark."
+  },
+  {
+    "shot": "S05",
+    "file": "assets/flow2k_raw/molly-v2/S05/c6-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 8.5
+    },
+    "total": 8.95,
+    "pass": false,
+    "defects": [
+      "Embroidery reads exactly 'Alvin Cross'; lowered eyes, crossed arms, blind stripes and questioner unchanged",
+      "Outpaint did not land: armchair still runs off the right edge and his far shoulder sits at ~92%; crowding unchanged from c5-1",
+      "Embroidery looks like a crisp printed label rather than stitched thread (minor)"
+    ],
+    "revised_prompt": "EDIT of S05/c6-1 (manual editor): keep this image identical and zoom out slightly (about 10%) so the whole leather armchair including its right arm is inside the frame, with bookshelf visible to the right of the chair; his far shoulder at about 82% across. Keep the embroidered 'Alvin Cross'. No other text, bottom-right corner plain, no watermark."
+  },
+  {
+    "shot": "S09",
+    "file": "assets/flow2k_raw/molly-v2/S09/c6-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 8.5,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 8.5
+    },
+    "total": 8.68,
+    "pass": false,
+    "defects": [
+      "Edit achieved: Alvin stands squarely in the opening, gripping the door edge, interior solid black, no newspaper stack; guarded set jaw",
+      "Re-composed rather than identical: Yalom now in three-quarter profile instead of from behind, lit flat cool blue with no rim; hair and beard read olive",
+      "Door swings outward onto the porch (odd for a front door); porch bulb clipped at the top edge; flatter light than c5-2"
+    ],
+    "revised_prompt": "EDIT of S09/c6-1 (manual editor): keep this image identical (Alvin in the gap, dark interior, door, shrubs) and change only: turn Yalom's head away so he is seen from behind with only the edge of his beard and glasses visible; give his hair and shoulders a thin warm rim light from the porch bulb; tint his hair and beard dark golden blond. No text, bottom-right corner plain, no watermark."
+  },
+  {
+    "shot": "S10",
+    "file": "assets/flow2k_raw/molly-v2/S10/c6-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 8.5
+    },
+    "total": 8.88,
+    "pass": false,
+    "defects": [
+      "Certificate removed: plain wood/plaster wall; warm lamp key on the right of his face; reassuring half-smile while speaking, receiver at ear, palm up",
+      "Not kept identical: re-composed with Yalom at ~38% and the palm gesturing sideways rather than up toward the lens",
+      "Rotary phone base cut by the right edge; an extra coiled cord loop at the phone base; wrist of the gesturing hand slightly elongated"
+    ],
+    "revised_prompt": "EDIT of S10/c6-1 (manual editor): keep this image identical and change only: move the rotary phone a little left so its whole base sits inside the frame with desk visible to its right, one cord from handset to base only (remove the extra loop). No text, bottom-right corner plain, no watermark."
+  },
+  {
+    "shot": "S13",
+    "file": "assets/flow2k_raw/molly-v2/S13/c6-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 8.9,
+    "pass": false,
+    "defects": [
+      "Edits achieved: moonlight beam clean (only two tiny dust marks on the floor, not star-like); silver-grey visible at the temple; parents' photo now a tinted faded snapshot with a border",
+      "Photo still has drawn line-art faces rather than a soft-focus photographic look (minor)",
+      "Clock 03:14 allowed; no other text; strictly non-sexual"
+    ],
+    "revised_prompt": "EDIT of S13/c6-1 (manual editor): keep this image identical and change only the framed photo: soften it to a blurry, grainy, faded 1950s colour snapshot with a white border, faces soft and small. No text except the clock digits, bottom-right corner plain, no watermark."
+  },
+  {
+    "shot": "S14",
+    "file": "assets/flow2k_raw/molly-v2/S14/c6-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 8
+    },
+    "total": 8.9,
+    "pass": false,
+    "defects": [
+      "Edits achieved: eyes open and lowered, lips pressed, firm refusal reads; newspaper stacks plain grey with no mastheads; cool window light on the face",
+      "Faint handwriting-like scribble on the counter edge at the far right (~90%, 70% down)",
+      "Brow still knitted, a touch of pain mixed into the firmness (minor)"
+    ],
+    "revised_prompt": "EDIT of S14/c6-1 (manual editor): keep this image identical and change only: erase the faint scribble marks on the front edge of the kitchen counter at the right so it is plain laminate. No text, no letters, bottom-right corner plain, no watermark."
+  }
+]

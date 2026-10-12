@@ -1,0 +1,2 @@
+[Flow agent edit of R41-r2b (in-place edit, keep everything else identical):]
+Change the real Alvin's face on the right to the same wide-eyed, lips-parted frightened expression as his reflection, keeping his face shape, hair and pyjamas unchanged.

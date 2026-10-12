@@ -1,0 +1,2 @@
+[Flow in-place edit of lb-R57-r2e (R57/r2-3):]
+Change only the alarm clock: give it a plain blank dial with small tick marks and no numbers at all, keep its hands at about three o'clock, and blur the clock strongly like the background; keep everything else the same.

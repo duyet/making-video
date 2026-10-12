@@ -1,0 +1,222 @@
+[
+ {
+  "shot": "R11",
+  "file": "assets/flow2k_raw/molly-v2/R11/r7-1.png",
+  "res": "1K",
+  "scores": {
+   "beat": 7.5,
+   "character": 7,
+   "cinematic": 8,
+   "style": 8.5,
+   "technical": 8.5,
+   "readability": 7.5
+  },
+  "total": 7.8,
+  "pass": false,
+  "defects": [
+   "Yalom is centre-left (46%), not on the left third, and looks off frame left instead of turning his head back toward Alvin",
+   "Alvin looks ~55, not ~70: dark-grey hair under the hat, smooth face",
+   "Monica looks ~45, smooth glamour face, not ~60",
+   "Monica stands in the right-most fifth, against the edge",
+   "Golden haze in the background reads close to mist; staging is posed, all three facing camera"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the wrought-iron gate framing, the willows, the golden backlight, the path, all outfits and the cream Panama hat with black band on Alvin's head; change only: move all three figures left so nobody is in the right-most fifth of the frame, Yalom on the left third with his head turned back over his right shoulder toward Alvin; age Alvin to about 70 (silver side-parted hair visible under the hat, deep lines around eyes and mouth) and Monica to about 60 (silver-blonde low bun, lined face, no glamour smoothing); Alvin calls to Yalom with his hand raised, looking at Yalom, not at the camera; clear air, no haze or mist. No text, no watermark, no black bars, full-bleed 16:9."
+ },
+ {
+  "shot": "R11",
+  "file": "assets/flow2k_raw/molly-v2/R11/r7-2.png",
+  "res": "1K",
+  "scores": {
+   "beat": 7.5,
+   "character": 7,
+   "cinematic": 8.5,
+   "style": 8.5,
+   "technical": 8.5,
+   "readability": 8
+  },
+  "total": 7.9,
+  "pass": false,
+  "defects": [
+   "Yalom is at frame centre walking forward with his eyes ahead; he does not turn back toward Alvin",
+   "Alvin looks ~55 (smooth face, dark hair under the hat), not ~70",
+   "Monica looks ~45, smooth, not ~60",
+   "Monica touches the right-most fifth; posed line-up facing camera",
+   "Background golden haze close to mist"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the stone gate posts, open iron gate, ivy wall, willows, golden backlight, long shadows, all outfits and Alvin's cream Panama hat on his head; change only: shift the three figures left so Monica is clear of the right-most fifth, Yalom on the left third turning his head back over his right shoulder toward Alvin; age Alvin to about 70 (silver hair under the hat, deep lines) and Monica to about 60 (lined face, silver-blonde low bun); Alvin looks at Yalom while calling with his raised hand, not at the camera; clear air, no haze. No text, no watermark, no black bars, full-bleed 16:9."
+ },
+ {
+  "shot": "R12",
+  "file": "assets/flow2k_raw/molly-v2/R12/r7-1.png",
+  "res": "1K",
+  "scores": {
+   "beat": 8.5,
+   "character": 8.5,
+   "cinematic": 8,
+   "style": 8.5,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "total": 8.5,
+  "pass": false,
+  "defects": [
+   "Light is hazy, greenish morning light, not warm golden-hour side light; the background reads misty",
+   "Eyes drop down-left instead of a steady grateful look toward Yalom off frame left",
+   "Angle reads eye level, not slightly low; little flare/willow bokeh shape",
+   "1K"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep Alvin's face, silver hair, age, outfit, the cream Panama hat held crown-out against his chest in his LEFT hand, his position on the right third and the negative space on the left; change only: make the light warm low golden-hour side light from frame left with soft flare in the willow bokeh, clear air with no haze or mist; raise his eyes to a steady, grateful look toward someone just off frame left at eye height; camera slightly lower, looking a little up at him. No text, no watermark, no black bars, full-bleed 16:9."
+ },
+ {
+  "shot": "R12",
+  "file": "assets/flow2k_raw/molly-v2/R12/r7-2.png",
+  "res": "1K",
+  "scores": {
+   "beat": 7.5,
+   "character": 8.5,
+   "cinematic": 7,
+   "style": 8.5,
+   "technical": 8.5,
+   "readability": 8.5
+  },
+  "total": 8.0,
+  "pass": false,
+  "defects": [
+   "Face is centre-left, not on the right third; no negative space on the left toward Yalom",
+   "He looks straight into the lens (AI-portrait tell) instead of off frame left",
+   "Hazy greenish light, not golden-hour; background misty",
+   "1K"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep Alvin's face, silver hair, age, outfit and the cream Panama hat held crown-out to his chest in his LEFT hand; change only: reframe so his face sits on the right third (but clear of the right-most fifth) with open negative space on the left; turn his eyes and head slightly to look at someone off frame left, not at the camera; warm low golden-hour side light from frame left with soft flare in the willow bokeh, clear air, no haze; camera slightly low. No text, no watermark, no black bars, full-bleed 16:9."
+ },
+ {
+  "shot": "R10",
+  "file": "assets/flow2k_raw/molly-v2/R10/r7-1.png",
+  "res": "1K",
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 8.5,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.1,
+  "pass": true,
+  "defects": [
+   "1K: soft painterly texture slightly lighter in line weight than the redraw set",
+   "Willows frame only the left side (minor)"
+  ],
+  "edit_prompt": ""
+ },
+ {
+  "shot": "R10",
+  "file": "assets/flow2k_raw/molly-v2/R10/r7-2.png",
+  "res": "1K",
+  "scores": {
+   "beat": 8.5,
+   "character": 9,
+   "cinematic": 8,
+   "style": 8.5,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "total": 8.6,
+  "pass": false,
+  "defects": [
+   "Symmetrical, posed staging: sun and figure dead centre, shadow straight down (AI tell)",
+   "Figure stands at the path's bend rather than walking along it; path leads past him",
+   "1K"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the golden cemetery lawn, willows on the left, small headstones, the winding gravel path, the tiny aged Yalom seen from behind in his grey overcoat with hands in pockets; change only: move the low sun to the upper right third with soft flare and place Yalom mid-stride on the path at about 55 percent across the frame, so his long shadow falls diagonally back toward the lower left; add a second willow framing the right side without covering the right-most fifth's sky. Clear air, no fog. No text, no watermark, no black bars, full-bleed 16:9."
+ },
+ {
+  "shot": "S07",
+  "file": "assets/flow2k_raw/molly-v2/S07/r8-1.png",
+  "res": "1K",
+  "scores": {
+   "beat": 6,
+   "character": 8.5,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 8.5
+  },
+  "total": 7.8,
+  "pass": false,
+  "defects": [
+   "Yalom faces and looks frame LEFT toward the window; the beat needs him facing frame RIGHT toward Alvin off frame right",
+   "Face sits centre-right (64%) and his shoulder fills the right-most fifth, not centre-left",
+   "Café doesn't match R06 (no marble table, no brick wall); cup cut by the bottom edge",
+   "1K"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep aged Yalom's face, glasses, silver swept-back hair, beard, grey overcoat over brown cardigan, his surprised expression and his hand frozen above the cup, and the warm window light; change only: mirror the staging so the window is on the right behind him and he sits centre-left, turned three-quarter to frame RIGHT, eyes wide and fixed on someone just off frame right; put the cup on a white marble table top fully in frame; dark brick wall and wood in the background like R06; keep the right-most fifth as soft bokeh only. No text or signage, no watermark, no black bars, full-bleed 16:9."
+ },
+ {
+  "shot": "S07",
+  "file": "assets/flow2k_raw/molly-v2/S07/r8-2.png",
+  "res": "1K",
+  "scores": {
+   "beat": 6,
+   "character": 8.5,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 8.5
+  },
+  "total": 7.8,
+  "pass": false,
+  "defects": [
+   "Near-duplicate of r8-1: Yalom faces frame LEFT toward the window instead of frame RIGHT toward Alvin",
+   "Face centre-right (64%), shoulder in the right-most fifth",
+   "Café doesn't match R06 (no marble, no brick); cup cut by the bottom edge",
+   "1K"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep aged Yalom's face, glasses, silver swept-back hair, beard, grey overcoat over brown cardigan, his surprised expression and his hand frozen above the cup, and the warm window light; change only: mirror the staging so the window is on the right behind him and he sits centre-left, turned three-quarter to frame RIGHT, eyes wide and fixed on someone just off frame right; put the cup on a white marble table top fully in frame; dark brick wall and wood in the background like R06; keep the right-most fifth as soft bokeh only. No text or signage, no watermark, no black bars, full-bleed 16:9."
+ },
+ {
+  "shot": "R13",
+  "file": "assets/flow2k_raw/molly-v2/R13/r8-1.png",
+  "res": "1K",
+  "scores": {
+   "beat": 8.5,
+   "character": 8.5,
+   "cinematic": 8.5,
+   "style": 8.5,
+   "technical": 8.5,
+   "readability": 8
+  },
+  "total": 8.5,
+  "pass": false,
+  "defects": [
+   "Monica's gloved hand rests on Alvin's arm instead of opening toward Yalom",
+   "Yalom reads worried/sad more than puzzled (brows down, not raised)",
+   "Yalom's body reaches into the right-most fifth; posed three-in-a-row staging",
+   "Hands counted: Monica 2, Alvin 2 (left on hat, right in handshake), Yalom 2 (right in handshake, left in pocket) - OK",
+   "1K"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the three faces, ages, outfits, the foreground blank headstone, willows, golden backlight, Alvin's cream hat held to his chest in his LEFT hand and the handshake at centre; change only: Monica's right gloved hand opens toward Yalom as she speaks, her other hand at her side; Yalom's brows raised, eyes searching, a puzzled polite look rather than worry; shift the group slightly left so Yalom's body clears the right-most fifth. Clear air, no haze. No text, no watermark, no black bars, full-bleed 16:9."
+ },
+ {
+  "shot": "R13",
+  "file": "assets/flow2k_raw/molly-v2/R13/r8-2.png",
+  "res": "1K",
+  "scores": {
+   "beat": 9,
+   "character": 8.5,
+   "cinematic": 8.5,
+   "style": 8.5,
+   "technical": 8.5,
+   "readability": 7
+  },
+  "total": 8.5,
+  "pass": false,
+  "defects": [
+   "Yalom's face sits in the right-most fifth (~84%) and his shoulder is cut by the right edge",
+   "Posed three-in-a-row staging; mild background haze",
+   "Hands counted: Monica 1 visible (open toward Yalom), Alvin 2 (left on hat, right in handshake), Yalom 2 (right in handshake, left in pocket) - OK",
+   "1K"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the three faces, expressions, ages, outfits, Monica's open gloved hand, Alvin's cream hat held to his chest in his LEFT hand, the handshake, the foreground blank headstone, willows and golden backlight; change only: pull the camera back slightly and shift the group left so Yalom's whole head and shoulders sit inside the frame, with his face no further right than 75 percent across and the right-most fifth showing only willow and path; clear air, no haze. No text, no watermark, no black bars, full-bleed 16:9."
+ }
+]

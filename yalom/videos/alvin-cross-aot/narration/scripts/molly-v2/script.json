@@ -1,0 +1,38 @@
+{
+ "acts": [
+  {
+   "scene": "a01",
+   "label": "I · Cuộc hội ngộ bất ngờ"
+  },
+  {
+   "scene": "b01",
+   "label": "II · Ca trị liệu dang dở"
+  },
+  {
+   "scene": "c01",
+   "label": "III · Thank you, Molly"
+  }
+ ],
+ "file": {
+  "scene": "a06",
+  "kicker": "Hồ sơ bệnh án · 1982",
+  "name": "Bác sĩ Alvin Cross"
+ },
+ "end": {
+  "title": "THANK YOU, MOLLY",
+  "subtitle": "Theo lời kể của bác sĩ Irvin D. Yalom"
+ },
+ "hold_after": {
+  "b04": 1.2,
+  "b15": 1.5,
+  "c06": 5.0,
+  "c08": 6.0
+ },
+ "black_after": {
+  "b15": 1.0
+ },
+ "xf": 0.6,
+ "dissolve": 1.2,
+ "even_vo": true,
+ "calm": 1.0
+}

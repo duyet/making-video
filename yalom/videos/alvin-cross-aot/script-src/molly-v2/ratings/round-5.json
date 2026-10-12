@@ -1,0 +1,81 @@
+[
+  {
+    "shot": "R03",
+    "file": "assets/flow2k_raw/molly-v2/R03/r2-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 10,
+      "style": 8,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 9.1,
+    "pass": true,
+    "defects": [
+      "No people by design; character axis not applicable (scored 10)",
+      "Warm sepia cast is slightly heavier and more textured than the N05/F12 redraws, but the frame is bright and clearly lit, not grey or dim",
+      "Camera reads as roughly knee/seat height (vanishing point at armchair seat level), stacks rise out of frame on both sides",
+      "Zero legible text: all stacks, boxes and loose sheets blank (one floor sheet has a faint non-letter scribble); no watermark trace in bottom-right"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "R05",
+    "file": "assets/flow2k_raw/molly-v2/R05/r2-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 9.0,
+    "pass": true,
+    "defects": [
+      "Expression reads more stern/frowning than haunted (minor)",
+      "Embroidery is a script font vs the sans-serif on N06 (minor); reads exactly 'Alvin Cross', no M.D. or other text; folder labels and film jackets blank",
+      "Clean profile facing the lightbox, room and face clearly lit; bottom-right corner shows only a faint smudge, no recognisable sparkle"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "M01",
+    "file": "assets/flow2k_raw/molly-v2/M01/r5-1.png",
+    "scores": {
+      "beat": 7,
+      "character": 9,
+      "style": 8,
+      "technical": 9,
+      "readability": 8
+    },
+    "total": 8.2,
+    "pass": false,
+    "defects": [
+      "Father stares straight at the camera instead of down at his plate (prompt said nobody looks at camera)",
+      "Mother is holding cutlery and eating; plates are partly eaten, not untouched",
+      "Jason walks toward the camera past the doorway with his glare aimed at the viewer, rather than turned away into the doorway glancing back at the family; leaving reads clearly but the tension is directed out of frame",
+      "Jason sits close to the right edge (~10% margin) for a Ken Burns move; corners somewhat dim; slightly flatter shading than the AOT redraw set"
+    ],
+    "revised_prompt": "Create 1 new image, 16:9, using the attached character sheet AOT-CAST-SHEET as the reference for every face and outfit. Wide-medium shot of a plain 1960s American dining room at night, brightly and evenly lit by a single hanging lamp plus soft fill so the walls and corners are clearly readable, untouched full plates of food, a tense silent family dinner, nobody looks at the camera; at the head of the table a stern balding father about 55 with short grey hair, clean-shaven, in a white shirt and tie, beside him a tight-lipped mother about 50 with short permed greying hair in a plain 1960s housedress, both with their eyes lowered to their full untouched plates, the father's gaze on his plate and not toward the viewer, the mother's hands still in her lap, no one holding a fork or eating; seated stiffly on the left, teenage Alvin Cross, clearly a 17-year-old high-school boy, inspired by Erwin Smith but much younger, slim and boyish, smooth unlined face, blond hair in a neat side part with no grey, heavy brows, blue eyes, in a plain white collared shirt, hands in his lap, staring down at his untouched plate; right of centre, teenage Jason Cross, about 16, inspired by a young Eren Yeager, dark brown shoulder-length hair, intense green eyes, defiant tired stare, lean wiry build, wearing a faded denim jacket over a grey t-shirt, clearly walking out: his back three-quarters to the camera, stepping through an open doorway on the right side of the room, one foot already over the threshold, his wooden chair shoved back and tipped over on the floor behind him, his hands empty at his sides, his head turned back over his shoulder toward the table with a cold tight-lipped glare aimed at his father, his eyes on the family and never toward the viewer, the doorway and his whole figure well inside the frame with clear space to the right edge. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, no text, no letters, no captions, no watermark."
+  },
+  {
+    "shot": "M05",
+    "file": "assets/flow2k_raw/molly-v2/M05/r5-1.png",
+    "scores": {
+      "beat": 6,
+      "character": 9,
+      "style": 8,
+      "technical": 9,
+      "readability": 8
+    },
+    "total": 7.9,
+    "pass": false,
+    "defects": [
+      "Closing gesture is ambiguous: the folder is already fully shut and flat, not half shut",
+      "Right hand rests loosely with curled fingers on top rather than visibly pressing the cover closed",
+      "Folder edge shows a thick block of pages and reads close to a binder/book rather than a thin manila folder; weak match-cut with N05's thin open folder",
+      "Bookshelves and corners fairly dark at dusk, though face and desk are readable; no watermark trace"
+    ],
+    "revised_prompt": "Create 1 new image, 16:9, using the attached character sheet AOT-CAST-SHEET as the reference for every face and outfit. Medium shot, present day, a home study at dusk, wooden desk, bookshelves behind lit by soft even room light plus a brass desk lamp so the whole frame is clearly readable: Dr. Yalom, the same design as the Yalom on the character sheet, inspired by Zeke Yeager, round wire-rim glasses, full trimmed beard, calm intellectual face, kind tired eyes, medium build, brown knit cardigan over a shirt, the cardigan clearly warm brown, but visibly older, about 80, short tousled hair cropped close above the ears, hair and beard mostly silver-white, a few more lines on his face; seated at the desk in the middle of closing a thin worn tan manila case folder: a single flat card file folder as thin as a magazine, holding only three or four loose blank sheets, with a tab on its top edge, no spine, no binding, no stack of pages, no thick block; the back cover lies flat on the desk and the front cover is visibly lifted halfway, hinged up at about 45 degrees with a clear wedge-shaped gap showing the blank sheets inside, and his right hand is on the outer edge of that raised front cover, palm down, actively pushing it down to shut it, his left hand holding the bottom edge of the folder steady on the desk, the folder caught mid-motion and plainly not yet closed, clearly a thin paper folder and not a book, a mug of tea and one fountain pen beside it, pensive and quiet, looking down at the folder, his face in the left-centre of the frame. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, no text, no letters, no captions, no watermark."
+  }
+]

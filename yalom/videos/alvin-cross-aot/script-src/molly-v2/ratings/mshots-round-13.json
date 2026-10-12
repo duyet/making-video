@@ -1,0 +1,18 @@
+[
+  {
+    "shot": "M01",
+    "file": "assets/flow2k_raw/molly-v2/M01/c13-1.png",
+    "scores": {"beat": 9.5, "character": 9, "cinematic": 9, "style": 9, "technical": 9, "readability": 8.5},
+    "total": 9.08,
+    "pass": true,
+    "defects": [
+      "Fixed: the father's eyes are now wide and turned clearly to screen-left toward the fiancée and Jason, away from the lens, with a stiff shocked look (mouth slightly open). This was the main beat miss in c12-1",
+      "Mostly fixed: the mother in the right foreground reads as a person again, a soft out-of-focus back/three-quarter view of the head with an ear, cheek line and dark shoulder at ~91-100% across, with a clear gap of dark wall between her and Alvin (whose head ends ~86%). But no bun is visible, the hair reads short, so the figure is gender-ambiguous; the top of the hair just touches the top edge and the right edge still cuts the head; she fills ~9% of width at head height rather than the 18% asked, so she is still somewhat jammed against the right edge",
+      "Not really fixed: the clasp still reads as Jason's hand laid over hers. Her knuckles show under his palm, but none of her fingers clearly curl over the side of his hand. Fingers are clean (no extra or melted digits), and her other hand on the plate is fine",
+      "Kept: fiancée (freckles, ponytail, leather jacket, guarded look), Jason, Alvin (19, blond, no grey, clean cheek, profile), lamp, roast, untouched plates, late-1960s panelled room; ages and era correct. No text, no sparkle or watermark (the bottom-right corner is plain dark when brightened)",
+      "Carry-over minor: the four seated figures still sit in an almost flat row across the frame, a little staged",
+      "Beats the current M01 (c12-1, 8.90) at 9.08; marginal pass"
+    ],
+    "revised_prompt": ""
+  }
+]

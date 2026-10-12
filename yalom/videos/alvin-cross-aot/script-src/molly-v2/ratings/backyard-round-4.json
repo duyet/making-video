@@ -1,0 +1,206 @@
+[
+ {
+  "shot": "R10",
+  "file": "assets/flow2k_raw/molly-v2/R10/bk4-2.png",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 9,
+   "readability": 8.5
+  },
+  "total": 8.75,
+  "pass": false,
+  "defects": [
+   "Lighting flat: no low golden backlight or rim on Yalom, sun reads as overcast-warm; glance at watch is good but eyes look down-left past it",
+   "Keys only a thin ring at the bottom edge, not readable",
+   "Busy right side: a dozen guests, several facing camera, a suited man cut by the right edge"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's pose, face, white beard, round glasses, grey overcoat over the brown cardigan, the wristwatch gesture, the open wooden gate with its iron hinges, the friends with the travel bag by the car, the fence, house and lawn unchanged. Change only: a low golden late-afternoon sun from behind the house at frame right, a warm gold edge on Yalom's hair and shoulder and his long shadow stretching across the lawn toward the gate; his eyes look down at the watch face; a small bunch of car keys clearly visible dangling from his lower hand; thin the guests at the right to four or five people in small groups, all turned to each other, none facing camera, nobody cut by the right edge. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom, no text, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's pose, face, white beard, round glasses, grey overcoat over the brown cardigan, the wristwatch gesture, the open wooden gate with its iron hinges, the friends with the travel bag by the car, the fence, house and lawn unchanged. Change only: a low golden late-afternoon sun from behind the house at frame right, a warm gold edge on Yalom's hair and shoulder and his long shadow stretching across the lawn toward the gate; his eyes look down at the watch face; a small bunch of car keys clearly visible dangling from his lower hand; thin the guests at the right to four or five people in small groups, all turned to each other, none facing camera, nobody cut by the right edge. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom, no text, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9.",
+  "res": "1K",
+  "watermark": "clean (check ok, bottom-right inspected, no star or text)"
+ },
+ {
+  "shot": "R10",
+  "file": "assets/flow2k_raw/molly-v2/R10/bk4-1.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 9,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 8.5
+  },
+  "total": 8.55,
+  "pass": false,
+  "defects": [
+   "Same as bk4-2 (flat light, keys unreadable, busy right side)",
+   "Gate leaf has no hinges and its picket top overlaps the fence behind, so it does not read clearly as an open gate"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's pose, face, white beard, round glasses, grey overcoat over the brown cardigan, the wristwatch gesture, the friends with the travel bag by the car, the fence, house and lawn unchanged. Change only: the gate becomes a plain wooden plank gate with an arched top and two black iron strap hinges, swung open toward the street; a low golden late-afternoon sun from frame right with a warm gold edge on Yalom's hair and his long shadow toward the gate; his eyes look down at the watch face; a small bunch of car keys visible in his lower hand; thin the guests at the right to four or five people turned to each other, none facing camera, nobody cut by the right edge. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom, no text, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's pose, face, white beard, round glasses, grey overcoat over the brown cardigan, the wristwatch gesture, the friends with the travel bag by the car, the fence, house and lawn unchanged. Change only: the gate becomes a plain wooden plank gate with an arched top and two black iron strap hinges, swung open toward the street; a low golden late-afternoon sun from frame right with a warm gold edge on Yalom's hair and his long shadow toward the gate; his eyes look down at the watch face; a small bunch of car keys visible in his lower hand; thin the guests at the right to four or five people turned to each other, none facing camera, nobody cut by the right edge. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom, no text, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9.",
+  "res": "1K",
+  "watermark": "clean (check ok, bottom-right inspected, no star or text)"
+ },
+ {
+  "shot": "R12",
+  "file": "assets/flow2k_raw/molly-v2/R12/bk4-2.png",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 9.5
+  },
+  "total": 8.875,
+  "pass": false,
+  "defects": [
+   "Hat hand stiff and splayed: thumb plus three fingers, a dark spot on one finger",
+   "Orange glowing outline traced around Alvin's whole silhouette plus background bloom (two AI tells)",
+   "Medium shot rather than the close-up the beat asks for; Alvin stands upright, no small respectful nod"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep Alvin's face, warm even smile, lifted inner brows, gaze toward Yalom, silver hair, dark suit and tie, the cream Panama hat held to his chest in his own left hand at picture right, the soft grey shoulder and back of Yalom's head at the left, the chairs, portrait table and house unchanged. Change only: his hand on the hat is relaxed and natural, thumb over the brim and four fingers curled round the crown, clean skin with no dark spots; remove the orange glowing outline around his silhouette and the bloom haze, matte shading with one soft warm sun from frame right; his head bows forward slightly in a small respectful nod. Natural and candid, no glowing outlines, no god rays, no bloom, no smirk, no stare into the lens, no text, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep Alvin's face, warm even smile, lifted inner brows, gaze toward Yalom, silver hair, dark suit and tie, the cream Panama hat held to his chest in his own left hand at picture right, the soft grey shoulder and back of Yalom's head at the left, the chairs, portrait table and house unchanged. Change only: his hand on the hat is relaxed and natural, thumb over the brim and four fingers curled round the crown, clean skin with no dark spots; remove the orange glowing outline around his silhouette and the bloom haze, matte shading with one soft warm sun from frame right; his head bows forward slightly in a small respectful nod. Natural and candid, no glowing outlines, no god rays, no bloom, no smirk, no stare into the lens, no text, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9.",
+  "res": "1K",
+  "watermark": "clean (check ok, bottom-right inspected, no star or text)"
+ },
+ {
+  "shot": "R12",
+  "file": "assets/flow2k_raw/molly-v2/R12/bk4-1.png",
+  "scores": {
+   "beat": 7,
+   "character": 9,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 7.5,
+   "readability": 8
+  },
+  "total": 7.975,
+  "pass": false,
+  "defects": [
+   "Hat sits at the bottom edge with no hand holding it; reads as a floating disc at belly height, not held to the chest",
+   "Yalom's foreground head is nearly as sharp as Alvin, little depth separation",
+   "Face is good: even warm smile, lifted inner brows, looking at Yalom"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep Alvin's face, warm even smile, lifted inner brows, gaze toward Yalom, silver hair, dark suit and tie, the soft back of Yalom's head at the left, the chairs, portrait table and house unchanged. Change only: pull back slightly so Alvin's chest is in frame and the cream Panama hat is pressed flat against his chest just below the tie, held in his own left hand at picture right with the thumb over the brim and four relaxed fingers visible; Yalom's head and shoulder at the left fall softly out of focus. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom, no smirk, no stare into the lens, no text, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep Alvin's face, warm even smile, lifted inner brows, gaze toward Yalom, silver hair, dark suit and tie, the soft back of Yalom's head at the left, the chairs, portrait table and house unchanged. Change only: pull back slightly so Alvin's chest is in frame and the cream Panama hat is pressed flat against his chest just below the tie, held in his own left hand at picture right with the thumb over the brim and four relaxed fingers visible; Yalom's head and shoulder at the left fall softly out of focus. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom, no smirk, no stare into the lens, no text, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9.",
+  "res": "1K",
+  "watermark": "clean (check ok, bottom-right inspected, no star or text)"
+ },
+ {
+  "shot": "R13",
+  "file": "assets/flow2k_raw/molly-v2/R13/bk4-1.png",
+  "scores": {
+   "beat": 6,
+   "character": 8.5,
+   "cinematic": 7.5,
+   "style": 9,
+   "technical": 5.5,
+   "readability": 6
+  },
+  "total": 7.025,
+  "pass": false,
+  "defects": [
+   "Monica cut by the right edge: only half her face and one eye remain, her smile toward Alvin is lost",
+   "Handshake is a lumpy fist at the bottom edge: one thumb, no countable fingers for either hand, stray knuckle shapes below",
+   "Alvin, Yalom expressions fit (grateful open smile; courteous closed smile); hat correctly in Alvin's left hand"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's grey herringbone coat, profile and courteous closed smile, Alvin's grateful open smile and lifted inner brows, the cream hat in his own left hand at picture right, the portrait table, chairs, house, fence, open gate and street unchanged. Change only: pull the camera back and left so all three people sit inside the left 85 percent of the frame; Monica (about 60, small, pale blonde hair worn up, dark coat) stands fully in frame beside Alvin with her whole head and shoulders visible, head turned toward Alvin, smiling softly with crinkled eyes; raise the handshake to mid-frame, two right hands clasped palm to palm, each thumb over the other hand and four distinct fingers wrapped round, no lumps. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom, no text, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's grey herringbone coat, profile and courteous closed smile, Alvin's grateful open smile and lifted inner brows, the cream hat in his own left hand at picture right, the portrait table, chairs, house, fence, open gate and street unchanged. Change only: pull the camera back and left so all three people sit inside the left 85 percent of the frame; Monica (about 60, small, pale blonde hair worn up, dark coat) stands fully in frame beside Alvin with her whole head and shoulders visible, head turned toward Alvin, smiling softly with crinkled eyes; raise the handshake to mid-frame, two right hands clasped palm to palm, each thumb over the other hand and four distinct fingers wrapped round, no lumps. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom, no text, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9.",
+  "res": "1K",
+  "watermark": "clean (check ok, bottom-right inspected, no star or text)"
+ },
+ {
+  "shot": "R13",
+  "file": "assets/flow2k_raw/molly-v2/R13/bk4-2.png",
+  "scores": {
+   "beat": 6,
+   "character": 8.5,
+   "cinematic": 7.5,
+   "style": 9,
+   "technical": 5.5,
+   "readability": 6
+  },
+  "total": 7.025,
+  "pass": false,
+  "defects": [
+   "Same frame as bk4-1 apart from the gate: Monica cut by the right edge (half face only)",
+   "Handshake a lumpy fist at the bottom edge, fingers not countable"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's grey herringbone coat, profile and courteous closed smile, Alvin's grateful open smile and lifted inner brows, the cream hat in his own left hand at picture right, the portrait table, chairs, house, fence, open gate and street unchanged. Change only: pull the camera back and left so all three people sit inside the left 85 percent of the frame; Monica (about 60, small, pale blonde hair worn up, dark coat) stands fully in frame beside Alvin with her whole head and shoulders visible, head turned toward Alvin, smiling softly with crinkled eyes; raise the handshake to mid-frame, two right hands clasped palm to palm, each thumb over the other hand and four distinct fingers wrapped round, no lumps. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom, no text, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's grey herringbone coat, profile and courteous closed smile, Alvin's grateful open smile and lifted inner brows, the cream hat in his own left hand at picture right, the portrait table, chairs, house, fence, open gate and street unchanged. Change only: pull the camera back and left so all three people sit inside the left 85 percent of the frame; Monica (about 60, small, pale blonde hair worn up, dark coat) stands fully in frame beside Alvin with her whole head and shoulders visible, head turned toward Alvin, smiling softly with crinkled eyes; raise the handshake to mid-frame, two right hands clasped palm to palm, each thumb over the other hand and four distinct fingers wrapped round, no lumps. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom, no text, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9.",
+  "res": "1K",
+  "watermark": "clean (check ok, bottom-right inspected, no star or text)"
+ },
+ {
+  "shot": "R14",
+  "file": "assets/flow2k_raw/molly-v2/R14/bk4-1.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 8
+  },
+  "total": 8.6,
+  "pass": false,
+  "defects": [
+   "Alvin and Monica squeezed against the right edge, Monica half cut; they walk off-frame right, not visibly back toward the house",
+   "Dark hairy scribble still on the folded knuckles of the chin hand",
+   "Portrait table stands by the street fence; portrait drawn glossy in the same style",
+   "Face good: puzzled, brows lifted, glasses now clean; Alvin clean-shaven"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's pose, puzzled face, lifted brows, hand at the chin, clean round glasses, white beard, grey coat, the fence, gate, street, chairs and golden light unchanged. Change only: move Alvin (Panama hat, dark suit, clean-shaven) and Monica (pale blonde hair up, black dress) left to about 70 percent across, both fully in frame, walking side by side away from the gate toward the corner of a two-storey wood-and-stucco house now visible at the right; the folded knuckles of his chin hand are smooth skin with simple crease lines, no dark hatching; the framed portrait looks like a faded real photo with a white border. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom, no text, no letters, no numbers, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's pose, puzzled face, lifted brows, hand at the chin, clean round glasses, white beard, grey coat, the fence, gate, street, chairs and golden light unchanged. Change only: move Alvin (Panama hat, dark suit, clean-shaven) and Monica (pale blonde hair up, black dress) left to about 70 percent across, both fully in frame, walking side by side away from the gate toward the corner of a two-storey wood-and-stucco house now visible at the right; the folded knuckles of his chin hand are smooth skin with simple crease lines, no dark hatching; the framed portrait looks like a faded real photo with a white border. Natural and candid, matte shading, no glowing outlines, no god rays, no bloom, no text, no letters, no numbers, no watermark, no sparkle, star, logo or icon anywhere, full-bleed 16:9.",
+  "res": "1K",
+  "watermark": "clean (check ok, bottom-right inspected, no star or text)"
+ },
+ {
+  "shot": "S08",
+  "file": "assets/flow2k_raw/molly-v2/S08/bk4-2.png",
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9.5
+  },
+  "total": 9.075,
+  "pass": true,
+  "defects": [
+   "Minor: brown cardigan not visible under the grey coat",
+   "Minor: foreground Alvin ear outline slightly doubled, a pale wisp at the jaw",
+   "Expression matches brief: even polite closed smile, lifted inner brows, uncertain eyes turned toward Alvin"
+  ],
+  "revised_prompt": "",
+  "edit_prompt": "",
+  "res": "1K",
+  "watermark": "clean (check ok, bottom-right inspected, no star or text)"
+ },
+ {
+  "shot": "S08",
+  "file": "assets/flow2k_raw/molly-v2/S08/bk4-1.png",
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9.5
+  },
+  "total": 9.075,
+  "pass": true,
+  "defects": [
+   "Visually identical to bk4-2 (pixel-level differences only); same minor notes: no cardigan, slightly messy foreground ear"
+  ],
+  "revised_prompt": "",
+  "edit_prompt": "",
+  "res": "1K",
+  "watermark": "clean (check ok, bottom-right inspected, no star or text)"
+ }
+]

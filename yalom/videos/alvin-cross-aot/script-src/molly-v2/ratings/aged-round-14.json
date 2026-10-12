@@ -1,0 +1,251 @@
+[
+ {
+  "shot": "R12",
+  "file": "assets/flow2k_raw/molly-v2/R12/r10-1.png",
+  "scores": {
+   "beat": 8,
+   "character": 8,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8,
+   "readability": 8.5
+  },
+  "total": 8.3,
+  "pass": false,
+  "defects": [
+   "Hat hand enters from bottom centre with fingers pointing to frame right; wrist cut by the bottom edge, so the anatomical-left grip is ambiguous and does not match R13 (hand from frame right, cuff visible, fingers up-left)",
+   "Hat and hand crammed against the bottom edge"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the same aged Alvin (face, silver hair, smile, charcoal overcoat, white shirt, black tie), the soft over-the-shoulder Yalom in the left foreground, the willow golden-hour background with no fog and no headstones; change only the hat grip: pull back slightly so the whole hat and hand sit on his chest above the bottom edge, held in his anatomical LEFT hand exactly as in R13 (forearm and white cuff coming in from the right side of the picture, fingers spread over the crown pointing up-left). No text, no sparkle, no black bars.",
+  "res": "1K"
+ },
+ {
+  "shot": "R12",
+  "file": "assets/flow2k_raw/molly-v2/R12/r10-2.png",
+  "scores": {
+   "beat": 6.5,
+   "character": 8,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 7.5,
+   "readability": 8
+  },
+  "total": 7.8,
+  "pass": false,
+  "defects": [
+   "Hat held by his RIGHT hand (thumb on picture-right, back of hand to camera) - violates the hat rule and R13",
+   "Hand mostly cut off by the bottom edge; hat crammed at frame bottom"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the same aged Alvin (face, silver hair, smile, charcoal overcoat, white shirt, black tie), the soft over-the-shoulder Yalom in the left foreground, the willow golden-hour background with no fog and no headstones; change only the hand: the hat is held against his chest by his anatomical LEFT hand as in R13 (forearm and white cuff from the right side of the picture, fingers over the crown pointing up-left), with the whole hat and hand above the bottom edge; his right hand is out of frame. No text, no sparkle, no black bars.",
+  "res": "1K"
+ },
+ {
+  "shot": "R12",
+  "file": "assets/flow2k_raw/molly-v2/R12/r10-3.png",
+  "scores": {
+   "beat": 7.5,
+   "character": 9.5,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.5,
+  "pass": false,
+  "defects": [
+   "Shot size is a medium/knee shot, not the briefed close-up; Alvin's face is small and the moment loses intimacy",
+   "Hat grip matches R13 correctly (anatomical left hand, cuff from frame right)"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the same aged Alvin (face, silver hair, smile, charcoal overcoat, white shirt, black tie), the soft over-the-shoulder Yalom in the left foreground, the willow golden-hour background with no fog and no headstones; change only the shot size: push in to an 85mm over-the-shoulder close-up so Alvin's head and chest fill the right half of the frame (top of hair near the top edge, hat and his left hand on his chest fully visible above the bottom edge), keeping his anatomical LEFT hand grip exactly as now. No text, no sparkle, no black bars.",
+  "res": "1K"
+ },
+ {
+  "shot": "R12",
+  "file": "assets/flow2k_raw/molly-v2/R12/r10-4.png",
+  "scores": {
+   "beat": 6.5,
+   "character": 8.5,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 8
+  },
+  "total": 8.0,
+  "pass": false,
+  "defects": [
+   "No hand visible: the hat is only a cut-off brim at the bottom edge, so 'hat to chest in his left hand' is not shown",
+   "Hat cropped by the bottom frame edge"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the same aged Alvin (face, silver hair, smile, charcoal overcoat, white shirt, black tie), the soft over-the-shoulder Yalom in the left foreground, the willow golden-hour background with no fog and no headstones; change only the lower half: pull back slightly so the full hat is held crown-out against his chest by his anatomical LEFT hand as in R13 (forearm and white cuff from the right side of the picture, fingers over the crown), all above the bottom edge. No text, no sparkle, no black bars.",
+  "res": "1K"
+ },
+ {
+  "shot": "S07",
+  "file": "assets/flow2k_raw/molly-v2/S07/r10-1.png",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.9,
+  "pass": false,
+  "defects": [
+   "Light is flat and grey; little golden window rim or warmth compared with R06",
+   "Cup cut by the bottom edge, no marble tabletop visible",
+   "No outpaint seams found"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep aged Yalom exactly (face, glasses, beard, expression, pose, the hand frozen above the cup), the window, the framing and the headroom; change only the light: a warm late-afternoon golden rim from the window behind him on his hair, shoulder and hand, and lift the bottom slightly so a strip of the marble tabletop shows under the cup. No text, no signage, no sparkle, no black bars.",
+  "res": "1K"
+ },
+ {
+  "shot": "S07",
+  "file": "assets/flow2k_raw/molly-v2/S07/r10-2.png",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8,
+   "style": 8.5,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.8,
+  "pass": false,
+  "defects": [
+   "Background in deep focus: busy street, framed sketches and plants compete with the face; no lens depth",
+   "Cup cut by the bottom edge; no outpaint seams found"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep aged Yalom exactly (face, glasses, beard, expression, pose, the hand frozen above the cup), the window, the framing and the headroom; change only the background: blur the street, wall pictures and plants into soft 85mm bokeh, and add a warm golden window rim on his hair and shoulder. No text, no signage, no sparkle, no black bars.",
+  "res": "1K"
+ },
+ {
+  "shot": "S07",
+  "file": "assets/flow2k_raw/molly-v2/S07/r10-3.png",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.0,
+  "pass": true,
+  "defects": [
+   "Minor: cup cut by the bottom edge, marble top not visible",
+   "No outpaint seams, smears or duplicated objects found"
+  ],
+  "edit_prompt": "",
+  "res": "1K"
+ },
+ {
+  "shot": "S07",
+  "file": "assets/flow2k_raw/molly-v2/S07/r10-4.png",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8,
+   "style": 8.5,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.8,
+  "pass": false,
+  "defects": [
+   "Background in deep focus: hanging sketch, sconce and plants are sharp and compete with the face",
+   "Cup cut by the bottom edge; no outpaint seams found"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep aged Yalom exactly (face, glasses, beard, expression, pose, the hand frozen above the cup), the window, the framing and the headroom; change only the background: blur the room and street into soft 85mm bokeh and add a warm golden window rim on his hair and shoulder. No text, no signage, no sparkle, no black bars.",
+  "res": "1K"
+ },
+ {
+  "shot": "R11",
+  "file": "assets/flow2k_raw/molly-v2/R11/r10-1.png",
+  "scores": {
+   "beat": 8,
+   "character": 7.5,
+   "cinematic": 7.5,
+   "style": 8.5,
+   "technical": 8,
+   "readability": 9
+  },
+  "total": 8.0,
+  "pass": false,
+  "defects": [
+   "Monica reads ~45-50 with blonde hair, not ~60 silver-blonde like R13",
+   "Yalom walks level with the couple toward camera rather than a step ahead turning back; posed three-abreast line-up; Alvin smiles more than calls",
+   "AI tells: sun flare + bloom haze + glossy rim on every figure; background haze close to fog",
+   "Blurred foreground gate bar floats with no top or connection"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the wrought-iron gate frame-within-frame, the golden-hour path, aged Yalom's face and coat, aged Alvin in the cream Panama hat calling with his raised hand; change only the staging and Monica: Yalom one step ahead on the left third, body turned toward the gate and head turning back over his shoulder to Alvin; Alvin and Monica a step behind him; Monica visibly ~60 like R13 (silver-blonde low bun, lined face, black coat, gloves); remove the floating blurred bar in front of the left gate; clear sunny golden-hour air with no haze or fog, one warm backlight. No text, no sparkle, no black bars.",
+  "res": "1K"
+ },
+ {
+  "shot": "R11",
+  "file": "assets/flow2k_raw/molly-v2/R11/r10-2.png",
+  "scores": {
+   "beat": 8,
+   "character": 7.5,
+   "cinematic": 7.5,
+   "style": 8.5,
+   "technical": 8,
+   "readability": 9
+  },
+  "total": 8.0,
+  "pass": false,
+  "defects": [
+   "Monica reads ~45-50 with blonde hair, not ~60 silver-blonde like R13",
+   "Yalom walks level with the couple toward camera rather than a step ahead turning back; posed three-abreast line-up; Alvin smiles more than calls",
+   "AI tells: sun flare + bloom haze + glossy rim on every figure; background haze close to fog",
+   "Blurred foreground gate bar floats with no top or connection"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the wrought-iron gate frame-within-frame, the golden-hour path, aged Yalom's face and coat, aged Alvin in the cream Panama hat calling with his raised hand; change only the staging and Monica: Yalom one step ahead on the left third, body turned toward the gate and head turning back over his shoulder to Alvin; Alvin and Monica a step behind him; Monica visibly ~60 like R13 (silver-blonde low bun, lined face, black coat, gloves); remove the floating blurred bar in front of the left gate; clear sunny golden-hour air with no haze or fog, one warm backlight. No text, no sparkle, no black bars.",
+  "res": "1K"
+ },
+ {
+  "shot": "R11",
+  "file": "assets/flow2k_raw/molly-v2/R11/r10-3.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 7.5,
+   "cinematic": 7.5,
+   "style": 8.5,
+   "technical": 8,
+   "readability": 9
+  },
+  "total": 8.1,
+  "pass": false,
+  "defects": [
+   "Monica reads ~45-50 with blonde hair, not ~60 silver-blonde like R13",
+   "Yalom walks level with the couple toward camera rather than a step ahead turning back; posed three-abreast line-up",
+   "AI tells: sun flare + bloom haze + glossy rim on every figure; background haze close to fog",
+   "Blurred foreground gate bar floats with no top or connection"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the wrought-iron gate frame-within-frame, the golden-hour path, aged Yalom's face and coat, aged Alvin in the cream Panama hat calling with his raised hand; change only the staging and Monica: Yalom one step ahead on the left third, body turned toward the gate and head turning back over his shoulder to Alvin; Alvin and Monica a step behind him; Monica visibly ~60 like R13 (silver-blonde low bun, lined face, black coat, gloves); remove the floating blurred bar in front of the left gate; clear sunny golden-hour air with no haze or fog, one warm backlight. No text, no sparkle, no black bars.",
+  "res": "1K"
+ },
+ {
+  "shot": "R11",
+  "file": "assets/flow2k_raw/molly-v2/R11/r10-4.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 7.5,
+   "cinematic": 7.5,
+   "style": 8.5,
+   "technical": 8,
+   "readability": 9
+  },
+  "total": 8.1,
+  "pass": false,
+  "defects": [
+   "Monica reads ~45-50 with blonde hair, not ~60 silver-blonde like R13",
+   "Yalom walks level with the couple toward camera rather than a step ahead turning back; posed three-abreast line-up",
+   "AI tells: sun flare + bloom haze + glossy rim on every figure; background haze close to fog",
+   "Blurred foreground gate bar floats with no top or connection"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the wrought-iron gate frame-within-frame, the golden-hour path, aged Yalom's face and coat, aged Alvin in the cream Panama hat calling with his raised hand; change only the staging and Monica: Yalom one step ahead on the left third, body turned toward the gate and head turning back over his shoulder to Alvin; Alvin and Monica a step behind him; Monica visibly ~60 like R13 (silver-blonde low bun, lined face, black coat, gloves); remove the floating blurred bar in front of the left gate; clear sunny golden-hour air with no haze or fog, one warm backlight. No text, no sparkle, no black bars.",
+  "res": "1K"
+ }
+]

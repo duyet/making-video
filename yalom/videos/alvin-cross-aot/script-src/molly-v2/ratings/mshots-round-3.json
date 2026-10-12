@@ -1,0 +1,441 @@
+[
+ {
+  "shot": "M02",
+  "file": "assets/flow2k_raw/molly-v2/M02/c3-1-1k.png",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 7.5,
+   "readability": 8
+  },
+  "total": 8.68,
+  "pass": false,
+  "defects": [
+   "Phone fix failed again: the earpiece is pressed to the front of the cheek with fingertips by the eye/nose, while his real ear is visible further back on the head (focal-area prop error)",
+   "Eyes now open, lowered and serious (fixed); silver-grey temples visible",
+   "Face at ~73-90% of the width and shoulder cut by the right edge (crowded, no push-in room)",
+   "No text or sparkle; 8.68 does not beat the current 8.70"
+  ],
+  "revised_prompt": "EDIT (on M02/c3-1): keep this image identical (kitchen, sweater, open lowered eyes, temples, light) and change only the phone grip: move the handset and hand back toward the side of his head so the earpiece covers his ear (the ear now visible behind his temple must be hidden under it) and the mouthpiece rests at the corner of his jaw below his mouth; his fingers wrap the back of the handset behind the cheekbone; the front of his face (cheek, nose, eye) is fully clear and nothing touches it. Then extend the canvas on the right so his whole shoulder is inside the frame with a strip of plain wallpaper beyond it. Bottom-right corner plain, no text, no watermark."
+ },
+ {
+  "shot": "M04",
+  "file": "assets/flow2k_raw/molly-v2/M04/c3-1-1k.png",
+  "scores": {
+   "beat": 7.5,
+   "character": 8,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 8
+  },
+  "total": 8.15,
+  "pass": false,
+  "defects": [
+   "Eye edit went the wrong way: irises slide to frame right, away from the man in the left foreground",
+   "Smile reads as a sly side-glance smirk, not the relaxed genuine smile of the beat",
+   "No visible silver-grey temples; foreground Yalom's glasses barely visible",
+   "Alvin's shoulder and coat cut by the right edge; face at ~78%",
+   "This base (bookshelf backdrop) differs from the current 8.88 redraw; worse on every axis but style"
+  ],
+  "revised_prompt": "EDIT (on assets/redraw/M04.png, the current 8.88 best): keep this image identical (blinds, armchair, coat, soft genuine smile, silver-grey temples) and change only his eyes: both irises moved to the inner corners of his eyes so he looks clearly toward the out-of-focus man in the left foreground, not into the lens and not to frame right; keep the smile closed-mouth and warm, not sly. Lay one soft warm stripe of blind light across his cheek and collar. Bottom-right corner plain, no text, no watermark."
+ },
+ {
+  "shot": "M04",
+  "file": "assets/flow2k_raw/molly-v2/M04/c3-2-1k.png",
+  "scores": {
+   "beat": 7.5,
+   "character": 8,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 8
+  },
+  "total": 8.15,
+  "pass": false,
+  "defects": [
+   "Eye edit went the wrong way: irises slide to frame right, away from the man in the left foreground",
+   "Smile reads as a sly side-glance smirk, not the relaxed genuine smile of the beat",
+   "No visible silver-grey temples; foreground Yalom's glasses barely visible",
+   "Alvin's shoulder and coat cut by the right edge; face at ~78%",
+   "Near-identical to c3-1 (mean diff ~5.6/255)"
+  ],
+  "revised_prompt": "EDIT (on assets/redraw/M04.png, the current 8.88 best): keep this image identical (blinds, armchair, coat, soft genuine smile, silver-grey temples) and change only his eyes: both irises moved to the inner corners of his eyes so he looks clearly toward the out-of-focus man in the left foreground, not into the lens and not to frame right; keep the smile closed-mouth and warm, not sly. Lay one soft warm stripe of blind light across his cheek and collar. Bottom-right corner plain, no text, no watermark."
+ },
+ {
+  "shot": "M05",
+  "file": "assets/flow2k_raw/molly-v2/M05/c3-1-1k.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 8.5,
+   "cinematic": 8.5,
+   "style": 8.5,
+   "technical": 8.5,
+   "readability": 8.5
+  },
+  "total": 8.5,
+  "pass": false,
+  "defects": [
+   "Head at ~47% (centre), not on the left-third line; desk only fills the lower right, not a band across the lower third (same as the current redraw)",
+   "Hair grey and long over the ears rather than clean short silver-white",
+   "Folder still has a thick page block and runs into the bottom edge; left hand cut by the bottom edge; pen in the bottom-right corner",
+   "Lamp shade a large blurred blob over the right third; dusk window only a sliver"
+  ],
+  "revised_prompt": "Create 2 new images, 16:9, two variations of the shot below, each a separate generation, no collage; use the character sheet AOT-CAST-SHEET as the reference for faces and outfits; name them exactly M05-ms3a and M05-ms3b. M05: Medium shot, 50mm, eye level, present day, a home study at dusk, shot from just behind a brass desk lamp whose soft glowing shade sits out of focus in the right foreground: the lamp is the only key light, a warm pool on the desk and on his face, deep blue dusk light from a window behind him rim-lighting his silver hair and shoulders, bookshelves falling into shadow; Dr. Yalom about 80, inspired by an aged Zeke Yeager, silver-white short tousled hair trimmed above the ears, full trimmed silver-white beard, round wire-rim glasses, kind tired eyes with deep crow's feet, slightly stooped; a brown knit cardigan over a shirt; wide-medium shot with the camera pulled well back: a long wooden desk crosses the whole frame as a band in the lower third, he sits at the LEFT end of it so his head is on the left-third line at about 33% across, his chair back near the left edge, the middle and right of the desk empty except the mug, with the brass lamp and the dusk window with deep blue sky filling the right half, both hands resting on a single thin worn tan manila file folder (one folded sheet of card with a few loose sheets inside, no spine, no binding, no thick page block, no label), closing it slowly, the cover nearly shut, one mug of tea beside it, one pen lying near the mug well away from the frame corners, pensive, eyes lowered on the folder. His hair a clean silver-white (not grey), cropped short with both ears fully visible. The folder lies flat and thin like a single folded card with no visible page block at its edge, fully inside the frame above the bottom edge. Keep the bottom-right corner of the frame plain and free of any face, hand or key prop; keep every person and key prop within the left 80% of the frame, with clear empty space on the right. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, faces always clearly readable, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+ },
+ {
+  "shot": "M05",
+  "file": "assets/flow2k_raw/molly-v2/M05/c3-2-1k.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 8.5,
+   "cinematic": 9,
+   "style": 8.5,
+   "technical": 8.5,
+   "readability": 8.5
+  },
+  "total": 8.6,
+  "pass": false,
+  "defects": [
+   "Head at ~47% (centre), not on the left-third line; desk only fills the lower right, not a band across the lower third (same as the current redraw)",
+   "Hair grey and long over the ears rather than clean short silver-white",
+   "Folder still has a thick page block and runs into the bottom edge; left hand cut by the bottom edge; pen in the bottom-right corner",
+   "Lamp in frame and deep-blue dusk window now read well (better than c3-1); only ties the current 8.60"
+  ],
+  "revised_prompt": "Create 2 new images, 16:9, two variations of the shot below, each a separate generation, no collage; use the character sheet AOT-CAST-SHEET as the reference for faces and outfits; name them exactly M05-ms3a and M05-ms3b. M05: Medium shot, 50mm, eye level, present day, a home study at dusk, shot from just behind a brass desk lamp whose soft glowing shade sits out of focus in the right foreground: the lamp is the only key light, a warm pool on the desk and on his face, deep blue dusk light from a window behind him rim-lighting his silver hair and shoulders, bookshelves falling into shadow; Dr. Yalom about 80, inspired by an aged Zeke Yeager, silver-white short tousled hair trimmed above the ears, full trimmed silver-white beard, round wire-rim glasses, kind tired eyes with deep crow's feet, slightly stooped; a brown knit cardigan over a shirt; wide-medium shot with the camera pulled well back: a long wooden desk crosses the whole frame as a band in the lower third, he sits at the LEFT end of it so his head is on the left-third line at about 33% across, his chair back near the left edge, the middle and right of the desk empty except the mug, with the brass lamp and the dusk window with deep blue sky filling the right half, both hands resting on a single thin worn tan manila file folder (one folded sheet of card with a few loose sheets inside, no spine, no binding, no thick page block, no label), closing it slowly, the cover nearly shut, one mug of tea beside it, one pen lying near the mug well away from the frame corners, pensive, eyes lowered on the folder. His hair a clean silver-white (not grey), cropped short with both ears fully visible. The folder lies flat and thin like a single folded card with no visible page block at its edge, fully inside the frame above the bottom edge. Keep the bottom-right corner of the frame plain and free of any face, hand or key prop; keep every person and key prop within the left 80% of the frame, with clear empty space on the right. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, faces always clearly readable, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+ },
+ {
+  "shot": "M06",
+  "file": "assets/flow2k_raw/molly-v2/M06/c3-1-1k.png",
+  "scores": {
+   "beat": 9,
+   "character": 6.5,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "total": 8.43,
+  "pass": false,
+  "defects": [
+   "Temple edit overshot: Alvin's whole head is silver-grey/white, reading ~60, not blond with silver-grey temples (character error)",
+   "Alvin still frowning/stern, not ashamed",
+   "Fixed: foreground stacks darker, light shaft and Molly rim stronger, hanging jackets removed"
+  ],
+  "revised_prompt": "EDIT (on M06/c3-2): keep this image identical (doorway, Molly, X-ray sheets, dark foreground stacks, light shaft) and change only Alvin's head: hair back to golden blond in a neat side part, with silver-grey ONLY in a narrow patch at each temple above the ear (the top and front of the hair stay blond); his face ashamed, eyes lowered to the floor, brows raised and drawn together, shoulders slightly hunched, not frowning. Bottom-right corner plain, no text, no watermark."
+ },
+ {
+  "shot": "M06",
+  "file": "assets/flow2k_raw/molly-v2/M06/c3-2-1k.png",
+  "scores": {
+   "beat": 9,
+   "character": 7,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "total": 8.53,
+  "pass": false,
+  "defects": [
+   "Temple edit overshot: Alvin's hair mostly grey (slightly less than c3-1), reading ~60, not blond with silver-grey temples (character error)",
+   "Alvin still frowning/stern, not ashamed",
+   "Fixed: foreground stacks darker, light shaft and Molly rim stronger, hanging jackets removed"
+  ],
+  "revised_prompt": "EDIT (on M06/c3-2): keep this image identical (doorway, Molly, X-ray sheets, dark foreground stacks, light shaft) and change only Alvin's head: hair back to golden blond in a neat side part, with silver-grey ONLY in a narrow patch at each temple above the ear (the top and front of the hair stay blond); his face ashamed, eyes lowered to the floor, brows raised and drawn together, shoulders slightly hunched, not frowning. Bottom-right corner plain, no text, no watermark."
+ },
+ {
+  "shot": "M07",
+  "file": "assets/flow2k_raw/molly-v2/M07/c3-1-1k.png",
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 8.5,
+   "technical": 8.5,
+   "readability": 8.5
+  },
+  "total": 8.95,
+  "pass": false,
+  "defects": [
+   "Dense field of golden glitter specks in the light shaft and over the bookcase reads close to sparkles",
+   "Grey streaks at temples and in the ponytail now present (fixed); photo shows Alvin, Monica and exactly two children (pass)",
+   "Ink shadows still lighter than the redraw set"
+  ],
+  "revised_prompt": "EDIT (on M07/c3-1): keep this image identical and change only: remove the golden glitter specks in the light shaft and over the bookcase, leaving a few soft round dust motes at most; keep the soft memory bloom. Bottom-right corner plain, no text, no watermark."
+ },
+ {
+  "shot": "M07",
+  "file": "assets/flow2k_raw/molly-v2/M07/c3-2-1k.png",
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 8.5,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "total": 9.0,
+  "pass": true,
+  "defects": [
+   "Grey streaks at temples and in the ponytail visible (fixed); build a touch sturdier",
+   "Framed photo: Alvin, Monica and exactly two children; no readable text, no sparkle",
+   "Soft haze/bloom on the window and shaft reads as memory; ink shadows slightly lighter than the redraw set (minor)"
+  ],
+  "revised_prompt": ""
+ },
+ {
+  "shot": "R01",
+  "file": "assets/flow2k_raw/molly-v2/R01/c3-1-1k.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 8.5,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 7.5
+  },
+  "total": 8.45,
+  "pass": false,
+  "defects": [
+   "Alvin's face at ~82% and armchair cut by the right edge (crowding not fixed)",
+   "Eyes read closed, not lowered",
+   "Silver-grey temples not visible; foreground Yalom sharp, not soft",
+   "Shaft is a soft wall wash; floor stripes small",
+   "Embroidery 'Alvin Cross' only (allowed)"
+  ],
+  "revised_prompt": "EDIT (on R01/c3-2): keep Alvin, Yalom, the lamp, tissue box and light identical and extend the canvas on the right by about 25% (outpaint more plain slate-green wall and the rest of the leather armchair) so Alvin's face sits at about 62% across and his shoulder and chair end well inside the frame; soften the foreground Yalom (head and cardigan) into shallow-focus blur; add visible silver-grey at Alvin's temples; make the window shaft a harder diagonal band of light across the floor between the chairs. The only allowed text is the embroidered name 'Alvin Cross'. Bottom-right corner plain, no watermark."
+ },
+ {
+  "shot": "R01",
+  "file": "assets/flow2k_raw/molly-v2/R01/c3-2-1k.png",
+  "scores": {
+   "beat": 9,
+   "character": 8.5,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 7
+  },
+  "total": 8.53,
+  "pass": false,
+  "defects": [
+   "Alvin's face at ~83%, body and armchair cut hard by the right edge; no push-in room",
+   "Eyes open and lowered, stiff posture (beat fixed)",
+   "Temples not visible; foreground Yalom large and sharp, not out of focus",
+   "No hard window shaft between the chairs",
+   "Embroidery 'Alvin Cross' only (allowed)"
+  ],
+  "revised_prompt": "EDIT (on R01/c3-2): keep Alvin, Yalom, the lamp, tissue box and light identical and extend the canvas on the right by about 25% (outpaint more plain slate-green wall and the rest of the leather armchair) so Alvin's face sits at about 62% across and his shoulder and chair end well inside the frame; soften the foreground Yalom (head and cardigan) into shallow-focus blur; add visible silver-grey at Alvin's temples; make the window shaft a harder diagonal band of light across the floor between the chairs. The only allowed text is the embroidered name 'Alvin Cross'. Bottom-right corner plain, no watermark."
+ },
+ {
+  "shot": "R02",
+  "file": "assets/flow2k_raw/molly-v2/R02/c3-1-1k.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 8.5,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 6
+  },
+  "total": 8.3,
+  "pass": false,
+  "defects": [
+   "Yalom jammed against the right edge again (~88-100%): coat and shoulder cut, face in the top-right corner; position instructions ignored for the third time",
+   "Shock face, glasses, beard good; boxes blank",
+   "Glitter specks on the door"
+  ],
+  "revised_prompt": "EDIT (on assets/redraw/R02.png, the current 8.58 best, where Yalom already sits at ~73% with room on the right): keep the room, Yalom, his pose, face and position identical and change only the light and depth: darken the nearest stacks in the bottom-left and bottom-right foreground into deep near-silhouettes, make the window shaft a hard diagonal beam with dust cutting across the middle stacks, and let the far corners fall into warm shadow so the bright doorway behind Yalom rim-lights his hair and shoulders. Keep every newspaper, page and box blank, with no printed blocks or letters. Bottom-right corner plain, no text, no watermark."
+ },
+ {
+  "shot": "R02",
+  "file": "assets/flow2k_raw/molly-v2/R02/c3-2-1k.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 8.5,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 6
+  },
+  "total": 8.4,
+  "pass": false,
+  "defects": [
+   "Yalom jammed against the right edge (~88-100%), coat cut",
+   "Stronger foreground stack and window shaft than c3-1",
+   "Glitter specks on the door"
+  ],
+  "revised_prompt": "EDIT (on assets/redraw/R02.png, the current 8.58 best, where Yalom already sits at ~73% with room on the right): keep the room, Yalom, his pose, face and position identical and change only the light and depth: darken the nearest stacks in the bottom-left and bottom-right foreground into deep near-silhouettes, make the window shaft a hard diagonal beam with dust cutting across the middle stacks, and let the far corners fall into warm shadow so the bright doorway behind Yalom rim-lights his hair and shoulders. Keep every newspaper, page and box blank, with no printed blocks or letters. Bottom-right corner plain, no text, no watermark."
+ },
+ {
+  "shot": "R05",
+  "file": "assets/flow2k_raw/molly-v2/R05/c3-1-1k.png",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 8.5
+  },
+  "total": 8.78,
+  "pass": false,
+  "defects": [
+   "Embroidery reads 'ALVIN CROSS' in capitals like a printed label (no M.D.; allowed name, but less clean than c3-2)",
+   "Cold glow reaches the face but only as a pale wash; parted lips read anxious more than fixed and haunted",
+   "Pinned notice blanked (fixed); blank label rectangle on the film jacket on the desk"
+  ],
+  "revised_prompt": "EDIT (on R05/c3-2): keep this image identical (lightbox, room, coat, embroidered 'Alvin Cross') and change only: push the cold blue-white lightbox glow harder across his cheek, eye and jaw with a cool rim on his hair, so the face is clearly lit by the box; close his lips into a still, fixed haunted stare at the film; make the label rectangle on the film jacket on the desk plain with no tab. No other text, bottom-right corner plain, no watermark."
+ },
+ {
+  "shot": "R05",
+  "file": "assets/flow2k_raw/molly-v2/R05/c3-2-1k.png",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "total": 8.83,
+  "pass": false,
+  "defects": [
+   "Embroidery exactly 'Alvin Cross' (M.D. removed: fixed); pinned notice blank",
+   "Cold lightbox glow on the profile and room in slate-green dark (fixed); glow could be stronger on the cheek",
+   "Parted lips read anxious rather than fixed; blank label rectangle on the film jacket",
+   "Beats the current 8.60"
+  ],
+  "revised_prompt": "EDIT (on R05/c3-2): keep this image identical (lightbox, room, coat, embroidered 'Alvin Cross') and change only: push the cold blue-white lightbox glow harder across his cheek, eye and jaw with a cool rim on his hair, so the face is clearly lit by the box; close his lips into a still, fixed haunted stare at the film; make the label rectangle on the film jacket on the desk plain with no tab. No other text, bottom-right corner plain, no watermark."
+ },
+ {
+  "shot": "S01",
+  "file": "assets/flow2k_raw/molly-v2/S01/c3-1-1k.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.88,
+  "pass": false,
+  "defects": [
+   "Closed folder still right of centre (~61% across, ~52% down) and small (~1/9 of the width): weak match-cut target",
+   "Right armchair still cut by the right edge",
+   "Lamp now switched on (good practical); hard golden stripes and dust strong; no text",
+   "Zoomed-out re-render of the current S01: only ties 8.88; c3-1 and c3-2 near-identical (mean diff ~2.5/255)"
+  ],
+  "revised_prompt": "No new generation needed for the folder position: crop assets/redraw/S01.png (2752x1536) to a 16:9 window about 2140x1195 whose centre is the folder (window roughly x 610-2750, y 180-1375), which puts the folder at the exact centre and still exceeds 1920x1080. If a fresh render is wanted: EDIT (on assets/redraw/S01.png): keep the room, chairs, lamp (switched on), tissue box and light identical, move the side table with the closed folder left so the folder sits at the exact centre of the frame, enlarge the folder to about one-sixth of the frame width, squared to the camera, and pull the right armchair inward so it ends inside the right edge. Bottom-right corner plain, no text, no watermark."
+ },
+ {
+  "shot": "S01",
+  "file": "assets/flow2k_raw/molly-v2/S01/c3-2-1k.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.88,
+  "pass": false,
+  "defects": [
+   "Closed folder still right of centre (~61% across, ~52% down) and small (~1/9 of the width): weak match-cut target",
+   "Right armchair still cut by the right edge",
+   "Lamp now switched on (good practical); hard golden stripes and dust strong; no text",
+   "Zoomed-out re-render of the current S01: only ties 8.88; c3-1 and c3-2 near-identical (mean diff ~2.5/255)"
+  ],
+  "revised_prompt": "No new generation needed for the folder position: crop assets/redraw/S01.png (2752x1536) to a 16:9 window about 2140x1195 whose centre is the folder (window roughly x 610-2750, y 180-1375), which puts the folder at the exact centre and still exceeds 1920x1080. If a fresh render is wanted: EDIT (on assets/redraw/S01.png): keep the room, chairs, lamp (switched on), tissue box and light identical, move the side table with the closed folder left so the folder sits at the exact centre of the frame, enlarge the folder to about one-sixth of the frame width, squared to the camera, and pull the right armchair inward so it ends inside the right edge. Bottom-right corner plain, no text, no watermark."
+ },
+ {
+  "shot": "S02",
+  "file": "assets/flow2k_raw/molly-v2/S02/c3-1-1k.png",
+  "scores": {
+   "beat": 9,
+   "character": 8.5,
+   "cinematic": 8.25,
+   "style": 9,
+   "technical": 8,
+   "readability": 8.5
+  },
+  "total": 8.55,
+  "pass": false,
+  "defects": [
+   "Folder-closing action now shown (cover half open under his left hand: beat improved)",
+   "Head at ~48% (centre), not on the left third (note: the current M05 is also centred, so the mirror still holds)",
+   "Second desk plane at right with a pseudo-text page and a blurred paper in the bottom-right foreground (the clutter the prompt forbade)",
+   "Folder shows a thick page block with lined pages; hair long over the ears; cord not swinging; no blind stripes on the wall",
+   "Lamp shade unlit: no warm practical against the cool window"
+  ],
+  "revised_prompt": "EDIT (on S02/c3-2): keep Yalom, his pose, the phone under his right hand, the half-closed folder, the window and the lit lamp identical and change only: remove the second desk and the papers and blurred sheet on the right, continuing the same single desk surface into dark bookshelves; make the folder thin (one folded card with a few sheets, no thick page block, no lines on the pages); trim his hair short above the ears; lay cool grey stripes of blind light across the wall behind him and the desk; show the coiled cord in a loose arc as if still swinging. Bottom-right corner plain, no text, no watermark."
+ },
+ {
+  "shot": "S02",
+  "file": "assets/flow2k_raw/molly-v2/S02/c3-2-1k.png",
+  "scores": {
+   "beat": 9,
+   "character": 8.5,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8,
+   "readability": 8.5
+  },
+  "total": 8.6,
+  "pass": false,
+  "defects": [
+   "Folder-closing action now shown (cover half open under his left hand: beat improved)",
+   "Head at ~48% (centre), not on the left third (note: the current M05 is also centred, so the mirror still holds)",
+   "Second desk plane at right with a pseudo-text page and a blurred paper in the bottom-right foreground (the clutter the prompt forbade)",
+   "Folder shows a thick page block with lined pages; hair long over the ears; cord not swinging; no blind stripes on the wall",
+   "Lamp lit: warm practical vs cool window (better than c3-1); 8.60 does not beat the current 8.70"
+  ],
+  "revised_prompt": "EDIT (on S02/c3-2): keep Yalom, his pose, the phone under his right hand, the half-closed folder, the window and the lit lamp identical and change only: remove the second desk and the papers and blurred sheet on the right, continuing the same single desk surface into dark bookshelves; make the folder thin (one folded card with a few sheets, no thick page block, no lines on the pages); trim his hair short above the ears; lay cool grey stripes of blind light across the wall behind him and the desk; show the coiled cord in a loose arc as if still swinging. Bottom-right corner plain, no text, no watermark."
+ },
+ {
+  "shot": "S05",
+  "file": "assets/flow2k_raw/molly-v2/S05/c3-1-1k.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 8.5
+  },
+  "total": 8.83,
+  "pass": false,
+  "defects": [
+   "Gaze edit failed: irises still point at the questioner on frame left (glare, not sliding away)",
+   "Fixed: warm blind stripes across his face and crossed arms; foreground man now in a brown knit cardigan with glasses and beard",
+   "Shoulder and armchair reach ~93% and the right edge (unchanged)",
+   "Embroidery 'Alvin Cross' only; beats the current 8.73"
+  ],
+  "revised_prompt": "EDIT (on S05/c3-1): keep this image identical (blind stripes, brown-cardigan questioner, crossed arms, embroidery) and change only his eyes and head: turn his head a few degrees toward frame right and move both irises to the outer right corners of his eyes, gaze dropping to the floor at frame right, so he is clearly avoiding the man in the left foreground. No text except the embroidered name, bottom-right corner plain, no watermark."
+ },
+ {
+  "shot": "S05",
+  "file": "assets/flow2k_raw/molly-v2/S05/c3-2-1k.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 8.5
+  },
+  "total": 8.83,
+  "pass": false,
+  "defects": [
+   "Gaze still at the questioner on frame left",
+   "Stripes on the coat strong, softer on the face than c3-1; cardigan fixed",
+   "Shoulder and armchair reach the right edge"
+  ],
+  "revised_prompt": "EDIT (on S05/c3-1): keep this image identical (blind stripes, brown-cardigan questioner, crossed arms, embroidery) and change only his eyes and head: turn his head a few degrees toward frame right and move both irises to the outer right corners of his eyes, gaze dropping to the floor at frame right, so he is clearly avoiding the man in the left foreground. No text except the embroidered name, bottom-right corner plain, no watermark."
+ }
+]

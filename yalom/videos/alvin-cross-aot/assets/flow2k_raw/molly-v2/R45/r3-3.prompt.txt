@@ -1,0 +1,2 @@
+[Flow agent edit of R45-r2b (in-place edit, keep everything else identical):]
+Turn every newspaper on both counters into plain blank grey paper bundles with no print, headlines or columns.

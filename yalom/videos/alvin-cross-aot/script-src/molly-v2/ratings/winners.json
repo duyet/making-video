@@ -1,0 +1,1710 @@
+[
+ {
+  "shot": "M03",
+  "file": "assets/flow2k_raw/molly-v2/M03/c2-1.png",
+  "round_rated": "mshots-2",
+  "total": 9.0,
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 8.5,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "pass": true,
+  "minor": [
+   "Line weight still a little lighter/softer than the redraw set (minor)",
+   "Dust motes in the shaft are round specks, not star/sparkle shapes; corners clean"
+  ],
+  "rubric": "v2-cinematic"
+ },
+ {
+  "shot": "M05",
+  "file": "assets/flow2k_raw/molly-v2/M05/c5-2.png",
+  "round_rated": "mshots-5 (interim from 1K)",
+  "total": 9.0,
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "pass": true,
+  "minor": [
+   "Beat met: aged Yalom (silver-white hair and beard, round glasses, deep lines, brown cardigan) closing a tan folder, eyes lowered, pensive",
+   "Layered depth: big out-of-focus lamp shade in the right foreground, desk band, blue dusk window and bookshelves behind; motivated warm/cool contrast",
+   "Minor: folder has a tab and a slight page block; lamp shade fills much of the right third (bottom-right not a face or key prop, acceptable)",
+   "Hands clean, no halo, no text, no sparkle; beats the current 8.60"
+  ],
+  "rubric": "v2-cinematic",
+  "flow_asset": "Man closing file folder (renamed ms-M05-5b if it stuck)",
+  "interim": "1K original, Lanczos upscale; 2K pending"
+ },
+ {
+  "shot": "R03",
+  "file": "assets/flow2k_raw/molly-v2/R03/sb-sb-R03-r1.png",
+  "round_rated": "book-fix",
+  "total": 9.0,
+  "scores": {
+   "beat": 9.0,
+   "character": 9.0,
+   "cinematic": 9.0,
+   "style": 9.0,
+   "technical": 9.0,
+   "readability": 9.0
+  },
+  "minor": [
+   "Dusk window plus lamp, no cardboard boxes; path wider than one person",
+   "Dark X-ray sleeves read slightly like portfolios",
+   "Incumbent re-scored 8.05 by opus"
+  ],
+  "worker": "sb"
+ },
+ {
+  "shot": "R04",
+  "file": "assets/flow2k_raw/molly-v2/R04/r1-1.png",
+  "round_rated": 4,
+  "total": 8.6,
+  "scores": {
+   "beat": 9,
+   "character": 8,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 8.5
+  },
+  "minor": [
+   "Alvin's hair is pale ash-blond, nearly silver overall; temples barely distinct",
+   "left and right headstones carry dash marks (not legible)",
+   "Alvin's smile slightly smug rather than grateful"
+  ],
+  "rounds_used": 1
+ },
+ {
+  "shot": "R49",
+  "replaces": "N11",
+  "file": "assets/flow2k_raw/molly-v2/R49/r1-1.png",
+  "round_rated": 1,
+  "total": 9.075,
+  "scores": {
+   "beat": 9.5,
+   "character": 8.5,
+   "cinematic": 9.5,
+   "style": 8.5,
+   "technical": 9,
+   "readability": 9
+  },
+  "minor": [
+   "Line weight is lighter and more painterly than the AOT set (as in N11)",
+   "Alvin is tiny; identity comes from the blond head, green windbreaker and orange vest",
+   "Very faint dark smudge in the bottom-right corner; not noticeable at native size"
+  ]
+ },
+ {
+  "shot": "R50",
+  "replaces": "F28",
+  "file": "assets/flow2k_raw/molly-v2/R50/r1-1.png",
+  "round_rated": 1,
+  "total": 9.15,
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 9.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "minor": [
+   "Thin black letterbox bars at top (~24px) and bottom; crop about 2% in the edit",
+   "Reflected figure is a dark silhouette (hair reads dark), which is fine for a dream"
+  ]
+ },
+ {
+  "shot": "R81",
+  "replaces": "F14",
+  "file": "assets/flow2k_raw/molly-v2/R81/r1-1.png",
+  "round_rated": 1,
+  "total": 9.05,
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "minor": [
+   "only one wrist visible; second hand's fingers interlace without a visible forearm (reads fine at speed)",
+   "armchair arm sits in the background left, not soft foreground"
+  ],
+  "rounds_used": 1
+ },
+ {
+  "shot": "R82",
+  "replaces": "N10",
+  "file": "assets/flow2k_raw/molly-v2/R82/r1-1.png",
+  "round_rated": 1,
+  "total": 9.08,
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 8.5
+  },
+  "minor": [
+   "tray paper and folder show tiny pseudo-print lines; embroidered name garbled but on the chest (allowed)",
+   "high angle is moderate rather than steep"
+  ],
+  "rounds_used": 1
+ },
+ {
+  "shot": "R88",
+  "replaces": "N01",
+  "file": "assets/flow2k_raw/molly-v2/R88/n1-1.png",
+  "round_rated": 1,
+  "total": 8.65,
+  "scores": {
+   "beat": 9,
+   "character": 8,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 8,
+   "readability": 9
+  },
+  "minor": [
+   "wide doorway, Molly small right third, tamed ponytail + pencil; doorway frames empty kitchen not Molly"
+  ],
+  "rounds_used": 1,
+  "incumbent_rescore": 6.75,
+  "flag": "below 9.0; beats incumbent re-scored under current rubric"
+ },
+ {
+  "shot": "R89",
+  "replaces": "X01",
+  "file": "assets/flow2k_raw/molly-v2/R89/r1-1.png",
+  "round_rated": 1,
+  "total": 9.18,
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9.5
+  },
+  "minor": [
+   "tiny figures under the arcade"
+  ],
+  "rounds_used": 1
+ },
+ {
+  "shot": "R40",
+  "replaces": "X02",
+  "file": "assets/flow2k_raw/molly-v2/R40/r2-1.png",
+  "round_rated": 2,
+  "total": 9.15,
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 9.5,
+   "style": 8.5,
+   "technical": 8.5,
+   "readability": 9.5
+  },
+  "minor": [
+   "The hand's digit layout is a little ambiguous (thumb tip reads on the right side of a right hand seen from the back); it reads fine at speed",
+   "X-ray film is rendered semi-photoreal against the cel-shaded hand, as in other X-ray refs",
+   "Hand pinches the clip rather than clearly pushing the film up under it"
+  ]
+ },
+ {
+  "shot": "R51",
+  "replaces": "F34",
+  "file": "assets/flow2k_raw/molly-v2/R51/sb-sb-R51-o2.png",
+  "round_rated": "book-fix",
+  "total": 8.85,
+  "scores": {
+   "beat": 9.0,
+   "character": 8.0,
+   "cinematic": 9.0,
+   "style": 9.0,
+   "technical": 9.0,
+   "readability": 9.0
+  },
+  "minor": [
+   "Mass now in patient's LEFT lung (viewer's right), large ragged, heart shadow unchanged, not mirrored",
+   "Alvin head defocused ash-blond, silver temple not visible (character 8)",
+   "Candidate 8.85 vs incumbent 7.95 re-scored by opus (beat 5, wrong laterality)"
+  ],
+  "worker": "sb",
+  "flag": "8.85 < 9.0, book-fix wins on laterality"
+ },
+ {
+  "shot": "R52",
+  "replaces": "N05",
+  "file": "assets/flow2k_raw/molly-v2/R52/r2-1.png",
+  "round_rated": 2,
+  "total": 9.05,
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9.5
+  },
+  "minor": [
+   "Brass lamp sits in frame instead of just out of frame, and the light pool is broader than a tight chiaroscuro pool",
+   "Wedding band is on the near (right) hand",
+   "Hands rest on the pages rather than actively opening the folder"
+  ]
+ },
+ {
+  "shot": "R53",
+  "replaces": "N09",
+  "file": "assets/flow2k_raw/molly-v2/R53/r1-2.png",
+  "round_rated": 2,
+  "total": 9.125,
+  "scores": {
+   "beat": 9.5,
+   "character": 8.5,
+   "cinematic": 9.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "minor": [
+   "Armchair sits left of the fireplace, mirrored from N08 where Jason's chair is right of it (a different doorway angle can justify it)",
+   "Chair is plain grey, not N08's patterned olive wingback; the plaid blanket does match",
+   "Door slab fills about 40% of the frame, leaving the Ken Burns move to the right portion"
+  ]
+ },
+ {
+  "shot": "R54",
+  "replaces": "X12",
+  "file": "assets/flow2k_raw/molly-v2/R54/r1-2.png",
+  "round_rated": 2,
+  "total": 9.0,
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "minor": [
+   "Tiny glyph-like engraving marks on a few headstones (unreadable at 1080p)",
+   "High oblique angle rather than the steep near-top-down of X12"
+  ]
+ },
+ {
+  "shot": "R87",
+  "replaces": "N02",
+  "file": "assets/flow2k_raw/molly-v2/R87/r2-2.png",
+  "round_rated": 2,
+  "total": 9.03,
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "minor": [
+   "low angle only mild and backlight soft/flat (pale sky, weak long shadows), hence cinematic 8.5",
+   "second workman with rope adds clutter",
+   "grass hatching bottom-right has a tiny letter-like squiggle (~25px at 1080p), reads as grass",
+   "mild softness from the 1K upscale (not penalised)",
+   "no sparkle bottom-right",
+   "source is the 1K original upscaled locally to 2752x1536 (Flow 2K upscaler failing); re-download 2K when it recovers"
+  ],
+  "rounds_used": 2
+ },
+ {
+  "shot": "R83",
+  "replaces": "B02",
+  "file": "assets/flow2k_raw/molly-v2/R83/r3-2.png",
+  "round_rated": 3,
+  "total": 9.07,
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 8.5
+  },
+  "minor": [
+   "frame centre ~82% across (asked 64%), but all four frame sides now visible with a ~4% margin: push must drift right-of-centre",
+   "mourner faces rendered blank/featureless under heavy blur (reads as bokeh at speed); no Yalom double",
+   "vase of lilies cut by the right edge",
+   "portrait clean, no lettering; bottom-right clean",
+   "mild softness from the 1K upscale (not penalised)",
+   "source is the 1K original upscaled locally to 2752x1536 (Flow 2K upscaler failing); re-download 2K when it recovers"
+  ],
+  "rounds_used": 3
+ },
+ {
+  "shot": "R06",
+  "file": "assets/flow2k_raw/molly-v2/R06/sb-sb-R06-r1.png",
+  "round_rated": "book-fix",
+  "total": 9.0,
+  "scores": {
+   "beat": 9.0,
+   "character": 9.0,
+   "cinematic": 8.5,
+   "style": 9.0,
+   "technical": 9.0,
+   "readability": 9.5
+  },
+  "minor": [
+   "Table in far corner against brick walls, no window or cars behind",
+   "Flat two-shot, little rim light; Alvin's left hand soft",
+   "Incumbent re-scored 8.2 by opus (window table, 1980s cars)"
+  ],
+  "worker": "sb"
+ },
+ {
+  "shot": "R07",
+  "file": "assets/flow2k_raw/molly-v2/R07/r2-2.png",
+  "rating_file": "round-C2.json",
+  "total": 9.0,
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "pass": true,
+  "flag": "",
+  "rounds_used": 2,
+  "source": ""
+ },
+ {
+  "shot": "R08",
+  "file": "assets/flow2k_raw/molly-v2/R08/r7-2.png",
+  "rating_file": "aged-round-7a.json",
+  "total": 9.0,
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "pass": true,
+  "flag": "",
+  "rounds_used": 7,
+  "source": "1K interim (pending-2k)"
+ },
+ {
+  "shot": "R09",
+  "file": "assets/flow2k_raw/molly-v2/R09/r3-1.png",
+  "rating_file": "aged-round-3a.json",
+  "total": 9.1,
+  "scores": {
+   "beat": 9,
+   "character": 9.5,
+   "cinematic": 9,
+   "style": 8.5,
+   "technical": 9,
+   "readability": 9
+  },
+  "pass": true,
+  "flag": "",
+  "rounds_used": 3,
+  "source": "1K x2 LANCZOS (Flow 2K upscale failing)"
+ },
+ {
+  "shot": "R10",
+  "file": "assets/flow2k_raw/molly-v2/R10/r7-1.png",
+  "rating_file": "aged-round-8.json",
+  "total": 9.1,
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 8.5,
+   "technical": 9,
+   "readability": 9
+  },
+  "pass": true,
+  "flag": "",
+  "rounds_used": 7,
+  "source": "1K interim (pending-2k)"
+ },
+ {
+  "shot": "R12",
+  "file": "assets/flow2k_raw/molly-v2/R12/bk4-2.png",
+  "rating_file": "backyard-round-4.json",
+  "total": 8.875,
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 9.5
+  },
+  "pass": false,
+  "flag": "backyard; stiff 3-finger hat hand, faint glow outline",
+  "rounds_used": 4,
+  "source": "1K interim; BACKYARD set"
+ },
+ {
+  "shot": "R13",
+  "file": "assets/flow2k_raw/molly-v2/R13/bk8-4.png",
+  "rating_file": "backyard-round-8-R13.json",
+  "total": 9.0,
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "pass": true,
+  "flag": "",
+  "rounds_used": 12,
+  "source": "1K interim (pending-2k); backyard three-shot at the gate, margin-then-crop outpaint, star removed in Flow",
+  "note": "replaces cemetery r12-3 (user rejected graves); corner inspected by eye, no star",
+  "replaces": "R04",
+  "minor": "Monica cut at mid-thigh by bottom edge (head, body, hands in frame)"
+ },
+ {
+  "shot": "R14",
+  "file": "assets/flow2k_raw/molly-v2/R14/bk6-2.png",
+  "rating_file": "backyard-round-6.json",
+  "total": 9.18,
+  "scores": {
+   "beat": 9.5,
+   "character": 9.5,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 8.5
+  },
+  "pass": true,
+  "flag": "",
+  "rounds_used": 6,
+  "source": "1K interim; BACKYARD set"
+ },
+ {
+  "shot": "R15",
+  "file": "assets/flow2k_raw/molly-v2/R15/r7-2.png",
+  "rating_file": "aged-round-7b.json",
+  "total": 9.0,
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "pass": true,
+  "flag": "",
+  "rounds_used": 7,
+  "source": "1K interim (pending-2k)"
+ },
+ {
+  "shot": "R16",
+  "file": "assets/flow2k_raw/molly-v2/R16/r5-1.png",
+  "rating_file": "aged-round-5c.json",
+  "total": 9.0,
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "pass": true,
+  "flag": "",
+  "rounds_used": 5,
+  "source": "1K x2 LANCZOS (Flow 2K upscale failing)"
+ },
+ {
+  "shot": "R17",
+  "file": "assets/flow2k_raw/molly-v2/R17/bk4-2.png",
+  "rating_file": "backyard-r17-4.json",
+  "total": 9.1,
+  "scores": {
+   "beat": 9,
+   "character": 9.5,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "pass": true,
+  "flag": "",
+  "rounds_used": 4,
+  "source": "1K interim; BACKYARD set (book p.70)"
+ },
+ {
+  "shot": "S07",
+  "file": "assets/flow2k_raw/molly-v2/S07/sb-sb-S07-o1.png",
+  "round_rated": "book-fix",
+  "total": 8.85,
+  "scores": {
+   "beat": 9.0,
+   "character": 9.0,
+   "cinematic": 8.5,
+   "style": 9.0,
+   "technical": 9.0,
+   "readability": 8.5
+  },
+  "minor": [
+   "Old cars replaced by plain sidewalk and garage doors, no vehicles",
+   "Cup cut off at bottom edge; hand reaches past cup",
+   "Incumbent re-scored 8.35 by opus (vintage cars)"
+  ],
+  "worker": "sb",
+  "flag": "8.85 < 9.0, wins on no 1980s cars"
+ },
+ {
+  "shot": "S08",
+  "file": "assets/flow2k_raw/molly-v2/S08/bk4-1.png",
+  "rating_file": "backyard-round-4.json",
+  "total": 9.075,
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9.5
+  },
+  "pass": true,
+  "flag": "",
+  "rounds_used": 4,
+  "source": "1K interim; BACKYARD set"
+ },
+ {
+  "shot": "S01",
+  "file": "assets/flow2k_raw/molly-v2/S01/c4-1.png",
+  "round_rated": "mshots-4",
+  "total": 9.03,
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "pass": true,
+  "minor": [
+   "Crop works: closed folder at the exact centre and larger (~1/7 of the width): strong match-cut target",
+   "Window cropped out and both armchairs now cut by the left/right/bottom edges; composition tighter and more symmetric",
+   "A few glowing dust specks top-left (restrained); no text; beats the current 8.88"
+  ],
+  "rubric": "v2-cinematic"
+ },
+ {
+  "shot": "S05",
+  "file": "assets/flow2k_raw/molly-v2/S05/c9-1.png",
+  "round_rated": "mshots-9 (interim from 1K)",
+  "total": 9.05,
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9.5
+  },
+  "pass": true,
+  "minor": [
+   "Outpaint worked: the whole brown leather armchair, including its right arm, now sits inside the frame (ends ~89% across); the filled strip continues the bookshelves (plain spines, no readable titles) and a panelled cabinet with matching blind-stripe light; no seam, no repeated content, no grey left at the edges",
+   "Patched spot near 93% / 87% reads as plain cabinet panel with no trace of the mark or the patch",
+   "Embroidery still exactly 'Alvin Cross'; faces, crossed arms and hands unchanged from c7-1; Alvin now sits at ~57% with Ken Burns room on both sides",
+   "Beats the current S05 (c7-1, 8.95)"
+  ],
+  "rubric": "v2-cinematic",
+  "flow_asset": "ms-canvas-S05.jpg (latest version; upload of widened c7-1, outpainted)",
+  "interim": "1K original, star mark texture-patched (not cropped), Lanczos upscale; 2K pending"
+ },
+ {
+  "shot": "R56",
+  "replaces": "N14",
+  "file": "assets/flow2k_raw/molly-v2/R56/r2-2.png",
+  "round_rated": 3,
+  "total": 9.275,
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 9.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9.5
+  },
+  "minor": [
+   "Yalom's wire-rim glasses read slightly oval rather than perfectly round",
+   "Alvin's silver temples are not visible from behind (he still reads young blond)",
+   "Same deep one-point corridor as R03 just before it (b14), but the empty armchair in R03 now filled by Alvin makes it a strong reveal cut; R03 is warm, R56 cool",
+   "No pseudo-text: stacks are edge-on, boxes plain",
+   "Corner clean"
+  ]
+ },
+ {
+  "shot": "R80",
+  "replaces": "B23",
+  "file": "assets/flow2k_raw/molly-v2/R80/r6-1.png",
+  "round_rated": 6,
+  "total": 9.03,
+  "scores": {
+   "beat": 9.5,
+   "character": 8.5,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "minor": [
+   "Alvin's hair pale ash-blond, a touch greyish at zoom but reads blond and young (round-5 grey/old defect fixed)",
+   "Alvin's back and olive sweater are evenly lit although he sits against the window: less of the asked near-black silhouette",
+   "Yalom is a large near figure (~85% of frame height, not the asked 55%); feet inside the frame, face, glasses, beard and hand on the chair clean at zoom",
+   "dark doorway jamb fills ~10% of the left edge (not a pure black bar: textured, std>7), reads as frame-within-frame",
+   "armchair edge defect of r3/r4 fixed: Alvin small, centred on the back window, chair fully inside; no loose papers",
+   "blank spines and boxes, no text; bottom-right clean, no sparkle",
+   "mild softness from the 1K upscale (not penalised)",
+   "source is the 1K original (Flow asset l2-R80-r6-1) upscaled locally; 2K pending"
+  ],
+  "rounds_used": 6
+ },
+ {
+  "shot": "S16",
+  "replaces": "F02 (c05 insert)",
+  "file": "assets/flow2k_raw/molly-v2/S16/r1-2.png",
+  "round_rated": 1,
+  "total": 9.03,
+  "scores": {
+   "beat": 9,
+   "character": 8.5,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9.5,
+   "readability": 9.5
+  },
+  "minor": [
+   "Bundled sheets read more like stacked letter paper/parchment than folded newspapers (no fold, torn edges)",
+   "Plaid sleeve is redder than M06's muted grey-brown check; apron matches (khaki bib with grommet, worn stains)",
+   "Hands slightly broad/masculine but plausible for a sturdy working woman",
+   "Mild 1K upscale softness (not penalised)",
+   "source is the 1K original (Flow asset l2-S16-r1-2) upscaled locally; 2K pending"
+  ],
+  "rounds_used": 1,
+  "worker": "l2"
+ },
+ {
+  "shot": "S11",
+  "file": "assets/flow2k_raw/molly-v2/S11/r3-1.png",
+  "rating_file": "aged-round-10.json",
+  "total": 9.0,
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "pass": true,
+  "flag": "",
+  "rounds_used": 3,
+  "source": "1K interim (pending-2k); wide-through-window redesign"
+ },
+ {
+  "shot": "S09",
+  "file": "assets/flow2k_raw/molly-v2/S09/c5-2.png",
+  "round_rated": "mshots-5 (interim from 1K)",
+  "total": 8.83,
+  "scores": {
+   "beat": 8.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 8.5
+  },
+  "pass": false,
+  "minor": [
+   "Better: clean door geometry, Alvin in the lit doorway at ~72%, Yalom rim-lit from behind on the left third, dark shrub silhouettes in the right foreground for depth; blond hair with grey temple",
+   "Alvin still not blocking the gap: door open wide, arm extended, interior and a newspaper stack visible behind him",
+   "Rim light on Yalom is weak; porch bulb clipped at the top edge",
+   "Newspaper stack shows faint masthead-like block marks (not readable)"
+  ],
+  "rubric": "v2-cinematic",
+  "flow_asset": "S09-ms2b",
+  "interim": "1K original, Lanczos upscale; 2K pending",
+  "flag": "S09 retired in NEW-SHOTS-2026-10-11.md (do not draw); file kept only as a stand-in"
+ },
+ {
+  "shot": "R55",
+  "replaces": "X13",
+  "file": "assets/flow2k_raw/molly-v2/R55/r3-3.png",
+  "round_rated": 4,
+  "total": 9.0,
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "minor": [
+   "Focus hierarchy finally delivered: hands, bills, pencil and chequebook sharp; Molly's face, glasses and the kitchen soft",
+   "Clearly more cinematic than X13's top-down layout, and no pseudo-text (X13 had scribbled letters)",
+   "Blurred face shows real age lines, not airbrushed",
+   "Molly's hair still touches the top edge; Ken Burns should move on the hands",
+   "Faint pencil-like dashes on the top loose sheet under her left hand, not letters",
+   "Wall-phone keypad blurred, no digits",
+   "Floating dust specks + window glow are mild; not stacked enough to dock",
+   "1K upsample: soft",
+   "Corner clean"
+  ]
+ },
+ {
+  "shot": "R47",
+  "replaces": "N12",
+  "file": "assets/flow2k_raw/molly-v2/R47/r2-2.png",
+  "round_rated": 4,
+  "total": 9.0,
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "minor": [
+   "Hoard reads through the dark doorway (shelves, boxes, newspaper towers) and bundles stand beside the sideboard; empty chair still dominates the foreground, plus a second empty chair at the table",
+   "Alvin pale blond with grey temples, on anchor; he glances off to frame right instead of down at his plate",
+   "Bundle tops carry plain grey print blocks with no letters; boxes blank",
+   "The paper spilling into the dining room shows a little more than the storyboard's 'hint, no reveal' before b14; acceptable since the user asked for the hoard to read",
+   "Single lamp, stained walls, lived-in; no AI tells",
+   "1K upsample: soft",
+   "Corner clean"
+  ]
+ },
+ {
+  "shot": "R45",
+  "replaces": "F18",
+  "file": "assets/flow2k_raw/molly-v2/R45/r5-2.png",
+  "round_rated": 5,
+  "total": 9.075,
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 8.5
+  },
+  "minor": [
+   "Beat clear: Yalom takes a step in, one hand half-raised, mid-sentence; Alvin arms crossed tight, eyes lowered, jaw set",
+   "Cramped cluttered 1982 kitchen: dishes in sink, cups, utensil jar, open cabinets; paper bundles blank, no print",
+   "Doorway frame-within-frame at the left, blinds throwing stripes, good depth; more cinematic than F18",
+   "Alvin golden blond with thin silver temples; Yalom matches the anchor with round glasses and beard",
+   "Hands clean; corners clean, no text or sparkle",
+   "1K upsample: soft",
+   "Headroom above Alvin still small: about 35 px of 1536 (asked for 1/8 of the frame); whole head now inside the frame and clear of the right edge, but a centred push-in will graze the hair"
+  ]
+ },
+ {
+  "shot": "S12",
+  "replaces": "X06 (stand-in)",
+  "file": "assets/flow2k_raw/molly-v2/S12/r8-2.png",
+  "round_rated": 8,
+  "total": 9.0,
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "minor": [
+   "Fixes r7-1's defects: bare walls (no switch plate, no frames), small warm lit upstairs window visible top-left",
+   "Jason matches M01/F30: dark chestnut-brown shoulder-length hair, Eren-like profile, eye with clear pupil and iris, set jaw; worn denim jacket, jeans, canvas duffel; alone",
+   "Head turned back in profile, chin lifted, looking up the stairs toward the window; body toward the night",
+   "Cold moonlit doorway vs warm window; open empty tin foreground left; matte natural shading",
+   "Door hand and free hand clean; bottom-right corner clean, no sparkle; no text or numbers",
+   "Door is nearly head-on but sits right of centre with the open leaf near the right edge; hallway depth is short (camera close, not far down a hallway)",
+   "Figure about 70% of frame height, larger than the lonely-small target; white T-shirt only peeks at the hem",
+   "source is the 1K original (Flow asset l2-S12-x3-2) upscaled locally; 2K pending"
+  ],
+  "rounds_used": 8,
+  "worker": "l2"
+ },
+ {
+  "shot": "R86",
+  "replaces": "F10",
+  "file": "assets/flow2k_raw/molly-v2/R86/n1-2.png",
+  "total": 8.9,
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "minor": [
+   "inked AOT redraw (art-review §4); ash-blond + silver temples; no name text visible",
+   "pen fingers slightly soft; subject near right edge",
+   "old R86 re-scored hard fail (readable 'Alvin Cross' embroidery)"
+  ],
+  "worker": "l2",
+  "flag": "below 9.0 (8.9)"
+ },
+ {
+  "shot": "R85",
+  "replaces": "X04",
+  "file": "assets/flow2k_raw/molly-v2/R85/n3-2.png",
+  "total": 8.42,
+  "scores": {
+   "beat": 8.5,
+   "character": 8.5,
+   "cinematic": 8,
+   "style": 8.5,
+   "technical": 8.5,
+   "readability": 8.5
+  },
+  "minor": [
+   "clean single, ash hair matches beard, eyes beside lens; headroom tight"
+  ],
+  "worker": "l2",
+  "flag": "below 9.0; beats incumbent re-scored under current rubric",
+  "incumbent_rescore": 7.1
+ },
+ {
+  "shot": "R90",
+  "replaces": "F17 (3p b14) / S09 (1p) — door-only per book pp.101-102",
+  "file": "assets/flow2k_raw/molly-v2/R90/re1-2.png",
+  "round_rated": "e1",
+  "total": 9.05,
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "minor": [
+   "Hair now noticeably shorter: clean nape line well clear of the collar, ear fully exposed, tousled dark-blond on top; closer to the cast anchor than r4-1.",
+   "Door swung inward with some perspective (free edge shorter, thick hinge edge and hinges visible): modest but real depth gain over r4-1's flat slab.",
+   "Illegible scribbled note; lamp and paper stacks inside; dusk, porch light, Sunnyvale siding; no Alvin.",
+   "Glasses read slightly rectangular in the soft foreground.",
+   "Bottom-right corner clean, no sparkle.",
+   "Marginal pass at 9.05; beats saved r4-1 (8.95).",
+   "Bell hand unchanged from r4-1: back of the hand with the middle finger also extended and no thumb visible; not the requested thumb-side pose (not broken)."
+  ],
+  "rounds_used": "e1"
+ },
+ {
+  "shot": "S19",
+  "replaces": "none (R14 holds)",
+  "file": "assets/flow2k_raw/molly-v2/S19/r2-2.png",
+  "round_rated": 2,
+  "total": 9.125,
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 8.5,
+   "technical": 9,
+   "readability": 9.5
+  },
+  "minor": [
+   "Fixes both r1-2 defects: Yalom's sleeve is now a smooth plain grey overcoat with a ribbed brown cardigan cuff and no buttons/herringbone; his hand is papery with age spots (~80).",
+   "Alvin: navy-black suit, white cuff, plain round silver cufflink with no emblem; lined, veined hand reads ~70.",
+   "Hands clean: Alvin's card hand four curled fingers with the card between index and middle; wallet hand thumb on top and four fingertips below; Yalom thumb on card with four fingers under.",
+   "Card: only three soft blurred grey bars, no letter shapes, numbers or logo.",
+   "Wooden garden gate framed between the hands, sun rim light, lawn bokeh, no cemetery.",
+   "Bottom-right corner clean lawn bokeh, no sparkle.",
+   "Passes at 9.13; better than saved r1-2 (8.975).",
+   "Hands still carry some western-comic hatch lines (lighter than r1-2 and r2-1), style axis held at 8.5.",
+   "Wallet is closed: the card is already out rather than being drawn from the wallet (minor beat nuance)."
+  ],
+  "rounds_used": 2
+ },
+ {
+  "shot": "S20",
+  "replaces": "none (N08 holds)",
+  "file": "assets/flow2k_raw/molly-v2/S20/r2-2.png",
+  "total": 8.85,
+  "scores": {
+   "beat": 9,
+   "character": 8.5,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 8.5
+  },
+  "minor": [
+   "Jason still not fully inside the frame: his hands and knees run into the right edge.",
+   "Notes: top note folded once, but the pile reads as three to four notes and still carries dollar-style seal ovals and a faint portrait-oval ghost (no numbers, words or face: not a hard fail).",
+   "Jason reads as a dark-haired man in denim, but not clearly gaunt; fireplace only as stone wall behind him, no fire glow.",
+   "Fixes r1-2: dim grey window light is now the key, notes folded, hand clearly withdrawing with fingertips just lifting (four fingers, thumb hidden, clean).",
+   "Chipped grey mug fully inside the frame; ashtray with smoke curl; plain cigarette pack with no logo.",
+   "Jason bowed, eyes down, not looking: expression fits the heavy beat.",
+   "Bottom-right corner clean (table leg), no sparkle.",
+   "Best of the pair at 8.85 and better than saved r1-2 (8.75), still below the bar."
+  ],
+  "worker": "l2",
+  "flag": "below bar (8.85 < 9.0), best available; still looping; 1K original (Flow asset l2-S20-r2-2) upscaled"
+ },
+ {
+  "shot": "R46",
+  "replaces": "F19",
+  "file": "assets/flow2k_raw/molly-v2/R46/r5-3.png",
+  "round_rated": 8,
+  "total": 9.0,
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "minor": [
+   "1K softness",
+   "Relight landed this time: warm hard key from frame right on the nose bridge, a Rembrandt triangle on the cheek, lips and chin edge; ear, jaw, neck and collar fall into one cool teal cel shadow with a crisp terminator. The face is now shaped and motivated",
+   "Expression unchanged and right: weary, heavy-lidded sideways look into the distance, lips parted, chin slightly up; no glare, no smirk, not into the lens",
+   "Teal shadow on the ear/neck is slightly green-cold next to the warm wall; acceptable",
+   "Face sits a little left of centre with the gaze and smoke leading into the right third, enough lead room for a slow push",
+   "Brows are heavy and level rather than lifted at the inner corners; reads worn-defiant, which the beat allows"
+  ]
+ },
+ {
+  "shot": "S18",
+  "replaces": "R80 (stand-in), new b15 shot",
+  "file": "assets/flow2k_raw/molly-v2/S18/re2-op1.png",
+  "total": 8.73,
+  "scores": {
+   "beat": 9,
+   "character": 8.5,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "minor": [
+   "margin-then-crop re-save: window with blinds now in frame, corner clean",
+   "hoard reads tidy; window light lacks shape; Yalom seated, a bit sharp"
+  ],
+  "worker": "l2"
+ },
+ {
+  "shot": "R92",
+  "replaces": "N19",
+  "file": "assets/flow2k_raw/molly-v2/R92/rn3.png",
+  "total": 8.5,
+  "scores": {
+   "beat": 9,
+   "character": 8,
+   "cinematic": 8.5,
+   "style": 8.5,
+   "technical": 8,
+   "readability": 9
+  },
+  "minor": [
+   "candid three-quarter-back over Alvin's shoulder, all hands busy, no text",
+   "Monica hair ash-blonde/grey reads ~55; son straw blond; grain subtle"
+  ],
+  "worker": "l2",
+  "flag": "below 9.0 after 3 rounds"
+ },
+ {
+  "shot": "S15",
+  "file": "assets/flow2k_raw/molly-v2/S15/c17-1.png",
+  "round_rated": "mshots-recovery",
+  "total": 9.0,
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "pass": true,
+  "minor": [
+   "Tight close-up; Yalom reduced to a blurred cardigan shoulder bottom-right (user: less Yalom); OTS link weak, no glasses",
+   "Visible tear slightly past guarded beat",
+   "Embroidery out of frame, no text",
+   "Face slightly right of left third",
+   "Corner clean"
+  ],
+  "rubric": "v2-cinematic+expressions",
+  "flow_asset": "Man looking down in office (edit/acf628ae latest version)",
+  "interim": "1K original, Lanczos upscale; 2K pending",
+  "worker": "ms"
+ },
+ {
+  "shot": "R57",
+  "replaces": "F26",
+  "file": "assets/flow2k_raw/molly-v2/R57/r6-2.png",
+  "round_rated": "lb-recovery",
+  "total": 8.83,
+  "scores": {
+   "beat": 9,
+   "character": 8.5,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "minor": [
+   "1K softness",
+   "two hands (~3:10), no numerals, bronze twin-bell clock matches S13",
+   "photo mottled/aged but still slightly illustrative; woman wears an odd cap",
+   "nightstand body darker than S13"
+  ],
+  "worker": "lb",
+  "flag": "below bar 8.83; must re-match when S13 is redrawn"
+ },
+ {
+  "shot": "S13",
+  "replaces": "F26 holds (new shot)",
+  "file": "assets/flow2k_raw/molly-v2/S13/lb1-1.png",
+  "round_rated": "lb-recovery",
+  "total": 8.9,
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "minor": [
+   "1K softness",
+   "art-review redraw: curled on his side, eyes open staring at the wall, 1972 age with no grey",
+   "nightstand/clock/photo match R57",
+   "blanket rumpled not twisted; no hard moonlight slat across the bed; high 3/4 angle rather than true top shot",
+   "old S13 rescored 7.63 against the art-review brief"
+  ],
+  "worker": "lb",
+  "flag": "below bar 8.9"
+ },
+ {
+  "shot": "S10",
+  "file": "assets/flow2k_raw/molly-v2/S10/ms1-1.png",
+  "round_rated": "mshots-recovery",
+  "total": 8.8,
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 8,
+   "readability": 9
+  },
+  "pass": false,
+  "minor": [
+   "Art-review redraw: dawn MCU, earnest, no grin, ash-blond hair per N15, white desk lamp, soft rotary phone foreground",
+   "Beard slightly warmer than hair",
+   "Notepad hand fingers slightly soft",
+   "Reads more concerned than persuasive",
+   "Old c10-1 re-scored 6.5 in the same paired pass (grin, golden hair, green lamp)"
+  ],
+  "rubric": "v2-cinematic+expressions",
+  "flow_asset": "Man on telephone at desk (edit/304d886c)",
+  "interim": "1K original, Lanczos upscale; 2K pending",
+  "worker": "ms",
+  "flag": "art-review redraw; 8.8 < 9.0; replaces c10-1 (recorded 9.0 under old brief, re-scored 6.5 against the art-review brief in the same paired pass)"
+ },
+ {
+  "shot": "R05",
+  "replaces": "F11",
+  "file": "assets/flow2k_raw/molly-v2/R05/lb3-1.png",
+  "round_rated": "lb-recovery",
+  "total": 8.15,
+  "scores": {
+   "beat": 8.5,
+   "character": 7,
+   "cinematic": 8,
+   "style": 8.5,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "minor": [
+   "1K softness",
+   "art-review redraw: inked profile CU, black room, heavy-lidded unfocused eye, no glowing eyes, no text",
+   "no white coat visible and no silver at the temples (character 7)",
+   "face evenly filled rather than rim-lit; slight airbrushed bloom on the film",
+   "old R05 rescored 5.9 against the art-review brief (mid-shot, glowing eyes, readable name)"
+  ],
+  "worker": "lb",
+  "flag": "below bar 8.15: no white coat, no silver temples; 3 rounds used"
+ },
+ {
+  "shot": "M04",
+  "file": "assets/flow2k_raw/molly-v2/M04/ms2-1.png",
+  "round_rated": "mshots-recovery",
+  "total": 8.9,
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 8,
+   "readability": 9
+  },
+  "pass": false,
+  "minor": [
+   "Art-review #4 single from Alvin side; face late 30s, natural genuine open smile, eyes open",
+   "Hand shows 3 fingers + thumb, slightly stiff, heavy knuckles",
+   "Blurred tissue box/desk foreground adds depth, no text",
+   "Corner clean"
+  ],
+  "rubric": "v2-cinematic+expressions",
+  "flow_asset": "Man smiling in office chair (edit/6500f4cc latest version)",
+  "interim": "1K original, Lanczos upscale; 2K pending",
+  "worker": "ms",
+  "flag": "art-review redraw; 8.9 < 9.0 after 2 rounds"
+ },
+ {
+  "shot": "R43",
+  "replaces": "X07",
+  "file": "assets/flow2k_raw/molly-v2/R43/sb-sb-R43-o3.png",
+  "round_rated": "book-fix",
+  "total": 8.25,
+  "scores": {
+   "beat": 8.5,
+   "character": 8.0,
+   "cinematic": 8.0,
+   "style": 7.5,
+   "technical": 8.5,
+   "readability": 9.0
+  },
+  "minor": [
+   "Glass of water and plain unlabeled pill bottle; Jason ravaged, joint, looks out of the window",
+   "Line work thicker and more western-comic than R58 cel look (style 7.5)",
+   "Alvin a bit far from Jason; camera more side than over-the-shoulder; silver temples faint",
+   "Incumbent re-scored 7.75 by opus (no glass/bottle, long arm)"
+  ],
+  "worker": "sb",
+  "flag": "8.25 < 9.0, 2 rounds used; style/line weight and OTS angle remain"
+ },
+ {
+  "shot": "R59",
+  "replaces": "F17",
+  "file": "assets/flow2k_raw/molly-v2/R59/lb1-2.png",
+  "round_rated": "lb-recovery",
+  "total": 8.8,
+  "scores": {
+   "beat": 9,
+   "character": 8.5,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 8.5
+  },
+  "minor": [
+   "1K softness",
+   "book p.102: door ajar with blank taped note, 7:30 pm blue hour, no Alvin, over-the-shoulder",
+   "mouth slightly open, brows furrowed rather than slightly raised",
+   "coat reads as charcoal jacket; cardigan not visible",
+   "faint pseudo-marks on a box flap"
+  ],
+  "worker": "lb",
+  "flag": "below bar 8.8"
+ },
+ {
+  "shot": "R01",
+  "file": "assets/flow2k_raw/molly-v2/R01/ms4-1.png",
+  "round_rated": "mshots-recovery",
+  "total": 8.83,
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "pass": false,
+  "minor": [
+   "Yalom hair+beard now ash/dark-blond-brown close to N15 (hair lock done)",
+   "Alvin silver temples on sheet, no diploma",
+   "Flat symmetric window light caps cinematic at 8",
+   "Hands and corner clean",
+   "Paired pass re-scored previous ms3-1 at 8.5"
+  ],
+  "rubric": "v2-cinematic+expressions",
+  "flow_asset": "ms-canvas-R01.jpg (edit/22b08998 latest version)",
+  "interim": "1K original, Lanczos upscale; 2K pending",
+  "worker": "ms",
+  "flag": "8.83 < 9.0 after 3 rounds"
+ },
+ {
+  "shot": "R60",
+  "replaces": "N06",
+  "file": "assets/flow2k_raw/molly-v2/R60/lb2-1.png",
+  "round_rated": "lb-recovery",
+  "total": 8.88,
+  "scores": {
+   "beat": 8.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 8.5,
+   "technical": 9,
+   "readability": 9.5
+  },
+  "minor": [
+   "1K softness",
+   "margin-then-crop: crown fully in frame, clean seams",
+   "blind-stripe side light, head right third, no name text",
+   "brows level/slightly knit rather than lifted; lips closed",
+   "old N06 rescored 6.95"
+  ],
+  "worker": "lb",
+  "flag": "below bar 8.88"
+ },
+ {
+  "shot": "S02",
+  "file": "assets/flow2k_raw/molly-v2/S02/ms2-1.png",
+  "round_rated": "mshots-recovery",
+  "total": 9.1,
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9.5
+  },
+  "pass": true,
+  "minor": [
+   "Art-review #6 insert: hand closing manila folder, phone out of focus behind, blind stripes; clean cuff",
+   "Folder spine/page block still a little book-like",
+   "Loose page edges fan slightly unevenly",
+   "Hand anatomy correct; corner clean"
+  ],
+  "rubric": "v2-cinematic+expressions",
+  "flow_asset": "Man closing manila folder (edit/c88bfcde latest version)",
+  "interim": "1K original, Lanczos upscale; 2K pending",
+  "worker": "ms"
+ },
+ {
+  "shot": "R42",
+  "replaces": "N13",
+  "file": "assets/flow2k_raw/molly-v2/R42/lb1-2.png",
+  "round_rated": "lb-recovery",
+  "total": 8.6,
+  "scores": {
+   "beat": 9,
+   "character": 8.5,
+   "cinematic": 9,
+   "style": 7.5,
+   "technical": 8.5,
+   "readability": 8.5
+  },
+  "minor": [
+   "1K softness",
+   "art-review redraw: woman leaving, empty lit doorway, no Alvin, warm street lamp vs blue shadow",
+   "style 7.5: heavy hatching/grain vs AOT cel per validator",
+   "woman near the right edge",
+   "old R42 rescored 6.55 (Alvin peeking)"
+  ],
+  "worker": "lb",
+  "flag": "below bar 8.6 (style 7.5)"
+ },
+ {
+  "shot": "R41",
+  "replaces": "F27",
+  "file": "assets/flow2k_raw/molly-v2/R41/lb1-1.png",
+  "round_rated": "lb-recovery",
+  "total": 8.1,
+  "scores": {
+   "beat": 8.5,
+   "character": 7,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 8,
+   "readability": 9
+  },
+  "minor": [
+   "1K softness",
+   "art-review fix: plain dark pyjamas (real man), reflection hushed terror with no sweat",
+   "hair still silver-grey all over (reads older than 37)",
+   "reflection pyjamas lighter blue-grey than the real man; real man scowling",
+   "no dutch tilt",
+   "old R41 rescored 8.0 against the art-review notes"
+  ],
+  "worker": "lb",
+  "flag": "below bar 8.1"
+ },
+ {
+  "shot": "R84",
+  "file": "assets/flow2k_raw/molly-v2/R84/ms2-1.png",
+  "round_rated": "mshots-recovery",
+  "total": 9.17,
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 9.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 9.5
+  },
+  "pass": true,
+  "minor": [
+   "Yalom at plain lectern, white coat, no slides (book p.73); Alvin left third, moved: inner brows lifted, wet eyes, tear, lips parted; silver temples",
+   "Small forehead specular mark, slightly heavy tear streak",
+   "Corner clean"
+  ],
+  "rubric": "v2-cinematic+expressions",
+  "flow_asset": "Doctor lecturing in auditorium (edit/c3620193 latest version)",
+  "interim": "1K original, Lanczos upscale; 2K pending",
+  "worker": "ms",
+  "replaces": "B14 (new concept per book p.73: no slides)"
+ },
+ {
+  "shot": "M02",
+  "file": "assets/flow2k_raw/molly-v2/M02/ms1-1.png",
+  "round_rated": "mshots-recovery",
+  "total": 8.7,
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 8,
+   "technical": 7,
+   "readability": 10
+  },
+  "pass": false,
+  "minor": [
+   "Eyes open and lowered (listening), silver temples now on sheet",
+   "Handset still at cheek, not at ear (prop error persists)",
+   "Glossy finish vs inked baseline",
+   "Corner clean; star texture-patched",
+   "Two paired passes both rank it above c1-2 (8.7 vs 8.3; 7.33 vs 6.83)"
+  ],
+  "rubric": "v2-cinematic+expressions",
+  "flow_asset": "ms-M02-base.jpg (edit/51f69d00, first edit version)",
+  "interim": "1K original, Lanczos upscale; 2K pending",
+  "worker": "ms",
+  "flag": "8.7 < 9.0; handset prop error unresolved after 3 rounds"
+ },
+ {
+  "shot": "R02",
+  "file": "assets/flow2k_raw/molly-v2/R02/sb-sb-R02-r2.png",
+  "round_rated": "book-fix",
+  "total": 8.83,
+  "scores": {
+   "beat": 9.0,
+   "character": 9.0,
+   "cinematic": 8.5,
+   "style": 9.0,
+   "technical": 8.5,
+   "readability": 9.0
+  },
+  "minor": [
+   "Evening: blue dusk windows plus lit lamp, no daylight",
+   "Cardboard boxes replaced by paper stacks and books; no clear phone books or X-ray sleeves",
+   "No text, no sparkle; Yalom close to right edge",
+   "Incumbent re-scored 7.98 by opus (daylight, boxes)"
+  ],
+  "worker": "sb",
+  "flag": "8.83 < 9.0, book-fix wins (evening, no boxes)"
+ },
+ {
+  "shot": "M07",
+  "file": "assets/flow2k_raw/molly-v2/M07/ms1-1.png",
+  "round_rated": "mshots-recovery",
+  "total": 8.7,
+  "scores": {
+   "beat": 9,
+   "character": 8.5,
+   "cinematic": 9,
+   "style": 8.5,
+   "technical": 8.5,
+   "readability": 8.5
+  },
+  "pass": false,
+  "minor": [
+   "Hair drift fixed per CHARACTER SHEET: grey streaks at temples, low ponytail, same glasses and outfit",
+   "Wrinkles a bit heavy (reads 65-70)",
+   "Framed family photo now faded/washed out, less legible",
+   "Corner patch clean",
+   "Old c3-2-interim re-scored 8.5 in paired pass (no grey, too young)"
+  ],
+  "rubric": "v2-cinematic+expressions",
+  "flow_asset": "ms-M07-base.jpg (edit/64f42481 latest version)",
+  "interim": "1K original, Lanczos upscale; 2K pending",
+  "worker": "ms",
+  "flag": "hair-lock fix; 8.7 < 9.0; replaces c3-2-interim (recorded 9.0, re-scored 8.5 in paired pass)"
+ },
+ {
+  "shot": "R58",
+  "file": "assets/flow2k_raw/molly-v2/R58/sf2.png",
+  "round_rated": "sf-storyboard-fix",
+  "total": 9.2,
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9.5
+  },
+  "pass": true,
+  "minor": [
+   "Alvin now olive sweater like R43",
+   "Jason grey blanket over plaid flannel",
+   "Near-symmetric composition, similar to incumbent"
+  ],
+  "rubric": "v2-cinematic+expressions",
+  "flow_asset": "ms-R58.jpg (outpaint+sweater edit, then Jason blanket edit)",
+  "interim": "1K original, Lanczos upscale; 2K pending",
+  "worker": "sf",
+  "replaces": "N08"
+ },
+ {
+  "shot": "M06",
+  "file": "assets/flow2k_raw/molly-v2/M06/sf1.png",
+  "round_rated": "sf-storyboard-fix",
+  "total": 9.2,
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "pass": true,
+  "minor": [
+   "Alvin now ash-blond, late 30s; temple silver barely reads",
+   "Molly reads slightly younger than 45"
+  ],
+  "rubric": "v2-cinematic+expressions",
+  "flow_asset": "ms-M06.jpg (outpaint+age edit, then hair/face edit)",
+  "interim": "1K original, Lanczos upscale; 2K pending",
+  "worker": "sf"
+ },
+ {
+  "shot": "S22",
+  "file": "assets/flow2k_raw/molly-v2/S22/sf2.png",
+  "round_rated": "sf-storyboard-fix",
+  "total": 9.1,
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "pass": true,
+  "minor": [
+   "Medium-wide side view through doorway, door slab covers ~30% of frame",
+   "Left-hand fingers on handset slightly soft"
+  ],
+  "rubric": "v2-cinematic+expressions",
+  "flow_asset": "Man speaking on phone (generated with N15 ref) + ms-S22.jpg outpaint",
+  "interim": "1K original, Lanczos upscale; 2K pending",
+  "worker": "sf"
+ },
+ {
+  "shot": "S23",
+  "file": "assets/flow2k_raw/molly-v2/S23/sf2.png",
+  "round_rated": "sf-storyboard-fix",
+  "total": 9.0,
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "pass": true,
+  "minor": [
+   "Plane reads clearly, Alvin matches R43",
+   "Flat even light, little motivated window light",
+   "Hands clasped at bottom edge, knuckles a bit stiff"
+  ],
+  "rubric": "v2-cinematic+expressions",
+  "flow_asset": "Man looking out airplane window (R43 ref) + ms-S23.jpg outpaint",
+  "interim": "1K original, Lanczos upscale; 2K pending",
+  "worker": "sf",
+  "replaces": "N07"
+ },
+ {
+  "shot": "R91",
+  "file": "assets/flow2k_raw/molly-v2/R91/sf1.png",
+  "round_rated": "sf-storyboard-fix",
+  "total": 9.03,
+  "scores": {
+   "beat": 9.2,
+   "character": 9.0,
+   "cinematic": 8.6,
+   "style": 9.0,
+   "technical": 9.0,
+   "readability": 9.4
+  },
+  "pass": true,
+  "minor": [
+   "Film is a clean chest radiograph; face on film removed (user request)",
+   "Alvin soft expression kept",
+   "Fingertip slightly cut at frame edge; flat centered framing"
+  ],
+  "rubric": "v2-cinematic+expressions",
+  "flow_asset": "ms-R91.jpg (outpaint + film edit)",
+  "interim": "1K original, Lanczos upscale; 2K pending",
+  "worker": "sf",
+  "replaces": "B15"
+ },
+ {
+  "shot": "S14",
+  "file": "assets/flow2k_raw/molly-v2/S14/sf3.png",
+  "round_rated": "sf-storyboard-fix",
+  "total": 8.93,
+  "scores": {
+   "beat": 9,
+   "character": 8.5,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "pass": false,
+  "minor": [
+   "Eyes lowered, no longer looks into lens (CINEMATIC rule)",
+   "Eyes nearly shut, reads a little sleepy",
+   "Silver at temples barely visible"
+  ],
+  "rubric": "v2-cinematic+expressions",
+  "flow_asset": "ms-S14.jpg (3rd edit: lowered gaze)",
+  "interim": "1K original, Lanczos upscale; 2K pending",
+  "worker": "sf",
+  "flag": "below 9.0 after 4 rounds; sf4 (open eyes) scored 8.87 and reads haggard, kept sf3; further rounds unlikely to help"
+ },
+ {
+  "shot": "R11",
+  "file": "assets/flow2k_raw/molly-v2/R11/n5.png",
+  "round_rated": "sf-storyboard-fix",
+  "total": 8.8,
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "pass": false,
+  "minor": [
+   "Natural pass: candid off-centre, couple walking arm in arm with small smiles, hands lowered, no sun disc/flare",
+   "Golden hour with long shadows; portrait is a woman",
+   "Guest group reads a little posed; couple a bit centred in left third"
+  ],
+  "rubric": "v2-cinematic+expressions",
+  "flow_asset": "People at backyard memorial (M05 ref) + ms-R11.jpg outpaint + light/portrait edits",
+  "interim": "1K original, Lanczos upscale; 2K pending",
+  "worker": "sf",
+  "replaces": "N03",
+  "flag": "below 9.0 (8.8) after natural redo; old sf3 re-scored 8.3 in same call"
+ },
+ {
+  "shot": "S21",
+  "file": "assets/flow2k_raw/molly-v2/S21/sf4.png",
+  "round_rated": "sf-storyboard-fix",
+  "total": 8.85,
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 9,
+   "readability": 9,
+   "natural": 8.5
+  },
+  "pass": false,
+  "minor": [
+   "Alvin late 30s, brows softly lifted, brown film envelope (no laptop), no spotlight",
+   "Background not soft-focus enough; tidy rather than candid"
+  ],
+  "rubric": "v2-cinematic+expressions",
+  "flow_asset": "Doctor speaking at lecture room (R43+N15 refs) + ms-S21.jpg outpaint + 3 edits",
+  "interim": "1K original, Lanczos upscale; 2K pending",
+  "worker": "sf",
+  "replaces": "B14",
+  "flag": "below 9.0 (8.85) after 3 rounds; incumbent re-scored 7.0"
+ },
+ {
+  "shot": "M01",
+  "file": "assets/flow2k_raw/molly-v2/M01/sf2.png",
+  "round_rated": "sf-storyboard-fix",
+  "total": 8.7,
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 9,
+   "natural": 8.5
+  },
+  "pass": false,
+  "minor": [
+   "Fiancee now ponytail+freckles+leather jacket matching S17; quiet shared laugh, no cartoon grin",
+   "Grandmother glances at grandfather; father looks down; mother polite smile",
+   "Flat centred wide framing, little foreground depth"
+  ],
+  "rubric": "v2-cinematic+expressions",
+  "flow_asset": "ms-M01.jpg (outpaint + natural/cast edits, then grandmother/father/jacket edit)",
+  "interim": "1K original, Lanczos upscale; 2K pending",
+  "worker": "sf",
+  "flag": "below 9.0 (8.7) after 2 rounds; old file re-scored 7.7"
+ },
+ {
+  "shot": "S17",
+  "file": "assets/flow2k_raw/molly-v2/S17/sf4.png",
+  "round_rated": "sf-storyboard-fix",
+  "total": 8.7,
+  "scores": {
+   "beat": 8.5,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 8.5,
+   "natural": 8.5
+  },
+  "pass": false,
+  "minor": [
+   "Doorway empty and dark (book fix); streetlight; fiancee leather jacket matches M01",
+   "Fiancee looks sideways/up rather than clearly back at the house",
+   "Faint smudge near the porch light"
+  ],
+  "rubric": "v2-cinematic+expressions",
+  "flow_asset": "ms-S17.jpg (empty-doorway edit, then streetlight/glance edit)",
+  "interim": "1K original, Lanczos upscale; 2K pending",
+  "worker": "sf",
+  "flag": "below 9.0 (8.7) after 2 rounds; old sf2 (9.2 earlier, silhouette in doorway) re-scored 7.2 against the new beat"
+ }
+]

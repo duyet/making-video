@@ -1,0 +1,73 @@
+[
+  {
+    "shot": "R13",
+    "file": "assets/flow2k_raw/molly-v2/R13/bk8-2.png",
+    "scores": {
+      "beat": 9,
+      "character": 8.5,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 9
+    },
+    "total": 8.83,
+    "pass": false,
+    "defects": [
+      "Yalom's clasped hands at his waist are a fused knot: fingers cannot be counted and the knuckles merge",
+      "Yalom wears a soft content smile, not the asked polite, slightly puzzled look (no raised brow or questioning tilt)",
+      "Alvin reads closer to 60 than 70: a smooth face and dark streaks in the silver hair; his hand on the hat shows four fingers with the thumb hidden (fine)",
+      "Monica is fully in frame with a warm, open-mouth speaking smile (good); her hand on her chest has five digits and is correct",
+      "Backyard set is correct (gate, picket fence, house, chairs, mourners, portrait table with lilies, golden light); no outpaint seams at the edges; no star in the bottom-right corner"
+    ],
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep everything the same (the sunlit backyard, wooden gate and picket fence, house, white chairs, mourners, the portrait table with lilies, AoT cel style, golden light, Alvin with the cream Panama hat at his chest and Monica speaking warmly with her hand on her chest). Change only: redraw Yalom's hands at his waist as two clearly separate, relaxed hands loosely holding each other, each with four fingers and a thumb that can be counted; give Yalom a polite, slightly puzzled look (one brow a little raised, head tilted slightly, mouth closed, no smile); add a few more age lines to Alvin's face and make his hair fully silver-white. No text, no watermark.",
+    "res": "1K",
+    "watermark": "none (bottom-right inspected at full res)"
+  },
+  {
+    "shot": "R13",
+    "file": "assets/flow2k_raw/molly-v2/R13/bk8-3.png",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 9
+    },
+    "total": 8.92,
+    "pass": false,
+    "defects": [
+      "Yalom's clasped hands at his waist are still a knotted cluster: the left hand's back reads, but the right hand's curled fingers merge with the left fingertips and five digits per hand cannot be counted",
+      "Fixed: Yalom now polite and slightly puzzled (brows knit, mouth closed, no grin)",
+      "Fixed: Alvin now reads ~70 (lined face, fully silver hair); his hand on the hat is clean (four fingers, thumb hidden)",
+      "Monica fully in frame, warm speaking smile, hand on chest with five correct digits",
+      "Backyard set correct (gate, picket fence, house, chairs, mourners, portrait table with lilies, golden light); no star in the bottom-right corner"
+    ],
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep everything exactly the same. Change only Yalom's hands at his waist: redraw them as two clearly separate relaxed hands, the right hand lightly resting on top of the left hand, with the four fingers of each hand drawn as distinct parallel shapes and both thumbs visible; no curled or overlapping fingertips. No text, no watermark.",
+    "res": "1K",
+    "watermark": "none (bottom-right inspected at full res)"
+  },
+  {
+    "shot": "R13",
+    "file": "assets/flow2k_raw/molly-v2/R13/bk8-4.png",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 9.0,
+    "pass": true,
+    "defects": [
+      "Fixed: Yalom's hands now in his coat pockets, no fused fingers; polite slightly puzzled look, mouth closed",
+      "Minor: Monica cropped at the bottom edge (head to mid-thigh), but whole figure, both hands visible and correct",
+      "Alvin hat hand clean; Monica hand on chest five digits; lower hand at side clean",
+      "Backyard set correct (gate, picket fence, house, chairs, mourners, portrait table with lilies, golden light); no star in bottom-right"
+    ],
+    "edit_prompt": "",
+    "res": "1K",
+    "watermark": "none (bottom-right inspected at full res)"
+  }
+]

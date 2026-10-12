@@ -1,0 +1,137 @@
+[
+ {
+  "shot": "R08",
+  "file": "assets/flow2k_raw/molly-v2/R08/r6-1.png",
+  "res": "1K",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.9,
+  "pass": false,
+  "defects": [
+   "edit partly worked: California street with palms, stucco houses and parked modern sedans, potted plant, no readable plates or signage",
+   "sun on the face is weak and flat; the golden light lands on the window frame, not across his face and glasses",
+   "expression neutral rather than 'faintly moved'",
+   "coffee cup cut by the bottom edge, no hand on it",
+   "1K source, soft but clean; watermark check ok, no star"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep aged Yalom's face, silver-white swept-back hair, beard, round glasses, grey overcoat over the brown cardigan, his pose looking out of the window, the café window, the potted plant, the sunny California street with palms and parked cars, and the framing exactly the same, and change only: (1) a strong warm low golden sun beam through the window falling across the left side of his face, his glasses rims and beard, with the rest of his face in soft warm shadow, so the light has clear shape; (2) a faint moved, wistful expression: eyes slightly softened and glistening, mouth closed; (3) the white coffee cup fully visible on the table at the bottom with his left hand resting around it. Keep nothing important in the right-most fifth of the frame. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no signage, no number plates, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+ },
+ {
+  "shot": "R08",
+  "file": "assets/flow2k_raw/molly-v2/R08/r6-2.png",
+  "res": "1K",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.8,
+  "pass": false,
+  "defects": [
+   "near-identical to r6-1; street reads more suburban (two-storey stucco, one palm row), less golden light shaping",
+   "face evenly lit, no sun across face/glasses; neutral expression",
+   "coffee cup cut by the bottom edge",
+   "1K source; watermark check ok, no star"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep aged Yalom's face, silver-white swept-back hair, beard, round glasses, grey overcoat over the brown cardigan, his pose looking out of the window, the café window, the potted plant, the sunny California street with palms and parked cars, and the framing exactly the same, and change only: (1) a strong warm low golden sun beam through the window falling across the left side of his face, his glasses rims and beard, with the rest of his face in soft warm shadow, so the light has clear shape; (2) a faint moved, wistful expression: eyes slightly softened and glistening, mouth closed; (3) the white coffee cup fully visible on the table at the bottom with his left hand resting around it. Keep nothing important in the right-most fifth of the frame. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no signage, no number plates, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+ },
+ {
+  "shot": "R17",
+  "file": "assets/flow2k_raw/molly-v2/R17/r6-1.png",
+  "res": "1K",
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 8.5
+  },
+  "total": 8.9,
+  "pass": false,
+  "defects": [
+   "beat met: EW high angle, sunny golden hour, no fog, Yalom apart on the left, hands in pockets, head bowed, casket with white flowers, unreadable portrait easel, blank headstone bottom-left",
+   "crowd was NOT moved to centre: about 5 mourners still in the right-most fifth",
+   "lens flare top right barely visible; foreground headstone small and soft",
+   "1K: crowd figures and ground shadows a little mushy; watermark check ok"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the high-angle extreme wide view of the sunlit cemetery, aged Yalom standing apart on the left with his hands in his pockets and head bowed, the blank foreground headstone bottom-left, the oaks, willows, hills, the golden sun and long shadows exactly the same, and change only: (1) move the whole group of mourners with the casket, white flowers and easel to the left so the group sits in the centre of the frame and nothing but lawn and willow leaves is in the right-most fifth; (2) a stronger warm lens flare through the willow leaves at the top right. No fog, no mist. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, no text, no letters, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+ },
+ {
+  "shot": "R17",
+  "file": "assets/flow2k_raw/molly-v2/R17/r6-2.png",
+  "res": "1K",
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 8.5
+  },
+  "total": 9.0,
+  "pass": true,
+  "defects": [
+   "beat met: EW high angle, sunny golden hour, no fog, Yalom apart on the left, hands in pockets, head bowed, casket, white flowers, unreadable portrait easel",
+   "larger dark blank headstone gives a real foreground frame; visible sun flare through leaves top right",
+   "crowd still partly in the right-most fifth (edit step 1 ignored); minor",
+   "1K: small figures soft; watermark check ok, no star, no text"
+  ],
+  "edit_prompt": ""
+ },
+ {
+  "shot": "S07",
+  "file": "assets/flow2k_raw/molly-v2/S07/r6-1.png",
+  "res": "1K",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8,
+   "style": 8.5,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.7,
+  "pass": false,
+  "defects": [
+   "surprise reads clearly: brows up, wide eyes, lips parted, looking frame right, hand frozen above the cup (5 clean fingers)",
+   "camera not pulled back: hair touches the top edge, no headroom for Ken Burns",
+   "glossy glowing outline on hair, coat, arm and hand (AI tell), less AOT cel look",
+   "raised hand reaches into the right-most fifth",
+   "1K source; watermark check ok"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep aged Yalom's face, his surprised expression (brows raised, eyes wide behind the round glasses, lips parted), silver-white swept-back hair, beard, grey overcoat over the brown cardigan, the café window on the left, the coffee cup and his hand frozen above it exactly the same, and change only: (1) zoom the camera out slightly so there is clear headroom above his hair (the top of his head well inside the frame) and his raised hand sits left of the right-most fifth of the frame; (2) one soft warm golden rim of window light only along the back of his hair and the edge of his beard, matte shading elsewhere, no glowing outline around his coat or hand; (3) a slightly richer café background in soft bokeh on the right: a warm wooden wall and a blurred plant, nothing important there. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no signage, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+ },
+ {
+  "shot": "S07",
+  "file": "assets/flow2k_raw/molly-v2/S07/r6-2.png",
+  "res": "1K",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.7,
+  "pass": false,
+  "defects": [
+   "same pose and clear surprise as r6-1, hand clean",
+   "no headroom: hair touches the top edge",
+   "flat light: no golden rim from the window, background plain",
+   "raised hand reaches into the right-most fifth",
+   "1K source; watermark check ok"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep aged Yalom's face, his surprised expression (brows raised, eyes wide behind the round glasses, lips parted), silver-white swept-back hair, beard, grey overcoat over the brown cardigan, the café window on the left, the coffee cup and his hand frozen above it exactly the same, and change only: (1) zoom the camera out slightly so there is clear headroom above his hair (the top of his head well inside the frame) and his raised hand sits left of the right-most fifth of the frame; (2) one soft warm golden rim of window light only along the back of his hair and the edge of his beard, matte shading elsewhere, no glowing outline around his coat or hand; (3) a slightly richer café background in soft bokeh on the right: a warm wooden wall and a blurred plant, nothing important there. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no signage, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+ }
+]

@@ -1,0 +1,16 @@
+[
+  {"shot":"R84","replaces":"B14","file":"assets/flow2k_raw/molly-v2/R84/r7-1.png","source":"1K",
+   "scores":{"beat":8.5,"character":9,"cinematic":8.5,"style":9,"technical":8,"readability":8},
+   "total":8.53,"pass":false,
+   "defects":["beam still fans upward from the top of the carousel and reaches only the bottom edge of the screen; no lens barrel is visible and the screen face is not covered by the cone (same light-origin defect as rounds 4-5)","projector sits on a short stand below the stage line, not a tall stand with its lens level with the middle of the screen","Alvin regressed: a large, mid-grey lit figure (head ~85-97% across, cheek and ear visible), only mildly soft, not the darkest element; his far shoulder and coat run off the right edge, so no push room on the right"],
+   "minor":["Yalom clean at zoom: dark-blond hair, beard, round glasses, brown cardigan, open speaking hand; reads as about 50","screen blank, all four edges inside (about 36-77% across), top edge close to frame top","wood-panelled hall, varied audience silhouettes, warm brown palette fits the redraw set","bottom-right clean, no sparkle; no text or logos","mild 1K upscale softness (not penalised)"],
+   "ai_tells":["symmetric centred one-point staging with the screen as a glowing slab","stacked beam + dust motes over the carousel"],
+   "better_than_current":false},
+  {"shot":"R84","replaces":"B14","file":"assets/flow2k_raw/molly-v2/R84/r7-2.png","source":"1K",
+   "scores":{"beat":8,"character":8.5,"cinematic":8.5,"style":8.5,"technical":7.5,"readability":7.5},
+   "total":8.13,"pass":false,
+   "defects":["beam fans upward from a small dome on top of the carousel to the bottom edge of the screen only; the screen face is not lit by the cone (light origin still wrong)","odd lens nub drawn on the top of the carousel instead of a lens barrel on the front face","screen top edge touches the top of the frame (asked: well below it)","Alvin is very large and close (head ~83-100% across, top near 9%), cut by the right edge; soft but grey-lit rather than a dark silhouette, he dominates the right third"],
+   "minor":["Yalom readable: blond hair, beard, glasses, brown cardigan, open hand at the lectern; small in frame","tripod stand is taller than r7-1 but lens still not at screen mid-height","teal-slate grade is cooler and more institutional, slightly off the redraw palette","bottom-right clean, no sparkle; no text or logos","mild 1K upscale softness (not penalised)"],
+   "ai_tells":["symmetric centred one-point staging","beam + floating dust specks stacked on a glossy glow"],
+   "better_than_current":false}
+]

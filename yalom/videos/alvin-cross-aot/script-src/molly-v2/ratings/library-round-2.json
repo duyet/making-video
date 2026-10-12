@@ -1,0 +1,487 @@
+[
+  {
+    "shot": "R40",
+    "replaces": "X02",
+    "file": "assets/flow2k_raw/molly-v2/R40/r2-1.png",
+    "scores": {
+      "beat": 9.5,
+      "character": 9,
+      "cinematic": 9.5,
+      "style": 8.5,
+      "technical": 8.5,
+      "readability": 9.5
+    },
+    "total": 9.15,
+    "pass": true,
+    "defects": [],
+    "minor": [
+      "The hand's digit layout is a little ambiguous (thumb tip reads on the right side of a right hand seen from the back); it reads fine at speed",
+      "X-ray film is rendered semi-photoreal against the cel-shaded hand, as in other X-ray refs",
+      "Hand pinches the clip rather than clearly pushing the film up under it"
+    ]
+  },
+  {
+    "shot": "R40",
+    "replaces": "X02",
+    "file": "assets/flow2k_raw/molly-v2/R40/r2-2.png",
+    "scores": {
+      "beat": 9.5,
+      "character": 9,
+      "cinematic": 9.5,
+      "style": 8.5,
+      "technical": 8,
+      "readability": 9.5
+    },
+    "total": 9.075,
+    "pass": true,
+    "defects": [],
+    "minor": [
+      "Pinch grip shows only index and thumb; the other fingers merge into the palm (slightly mitten-like)",
+      "Semi-photoreal X-ray film vs cel hand"
+    ]
+  },
+  {
+    "shot": "R41",
+    "replaces": "F27",
+    "file": "assets/flow2k_raw/molly-v2/R41/r2-2.png",
+    "scores": {
+      "beat": 9.5,
+      "character": 8.5,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 9
+    },
+    "total": 8.95,
+    "pass": false,
+    "defects": [
+      "Real Alvin's face is grim and tense while his reflection is terrified (eyes wide, mouth open), so the two still do not match",
+      "Reflection is physically wrong: Alvin stands to the right of the mirror in profile, but the reflection shows him frontal, centred in the mirror"
+    ],
+    "minor": [
+      "Tile grime and cracks on the walls (not writing)"
+    ],
+    "revised_prompt": "Medium shot with a clear 10-degree dutch tilt inside a small tiled 1980s bathroom at night, nightmare, near-monochrome cold blue-grey: the mirror over the sink is a frame within the frame; Alvin Cross stands in the right third facing the mirror, seen from behind-side with his face clearly visible in three-quarter view and again in the mirror: Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, strong angular jaw, heavy brows, blue eyes, guarded calm; striped cotton pyjamas; frozen, his real face clearly terrified: eyes wide, brows raised, lips slightly parted, exactly the same expression as his reflection, hands gripping the sink edge out of sight below frame. In the mirror his reflection shows the same Erwin-Smith face (strong angular jaw, heavy brows, side-parted blond hair) with the same frightened expression as his real face, the reflected head turned at the same three-quarter angle as his real head (a physically correct mirror reflection, not a frontal portrait); looming behind his reflection and filling the mirror's upper half, a huge black raven with wings spread, glossy blue-black feathers, hooked beak, one gleaming eye. A single bare bulb above the mirror is the only light: hard top light, deep black shadows, cold white highlights on tiles and his face, the wall above the tiles plain and clean with no scratches, scribbles, marks or stains, readable not murky, 35mm lens, shallow depth of field on the foreground tiles.",
+    "edit_instruction": "Change the real Alvin's face on the right to the same wide-eyed, lips-parted frightened expression as his reflection, keeping his face shape, hair and pyjamas unchanged."
+  },
+  {
+    "shot": "R41",
+    "replaces": "F27",
+    "file": "assets/flow2k_raw/molly-v2/R41/r2-1.png",
+    "scores": {
+      "beat": 9.5,
+      "character": 8.5,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 8
+    },
+    "total": 8.75,
+    "pass": false,
+    "defects": [
+      "Scratch marks on the plain wall left of the mirror (about x=650-760, y=1020-1080) read as pseudo-writing ('l. ı')",
+      "Same expression mismatch (real face grim, reflection terrified) and the same frontal, physically wrong reflection"
+    ],
+    "minor": [
+      "Stray black ink streaks across the near pyjama sleeve",
+      "Flatter plain wall gives less texture and depth than r2-2"
+    ]
+  },
+  {
+    "shot": "R43",
+    "replaces": "X07",
+    "file": "assets/flow2k_raw/molly-v2/R43/r2-2.png",
+    "scores": {
+      "beat": 9,
+      "character": 8.5,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 9,
+      "readability": 9.5
+    },
+    "total": 8.85,
+    "pass": false,
+    "defects": [
+      "Framing still repeats X07: Jason's back three-quarter from behind on the left, Alvin's arm reaching in from the right; the requested side-on profile with the hand-shoulder gap centred against the window was not delivered",
+      "Jason does not read clearly as dying: the blanket helps, but the shoulder and jacket look full and healthy"
+    ],
+    "minor": [
+      "Alvin's hand hovers beside Jason's head/neck rather than directly above the shoulder"
+    ],
+    "revised_prompt": "Close-up in profile, 85mm telephoto, camera low at shoulder height beside a worn armchair in a plain 1982 North Carolina house with pine-board walls, silhouette composition against a bright window: in the left half, in sharp focus and seen from the side-back, the gaunt shoulder, thin neck and dark hair of Jason Cross: man about 30, inspired by Eren Yeager, dark brown shoulder-length hair, visibly gaunt and dying: sunken cheek, hollow temple, thin bony wrist, the denim jacket hanging loose on his thin frame, slumped in the armchair with a grey wool blanket over his shoulders, the bones of his shoulder showing through a faded denim jacket, face turned away toward the window; entering from the right edge, the right hand of Alvin Cross: man mid-30s, inspired by Erwin Smith; pale blue shirt sleeve rolled to the forearm, plain steel wristwatch, the fingers half-curled and hesitating an inch directly above the bony point of Jason's shoulder, not touching; the empty gap between hand and shoulder sits at the exact centre of frame against the bright window, which gives a warm rim light to both outlines with dust motes in the air; the lower part of the frame and the bottom-right corner fall into plain soft shadow, the background a soft warm blur of pine boards and the faint orange glow of a fieldstone fireplace, no faces readable, hand simple with five fingers, quiet and tense. Camera exactly side-on to Jason (90 degrees), no chair back between camera and Jason; do not repeat the over-the-shoulder-from-behind framing of the old shot."
+  },
+  {
+    "shot": "R43",
+    "replaces": "X07",
+    "file": "assets/flow2k_raw/molly-v2/R43/r2-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 8.5,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 9.5
+    },
+    "total": 8.775,
+    "pass": false,
+    "defects": [
+      "Same framing as X07 (Jason's back left, hand from right)",
+      "Wingback chair geometry is confusing: the chair back cushions sit in front of Jason's arm and the armrest runs behind them"
+    ],
+    "minor": [
+      "Hollow cheek and stubble read slightly more ill than r2-2",
+      "Hand hovers level with his head, not above the shoulder"
+    ]
+  },
+  {
+    "shot": "R45",
+    "replaces": "F18",
+    "file": "assets/flow2k_raw/molly-v2/R45/r2-2.png",
+    "scores": {
+      "beat": 8.5,
+      "character": 9,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 9,
+      "readability": 7.5
+    },
+    "total": 8.625,
+    "pass": false,
+    "defects": [
+      "Newspaper stacks on both counters carry pseudo-print columns and headline blocks (left stack about x=730-950,y=950-1060; right stack about x=2400-2650,y=900-1080)",
+      "Composition still mirrors F18 (Yalom left, Alvin right with crossed arms, blinds window between them); the doorway frame is the main gain",
+      "Alvin glares at Yalom instead of lowering his eyes"
+    ],
+    "minor": [
+      "Alvin now reads mid-30s golden blond (round-1 grey-hair defect fixed); Yalom matches the anchor"
+    ],
+    "revised_prompt": "Medium-wide two-shot from a slightly low angle, framed through a dark kitchen doorway (frame within frame, the door jamb and door edge large, dark and out of focus in the foreground), 35mm, in a cramped 1982 kitchen with dishes in the sink and bundles of plain blank grey paper tied with string on the counters, no newspapers, no print, no headlines, no columns, a bare windowsill with no jars, cans or labels: a window with half-open slatted blinds behind them throws hard stripes of cool evening light across the room. Right foreground, large and close to camera, seen in profile from the waist up, backlit with a rim of light on his hair and shoulders, standing with arms crossed tight, eyes lowered to the floor, jaw set: Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, strong angular jaw, heavy brows, blue eyes, guarded calm; olive knit sweater over a collared shirt, grey trousers. His hair is clearly golden blond on top with only a thin grey streak at the temples: a 35-year-old man, not grey-haired. Left midground, smaller and deeper in the room, taking one careful step toward him, leaning in slightly and speaking gently, hands loose at his sides: Dr. Yalom: man about 50, inspired by Zeke Yeager, short tousled dark-blond hair, full trimmed blond beard, round wire-rim glasses, calm intellectual face, kind tired eyes, medium build; grey wool overcoat over a brown knit cardigan, dark trousers. The striped light falls between them on the floor, faces readable, newspapers blank, no calendars or notes on the walls.",
+    "edit_instruction": "Turn every newspaper on both counters into plain blank grey paper bundles with no print, headlines or columns."
+  },
+  {
+    "shot": "R45",
+    "replaces": "F18",
+    "file": "assets/flow2k_raw/molly-v2/R45/r2-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 8,
+      "style": 9,
+      "technical": 9,
+      "readability": 6.5
+    },
+    "total": 8.55,
+    "pass": false,
+    "defects": [
+      "Newspaper stack at bottom right has letter-like headline pseudo-text (about x=2380-2700,y=1100-1250)",
+      "A note on the fridge with scribbled lines (about x=830-900,y=440-560)",
+      "Composition nearly identical to F18 (Yalom left, Alvin right with arms crossed, blinds window behind)"
+    ],
+    "minor": [
+      "Alvin's eyes lowered and arms crossed match the beat better than r2-2",
+      "Yalom wears the overcoat indoors (as in the prompt)"
+    ]
+  },
+  {
+    "shot": "R46",
+    "replaces": "F19",
+    "file": "assets/flow2k_raw/molly-v2/R46/r2-2.png",
+    "scores": {
+      "beat": 9,
+      "character": 8.5,
+      "cinematic": 9.5,
+      "style": 9,
+      "technical": 9,
+      "readability": 9.5
+    },
+    "total": 9.05,
+    "pass": true,
+    "defects": [],
+    "minor": [
+      "Jason reads slightly older and heavier-jawed than the lean ~30 anchor and than F19",
+      "Smoke rises from out of frame with no visible source (by design)"
+    ]
+  },
+  {
+    "shot": "R46",
+    "replaces": "F19",
+    "file": "assets/flow2k_raw/molly-v2/R46/r2-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 8.5,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 8.9,
+    "pass": false,
+    "defects": [],
+    "minor": [
+      "Same strengths as r2-2 with a weaker memory bloom",
+      "Dark picture frame in the top-left corner pulls the eye slightly",
+      "Jason reads a bit older than ~30"
+    ]
+  },
+  {
+    "shot": "R51",
+    "replaces": "F34",
+    "file": "assets/flow2k_raw/molly-v2/R51/r2-1.png",
+    "scores": {
+      "beat": 9.5,
+      "character": 8.5,
+      "cinematic": 9,
+      "style": 8.5,
+      "technical": 9,
+      "readability": 9.5
+    },
+    "total": 9.025,
+    "pass": true,
+    "defects": [],
+    "minor": [
+      "Rib cage is stylised as continuous loops crossing the spine; reads as an X-ray at speed",
+      "Semi-photoreal film inside a cel frame (matches other X-ray refs)",
+      "Silver-grey temple barely visible because the head is defocused"
+    ]
+  },
+  {
+    "shot": "R51",
+    "replaces": "F34",
+    "file": "assets/flow2k_raw/molly-v2/R51/r2-2.png",
+    "scores": {
+      "beat": 9.5,
+      "character": 9,
+      "cinematic": 8.5,
+      "style": 8.5,
+      "technical": 9,
+      "readability": 9.5
+    },
+    "total": 9.025,
+    "pass": true,
+    "defects": [],
+    "minor": [
+      "Foreground head is sharp, so the requested out-of-focus depth layering is lost",
+      "Silver temple visible (good anchor match)",
+      "Same stylised rib rendering"
+    ]
+  },
+  {
+    "shot": "R52",
+    "replaces": "N05",
+    "file": "assets/flow2k_raw/molly-v2/R52/r2-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 9.5
+    },
+    "total": 9.05,
+    "pass": true,
+    "defects": [],
+    "minor": [
+      "Brass lamp sits in frame instead of just out of frame, and the light pool is broader than a tight chiaroscuro pool",
+      "Wedding band is on the near (right) hand",
+      "Hands rest on the pages rather than actively opening the folder"
+    ]
+  },
+  {
+    "shot": "R52",
+    "replaces": "N05",
+    "file": "assets/flow2k_raw/molly-v2/R52/r2-2.png",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 8,
+      "readability": 9.5
+    },
+    "total": 8.9,
+    "pass": false,
+    "defects": [
+      "Wedding band floats on the back of the far hand at the base of the index finger, and that hand's curled fingers are hard to read"
+    ],
+    "minor": [
+      "Steam and light shaft are nice; otherwise similar to r2-1"
+    ]
+  },
+  {
+    "shot": "R53",
+    "replaces": "N09",
+    "file": "assets/flow2k_raw/molly-v2/R53/r1-2.png",
+    "scores": {
+      "beat": 9.5,
+      "character": 8.5,
+      "cinematic": 9.5,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 9.125,
+    "pass": true,
+    "defects": [],
+    "minor": [
+      "Armchair sits left of the fireplace, mirrored from N08 where Jason's chair is right of it (a different doorway angle can justify it)",
+      "Chair is plain grey, not N08's patterned olive wingback; the plaid blanket does match",
+      "Door slab fills about 40% of the frame, leaving the Ken Burns move to the right portion"
+    ]
+  },
+  {
+    "shot": "R53",
+    "replaces": "N09",
+    "file": "assets/flow2k_raw/molly-v2/R53/r1-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 8.5,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 8.5
+    },
+    "total": 8.85,
+    "pass": false,
+    "defects": [],
+    "minor": [
+      "Dark door jambs eat about 38% of the frame on both sides",
+      "The window shaft lands on the wall above the chair, not on the chair",
+      "Fire still has small flames rather than burnt-down embers"
+    ]
+  },
+  {
+    "shot": "R54",
+    "replaces": "X12",
+    "file": "assets/flow2k_raw/molly-v2/R54/r1-2.png",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 9.0,
+    "pass": true,
+    "defects": [],
+    "minor": [
+      "Tiny glyph-like engraving marks on a few headstones (unreadable at 1080p)",
+      "High oblique angle rather than the steep near-top-down of X12"
+    ]
+  },
+  {
+    "shot": "R54",
+    "replaces": "X12",
+    "file": "assets/flow2k_raw/molly-v2/R54/r1-1.png",
+    "scores": {
+      "beat": 8.5,
+      "character": 9,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 8.5
+    },
+    "total": 8.825,
+    "pass": false,
+    "defects": [
+      "Figure is too large for 'one tiny figure' and the angle is lower than a high aerial"
+    ],
+    "minor": [
+      "Headstones near the bottom right carry visible engraved line marks (unreadable)"
+    ]
+  },
+  {
+    "shot": "R55",
+    "replaces": "X13",
+    "file": "assets/flow2k_raw/molly-v2/R55/r1-2.png",
+    "scores": {
+      "beat": 8.5,
+      "character": 9.5,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 9,
+      "readability": 9.5
+    },
+    "total": 8.925,
+    "pass": false,
+    "defects": [
+      "Molly is in sharp focus as a plain eye-level medium shot; the planned table-height close-up with hands sharp and Molly soft behind was not delivered, so the foreground stack blur is the only depth layer"
+    ],
+    "minor": [
+      "Strong match to the Molly anchor and to the B02 portrait",
+      "Warm window backlight and dust give a good memory glow"
+    ],
+    "revised_prompt": "Close-up at table height, low angle level with the tabletop, 85mm telephoto, camera close so the hands fill the centre third of the frame, a 1980s wooden kitchen table in morning light: in the soft out-of-focus foreground left, the edge of a tall squared stack of blank paid bills and the rim of a coffee mug; in sharp focus in the centre-right, the two hands of Molly pressing a paid bill flat onto a neat pile while one hand reaches for the next envelope from a messy heap, a yellow pencil and a closed chequebook beside them; above the hands, clearly blurred by a very shallow depth of field (focus plane only on the hands and the top bill) but recognisable, her head in the upper-right third, Molly herself: Molly: woman in her 50s, Hange-like practical energy, brown hair in a loose tied-back ponytail, small round glasses, warm no-nonsense face, sturdy build; beige apron over a rolled-sleeve checked shirt, work trousers; looking down at her work, calm and businesslike. A hard warm window shaft from behind her rakes across the table with dust floating in it and gives her hair and shoulders a golden rim, the kitchen behind melting into warm bokeh with the dial of a beige rotary phone. Every paper and envelope completely blank and plain, no writing, no lines of text, no stamps or marks, hands simple with five fingers each, calm and orderly, a gentle memory glow."
+  },
+  {
+    "shot": "R55",
+    "replaces": "X13",
+    "file": "assets/flow2k_raw/molly-v2/R55/r1-1.png",
+    "scores": {
+      "beat": 8.5,
+      "character": 9.5,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 9
+    },
+    "total": 8.8,
+    "pass": false,
+    "defects": [
+      "Foreground paper tower fills about 45% of the frame and reads taller than Molly",
+      "Molly's right hand is cut by the right frame edge",
+      "Molly is sharp, not soft behind the hands"
+    ],
+    "minor": [
+      "Ledger at bottom right has ruled lines (no writing)"
+    ]
+  },
+  {
+    "shot": "R56",
+    "replaces": "N14",
+    "file": "assets/flow2k_raw/molly-v2/R56/r1-2.png",
+    "scores": {
+      "beat": 9,
+      "character": 6.5,
+      "cinematic": 9.5,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 6
+    },
+    "total": 8.225,
+    "pass": false,
+    "defects": [
+      "Yalom in the foreground has no glasses (anchor requires round wire-rim glasses) and his hair reads brown",
+      "Alvin's hair is grey-white, so he reads 60+ instead of mid-30s blond",
+      "Book spines at the right edge carry letter-like pseudo-titles (about x=2550-2752,y=350-1250) and newspapers show print blocks"
+    ],
+    "minor": [
+      "Strong cinematic frame: over-the-shoulder from the doorway, window shafts, leading lines of stacks"
+    ],
+    "revised_prompt": "Wide static shot, 24mm deep focus, from just behind the left shoulder of Dr. Yalom, who stands in the left foreground in a doorway, dark and slightly out of focus, seen from behind: Dr. Yalom: man about 50, inspired by Zeke Yeager, short tousled dark-blond hair, full trimmed blond beard, round wire-rim glasses clearly visible on his face in profile, medium build; grey wool overcoat over a brown knit cardigan, dark trousers; hands at his sides. Beyond him, down a narrow path between towering stacks of yellowed newspapers, medical journals and film jackets that form leading lines, seated in an armchair turned to face a tall bright window with half-open blinds, his back fully to the camera, a dark silhouette against the cool evening window light: Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, rim of light on the hair; his hair clearly golden blond with only a thin grey streak at the temples, a 35-year-old man, not grey-haired; olive knit sweater; shoulders square, motionless. Long shafts of window light with floating dust, the stacks dark and claustrophobic, a long empty path of floor between the two men, readable; every newspaper folded face-down or seen edge-on, every book spine plain and blank, no headlines, no titles, no print anywhere."
+  },
+  {
+    "shot": "R56",
+    "replaces": "N14",
+    "file": "assets/flow2k_raw/molly-v2/R56/r1-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 8,
+      "cinematic": 9.5,
+      "style": 9,
+      "technical": 9,
+      "readability": 0
+    },
+    "total": 0.0,
+    "pass": false,
+    "defects": [
+      "HARD FAIL: readable newspaper headline 'NEWS' with a subhead like 'MEDICAL DIVISION' at the right (about x=2380-2600,y=680-760)",
+      "Alvin's hair is ash grey-blond (borderline for mid-30s); Yalom's glasses are not visible from behind"
+    ],
+    "minor": [
+      "Otherwise the strongest R56 frame (doorway OTS, shafts, leading lines)"
+    ],
+    "hard_fail": true,
+    "edit_instruction": "Replace the newspaper with the 'NEWS' headline at the right edge with a plain blank grey paper bundle, and make the other visible newspaper fronts blank."
+  }
+]

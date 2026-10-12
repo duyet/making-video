@@ -1,0 +1,51 @@
+[
+  {
+    "shot": "R15",
+    "file": "assets/flow2k_raw/molly-v2/R15/r4-1.png",
+    "scores": {
+      "beat": 8,
+      "character": 8,
+      "cinematic": 7.5,
+      "style": 8.5,
+      "technical": 7,
+      "readability": 9
+    },
+    "total": 7.9,
+    "pass": false,
+    "defects": [
+      "Filing cabinet geometry is broken: the open drawer sticks out of a bookshelf, the top drawer unit floats separately on the upper right, and the lower drawers sit in another place; it doesn't read as one grey steel cabinet",
+      "The frame-within-frame is only half there: a dark door band on the left, but no door jamb on the right; the cabinet is cut by the right edge",
+      "Light isn't motivated: the brass dome lamp is far left on the desk, yet the warm key on Yalom's face, hand and drawer seems to come from inside the drawer; the beat wants the lamp as the single practical lighting him",
+      "Hair falls forward and is tousled over the brow, not swept straight back with the ears clear as in M05/R06",
+      "Yalom is seen in side profile facing right rather than three-quarter from behind",
+      "The 2x upscale is slightly soft with faint compression mottling in the shadows; acceptable at 1080p",
+      "Clean: sparkle check ok (0.12/0.33), no text, no black bars"
+    ],
+    "revised_prompt": "",
+    "edit_prompt": "Edit the existing image R15-r4a into a new image: keep aged Yalom's face, beard, glasses, brown cardigan, the bookshelves, the leather armchair with the grey overcoat, the brass dome lamp, the night window, the rug and the dark door band on the left exactly the same, and change only: (1) redraw the filing cabinet as ONE complete free-standing grey steel four-drawer filing cabinet standing on the floor in front of the right bookshelf, fully inside the frame, with its second drawer pulled open and Yalom's hand resting on the blank tan folders; there should be no bookshelf behind or inside the drawer; (2) add a dark door jamb as a vertical silhouette band about one tenth of the frame wide along the RIGHT edge too, so the room is seen through the open doorway; (3) move the brass dome desk lamp to the end of the desk nearest the cabinet, or onto the top of the cabinet, so its warm pool clearly lights the open drawer, his hands, the side of his face and his glasses; the rest of the room stays in soft readable shadow with cool blue moonlight from the window; (4) comb his silver-white hair neatly straight back off the forehead with both ears visible, as in clean-M05; (5) turn him slightly away from camera so he is seen three-quarter from behind. Same Attack on Titan (Wit Studio era) anime style and palette, no text, no letters, no captions, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+  },
+  {
+    "shot": "R17",
+    "file": "assets/flow2k_raw/molly-v2/R17/r4-1.png",
+    "scores": {
+      "beat": 8.5,
+      "character": 8.5,
+      "cinematic": 8.5,
+      "style": 8.5,
+      "technical": 8.5,
+      "readability": 9.5
+    },
+    "total": 8.6,
+    "pass": false,
+    "defects": [
+      "The crowd and casket sit in the right half (about x 56–93%) rather than the middle third, so the left half of the frame is all empty grass with Yalom",
+      "The beat's foreground depth cues are missing: there's no blurred headstone edge bottom left (only small leaves), and the lens flare top right is only a faint warm glow",
+      "Cel line weight and contrast are softer and flatter than the N05/F16/M05 set, and the 2x upscale softens the figures; it holds at 1080p but looks washed",
+      "Yalom is tiny but reads as aged (silver hair, beard, glasses, grey overcoat); his head is only slightly bowed",
+      "Mourners are stiff and similar, with simplified faces; acceptable at extreme wide",
+      "Clean: sparkle check ok (0.06/0.23), the portrait on the easel is unreadable, headstones are blank, no text, no black bars"
+    ],
+    "revised_prompt": "",
+    "edit_prompt": "Edit the existing image R17-r4a into a new image: keep the high-angle extreme wide composition, the lone aged Yalom on the left third with hands in his pockets, the crowd, casket, flowers and easel, the oak and willow trees, the rolling hills and the blank background headstones exactly the same, and change only: (1) shift the whole crowd with the casket, flowers and easel left so the group is centred in the middle third of the frame, leaving clear negative space between it and Yalom; (2) add a large out-of-focus blank grey headstone edge in the bottom-left corner foreground as a soft dark framing element; (3) strengthen the low sun top right into a visible warm lens flare with soft streaks through the willow leaves, and add a warm orange rim light on each figure; (4) bow Yalom's head a little more toward the ground; (5) give all figures and trees crisper, bolder black ink outlines and deeper cel-shaded contrast matching clean-M05. Same Attack on Titan (Wit Studio era) anime style and golden-hour palette, no fog, no text, no letters, no captions, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+  }
+]

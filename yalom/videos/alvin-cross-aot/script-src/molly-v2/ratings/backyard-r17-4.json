@@ -1,0 +1,95 @@
+[
+ {
+  "shot": "R17",
+  "file": "assets/flow2k_raw/molly-v2/R17/bk4-1.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 8.5,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 8
+  },
+  "total": 8.5,
+  "pass": false,
+  "defects": [
+   "Yalom faces the camera with eyes almost on the lens, brows slightly knit: reads as a stern stare, not quiet, gentle grief",
+   "the guests are pushed hard to the right; a woman is cut off at the right edge and the portrait table sits near the edge, leaving little room for a Ken Burns move",
+   "Yalom is a large foreground figure rather than a man standing apart at the back; it reads more as a medium-wide than an establishing wide",
+   "1K: slight softness in the background faces (not penalised)"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep the sunlit backyard memorial, the house, the wooden fence and garden gate with the street and parked car, the white folding chairs, the white-draped table with lilies and the framed portrait of the smiling grey-haired woman, the mourners in dark clothes and suits, the AoT cel style and golden late-afternoon light, and the aged Yalom (white beard, round glasses, grey overcoat, hands in pockets). Change only: turn Yalom's head a quarter to the right so he looks down toward the portrait table, not at the camera, with brows lifted slightly at the inner corners, soft lowered eyes and a closed, relaxed mouth (quiet and gently sad); move the crowd and the portrait table slightly toward the centre so no person is cut by the right edge. No text, no watermark.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the sunlit backyard memorial, the house, the wooden fence and garden gate with the street and parked car, the white folding chairs, the white-draped table with lilies and the framed portrait of the smiling grey-haired woman, the mourners in dark clothes and suits, the AoT cel style and golden late-afternoon light, and the aged Yalom (white beard, round glasses, grey overcoat, hands in pockets). Change only: turn Yalom's head a quarter to the right so he looks down toward the portrait table, not at the camera, with brows lifted slightly at the inner corners, soft lowered eyes and a closed, relaxed mouth (quiet and gently sad); move the crowd and the portrait table slightly toward the centre so no person is cut by the right edge. No text, no watermark.",
+  "res": "1K",
+  "watermark": "none (flow_unsparkle ok; bottom-right inspected by eye)"
+ },
+ {
+  "shot": "R17",
+  "file": "assets/flow2k_raw/molly-v2/R17/bk4-2.png",
+  "scores": {
+   "beat": 9,
+   "character": 9.5,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.1,
+  "pass": true,
+  "defects": [
+   "Yalom is a big left-third figure rather than a small man at the back; still establishes the whole set (gate, street, house, chairs, portrait)",
+   "1K: mild softness in the crowd faces (not penalised)"
+  ],
+  "revised_prompt": "",
+  "edit_prompt": "",
+  "res": "1K",
+  "watermark": "none (flow_unsparkle ok; bottom-right inspected by eye)"
+ },
+ {
+  "shot": "R17",
+  "file": "assets/flow2k_raw/molly-v2/R17/bk4-3.png",
+  "scores": {
+   "beat": 9,
+   "character": 8.5,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 8,
+   "readability": 9
+  },
+  "total": 8.75,
+  "pass": false,
+  "defects": [
+   "brown root shapes at the right edge (the base of the cropped tree trunk) look like a heap of dug earth beside the portrait table, which suggests a grave",
+   "Yalom is small and his eyes are hidden by the glasses, so the gently sad expression barely reads",
+   "a few back-row faces are simplified or smeared (1K)"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep the sunlit backyard memorial, the house, the wooden fence and garden gate with the street and parked car, the white folding chairs, the white-draped table with lilies and the framed portrait of the smiling grey-haired woman, the mourners in dark clothes and suits, the AoT cel style and golden late-afternoon light, and the aged Yalom standing apart near the gate. Change only: replace the brown root/earth shapes at the far right edge with flat green lawn and the trunk base of the shade tree, so there is no mound of earth; make Yalom's face slightly clearer, eyes visible behind the glasses and lowered toward the portrait, brows lifted at the inner corners, mouth closed (quiet and gently sad). No text, no watermark.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the sunlit backyard memorial, the house, the wooden fence and garden gate with the street and parked car, the white folding chairs, the white-draped table with lilies and the framed portrait of the smiling grey-haired woman, the mourners in dark clothes and suits, the AoT cel style and golden late-afternoon light, and the aged Yalom standing apart near the gate. Change only: replace the brown root/earth shapes at the far right edge with flat green lawn and the trunk base of the shade tree, so there is no mound of earth; make Yalom's face slightly clearer, eyes visible behind the glasses and lowered toward the portrait, brows lifted at the inner corners, mouth closed (quiet and gently sad). No text, no watermark.",
+  "res": "1K",
+  "watermark": "none (flow_unsparkle ok; bottom-right inspected by eye)"
+ },
+ {
+  "shot": "R17",
+  "file": "assets/flow2k_raw/molly-v2/R17/bk4-4.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 7.5,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 8.5
+  },
+  "total": 8.25,
+  "pass": false,
+  "defects": [
+   "Yalom's beard is reduced to a thin moustache and stubble, so he drifts from the M05 anchor (full white beard)",
+   "light is flat and greenish with no sun, not the brilliant golden afternoon",
+   "the huge foreground chair blocks the lower left; most chairs are empty, so it reads as after the service rather than the gathering",
+   "Yalom looks roughly toward the camera instead of toward the portrait"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep the sunlit backyard memorial, the house, the wooden fence and garden gate with the street and parked car, the white folding chairs, the white-draped table with lilies and the framed portrait of the smiling grey-haired woman, the mourners in dark clothes and suits, the AoT cel style and golden late-afternoon light, and the composition with Yalom standing apart near the gate. Change only: give Yalom a full, neatly trimmed white beard and silver-white hair as in the reference, his gaze lowered toward the portrait table, brows lifted at the inner corners, mouth closed (quiet and gently sad); add brilliant low golden sun from the upper left with long soft shadows across the lawn; make the foreground chair smaller and softer at the lower-left corner. No text, no watermark.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the sunlit backyard memorial, the house, the wooden fence and garden gate with the street and parked car, the white folding chairs, the white-draped table with lilies and the framed portrait of the smiling grey-haired woman, the mourners in dark clothes and suits, the AoT cel style and golden late-afternoon light, and the composition with Yalom standing apart near the gate. Change only: give Yalom a full, neatly trimmed white beard and silver-white hair as in the reference, his gaze lowered toward the portrait table, brows lifted at the inner corners, mouth closed (quiet and gently sad); add brilliant low golden sun from the upper left with long soft shadows across the lawn; make the foreground chair smaller and softer at the lower-left corner. No text, no watermark.",
+  "res": "1K",
+  "watermark": "none (flow_unsparkle ok; bottom-right inspected by eye)"
+ }
+]

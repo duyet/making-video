@@ -1,0 +1,73 @@
+[
+ {
+  "shot": "R13",
+  "file": "assets/flow2k_raw/molly-v2/R13/r5-1.png",
+  "scores": {
+   "beat": 7,
+   "character": 8.5,
+   "cinematic": 7.5,
+   "style": 9,
+   "technical": 3,
+   "readability": 9
+  },
+  "total": 0.0,
+  "weighted_before_hard_fail": 7.2,
+  "pass": false,
+  "hard_fail": "broken hand in focal area: Alvin has an extra hand",
+  "defects": [
+   "HARD FAIL: Alvin shows an extra hand. His right hand is in the handshake, AND a second bare hand hangs at his right side below the handshake (beside Yalom's coat, bottom centre). This is an extra hand in the focal area.",
+   "The hat is neither tucked under his arm nor held to his chest. It floats flat against his chest with no hand touching it, and Monica does not overlap or hide his left side at all.",
+   "Monica's two gloved hands are anatomically fine, and so are Yalom's handshake hand and his pocketed hand. Ages and faces read correctly: Monica ~60 silver-blonde, Alvin ~70 matches R12, Yalom ~80 is puzzled.",
+   "Staging is flat: three figures stand in a row at the same depth, with no foreground element. The headstone from the beat is gone because the prompt dropped it. Cinematic depth is weaker than R12.",
+   "Watermark check passed (small 0.09, large 0.12), no star found in the bottom-right quadrant, no text, no black bars. The 2x upscale is acceptable at 1080p."
+  ],
+  "revised_prompt": "",
+  "edit_prompt": "Edit the existing image R13-r5a into a new image: keep all three faces, expressions, outfits, the willow path, the golden backlight and the handshake at the centre exactly the same, and change only: (1) remove the extra bare hand hanging at Alvin's right side below the handshake (between his coat hem and Yalom's coat) and fill that area with Alvin's charcoal coat and trousers, so his only right hand is the one in the handshake; (2) give the cream Panama hat a holder: Alvin's LEFT hand, bare, with five fingers, holds the hat crown-out pressed flat against his chest, with his left forearm bent across his body in the charcoal overcoat sleeve, exactly like clean-R12; (3) add a softly blurred blank grey headstone edge in the bottom-left foreground, overlapping the edge of Monica's coat, for depth. Exactly five visible hands in the image: Monica's two gloved hands, Alvin's left hand on the hat, and Alvin's right hand and Yalom's right hand in the handshake. Same Attack on Titan (Wit Studio era) anime style and palette, no text, no letters, no captions, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+ },
+ {
+  "shot": "R16",
+  "file": "assets/flow2k_raw/molly-v2/R16/r4-1.png",
+  "scores": {
+   "beat": 9,
+   "character": 8.5,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "total": 8.8,
+  "pass": false,
+  "defects": [
+   "A bald band of bare skin is still visible at the front of Yalom's head, between the hair mass and the glasses. It reads as a receding or balding pate, unlike M05's full swept-back hair. The r4 edit asked for this to be removed and it is still there.",
+   "The head is still large, filling about the bottom 30% of the frame rather than the bottom fifth. The glasses rims sit on top of the bald forehead band, which makes their geometry a little ambiguous.",
+   "The room outside the lamp pool is still fairly evenly lit, so the brass lamp does not fully read as the single practical. The camera is a steep over-the-shoulder high angle rather than looking straight down.",
+   "Good: both hands are aged, five-fingered and correct, with the wedding band on the left hand. The brown cardigan sleeves, brass dome lamp, tufted leather chair, rug and blue night window all match M05. Folder tabs are blank, and layered depth (head, drawer, desk/lamp) is strong.",
+   "Watermark check passed (small -0.10, large 0.34), no star in the bottom-right (cardigan sleeve), no text, no black bars. Slight upscale softness, still fine at 1080p."
+  ],
+  "revised_prompt": "",
+  "edit_prompt": "Edit the existing image R16-r4a into a new image: keep the open drawer, both aged hands with the wedding band lifting the tan folder, the brass dome lamp, desk, coffee mug, leather chair, bookshelves, rug and window exactly the same, and change only: (1) cover the bare skin band at the front of Yalom's head completely with thick silver-white hair combed straight back from the hairline, so no scalp or forehead skin shows from above, matching the full hair in clean-M05; (2) make his head smaller so only its top curve shows along the bottom edge of the frame, filling at most the bottom fifth, with the gold round glasses rims peeking just beyond the front of the hair; (3) let the area outside the lamp's warm pool fall into deeper shadow (bookshelves, chair and rug darker), with a faint cool blue moonlight edge from the window, so the brass lamp is clearly the single warm light source. Same Attack on Titan (Wit Studio era) anime style and palette, no text, no letters, no captions, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+ },
+ {
+  "shot": "S08",
+  "file": "assets/flow2k_raw/molly-v2/S08/r4-1.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.9,
+  "pass": false,
+  "defects": [
+   "The smile is open-mouthed with the upper teeth showing, so it reads closer to a warm friendly grin than a tight, awkward, polite smile. The knitted, worried brows partly rescue the beat, but the r4 edit asked for a closed-mouth smile and did not get one.",
+   "The out-of-focus over-shoulder figure in the right foreground has grey beard stubble along his jaw. Alvin is clean-shaven, so this reads as a second bearded old man (a Yalom double) instead of Alvin.",
+   "Yalom's face sits near the frame centre (about 47% across) rather than on the left third, which leaves little room for the push-in to drift.",
+   "Good: aged ~80 Yalom matches M05/R06 (silver swept-back hair, ears visible, round wire glasses, trimmed silver beard, grey overcoat over the brown cardigan). The 100mm OTS framing has creamy willow bokeh, a strong orange-gold rim, golden hour and no fog.",
+   "Watermark check passed (small 0.20, large 0.02), the bottom-right quadrant is only the blurred shoulder, no text, no black bars. Upscale softness is acceptable at 1080p."
+  ],
+  "revised_prompt": "",
+  "edit_prompt": "Edit the existing image S08-r4a into a new image: keep aged Yalom's face, glasses, beard, swept-back silver-white hair, grey overcoat over the brown cardigan, the willow background, the golden rim light and the over-the-shoulder layout exactly the same, and change only: (1) close his mouth into a tight polite closed-lip smile with the corners pulled slightly and no teeth showing, eyes not smiling, brows still faintly knitted; (2) make the out-of-focus man in the right foreground clean-shaven, with a smooth bare jaw and cheek and no beard or stubble, and keep his neat silver-white side-parted hair and dark overcoat collar; (3) shift Yalom slightly left so his face sits on the left third of the frame. Same Attack on Titan (Wit Studio era) anime style and palette, no text, no letters, no captions, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+ }
+]

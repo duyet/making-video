@@ -1,0 +1,41 @@
+[
+  {
+    "shot": "S16",
+    "replaces": "F02 (c05 insert)",
+    "file": "assets/flow2k_raw/molly-v2/S16/r1-1.png",
+    "source": "1K",
+    "scores": {"beat": 8.5, "character": 7.5, "cinematic": 8.5, "style": 8.5, "technical": 9, "readability": 9},
+    "total": 8.43,
+    "pass": false,
+    "defects": [
+      "Apron does not read: the torso is a plain grey-khaki surface with no strap, bib edge or pocket, so it reads as a T-shirt over the plaid sleeves rather than the beige apron in M06",
+      "Hands read large, veiny and masculine; nothing says woman in her 50s",
+      "Bundled papers read as ragged blank parchment/letter sheets, not folded newspapers"
+    ],
+    "minor": [
+      "Plaid is red-brown, M06 shows a muted grey-brown check",
+      "Background stack is a blurry generic pile; little sense of Alvin's hoarded room",
+      "Mild 1K upscale softness (not penalised)"
+    ],
+    "ai_tells": ["warm bloom haze glow on the left edge"],
+    "hard_fail_checks": "No text/glyphs on any paper surface (crop-checked); bottom-right corner clean, no sparkle; left hand thumb+4 curled fingers, right hand thumb+4 fingers, knot coherent"
+  },
+  {
+    "shot": "S16",
+    "replaces": "F02 (c05 insert)",
+    "file": "assets/flow2k_raw/molly-v2/S16/r1-2.png",
+    "source": "1K",
+    "scores": {"beat": 9, "character": 8.5, "cinematic": 9, "style": 9, "technical": 9.5, "readability": 9.5},
+    "total": 9.03,
+    "pass": true,
+    "defects": [],
+    "minor": [
+      "Bundled sheets read more like stacked letter paper/parchment than folded newspapers (no fold, torn edges)",
+      "Plaid sleeve is redder than M06's muted grey-brown check; apron matches (khaki bib with grommet, worn stains)",
+      "Hands slightly broad/masculine but plausible for a sturdy working woman",
+      "Mild 1K upscale softness (not penalised)"
+    ],
+    "ai_tells": [],
+    "hard_fail_checks": "No text/glyphs on foreground or background bundles (crop-checked); bottom-right corner clean, no sparkle; left hand thumb over string with 4 curled fingers, right hand 4 fingers with thumb behind the string, knot coherent; single window light upper left, matte shading, worn props"
+  }
+]

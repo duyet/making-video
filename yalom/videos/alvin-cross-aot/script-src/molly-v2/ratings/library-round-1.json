@@ -1,0 +1,511 @@
+[
+  {
+    "shot": "R40",
+    "replaces": "X02",
+    "file": "assets/flow2k_raw/molly-v2/R40/r1-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 8.5,
+      "cinematic": 7.5,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 9
+    },
+    "total": 8.525,
+    "pass": false,
+    "defects": [
+      "Not the requested hand insert: a medium close-up profile of Alvin at the lightbox, face sharp, no low angle and no hand-in-focus/face-in-bokeh layering",
+      "Jump cut: almost the same size, angle and screen direction as the next shot B15 (Alvin profile facing right at a lightbox), which breaks the CINEMATIC.md variety rule",
+      "Only slightly more cinematic than X02: rim light added, but the composition is flat (two planes, no foreground depth)"
+    ],
+    "minor": [
+      "Silver-grey temples not visible; hair reads all blond",
+      "Thumb grip on the clip is a little ambiguous",
+      "Envelope on the ledge, as in X02"
+    ],
+    "revised_prompt": "Extreme close-up insert, low angle from just below the ledge of a wall-mounted 1982 X-ray viewing lightbox in a dark Stanford radiology reading room, 100mm telephoto: the frame holds only the right hand and forearm entering from the lower right, the thumb and index finger pinching the top corner of a chest X-ray film and pushing it up under the top metal clip, crisp white doctor coat sleeve, pale blue shirt cuff, plain steel wristwatch, the hand rim-lit cold white by the glowing box; the hand belongs to Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, strong angular jaw, heavy brows, blue eyes, commanding calm; white doctor coat, pale blue shirt, dark tie. His head and face are completely out of frame (no profile, no face), so this insert contrasts with the profile close-up that follows. The glowing film fills the upper two-thirds as a bright field, a row of other glowing lightboxes recedes into creamy bokeh along the dark wall at the left, cold lightbox glow against deep slate shadow, lung shapes soft, no markings or letters on any film, nothing on the ledge, hand simple with five fingers. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain, no text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+  },
+  {
+    "shot": "R40",
+    "replaces": "X02",
+    "file": "assets/flow2k_raw/molly-v2/R40/r1-2.png",
+    "scores": {
+      "beat": 8,
+      "character": 9,
+      "cinematic": 7.5,
+      "style": 9,
+      "technical": 8,
+      "readability": 9
+    },
+    "total": 8.3,
+    "pass": false,
+    "defects": [
+      "Beat weaker: the palm rests flat on the film and does not clip it onto the box",
+      "Same jump-cut problem against B15 (profile facing right at a lightbox)",
+      "Thumb is a grey stub behind the palm, so the hand anatomy is unclear"
+    ],
+    "minor": [
+      "Envelope on the ledge"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "R41",
+    "replaces": "F27",
+    "file": "assets/flow2k_raw/molly-v2/R41/r1-2.png",
+    "scores": {
+      "beat": 9.5,
+      "character": 8.5,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 8.5
+    },
+    "total": 8.9,
+    "pass": false,
+    "defects": [
+      "Wall grime scribble at right (about x=2480,y=1000) reads like the digits '22.', which counts as pseudo-writing",
+      "The reflection's face is softer and more generic than the anchor (weaker jaw), so it is less Erwin than the real Alvin's face"
+    ],
+    "minor": [
+      "Dutch tilt barely there",
+      "Raven talon rests on the reflection's shoulder, a nice touch"
+    ],
+    "revised_prompt": "Medium shot with a clear 10-degree dutch tilt inside a small tiled 1980s bathroom at night, nightmare, near-monochrome cold blue-grey: the mirror over the sink is a frame within the frame; Alvin Cross stands in the right third facing the mirror, seen from behind-side with his face clearly visible in three-quarter view and again in the mirror: Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, strong angular jaw, heavy brows, blue eyes, guarded calm; striped cotton pyjamas; frozen, eyes wide, mouth closed, hands gripping the sink edge out of sight below frame. In the mirror his reflection shows the same Erwin-Smith face (strong angular jaw, heavy brows, side-parted blond hair) with the same frightened expression as his real face; looming behind his reflection and filling the mirror's upper half, a huge black raven with wings spread, glossy blue-black feathers, hooked beak, one gleaming eye. A single bare bulb above the mirror is the only light: hard top light, deep black shadows, cold white highlights on tiles and his face, the wall above the tiles plain and clean with no scratches, scribbles, marks or stains, readable not murky, 35mm lens, shallow depth of field on the foreground tiles. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain, no text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+  },
+  {
+    "shot": "R41",
+    "replaces": "F27",
+    "file": "assets/flow2k_raw/molly-v2/R41/r1-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 8.5,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 8.5
+    },
+    "total": 8.775,
+    "pass": false,
+    "defects": [
+      "The real Alvin's face is calm while his reflection is terrified, so the two do not match",
+      "Scribble marks on both walls ('ıw.') read as pseudo-writing",
+      "Thin black letterbox bars at top (25px) and bottom (20px)"
+    ],
+    "minor": [
+      "Reflection face less Erwin than the anchor"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "R42",
+    "replaces": "N13",
+    "file": "assets/flow2k_raw/molly-v2/R42/r1-1.png",
+    "scores": {
+      "beat": 9.5,
+      "character": 9,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 8.5
+    },
+    "total": 9.075,
+    "pass": true,
+    "defects": [],
+    "minor": [
+      "Alvin sits at about 83-89% of frame width, so the Ken Burns move needs to drift left",
+      "Silver temples not readable at this size",
+      "Small pseudo-marks on the door latch plate (not legible)",
+      "The woman's face is visible (eyes down), which is acceptable"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "R42",
+    "replaces": "N13",
+    "file": "assets/flow2k_raw/molly-v2/R42/r1-2.png",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 7.5,
+      "style": 9,
+      "technical": 8,
+      "readability": 8
+    },
+    "total": 0.0,
+    "pass": false,
+    "defects": [
+      "HARD FAIL: a textured ghost of the four-point sparkle is visible at native contrast in the bottom-right corner (about x=2600,y=1440)",
+      "Nearly the same composition as N13 (Alvin at the door on the left, the woman walking away on the right), so it is not more cinematic"
+    ],
+    "minor": [],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "R43",
+    "replaces": "X07",
+    "file": "assets/flow2k_raw/molly-v2/R43/r1-1.png",
+    "scores": {
+      "beat": 8.5,
+      "character": 8,
+      "cinematic": 7,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 0
+    },
+    "total": 0.0,
+    "pass": false,
+    "defects": [
+      "HARD FAIL: a fully visible four-point sparkle/star watermark in the bottom-right corner (about x=2700,y=1500); de-sparkle did not run or did not work",
+      "Near-copy of X07 (same over-the-shoulder framing, hand pose and wristwatch), so it is not more cinematic; only bokeh, a light shaft and a fireplace glow were added",
+      "Jason does not read as dying: a healthy full shoulder and hair, with no sign of illness"
+    ],
+    "minor": [
+      "Hand has five fingers, so it is acceptable"
+    ],
+    "revised_prompt": "Close-up in profile, 85mm telephoto, camera low at shoulder height beside a worn armchair in a plain 1982 North Carolina house with pine-board walls, silhouette composition against a bright window: in the left half, in sharp focus and seen from the side-back, the gaunt shoulder, thin neck and dark hair of Jason Cross: man about 30, inspired by Eren Yeager, dark brown shoulder-length hair, lean and thin from illness, slumped in the armchair with a grey wool blanket over his shoulders, the bones of his shoulder showing through a faded denim jacket, face turned away toward the window; entering from the right edge, the right hand of Alvin Cross: man mid-30s, inspired by Erwin Smith; pale blue shirt sleeve rolled to the forearm, plain steel wristwatch, the fingers half-curled and hesitating an inch above Jason's shoulder, not touching; the empty gap between hand and shoulder sits at the exact centre of frame against the bright window, which gives a warm rim light to both outlines with dust motes in the air; the lower part of the frame and the bottom-right corner fall into plain soft shadow, the background a soft warm blur of pine boards and the faint orange glow of a fieldstone fireplace, no faces readable, hand simple with five fingers, quiet and tense. Do not repeat the over-the-shoulder-from-behind framing. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain, no text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+  },
+  {
+    "shot": "R43",
+    "replaces": "X07",
+    "file": "assets/flow2k_raw/molly-v2/R43/r1-2.png",
+    "scores": {
+      "beat": 8.5,
+      "character": 8,
+      "cinematic": 7,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 0
+    },
+    "total": 0.0,
+    "pass": false,
+    "defects": [
+      "HARD FAIL: a fully visible four-point sparkle/star watermark in the bottom-right corner (about x=2700,y=1500); de-sparkle did not run or did not work",
+      "Near-copy of X07 (same over-the-shoulder framing, hand pose and wristwatch), so it is not more cinematic; only bokeh, a light shaft and a fireplace glow were added",
+      "Jason does not read as dying: a healthy full shoulder and hair, with no sign of illness"
+    ],
+    "minor": [
+      "Hand has five fingers, so it is acceptable"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "R45",
+    "replaces": "F18",
+    "file": "assets/flow2k_raw/molly-v2/R45/r1-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 7.5,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 9,
+      "readability": 8.5
+    },
+    "total": 8.55,
+    "pass": false,
+    "defects": [
+      "Alvin's hair is ash-grey all over (not blond with silver temples), so he reads 50+ instead of mid-30s",
+      "Close to F18's composition (Yalom left, Alvin right with arms crossed, blinds window); the doorway frame and light shafts are the only real gain"
+    ],
+    "minor": [
+      "Small can on the windowsill with an 'N'-like mark",
+      "Newspapers carry pseudo-headline blocks"
+    ],
+    "revised_prompt": "Medium-wide two-shot from a slightly low angle, framed through a dark kitchen doorway (frame within frame, the door jamb and door edge large, dark and out of focus in the foreground), 35mm, in a cramped 1982 kitchen with dishes in the sink and newspapers stacked on the counters seen edge-on with no headlines or print, a bare windowsill with no jars, cans or labels: a window with half-open slatted blinds behind them throws hard stripes of cool evening light across the room. Right third, backlit with a rim of light on his hair and shoulders, standing with arms crossed tight, eyes lowered to the floor, jaw set: Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, strong angular jaw, heavy brows, blue eyes, guarded calm; olive knit sweater over a collared shirt, grey trousers. His hair is clearly golden blond on top with only a thin grey streak at the temples: a 35-year-old man, not grey-haired. Left third, taking one careful step toward him, leaning in slightly and speaking gently, hands loose at his sides: Dr. Yalom: man about 50, inspired by Zeke Yeager, short tousled dark-blond hair, full trimmed blond beard, round wire-rim glasses, calm intellectual face, kind tired eyes, medium build; grey wool overcoat over a brown knit cardigan, dark trousers. The striped light falls between them on the floor, faces readable, newspapers blank, no calendars or notes on the walls. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain, no text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+  },
+  {
+    "shot": "R45",
+    "replaces": "F18",
+    "file": "assets/flow2k_raw/molly-v2/R45/r1-2.png",
+    "scores": {
+      "beat": 9,
+      "character": 7,
+      "cinematic": 8.5,
+      "style": 8.5,
+      "technical": 9,
+      "readability": 8.5
+    },
+    "total": 8.4,
+    "pass": false,
+    "defects": [
+      "Alvin's hair is grey all over",
+      "Yalom's hair is brown and messy, not dark-blond (he drifts from the anchor)",
+      "Wall calendar with a grid and pseudo-headline newspapers"
+    ],
+    "minor": [
+      "Cooler grade fits Act 2 better"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "R46",
+    "replaces": "F19",
+    "file": "assets/flow2k_raw/molly-v2/R46/r1-2.png",
+    "scores": {
+      "beat": 9,
+      "character": 9.5,
+      "cinematic": 7.5,
+      "style": 9.5,
+      "technical": 8.5,
+      "readability": 9.5
+    },
+    "total": 8.825,
+    "pass": false,
+    "defects": [
+      "Not clearly more cinematic than F19: same frontal pose, the same window at the left and the same hand-at-chin cigarette; none of the prompt's slatted stripes across the eyes, creamy bokeh or haze",
+      "Cigarette grip is ambiguous (the filter disappears behind the knuckles)"
+    ],
+    "minor": [
+      "Faint sparkle residue only when contrast is boosted; invisible at native contrast"
+    ],
+    "revised_prompt": "Extreme close-up, 135mm telephoto, eye level, a hazy memory, different from the earlier frontal portrait: Jason Cross: man about 30, inspired by Eren Yeager, dark brown shoulder-length hair, intense green eyes, defiant tired stare, lean wiry build, light stubble; faded denim jacket over a grey work shirt; his face in three-quarter profile turned toward frame right, filling the left two-thirds of the frame from brow to chin, the cigarette and hand out of frame below, only a thin curl of smoke drifting up across the frame in front of his face and glowing in a backlight shaft, eyes steady and level, mouth closed. Slatted window light falls across his eyes and cheekbone in warm gold stripes, the other half of his face in soft ink shadow, still readable; behind him an olive-green wall melts into creamy bokeh, a soft warm bloom on the highlights like a remembered moment, no hands in frame. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain, no text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+  },
+  {
+    "shot": "R46",
+    "replaces": "F19",
+    "file": "assets/flow2k_raw/molly-v2/R46/r1-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 9.5,
+      "cinematic": 7.5,
+      "style": 9.5,
+      "technical": 8.5,
+      "readability": 9.5
+    },
+    "total": 8.825,
+    "pass": false,
+    "defects": [
+      "Near-copy of F19 (cigarette at the lips, same framing)",
+      "Cigarette passes through the index finger awkwardly"
+    ],
+    "minor": [
+      "Faint sparkle residue only when contrast is boosted"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "R47",
+    "replaces": "N12",
+    "file": "assets/flow2k_raw/molly-v2/R47/r1-2.png",
+    "scores": {
+      "beat": 9.5,
+      "character": 9,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 9.025,
+    "pass": true,
+    "defects": [],
+    "minor": [
+      "Composition is centred and symmetric, close to N12; the gain is the large soft foreground chair and the warm/cold contrast",
+      "Faint sparkle residue in the bottom-right only when contrast is boosted; invisible at native contrast"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "R47",
+    "replaces": "N12",
+    "file": "assets/flow2k_raw/molly-v2/R47/r1-1.png",
+    "scores": {
+      "beat": 9.5,
+      "character": 8.5,
+      "cinematic": 8,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 8.825,
+    "pass": false,
+    "defects": [
+      "Foreground chair is sharp (no depth falloff) and adds less than R47-2"
+    ],
+    "minor": [
+      "Faint sparkle residue only when contrast is boosted"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "R49",
+    "replaces": "N11",
+    "file": "assets/flow2k_raw/molly-v2/R49/r1-1.png",
+    "scores": {
+      "beat": 9.5,
+      "character": 8.5,
+      "cinematic": 9.5,
+      "style": 8.5,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 9.075,
+    "pass": true,
+    "defects": [],
+    "minor": [
+      "Line weight is lighter and more painterly than the AOT set (as in N11)",
+      "Alvin is tiny; identity comes from the blond head, green windbreaker and orange vest",
+      "Very faint dark smudge in the bottom-right corner; not noticeable at native size"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "R49",
+    "replaces": "N11",
+    "file": "assets/flow2k_raw/molly-v2/R49/r1-2.png",
+    "scores": {
+      "beat": 9.5,
+      "character": 8.5,
+      "cinematic": 9.5,
+      "style": 8,
+      "technical": 9,
+      "readability": 8.5
+    },
+    "total": 8.975,
+    "pass": false,
+    "defects": [
+      "Lens-flare orbs push it toward a painterly/photo look and away from the cel style"
+    ],
+    "minor": [
+      "Kayaker even smaller",
+      "Faint residue in the corner only when contrast is boosted"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "R50",
+    "replaces": "F28",
+    "file": "assets/flow2k_raw/molly-v2/R50/r1-1.png",
+    "scores": {
+      "beat": 9.5,
+      "character": 9,
+      "cinematic": 9.5,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 9
+    },
+    "total": 9.15,
+    "pass": true,
+    "defects": [],
+    "minor": [
+      "Thin black letterbox bars at top (~24px) and bottom; crop about 2% in the edit",
+      "Reflected figure is a dark silhouette (hair reads dark), which is fine for a dream"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "R50",
+    "replaces": "F28",
+    "file": "assets/flow2k_raw/molly-v2/R50/r1-2.png",
+    "scores": {
+      "beat": 9.5,
+      "character": 9,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 9
+    },
+    "total": 9.05,
+    "pass": true,
+    "defects": [
+      "Black bar at top (~24px)"
+    ],
+    "minor": [
+      "Eye more central; less striking than r1-1"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "R51",
+    "replaces": "F34",
+    "file": "assets/flow2k_raw/molly-v2/R51/r1-2.png",
+    "scores": {
+      "beat": 9.5,
+      "character": 9,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 8
+    },
+    "total": 8.95,
+    "pass": false,
+    "defects": [
+      "Wall notes and clipboards behind the lightbox carry scribbled pseudo-writing (top-left clipboard and the note at the right edge)",
+      "Black bar about 35px along the top edge",
+      "Foreground head is sharp, not out of focus, so the planned depth layering is weaker"
+    ],
+    "minor": [
+      "Tumour is a cauliflower-like glowing blob; vertebrae are stylised",
+      "Coat reads grey in the low light"
+    ],
+    "revised_prompt": "Over-the-shoulder insert, 85mm telephoto, in a dark 1982 Stanford radiology reading room: in the left foreground, large, dark and clearly out of focus with soft blurred edges, the shoulder and the back of the blond head of Alvin Cross (blond hair in a neat side part with silver-grey temples, white doctor coat collar), rim-lit cold white; in sharp focus in the right two-thirds, a single chest X-ray film clipped to a glowing wall lightbox, the ribcage, spine and heart shadow rendered in cold white and grey, a dense irregular soft-edged grey-white opacity in the upper right lung field, with natural spine and rib anatomy. The wall around the lightbox is bare dark slate with no papers, clipboards, notes, charts or extra films. The lightbox is the only light: cold blue-white glow spilling onto the dark slate wall and haloing the edge of his hair, deep black around, no labels or lettering on the film or anywhere, full-bleed image with no black bars or borders at any edge. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain, no text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+  },
+  {
+    "shot": "R51",
+    "replaces": "F34",
+    "file": "assets/flow2k_raw/molly-v2/R51/r1-1.png",
+    "scores": {
+      "beat": 9.5,
+      "character": 9,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 8,
+      "readability": 8
+    },
+    "total": 8.875,
+    "pass": false,
+    "defects": [
+      "Black bars along the top (35px) and left (35px)",
+      "Clipboards with table lines and scribbled pseudo-text on the wall"
+    ],
+    "minor": [
+      "Stylised spine"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "R52",
+    "replaces": "N05",
+    "file": "assets/flow2k_raw/molly-v2/R52/r1-2.png",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 7.5,
+      "style": 9,
+      "technical": 9,
+      "readability": 9.5
+    },
+    "total": 8.75,
+    "pass": false,
+    "defects": [
+      "Not clearly more cinematic than N05: the same flat top-down insert, evenly lit across the frame; the requested shadow pool, dust and depth are missing",
+      "Same top-down hands-on-paper angle as the preceding N04/R16 drawer shot, so two adjacent shots share a size and angle"
+    ],
+    "minor": [
+      "Hands read convincingly old (age spots, veins, wedding ring on the ring finger, 5 fingers each)",
+      "Pages are blank, which fixes N05's pseudo-handwriting"
+    ],
+    "revised_prompt": "Close-up, low angle at desk height from the side across the desk, 85mm telephoto, the folder in the right two-thirds and the soft out-of-focus rim of a tea mug in the left foreground, on a dark wooden desk at night in an old man's study, present day (not a top-down view): an open worn tan manila case folder in the centre, held open at its edges by two old man's hands with age spots and thin skin, the sleeves of a brown knit cardigan, a plain wedding band; inside the folder a few yellowed sheets of lined paper whose lines are completely empty, a paperclip, a blank index card, a fountain pen resting across the page. A single brass desk lamp just out of frame at the top throws a hard, tight warm pool of light onto the folder and hands only, with dust floating in its beam, the desk surface and the room beyond falling off into near-black brown shadow (low-key, chiaroscuro), shallow depth of field, still and heavy with memory, no handwriting, no letters, no text anywhere, hands simple with five fingers each. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain, no text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+  },
+  {
+    "shot": "R52",
+    "replaces": "N05",
+    "file": "assets/flow2k_raw/molly-v2/R52/r1-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 8.5,
+      "cinematic": 7.5,
+      "style": 9,
+      "technical": 9,
+      "readability": 9.5
+    },
+    "total": 8.65,
+    "pass": false,
+    "defects": [
+      "Same flat top-down composition as N05"
+    ],
+    "minor": [
+      "Hands slightly less aged than r1-2"
+    ],
+    "revised_prompt": ""
+  }
+]

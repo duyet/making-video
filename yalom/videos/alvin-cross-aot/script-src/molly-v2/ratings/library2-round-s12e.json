@@ -1,0 +1,42 @@
+[
+  {
+    "shot": "S12",
+    "replaces": "X06 (stand-in)",
+    "file": "assets/flow2k_raw/molly-v2/S12/r5-1.png",
+    "source": "1K",
+    "scores": {"beat": 7.5, "character": 7.5, "cinematic": 8, "style": 8.5, "technical": 8, "readability": 7.5},
+    "total": 7.78,
+    "pass": false,
+    "defects": [
+      "Head turned to camera-right in profile, looking OUT the door: no glance back toward the stairs on the left, so the last-look beat is lost",
+      "Hair renders near-black, not the dark chestnut-brown of M01/F30",
+      "Figure is jammed against the right frame edge: reaching hand and shoulder are cut off by the frame, so a Ken Burns move has no room on the right"
+    ],
+    "minor": [
+      "Long empty hallway, open tin and coat hook give good depth and a strong frame-within-frame, but the door is lit very bright and pulls the eye away from his face",
+      "No photos and no switch plate on the walls; no text; bottom-right corner clean (no sparkle)"
+    ],
+    "ai_tells": ["glossy rim light along the whole figure and the door edge"],
+    "better_than_current": false
+  },
+  {
+    "shot": "S12",
+    "replaces": "X06 (stand-in)",
+    "file": "assets/flow2k_raw/molly-v2/S12/r5-2.png",
+    "source": "1K",
+    "scores": {"beat": 9, "character": 9, "cinematic": 8.5, "style": 9, "technical": 8.5, "readability": 9},
+    "total": 8.83,
+    "pass": false,
+    "defects": [
+      "Weak frame-within-frame: the camera sees the door side-on, so the porch shows only as a thin strip at the right edge, not framed through the doorway; it reads more medium-wide than a small lone figure in a long dark house",
+      "The glance back is level and toward camera-left (the coat and hallway), not clearly up the staircase; the eye stays off the lens, so this is not a hard fail"
+    ],
+    "minor": [
+      "Hand on the door knob is simplified, with fingers merged into a fist; acceptable at this size",
+      "The round deadbolt/peephole above the knob is door hardware, not a switch plate; walls bare apart from the coat hook; no photos; no text",
+      "Small warm streetlamp glow at the right edge (mid-height) is round, not a 4-point sparkle; bottom-right corner clean"
+    ],
+    "ai_tells": [],
+    "better_than_current": true
+  }
+]

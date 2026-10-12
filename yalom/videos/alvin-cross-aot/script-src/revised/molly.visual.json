@@ -1,0 +1,242 @@
+{
+ "m01": {
+  "act": 1,
+  "beat": 1,
+  "timecode": "00:00–00:15",
+  "visual": "Wide shot: Tang lễ ngoài trời, nắng chiều chiếu qua tán cây. Yalom đứng giữa đám đông."
+ },
+ "m02": {
+  "act": 1,
+  "beat": 2,
+  "timecode": "00:00–00:15",
+  "visual": "Push-in: Máy quay tiến đến ảnh Molly bên những bó hoa. Dissolve vào ký ức."
+ },
+ "m03": {
+  "act": 1,
+  "beat": 1,
+  "timecode": "00:15–00:31",
+  "visual": "Montage nhanh: Molly sắp xếp hồ sơ → thanh toán hóa đơn → chỉ đạo đội thợ."
+ },
+ "m04": {
+  "act": 1,
+  "beat": 2,
+  "timecode": "00:15–00:31",
+  "visual": "Yalom đứng nhìn Molly chỉ đạo việc tỉa cây lớn trong vườn, vẻ bất lực. Match cut: Cánh tủ đóng → cổng tang lễ mở."
+ },
+ "m05": {
+  "act": 1,
+  "beat": 1,
+  "timecode": "00:31–00:53",
+  "visual": "Tracking shot: Yalom bước ra cổng, Alvin gọi ông lại."
+ },
+ "m06": {
+  "act": 1,
+  "beat": 2,
+  "timecode": "00:31–00:53",
+  "visual": "Medium shot: Alvin bắt tay Yalom và giới thiệu Monica. Ba người vui vẻ trao đổi, Monica mỉm cười nhìn chồng."
+ },
+ "m07": {
+  "act": 1,
+  "beat": 3,
+  "timecode": "00:31–00:53",
+  "visual": "Close-up: Ánh mắt Yalom bối rối, cố nhớ lại. Giảm âm thanh môi trường."
+ },
+ "m08": {
+  "act": 1,
+  "beat": 1,
+  "timecode": "00:53–01:07",
+  "visual": "Top shot: Yalom mở tủ hồ sơ, tay lướt qua các tập giấy → dừng ở hồ sơ Alvin."
+ },
+ "m09": {
+  "act": 1,
+  "beat": 2,
+  "timecode": "00:53–01:07",
+  "visual": "Extreme close-up: Lật trang giấy đầu tiên. Match cut: Trang giấy chuyển thành cánh cửa phòng trị liệu năm 1982."
+ },
+ "m10": {
+  "act": 2,
+  "beat": 1,
+  "timecode": "01:07–01:28",
+  "visual": "Establishing: Bệnh viện Stanford thập niên 1980."
+ },
+ "m11": {
+  "act": 2,
+  "beat": 2,
+  "timecode": "01:07–01:28",
+  "visual": "Alvin đứng xem phim X-quang trên bảng sáng → chuyển sang phòng trị liệu, hai người trao đổi."
+ },
+ "m12": {
+  "act": 2,
+  "beat": 3,
+  "timecode": "01:07–01:28",
+  "visual": "Close-up: Alvin cúi mắt khi nhắc đến Jason. Dissolve sang ký ức gia đình."
+ },
+ "m13": {
+  "act": 2,
+  "beat": 1,
+  "timecode": "01:28–01:56",
+  "visual": "Flashback: Bữa tối gia đình căng thẳng → Jason bỏ đi."
+ },
+ "m14": {
+  "act": 2,
+  "beat": 2,
+  "timecode": "01:28–01:56",
+  "visual": "Close-up: Điện thoại reo, Alvin nhận cuộc gọi → lái xe trên đường đất ở North Carolina."
+ },
+ "m15": {
+  "act": 2,
+  "beat": 3,
+  "timecode": "01:28–01:56",
+  "visual": "Wide shot: Hai anh em ngồi xa nhau trong căn nhà đơn sơ, lò sưởi đá nằm giữa khung hình. Alvin ngập ngừng muốn chạm vai Jason. Cut: Chiếc ghế trống."
+ },
+ "m16": {
+  "act": 2,
+  "beat": 1,
+  "timecode": "01:56–02:16",
+  "visual": "Medium shot: Alvin đứng lặng trong phòng đọc phim X-quang. Hình ảnh Jason thoáng xuất hiện như một ký ức."
+ },
+ "m17": {
+  "act": 2,
+  "beat": 2,
+  "timecode": "01:56–02:16",
+  "visual": "Trở về phòng trị liệu: Alvin cúi đầu, Yalom lặng lẽ lắng nghe. Slow pull-out: Hai người nhỏ dần trong khung hình."
+ },
+ "m18": {
+  "act": 2,
+  "beat": 1,
+  "timecode": "02:16–02:38",
+  "visual": "Dream sequence: Alvin nhìn gương → bóng chim đen bay ngang → đèn tối dần."
+ },
+ "m19": {
+  "act": 2,
+  "beat": 2,
+  "timecode": "02:16–02:38",
+  "visual": "Flash memory: Ảnh cha mẹ, hành lang bệnh viện, chiếc ghế trống."
+ },
+ "m20": {
+  "act": 2,
+  "beat": 3,
+  "timecode": "02:16–02:38",
+  "visual": "Cut: Alvin mở mắt trong phòng trị liệu, gương mặt căng thẳng. Chuyển: Tiếng cánh chim tan vào tiếng đồng hồ."
+ },
+ "m21": {
+  "act": 2,
+  "beat": 1,
+  "timecode": "02:38–02:56",
+  "visual": "Montage: Alvin ăn trong căng tin → chèo kayak một mình → trở về căn nhà lúc tối."
+ },
+ "m22": {
+  "act": 2,
+  "beat": 2,
+  "timecode": "02:38–02:56",
+  "visual": "Wide static: Alvin ăn tối ở bàn ăn chỉ có một người. Giữ hình chiếc ghế trống phía đối diện. Match cut: Chiếc ghế thành ghế trong phòng trị liệu."
+ },
+ "m23": {
+  "act": 2,
+  "beat": 1,
+  "timecode": "02:56–03:16",
+  "visual": "Montage sáng dần: Alvin làm việc bình tĩnh → ngủ yên → mỉm cười trong phòng trị liệu."
+ },
+ "m24": {
+  "act": 2,
+  "beat": 2,
+  "timecode": "02:56–03:16",
+  "visual": "Two-shot: Yalom nghiêng người hỏi chuyện, Alvin ngả lưng và khoanh tay, bắt đầu phòng thủ. Slow push-in vào nét mặt Alvin."
+ },
+ "m25": {
+  "act": 2,
+  "beat": 1,
+  "timecode": "03:16–03:34",
+  "visual": "Close-up: Alvin im lặng, nhìn tránh Yalom."
+ },
+ "m26": {
+  "act": 2,
+  "beat": 2,
+  "timecode": "03:16–03:34",
+  "visual": "Flash visual: Một phụ nữ đứng trước cửa nhà, rồi rời đi. Không cho thấy bên trong."
+ },
+ "m27": {
+  "act": 2,
+  "beat": 3,
+  "timecode": "03:16–03:34",
+  "visual": "Two-shot: Yalom đưa ra đề nghị, Alvin sững lại. Hard cut: Cánh cửa nhà Alvin vào buổi tối."
+ },
+ "m28": {
+  "act": 2,
+  "beat": 1,
+  "timecode": "03:34–04:01",
+  "visual": "POV reveal: Camera bước qua cửa, từ từ lộ căn nhà đầy đồ. Tracking dọc lối đi hẹp."
+ },
+ "m29": {
+  "act": 2,
+  "beat": 2,
+  "timecode": "03:34–04:01",
+  "visual": "Wide static: Alvin ngồi trên ghế, quay lưng nhìn cửa sổ. Yalom đứng ở phía xa. Giữ 2 giây im lặng."
+ },
+ "m30": {
+  "act": 2,
+  "beat": 3,
+  "timecode": "03:34–04:01",
+  "visual": "Slow tracking: Yalom tìm đường đến ghế gần Alvin. Ông ngồi xuống, cố trao đổi nhưng Alvin chỉ lắc đầu. Cut to black: Tiếng cửa đóng."
+ },
+ "m31": {
+  "act": 2,
+  "beat": 1,
+  "timecode": "04:01–04:15",
+  "visual": "Close-up: Điện thoại trên bàn reo. Yalom nghe máy, nét mặt dần trầm xuống."
+ },
+ "m32": {
+  "act": 2,
+  "beat": 2,
+  "timecode": "04:01–04:15",
+  "visual": "Ông đặt điện thoại, ngồi một mình bên hồ sơ. Match cut: Yalom trẻ đóng tập hồ sơ → Yalom lớn tuổi đóng tập hồ sơ ở hiện tại."
+ },
+ "m33": {
+  "act": 3,
+  "beat": 1,
+  "timecode": "04:15–04:27",
+  "visual": "Match cut: Hồ sơ đóng lại → Yalom lớn tuổi bước vào quán cà phê."
+ },
+ "m34": {
+  "act": 3,
+  "beat": 2,
+  "timecode": "04:15–04:27",
+  "visual": "Two-shot: Alvin và Yalom ngồi đối diện trò chuyện. Máy quay tiến gần vào Alvin khi Yalom nêu câu hỏi trong VO."
+ },
+ "m35": {
+  "act": 3,
+  "beat": 1,
+  "timecode": "04:27–04:48",
+  "visual": "Reaction shot: Alvin mỉm cười giải thích, Yalom ngạc nhiên."
+ },
+ "m36": {
+  "act": 3,
+  "beat": 2,
+  "timecode": "04:27–04:48",
+  "visual": "Montage ký ức: Molly bước vào căn nhà ngổn ngang → sắp xếp hồ sơ → căn phòng dần gọn gàng → thời gian trôi qua."
+ },
+ "m37": {
+  "act": 3,
+  "beat": 3,
+  "timecode": "04:27–04:48",
+  "visual": "Warm shot: Alvin và Monica bên ảnh gia đình với hai con. Dissolve về Yalom lặng người trong quán cà phê."
+ },
+ "m38": {
+  "act": 3,
+  "beat": 1,
+  "timecode": "04:48–05:00",
+  "visual": "Close-up: Yalom nhìn ra cửa sổ, ánh nắng chiều trên gương mặt."
+ },
+ "m39": {
+  "act": 3,
+  "beat": 2,
+  "timecode": "04:48–05:00",
+  "visual": "Soft dissolve: Molly trong ký ức đang chăm chú làm việc."
+ },
+ "m40": {
+  "act": 3,
+  "beat": 3,
+  "timecode": "04:48–05:00",
+  "visual": "Fade to black: Dòng chữ THANK YOU, MOLLY. Nhạc piano kết nhẹ."
+ }
+}

@@ -1,0 +1,64 @@
+[
+  {
+    "shot": "R14",
+    "file": "assets/flow2k_raw/molly-v2/R14/r1-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 8.5,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 8.9,
+    "pass": false,
+    "defects": [
+      "Hair falls forward in a fringe over the forehead and is cut by the top frame edge; the beat's hair fix (swept straight back, forehead clear) is not followed",
+      "Departing couple are fairly crisp mid-ground figures rather than deeply out-of-focus silhouettes, which weakens the telephoto separation",
+      "Background has a golden glow haze that reads close to mist against the 'clear air, no fog' Act 1 direction",
+      "Face sits nearer centre-left (~40% across) than a clean left third; blurred headstone has faint unreadable inscription marks (acceptable)"
+    ],
+    "revised_prompt": "Use the existing project image clean-F20 only as a composition reference and the existing project image clean-M05 and clean-R06 as the identity reference for aged Yalom. Close-up, eye level, 135mm telephoto: on a sunlit old California cemetery path, sunny late-afternoon golden-hour light in clear air, no fog, no mist, no haze. Head and shoulders on the left third of the frame with a little headroom above the hair, the top of the head not cropped: Dr. Yalom about 80, inspired by an aged Zeke Yeager, silver-white short tousled hair, full trimmed silver-white beard, round wire-rim glasses, kind tired eyes with deep crow's feet, slightly stooped; grey wool overcoat open over a brown knit cardigan; hair neat, short and swept straight back off the forehead in one smooth mass, both ears visible, not wild or flyaway; face lines drawn as a few fine soft lines. He is listening and trying to remember: one hand raised to his beard, fingers resting on the chin, eyes searching off to the right, brows faintly knitted, mouth closed; all hair combed back off the forehead, no fringe or strands falling over the brow, the forehead fully clear. Soft golden side light from the right across his face and glasses rims, warm rim on his silver-white hair; in the right background, at 135mm with very shallow depth of field so they are heavily blurred with no crisp outlines, the departing couple as two small soft silhouettes walking away (a tall man in a cream Panama hat and a small woman in black), weeping willows and blank headstones melting into golden bokeh under a clear blue-gold sky with no glow haze, open space on the right. every present-day face visibly 30+ years older than in 1982, consistent with clean-M05. Hand clean, five fingers. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain, no text, no letters, no captions, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+  },
+  {
+    "shot": "R15",
+    "file": "assets/flow2k_raw/molly-v2/R15/r1-1.png",
+    "scores": {
+      "beat": 8.5,
+      "character": 8.5,
+      "cinematic": 8,
+      "style": 9,
+      "technical": 7.5,
+      "readability": 8.5
+    },
+    "total": 8.3,
+    "pass": false,
+    "defects": [
+      "Open drawer geometry is broken: the drawer front faces camera at 90 degrees to the cabinet's other drawer fronts, which face left",
+      "Frame-within-frame only on the left (open door); there is no dark jamb on the right, and the cabinet runs off the right edge with Yalom's head at ~84% across, leaving little Ken Burns room",
+      "Lamp is on the far left, so Yalom is flatly lit; the glasses don't catch the lamp and there is no motivated warm pool on him or the drawer",
+      "Hair fringe falls forward instead of swept back; a tufted armchair stands in for M05's desk chair (acceptable); brass dome lamp, binders and night window match M05"
+    ],
+    "revised_prompt": "Use the existing project image clean-X03 only as a composition reference and the existing project image clean-M05 and clean-R06 as the identity reference for aged Yalom. Frame-within-frame medium-wide shot, eye level, 28mm lens with deep focus, seen from the dark hallway through the open study doorway at night: the door frame is a dark silhouette on BOTH sides: the open door edge forms a dark vertical band along the left edge and the opposite door jamb forms a dark vertical band along the right edge, so the whole study is seen inside the doorway, the hallway floor in deep shadow in the foreground. Inside, the same present-day home study as the attached clean-M05: dark wooden bookshelves full of books and upright binders, a worn brown tufted leather desk chair, a wooden desk with a coffee mug and a stack of books, a brass dome-shaded desk lamp glowing warm, a tall multi-pane window with a grey curtain showing deep blue night sky. Inside the doorway, on the right third and fully inside the frame with clear space between it and the right door jamb, a grey steel four-drawer filing cabinet standing against the right wall with its drawer fronts facing left toward the desk, the second drawer pulled straight out along its rails toward the left, its front panel parallel to the other drawer fronts, the folders visible from above, and standing at it on the left of the cabinet in three-quarter view from behind, his head well inside the frame, bending slightly with one hand resting on the tan manila folders inside, his face half turned so the glasses catch the lamp: Dr. Yalom about 80, inspired by an aged Zeke Yeager, silver-white short tousled hair, full trimmed silver-white beard, round wire-rim glasses, kind tired eyes with deep crow's feet, slightly stooped; grey wool overcoat open over a brown knit cardigan; hair neat, short and swept straight back off the forehead in one smooth mass, both ears visible, not wild or flyaway; face lines drawn as a few fine soft lines; no fringe falling over the forehead; indoors the grey overcoat is off and thrown over the leather chair, so he wears the brown knit cardigan over a shirt, dark trousers. Light: the brass desk lamp sits on the desk right beside the filing cabinet and is the single warm practical, a strong warm pool across the open drawer, his hands, the side of his face and his glasses, with a warm rim on his silver-white hair, the far side of the room darker, cool moonlit blue from the window on the far wall, the rest of the room in soft readable shadow, quiet concentration. All folder tabs, binder spines and papers blank. every present-day face visibly 30+ years older than in 1982, same man and same room as clean-M05. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain, no text, no letters, no captions, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+  },
+  {
+    "shot": "R16",
+    "file": "assets/flow2k_raw/molly-v2/R16/r1-1.png",
+    "scores": {
+      "beat": 6,
+      "character": 8,
+      "cinematic": 7.5,
+      "style": 9.5,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 7.8,
+    "pass": false,
+    "defects": [
+      "No top of Yalom's head or glasses rims at the bottom edge; this is a pure POV insert, nearly a copy of N04, and fails the R16 beat (a dark unreadable blob at bottom centre)",
+      "Being POV, it keeps the N04 -> N05 back-to-back POV-insert problem flagged in storyboard-fixes (e)",
+      "Only a sliver of the M05 study shows (floorboards, rug edge, lamp-base glow top right), so it can't be read as M05's room; aged hands, wedding band and cardigan cuffs are fine"
+    ],
+    "revised_prompt": "Use the existing project image clean-N04 only as a composition reference and the existing project image clean-M05 and clean-R06 as the identity reference for aged Yalom. Top shot from directly above and BEHIND Dr. Yalom's head, camera about one metre above him looking straight down past the back of his head into an open grey steel filing-cabinet drawer at night, 35mm lens, NOT a point-of-view shot: the back and top of his head and his shoulders occupy the bottom edge of the frame in the foreground; rows of tan manila folders with blank tabs fill the lower two thirds, one folder lifted halfway out at the centre by two hands as the focal point: the older hands and forearms of Dr. Yalom about 80, inspired by an aged Zeke Yeager, silver-white short tousled hair, full trimmed silver-white beard, round wire-rim glasses, kind tired eyes with deep crow's feet, slightly stooped; grey wool overcoat open over a brown knit cardigan; hair neat, short and swept straight back off the forehead in one smooth mass, both ears visible, not wild or flyaway; face lines drawn as a few fine soft lines; indoors the overcoat is off, so only the brown knit cardigan sleeves show over a shirt cuff, a plain wedding band, hands with a few fine soft lines, five fingers each; the top of his neat swept-back silver-white head (about the bottom fifth of the frame, centred, slightly soft in the foreground) and the gold rims and temple arms of his round wire-rim glasses clearly visible at the bottom edge of the frame, both arms reaching forward from his shoulders to the drawer; the drawer is smaller in the frame than a POV shot, filling the middle band, with the floor around it. Set in the same present-day home study as the attached clean-M05: dark wooden bookshelves full of books and upright binders, a worn brown tufted leather desk chair, a wooden desk with a coffee mug and a stack of books, a brass dome-shaded desk lamp glowing warm, a tall multi-pane window with a grey curtain showing deep blue night sky, so its dark wooden floorboards, a wide edge of the worn red rug and the brass dome desk-lamp glow on the top of the cabinet are visible around the drawer. Light: the single brass desk lamp from upper left throws a warm pool across the folders and hands, the drawer's depths and the floor fall to soft readable shadow, a faint cool blue night spill at one edge. No readable labels or text anywhere. every present-day face visibly 30+ years older than in 1982, same man and same study as clean-M05. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain, no text, no letters, no captions, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+  }
+]

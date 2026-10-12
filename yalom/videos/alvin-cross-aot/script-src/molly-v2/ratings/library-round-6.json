@@ -1,0 +1,218 @@
+[
+ {
+  "shot": "R57",
+  "replaces": "F26",
+  "file": "assets/flow2k_raw/molly-v2/R57/r1-1.png",
+  "scores": {
+   "beat": 7,
+   "character": 9,
+   "cinematic": 8,
+   "style": 8,
+   "technical": 8,
+   "readability": 9
+  },
+  "total": 8.05,
+  "pass": false,
+  "defects": [
+   "Clock reads ten past ten (hands at 10 and 2), not just past three; the beat's 3 a.m. cue is lost",
+   "Clock is in near-sharp focus beside the photo instead of softly out of focus",
+   "The snapshot is a crisp, saturated anime drawing in the same glossy style as the room (CINEMATIC 'Natural' tell): it does not read as a faded 1960s print",
+   "Will not intercut cleanly with assets/redraw/S13.png: S13 has a small dark wooden PORTRAIT frame, a nightstand with a drawer/knob and a red digital clock; here a landscape metal frame and a different clock"
+  ],
+  "minor": [
+   "1K softness",
+   "faint smudge-marks on the print's lower-right border and on the book cover (not readable)",
+   "parents' faces warm and natural (good, fixes the F26 stiff father); mother younger than 45"
+  ],
+  "revised_prompt": "Close-up insert, 85mm telephoto, camera at eye level with the top of a small worn wooden nightstand in a young man's small rented room at night, about 1972: in sharp focus in the left-centre of the frame, a small faded family snapshot in a small dark wooden frame in portrait orientation with a fold-out stand, standing on the nightstand (the same frame, nightstand and room as the wide shot of Alvin awake in bed: a small square wooden nightstand with one drawer and a round knob, a glass of water, a book, a switched-off lamp); the print itself looks like a real faded 1960s colour photograph, not a crisp drawing: a white paper border, washed-out colours with a yellowed cast, lifted greyish blacks, muted greens, visible film grain, slightly soft focus, a small crease in one corner. In the snapshot, outdoors in a sunny backyard with a hedge behind them: Alvin's father: man about 50, inspired by Grisha Yeager, dark hair tied back with grey streaks, round glasses, stubble, kind tired face; brown waistcoat over a white shirt with rolled sleeves; smiling easily with crinkles at the eyes and a slightly lopsided grin, shoulders angled toward his wife, looking at her rather than at the camera; beside him Alvin's mother: woman about 45, inspired by Carla Yeager, long dark hair tied low at the neck, gentle warm face, soft brown eyes; a plain cardigan over a blouse; laughing softly, head tilted toward him, a loving everyday moment. Beside the frame on the nightstand, softly out of focus: a round analogue wind-up alarm clock with a plain blank face (tick marks only, no numerals), its short hour hand just past the 3 and its long minute hand on the 2, ten past three, clearly not ten past ten, blurred by the shallow focus, a half-empty glass of water, a closed paperback with a plain cover. Behind, the dark room falls away into deep blue shadow: the soft edge of a rumpled bed and a curtained window. Cold blue moonlight from the window is the only light, falling across the photo glass with one soft reflection, quiet, lonely and sleepless. No newspapers, no lettering, no numbers, no text anywhere. Natural, candid film still, not posed: one motivated light source, matte shading, restrained atmosphere with no god rays, no floating dust and no bloom, lived-in worn props, every prop drawn in flat cel shading with ink outlines, nothing photographic, faces with real age, asymmetry and lines. Use the attached character sheet for the faces. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, cinematic 16:9 widescreen anime film still, painterly backgrounds with atmospheric perspective, shallow depth of field, film grain, no text, no letters, no numbers, no captions, no logos, no watermark.",
+  "edit_instruction": "Keep the composition. Turn the alarm clock hands to ten past three (short hour hand just past the 3, long minute hand on the 2) and blur the clock softly; fade the photo print only: desaturate, add a yellowed cast, lift the blacks, add film grain and slight softness so it looks like an old print; remove the faint marks on the print's lower-right border and on the book cover. If S13 is kept, also change the frame to a small dark wooden portrait-orientation frame."
+ },
+ {
+  "shot": "R57",
+  "replaces": "F26",
+  "file": "assets/flow2k_raw/molly-v2/R57/r1-2.png",
+  "scores": {
+   "beat": 7,
+   "character": 9,
+   "cinematic": 8,
+   "style": 6,
+   "technical": 8,
+   "readability": 7
+  },
+  "total": 7.65,
+  "pass": false,
+  "defects": [
+   "Room, table, glass and clock are rendered semi-photographically (real wood grain, photo bokeh), clashing with the AOT cel set",
+   "Blurred clock numerals are visible ('12' faintly legible) despite 'no numbers'; hands read ten past ten, not past three",
+   "Landscape metal frame and analogue clock will not match S13's portrait wooden frame and digital clock for the intercut"
+  ],
+  "minor": [
+   "1K softness",
+   "print reads more like a real snapshot (photo corners, faded warm cast) than r1-1 -- the best part of this take",
+   "parents warm and natural"
+  ],
+  "revised_prompt": "Close-up insert, 85mm telephoto, camera at eye level with the top of a small worn wooden nightstand in a young man's small rented room at night, about 1972: in sharp focus in the left-centre of the frame, a small faded family snapshot in a small dark wooden frame in portrait orientation with a fold-out stand, standing on the nightstand (the same frame, nightstand and room as the wide shot of Alvin awake in bed: a small square wooden nightstand with one drawer and a round knob, a glass of water, a book, a switched-off lamp); the print itself looks like a real faded 1960s colour photograph, not a crisp drawing: a white paper border, washed-out colours with a yellowed cast, lifted greyish blacks, muted greens, visible film grain, slightly soft focus, a small crease in one corner. In the snapshot, outdoors in a sunny backyard with a hedge behind them: Alvin's father: man about 50, inspired by Grisha Yeager, dark hair tied back with grey streaks, round glasses, stubble, kind tired face; brown waistcoat over a white shirt with rolled sleeves; smiling easily with crinkles at the eyes and a slightly lopsided grin, shoulders angled toward his wife, looking at her rather than at the camera; beside him Alvin's mother: woman about 45, inspired by Carla Yeager, long dark hair tied low at the neck, gentle warm face, soft brown eyes; a plain cardigan over a blouse; laughing softly, head tilted toward him, a loving everyday moment. Beside the frame on the nightstand, softly out of focus: a round analogue wind-up alarm clock with a plain blank face (tick marks only, no numerals), its short hour hand just past the 3 and its long minute hand on the 2, ten past three, clearly not ten past ten, blurred by the shallow focus, a half-empty glass of water, a closed paperback with a plain cover. Behind, the dark room falls away into deep blue shadow: the soft edge of a rumpled bed and a curtained window. Cold blue moonlight from the window is the only light, falling across the photo glass with one soft reflection, quiet, lonely and sleepless. No newspapers, no lettering, no numbers, no text anywhere. Natural, candid film still, not posed: one motivated light source, matte shading, restrained atmosphere with no god rays, no floating dust and no bloom, lived-in worn props, every prop drawn in flat cel shading with ink outlines, nothing photographic, faces with real age, asymmetry and lines. Use the attached character sheet for the faces. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, cinematic 16:9 widescreen anime film still, painterly backgrounds with atmospheric perspective, shallow depth of field, film grain, no text, no letters, no numbers, no captions, no logos, no watermark."
+ },
+ {
+  "shot": "R46",
+  "replaces": "F19",
+  "file": "assets/flow2k_raw/molly-v2/R46/r3-1.png",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 7,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.6,
+  "pass": false,
+  "defects": [
+   "Flat, even front light on a plain olive wall: no window light from the right, no shaped shadow side, so it reads as an illustration rather than a memory film frame (cinematic < 8)",
+   "Face sits centre-right looking right into the short side, not in the left two-thirds as framed"
+  ],
+  "minor": [
+   "1K softness",
+   "expression is right: worn and sad, inner brows slightly up, lids lowered, lips parted, no glare (fixes the R46 sidelong glare)",
+   "little of the p.79 defiance (chin level)",
+   "smoke wisp has no visible source (fine, cigarette below frame)"
+  ],
+  "revised_prompt": "Extreme close-up, 135mm telephoto, eye level, a faded memory of the dead brother: Jason Cross: man about 30, inspired by Eren Yeager, dark brown shoulder-length hair, green eyes, lean wiry build, light stubble; faded denim jacket over a grey work shirt; gaunt and worn beyond his years, hollow cheeks, faint lines under the eyes; his face in three-quarter profile turned toward frame right, placed in the left half of the frame with open space in front of him on the right, filling the frame from brow to chin, chin lifted a little in quiet defiance. His expression is worn, not hostile: brows relaxed and slightly raised at the inner corners, eyes tired and looking off to the side into the distance with the lids half-lowered, not focused on anything, mouth neutral to faintly downturned with the lips slightly parted, jaw slack. A thin curl of cigarette smoke drifts up across the lower frame from a cigarette held out of frame below. Soft, faded memory light with clear shape: a single warm window light from frame right rakes across his near cheekbone, nose and lower lip, while the far side of his face, his ear and his neck fall into one flat soft cel-shadow tone, still readable; a faint warm patch of window light on the wall behind him; an olive-green wall melting into creamy bokeh behind him, slightly washed-out colours like an old memory, no hands in frame. Natural, candid film still, not posed: one motivated light source, matte shading, restrained atmosphere with no god rays, no floating dust and no bloom, lived-in worn props, faces with real age, asymmetry and lines. Use the attached character sheet for the faces. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, cinematic 16:9 widescreen anime film still, painterly backgrounds with atmospheric perspective, shallow depth of field, film grain, no text, no letters, no numbers, no captions, no logos, no watermark.",
+  "edit_instruction": "Relight only: add a warm window light from frame right falling on his near cheek, nose and lips, put the far side of his face, ear and neck into one soft cel-shadow tone, add a faint warm light patch on the wall behind; keep face, expression, hair and smoke unchanged."
+ },
+ {
+  "shot": "R46",
+  "replaces": "F19",
+  "file": "assets/flow2k_raw/molly-v2/R46/r3-2.png",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 7.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.7,
+  "pass": false,
+  "defects": [
+   "Flat, even front light: the prompt's warm window light from the right and the soft shadow side are missing, so the memory frame has no light shape (cinematic < 8)",
+   "Face centred rather than in the left part of the frame with lead room"
+  ],
+  "minor": [
+   "1K softness",
+   "best expression of the round: weary, heavy-lidded sideways look, lips parted, chin slightly up for the quiet defiance; not a glare and not a smirk",
+   "blurred picture frame on the wall at left gives a little depth"
+  ],
+  "revised_prompt": "Extreme close-up, 135mm telephoto, eye level, a faded memory of the dead brother: Jason Cross: man about 30, inspired by Eren Yeager, dark brown shoulder-length hair, green eyes, lean wiry build, light stubble; faded denim jacket over a grey work shirt; gaunt and worn beyond his years, hollow cheeks, faint lines under the eyes; his face in three-quarter profile turned toward frame right, placed in the left half of the frame with open space in front of him on the right, filling the frame from brow to chin, chin lifted a little in quiet defiance. His expression is worn, not hostile: brows relaxed and slightly raised at the inner corners, eyes tired and looking off to the side into the distance with the lids half-lowered, not focused on anything, mouth neutral to faintly downturned with the lips slightly parted, jaw slack. A thin curl of cigarette smoke drifts up across the lower frame from a cigarette held out of frame below. Soft, faded memory light with clear shape: a single warm window light from frame right rakes across his near cheekbone, nose and lower lip, while the far side of his face, his ear and his neck fall into one flat soft cel-shadow tone, still readable; a faint warm patch of window light on the wall behind him; an olive-green wall melting into creamy bokeh behind him, slightly washed-out colours like an old memory, no hands in frame. Natural, candid film still, not posed: one motivated light source, matte shading, restrained atmosphere with no god rays, no floating dust and no bloom, lived-in worn props, faces with real age, asymmetry and lines. Use the attached character sheet for the faces. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, cinematic 16:9 widescreen anime film still, painterly backgrounds with atmospheric perspective, shallow depth of field, film grain, no text, no letters, no numbers, no captions, no logos, no watermark.",
+  "edit_instruction": "Relight only: add a warm window light from frame right raking across his near cheek, nose and lips, put the far side of his face, ear and neck in one soft cel-shadow tone, slightly warm and wash out the background wall; keep the face, expression, hair and smoke unchanged."
+ },
+ {
+  "shot": "R42",
+  "replaces": "N13",
+  "file": "assets/flow2k_raw/molly-v2/R42/r2-1.png",
+  "scores": {
+   "beat": 6,
+   "character": 8,
+   "cinematic": 5,
+   "style": 8,
+   "technical": 5,
+   "readability": 6
+  },
+  "total": 6.25,
+  "pass": false,
+  "defects": [
+   "Spatially broken: Alvin stands on a black vertical slab at the far right edge, far too large for the house and not in its doorway, while the actual front door stands wide open and empty -- reads as a split panel/composite",
+   "Alvin cut by the right frame edge, no room for a Ken Burns move",
+   "Door is wide open, not 'a hand's width', and he is not half-hidden by it"
+  ],
+  "minor": [
+   "1K softness",
+   "house is right: small stucco tract bungalow, streetlamp, fence, neighbour roof, papers and boxes in the window",
+   "woman's downcast walk is good; Alvin's face reads hurt (inner brows up, mouth down)"
+  ],
+  "revised_prompt": "Wide shot at dusk, 85mm telephoto from across a small front lawn, compressed depth, in a quiet 1980s Sunnyvale suburban street: a small plain 1980s California tract bungalow with clean, even pale beige stucco walls (no cracks, no grime stains) and wood trim, a small patchy lawn, a concrete front walk, a low hedge, neighbouring houses and a single streetlamp just coming on, a violet-blue dusk sky. The house is run-down only in small signs: faded drawn curtains and, through the front window, the dim shapes of stacked papers and boxes piled against the glass. In the right third, standing inside the doorway of this same house at the correct scale for the house, half-hidden behind its front door that is open only a hand's width, nothing of the interior visible past him, one hand on the door edge: Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, warm golden-blond hair in a neat side part with silver-grey only at the temples, strong angular jaw, heavy brows, blue eyes; olive knit sweater over a collared shirt, grey trousers; hurt and resigned: the inner corners of his brows raised, his eyes following her and then dropping toward the step, mouth closed with the corners slightly down and the lips pressed in embarrassment, half hidden by the door out of shame, not lurking. In the left-third foreground, walking away down the concrete walk toward the camera and softly out of focus: a woman early 30s, auburn shoulder-length hair, a cream cardigan over a floral blouse, a knee-length skirt, a handbag on her shoulder, face turned down, uneasy, not looking back. The warm porch lamp gives soft even light on the door and his face, no harsh under-lighting; the walk is a leading line between them. Natural, candid film still, not posed: one motivated light source, matte shading, restrained atmosphere with no god rays, no floating dust and no bloom, lived-in worn props, faces with real age, asymmetry and lines. Use the attached character sheet for the faces. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, cinematic 16:9 widescreen anime film still, painterly backgrounds with atmospheric perspective, shallow depth of field, film grain, no text, no letters, no numbers, no captions, no logos, no watermark."
+ },
+ {
+  "shot": "R42",
+  "replaces": "N13",
+  "file": "assets/flow2k_raw/molly-v2/R42/r2-2.png",
+  "scores": {
+   "beat": 9,
+   "character": 8.5,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.9,
+  "pass": false,
+  "defects": [
+   "Alvin's hair renders almost white/silver all over, so he reads older than the mid-30s anchor (blond with grey temples)",
+   "Stucco is heavily stained and cracked, reading derelict; the brief wants a plain tract house run-down only in the curtains and the papers in the window"
+  ],
+  "minor": [
+   "1K softness",
+   "Sunnyvale fix achieved: stucco bungalow, concrete walk, hedge, neighbouring houses, streetlamp, violet dusk",
+   "Alvin half-hidden behind the door with a hurt, resigned face (inner brows up, mouth down), not menacing; the woman downcast and soft in the foreground -- the beat lands",
+   "Alvin small in frame but readable"
+  ],
+  "revised_prompt": "Wide shot at dusk, 85mm telephoto from across a small front lawn, compressed depth, in a quiet 1980s Sunnyvale suburban street: a small plain 1980s California tract bungalow with clean, even pale beige stucco walls (no cracks, no grime stains) and wood trim, a small patchy lawn, a concrete front walk, a low hedge, neighbouring houses and a single streetlamp just coming on, a violet-blue dusk sky. The house is run-down only in small signs: faded drawn curtains and, through the front window, the dim shapes of stacked papers and boxes piled against the glass. In the right third, standing inside the doorway of this same house at the correct scale for the house, half-hidden behind its front door that is open only a hand's width, nothing of the interior visible past him, one hand on the door edge: Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, warm golden-blond hair in a neat side part with silver-grey only at the temples, strong angular jaw, heavy brows, blue eyes; olive knit sweater over a collared shirt, grey trousers; hurt and resigned: the inner corners of his brows raised, his eyes following her and then dropping toward the step, mouth closed with the corners slightly down and the lips pressed in embarrassment, half hidden by the door out of shame, not lurking. In the left-third foreground, walking away down the concrete walk toward the camera and softly out of focus: a woman early 30s, auburn shoulder-length hair, a cream cardigan over a floral blouse, a knee-length skirt, a handbag on her shoulder, face turned down, uneasy, not looking back. The warm porch lamp gives soft even light on the door and his face, no harsh under-lighting; the walk is a leading line between them. Natural, candid film still, not posed: one motivated light source, matte shading, restrained atmosphere with no god rays, no floating dust and no bloom, lived-in worn props, faces with real age, asymmetry and lines. Use the attached character sheet for the faces. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, cinematic 16:9 widescreen anime film still, painterly backgrounds with atmospheric perspective, shallow depth of field, film grain, no text, no letters, no numbers, no captions, no logos, no watermark.",
+  "edit_instruction": "Edit only two things: repaint the house walls as clean, even pale beige stucco (remove the grime stains and cracks, keep the faded curtains and the papers and boxes in the window); make Alvin's hair warm golden-blond with silver-grey only at the temples. Keep everything else, including both faces, unchanged."
+ },
+ {
+  "shot": "R58",
+  "replaces": "N08",
+  "file": "assets/flow2k_raw/molly-v2/R58/r1-1.png",
+  "scores": {
+   "beat": 6,
+   "character": 8,
+   "cinematic": 7,
+   "style": 9,
+   "technical": 8,
+   "readability": 7
+  },
+  "total": 7.3,
+  "pass": false,
+  "defects": [
+   "Alvin's face is a hard scowl at Jason (brows knitted low, mouth tight, intense stare): stern/judging, not awkward and tentative -- the exact AOT default CINEMATIC 'Expressions' rules out",
+   "Jason's head sits at the extreme right edge; no room for a Ken Burns move",
+   "Symmetrical left/right staging around the centred fireplace plus a lit lantern as a second light source (staged look)"
+  ],
+  "minor": [
+   "1K softness",
+   "Jason fixed per the book: skeletal, hollow-cheeked, sallow, under a blanket, smoking over an ashtray, worn guarded look",
+   "hands clasped and not reaching (good); stone fireplace impressive",
+   "Alvin's grey temples not visible"
+  ],
+  "revised_prompt": "Wide shot, 28mm, camera low near the hearth, pulled back so both men sit well inside the frame with clear margin at both side edges (Jason's head and shoulders at least a tenth of the frame width from the right edge), inside a tiny, cramped 1982 North Carolina shack, smaller than a hunting hut, rough pine-board walls, a worn braided rug, and dominating the room an impressive hand-built fieldstone fireplace that Jason built himself, its stones carefully fitted, the fire burnt low to embers. The fireplace stands between the two brothers as a wall of stone and distance. Right of the fireplace, hunched in a worn armchair under a grey wool blanket: Jason Cross: man about 33, inspired by Eren Yeager, dark brown shoulder-length hair gone thin and lank, ravaged by lung cancer and looking like an old man: skeletal, curled in on himself, sallow yellowish skin, hollow cheeks and temples, dark rings under the eyes, dull green irises (not pale or white), bony wrists; faded denim jacket hanging loose over a grey shirt; a cigarette smouldering between his thin fingers, a thread of smoke rising, an overflowing ashtray on the armrest; his face weary and guarded, eyes looking sideways at his brother under half-lowered lids, a tired flicker of defiance in the slight lift of his chin, mouth flat. Left of the fireplace, sitting stiffly upright on a hard wooden chair, keeping his distance: Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, strong angular jaw, heavy brows, blue eyes; white shirt with the dark tie loosened, grey trousers; awkward and tentative, not stern: the inner corners of his brows raised and the brows NOT knitted or lowered, the forehead smooth between the brows, eyes open and searching his brother's face, lips half-open as if about to speak and failing, jaw loose, no frown, hands clasped tightly between his knees, not reaching. Dim grey daylight from one small window on the left and the faint orange glow of the embers are the only light; the oil lantern on the mantel is unlit. Natural, candid film still, not posed: one motivated light source, matte shading, restrained atmosphere with no god rays, no floating dust and no bloom, lived-in worn props, faces with real age, asymmetry and lines. Use the attached character sheet for the faces. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, cinematic 16:9 widescreen anime film still, painterly backgrounds with atmospheric perspective, shallow depth of field, film grain, no text, no letters, no numbers, no captions, no logos, no watermark."
+ },
+ {
+  "shot": "R58",
+  "replaces": "N08",
+  "file": "assets/flow2k_raw/molly-v2/R58/r1-2.png",
+  "scores": {
+   "beat": 7,
+   "character": 8,
+   "cinematic": 7.5,
+   "style": 9,
+   "technical": 8,
+   "readability": 7
+  },
+  "total": 7.65,
+  "pass": false,
+  "defects": [
+   "Alvin's brows still knitted and lowered with a downturned mouth: reads brooding/disapproving, not tentative (inner brows not raised, lips not parted)",
+   "Jason's face and shoulder pressed against the right frame edge; Ken Burns has no room",
+   "Jason's irises render near-white, giving a blank, eerie stare"
+  ],
+  "minor": [
+   "1K softness",
+   "Jason's look is right: gaunt, sallow, old before his time, guarded sideways glance, cigarette smoke, blanket",
+   "stiff upright posture and clasped hands right",
+   "mantel cans and paper stacks have blank labels (no text)",
+   "Alvin's grey temples not visible"
+  ],
+  "revised_prompt": "Wide shot, 28mm, camera low near the hearth, pulled back so both men sit well inside the frame with clear margin at both side edges (Jason's head and shoulders at least a tenth of the frame width from the right edge), inside a tiny, cramped 1982 North Carolina shack, smaller than a hunting hut, rough pine-board walls, a worn braided rug, and dominating the room an impressive hand-built fieldstone fireplace that Jason built himself, its stones carefully fitted, the fire burnt low to embers. The fireplace stands between the two brothers as a wall of stone and distance. Right of the fireplace, hunched in a worn armchair under a grey wool blanket: Jason Cross: man about 33, inspired by Eren Yeager, dark brown shoulder-length hair gone thin and lank, ravaged by lung cancer and looking like an old man: skeletal, curled in on himself, sallow yellowish skin, hollow cheeks and temples, dark rings under the eyes, dull green irises (not pale or white), bony wrists; faded denim jacket hanging loose over a grey shirt; a cigarette smouldering between his thin fingers, a thread of smoke rising, an overflowing ashtray on the armrest; his face weary and guarded, eyes looking sideways at his brother under half-lowered lids, a tired flicker of defiance in the slight lift of his chin, mouth flat. Left of the fireplace, sitting stiffly upright on a hard wooden chair, keeping his distance: Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, strong angular jaw, heavy brows, blue eyes; white shirt with the dark tie loosened, grey trousers; awkward and tentative, not stern: the inner corners of his brows raised and the brows NOT knitted or lowered, the forehead smooth between the brows, eyes open and searching his brother's face, lips half-open as if about to speak and failing, jaw loose, no frown, hands clasped tightly between his knees, not reaching. Dim grey daylight from one small window on the left and the faint orange glow of the embers are the only light; the oil lantern on the mantel is unlit. Natural, candid film still, not posed: one motivated light source, matte shading, restrained atmosphere with no god rays, no floating dust and no bloom, lived-in worn props, faces with real age, asymmetry and lines. Use the attached character sheet for the faces. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, cinematic 16:9 widescreen anime film still, painterly backgrounds with atmospheric perspective, shallow depth of field, film grain, no text, no letters, no numbers, no captions, no logos, no watermark.",
+  "edit_instruction": "Change Alvin's face only: inner corners of the brows raised, no knit between the brows, eyes open and searching Jason's face, lips slightly parted as if about to speak, jaw loose; give Jason dull green irises; extend the canvas about 8% on the right (zoom out slightly) so Jason's head and shoulder sit clear of the frame edge. Keep everything else unchanged."
+ }
+]

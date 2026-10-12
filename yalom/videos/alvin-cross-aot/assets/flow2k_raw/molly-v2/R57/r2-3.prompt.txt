@@ -1,0 +1,3 @@
+[Flow in-place edits of lb-R57-r1a (R57/r1-1.png); the first attempt with the validator's wording was refused by Flow's policy filter, then two edits were applied in sequence:]
+1) Make the framed picture look like an old faded colour print with muted yellowed colours, soft focus and film grain; turn the alarm clock so its hands show about three o'clock and make the clock softly out of focus; keep everything else the same.
+2) Change only the alarm clock: the short hour hand points to the right at three and the long minute hand points just below it, and the clock is softly blurred like the background; keep everything else the same.

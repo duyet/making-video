@@ -1,0 +1,180 @@
+[
+  {
+    "shot": "R84",
+    "replaces": "R84",
+    "file": "assets/flow2k_raw/molly-v2/R84/r12-1.png",
+    "source": "1K",
+    "scores": {
+      "beat": 6,
+      "character": 8.5,
+      "cinematic": 7.5,
+      "style": 8.5,
+      "technical": 8,
+      "readability": 0
+    },
+    "total": 0,
+    "expression_ok": false,
+    "defects": [
+      "HARD FAIL: embroidery misspelled and readable, 'A'vin Crass' (malformed l/v, 'o' drawn as 'a'), not exactly 'Alvin Cross'.",
+      "Two pull-down projection screens hang behind the stage (a large pale one at the left edge, one mid-wall): unlit, but the book's point is a talk with no slides and the brief said no screen.",
+      "Alvin's face is a flat profile with lowered level brow and a plain attentive eye, mouth barely parted: neutral-attentive, not moved (no inner-brow lift, no soft eyes) - Expressions rule.",
+      "Alvin is a large near-foreground figure, head at ~78% across, coat running to ~90%: the right fifth is not clear and he is far above a third of frame height."
+    ],
+    "minor": [
+      "Foreground dark-haired head blocks the lower centre.",
+      "Visible pocket is on his right breast given his facing direction."
+    ],
+    "ai_tells": [
+      "everyone in the audience posed facing front in neat rows"
+    ],
+    "better_than_current": false,
+    "revised_prompt": "Use the attached AOT-CAST-SHEET as the reference for faces, outfits and line style only. Wide shot, 35mm, from the back of the hall at seated eye level, no person in the foreground, a 1982 Stanford medical conference hall with wood panelling, house lights up and warm, NO projector anywhere, NO projection screen, NO pull-down screen, NO blind, NO roller or white panel anywhere (the wall behind the stage and every side wall is plain unbroken wood panelling with nothing hanging on it); on the stage on the left third, at a plain wooden lectern with no notes, Dr. Yalom: man about 50, inspired by Zeke Yeager, short tousled dark-blond hair, full trimmed blond beard, round wire-rim glasses, kind tired eyes, medium build; brown knit cardigan over a shirt; speaking freely and warmly to the audience, one hand open, no slides; rows of doctors, many in white coats, listening; in the midground, seated in the audience about eight rows from the camera, small: his head and shoulders no taller than a quarter of the frame height, with several rows of seated doctors between him and the camera, his head at about 55% across and his whole body, shoulders and coat between 45% and 70% across, the right fifth of the frame only soft out-of-focus empty seat backs and wood panelling with no person in it, Alvin Cross: man in his early-to-mid 30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, angular jaw, blue eyes; white doctor coat, pale blue shirt, dark tie; his coat's breast pocket hidden behind the seat back in front of him so no lettering of any kind shows; his face turned three-quarters toward the stage on the left, angled slightly back toward the camera so both eyes, both brows and the mouth are visible (not a flat side profile), listening and quietly moved: eyebrows drawn as thin, high, gently curved lines well above the eyes with their inner ends lifted upward (a soft, touched look), no downward slant of the brows, no crease between them, upper eyelids relaxed and fully open, eyes soft and a little shiny, fixed on the speaker, lips slightly parted, jaw loose, leaning forward a little; never stern, never a hard stare. Anime illustration in the style of Attack on Titan (Wit Studio era): clean line art with medium tapered ink lines, flat cel shading with matte shadows, muted earthy palette of olive, slate grey, brick and dusty gold, restrained natural lighting from one motivated source, faces clearly readable with natural, unexaggerated expressions (no scowl, no glare, no smirk, never staring into the lens), cinematic 16:9 widescreen framing, cinematic anime film still, painterly but quiet background, gentle depth of field, light film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner, no black bars, full-bleed 16:9.",
+    "pass": false
+  },
+  {
+    "shot": "R84",
+    "replaces": "R84",
+    "file": "assets/flow2k_raw/molly-v2/R84/r12-2.png",
+    "source": "1K",
+    "scores": {
+      "beat": 6,
+      "character": 8.5,
+      "cinematic": 8,
+      "style": 8.5,
+      "technical": 8,
+      "readability": 0
+    },
+    "total": 0,
+    "expression_ok": false,
+    "defects": [
+      "HARD FAIL: embroidery readable and misspelled, 'Alvin Crnec'.",
+      "A pull-down screen hangs above the stage (unlit), against the no-slides brief.",
+      "Alvin in hard profile, brow low and level, mouth closed: stern/neutral, not moved - Expressions rule.",
+      "Alvin's coat reaches ~92% across and a wooden door jamb fills the right edge; more audience at the far right: right fifth not clear."
+    ],
+    "minor": [
+      "Large foreground head mid-frame."
+    ],
+    "ai_tells": [
+      "symmetrical rows of identical faces"
+    ],
+    "better_than_current": false,
+    "revised_prompt": "Use the attached AOT-CAST-SHEET as the reference for faces, outfits and line style only. Wide shot, 35mm, from the back of the hall at seated eye level, no person in the foreground, a 1982 Stanford medical conference hall with wood panelling, house lights up and warm, NO projector anywhere, NO projection screen, NO pull-down screen, NO blind, NO roller or white panel anywhere (the wall behind the stage and every side wall is plain unbroken wood panelling with nothing hanging on it); on the stage on the left third, at a plain wooden lectern with no notes, Dr. Yalom: man about 50, inspired by Zeke Yeager, short tousled dark-blond hair, full trimmed blond beard, round wire-rim glasses, kind tired eyes, medium build; brown knit cardigan over a shirt; speaking freely and warmly to the audience, one hand open, no slides; rows of doctors, many in white coats, listening; in the midground, seated in the audience about eight rows from the camera, small: his head and shoulders no taller than a quarter of the frame height, with several rows of seated doctors between him and the camera, his head at about 55% across and his whole body, shoulders and coat between 45% and 70% across, the right fifth of the frame only soft out-of-focus empty seat backs and wood panelling with no person in it, Alvin Cross: man in his early-to-mid 30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, angular jaw, blue eyes; white doctor coat, pale blue shirt, dark tie; his coat's breast pocket hidden behind the seat back in front of him so no lettering of any kind shows; his face turned three-quarters toward the stage on the left, angled slightly back toward the camera so both eyes, both brows and the mouth are visible (not a flat side profile), listening and quietly moved: eyebrows drawn as thin, high, gently curved lines well above the eyes with their inner ends lifted upward (a soft, touched look), no downward slant of the brows, no crease between them, upper eyelids relaxed and fully open, eyes soft and a little shiny, fixed on the speaker, lips slightly parted, jaw loose, leaning forward a little; never stern, never a hard stare. Anime illustration in the style of Attack on Titan (Wit Studio era): clean line art with medium tapered ink lines, flat cel shading with matte shadows, muted earthy palette of olive, slate grey, brick and dusty gold, restrained natural lighting from one motivated source, faces clearly readable with natural, unexaggerated expressions (no scowl, no glare, no smirk, never staring into the lens), cinematic 16:9 widescreen framing, cinematic anime film still, painterly but quiet background, gentle depth of field, light film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner, no black bars, full-bleed 16:9.",
+    "pass": false
+  },
+  {
+    "shot": "R91",
+    "replaces": "R91",
+    "file": "assets/flow2k_raw/molly-v2/R91/r4-1.png",
+    "source": "1K",
+    "scores": {
+      "beat": 7,
+      "character": 9,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 8.5
+    },
+    "total": 8.28,
+    "expression_ok": false,
+    "defects": [
+      "Expression still wrong: thick brow drawn low, slanting down toward the nose with knit lines and brow-ridge shadow, eye narrowed under it: grave/stern concentration, not relaxed brows lifted at the inner corners (Expressions rule; side profile cannot show the inner-corner lift)."
+    ],
+    "minor": [
+      "Embroidery correct ('Alvin Cross') but the pocket shows although the prompt put it below frame.",
+      "Hand spread flat on the glass rather than paused low and loose; reads a little like a raised wave.",
+      "Lightbox housing ends at ~79% across: right fifth just clear.",
+      "Ghost face reads as an older patient, gender soft."
+    ],
+    "ai_tells": [],
+    "better_than_current": false,
+    "revised_prompt": "Use the attached AOT-CAST-SHEET as the reference for faces, outfits and line style only. Medium close-up, 85mm, dim 1982 radiology reading room at Stanford: a chest X-ray film clipped to a small glowing wall lightbox in the centre of the frame; the lightbox, including its dark metal housing, ends at seventy percent of the frame width, and the right quarter of the frame is plain dark slate wall with nothing in it, ribs and heart shadow in cold white and grey, and faintly visible within the film, as if seen through it, the soft ghostly face of an older woman patient with closed eyes and grey hair, a pale translucent shape over the ribcage; on the left third, in three-quarter view with his face turned partly toward the camera (the camera stands slightly beside the lightbox looking back at him, so both eyes and the inner ends of both brows are visible; not a side profile), his eyes on the ghostly face in the film, never toward the viewer, Alvin Cross: man in his early-to-mid 30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, angular jaw, blue eyes; white doctor coat with \"Alvin Cross\" embroidered in dark blue on the left breast pocket, pale blue shirt, dark tie; his expression is quietly moved and a little shaken, as if for the first time he is imagining the patient's face while hearing his findings: each eyebrow drawn as a thin, light blond, high, gently curved line (much thinner and paler than the cast sheet's heavy brow) set well above the eye with clear skin between brow and upper lid, its inner end lifted slightly UPWARD toward the forehead (a soft worried tilt, like someone hearing sad news), absolutely no downward slant of the brow toward the nose, no brow ridge shadow, no crease lines between or above the brows, upper eyelid relaxed and fully open showing the round iris, eyes soft and a little wet, lips slightly parted, jaw loose, the face of a man gently moved and saddened, never stern, never intense, never concentrating; his right hand has paused low near the bottom edge of the film, fingers loose and slightly curled, not raised like a wave; the breast pocket is below the bottom of the frame; the cold blue-white lightbox glow falls softly across his face and blond hair so the expression reads clearly; the rest of the room in slate shadow; no readable markings on the film. Anime illustration in the style of Attack on Titan (Wit Studio era): clean line art with medium tapered ink lines, flat cel shading with matte shadows, muted earthy palette of olive, slate grey, brick and dusty gold, restrained natural lighting from one motivated source, faces clearly readable with natural, unexaggerated expressions (no scowl, no glare, no smirk, never staring into the lens), cinematic 16:9 widescreen framing, cinematic anime film still, painterly but quiet background, gentle depth of field, light film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner, no black bars, full-bleed 16:9.",
+    "pass": false
+  },
+  {
+    "shot": "R91",
+    "replaces": "R91",
+    "file": "assets/flow2k_raw/molly-v2/R91/r4-2.png",
+    "source": "1K",
+    "scores": {
+      "beat": 6.5,
+      "character": 9,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 8.5
+    },
+    "total": 8.15,
+    "expression_ok": false,
+    "defects": [
+      "Expression stern: heavy brow pressed low and knit over a narrowed eye, mouth slightly open: intent/troubled, not quietly moved (Expressions rule)."
+    ],
+    "minor": [
+      "Hand cut by the bottom edge; housing ends at ~80% across, right fifth barely clear.",
+      "No embroidery visible (fine)."
+    ],
+    "ai_tells": [],
+    "better_than_current": false,
+    "revised_prompt": "Use the attached AOT-CAST-SHEET as the reference for faces, outfits and line style only. Medium close-up, 85mm, dim 1982 radiology reading room at Stanford: a chest X-ray film clipped to a small glowing wall lightbox in the centre of the frame; the lightbox, including its dark metal housing, ends at seventy percent of the frame width, and the right quarter of the frame is plain dark slate wall with nothing in it, ribs and heart shadow in cold white and grey, and faintly visible within the film, as if seen through it, the soft ghostly face of an older woman patient with closed eyes and grey hair, a pale translucent shape over the ribcage; on the left third, in three-quarter view with his face turned partly toward the camera (the camera stands slightly beside the lightbox looking back at him, so both eyes and the inner ends of both brows are visible; not a side profile), his eyes on the ghostly face in the film, never toward the viewer, Alvin Cross: man in his early-to-mid 30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, angular jaw, blue eyes; white doctor coat with \"Alvin Cross\" embroidered in dark blue on the left breast pocket, pale blue shirt, dark tie; his expression is quietly moved and a little shaken, as if for the first time he is imagining the patient's face while hearing his findings: each eyebrow drawn as a thin, light blond, high, gently curved line (much thinner and paler than the cast sheet's heavy brow) set well above the eye with clear skin between brow and upper lid, its inner end lifted slightly UPWARD toward the forehead (a soft worried tilt, like someone hearing sad news), absolutely no downward slant of the brow toward the nose, no brow ridge shadow, no crease lines between or above the brows, upper eyelid relaxed and fully open showing the round iris, eyes soft and a little wet, lips slightly parted, jaw loose, the face of a man gently moved and saddened, never stern, never intense, never concentrating; his right hand has paused low near the bottom edge of the film, fingers loose and slightly curled, not raised like a wave; the breast pocket is below the bottom of the frame; the cold blue-white lightbox glow falls softly across his face and blond hair so the expression reads clearly; the rest of the room in slate shadow; no readable markings on the film. Anime illustration in the style of Attack on Titan (Wit Studio era): clean line art with medium tapered ink lines, flat cel shading with matte shadows, muted earthy palette of olive, slate grey, brick and dusty gold, restrained natural lighting from one motivated source, faces clearly readable with natural, unexaggerated expressions (no scowl, no glare, no smirk, never staring into the lens), cinematic 16:9 widescreen framing, cinematic anime film still, painterly but quiet background, gentle depth of field, light film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner, no black bars, full-bleed 16:9.",
+    "pass": false
+  },
+  {
+    "shot": "S18",
+    "replaces": "S18",
+    "file": "assets/flow2k_raw/molly-v2/S18/r2-1.png",
+    "source": "1K",
+    "scores": {
+      "beat": 7.5,
+      "character": 8,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 7.5
+    },
+    "total": 8.1,
+    "expression_ok": false,
+    "defects": [
+      "Brow is the AOT default, drawn low over the eye with a crease, inner end not lifted: with lowered eye and tight mouth it reads sullen/brooding, not ashamed (Expressions rule; same flaw as r1-1).",
+      "Alvin's head sits at ~85-93% across and his legs run off the right edge: subject inside the right fifth, no Ken Burns room.",
+      "Background figure has dark hair and only a moustache, no glasses or beard: does not read as Yalom."
+    ],
+    "minor": [
+      "No window or blinds visible, so the cut into R56 relies on the chair alone (chair now matches: mottled brown fabric).",
+      "Light-switch plate in the doorway (no text)."
+    ],
+    "ai_tells": [],
+    "better_than_current": false,
+    "revised_prompt": "Use the attached AOT-CAST-SHEET as the reference for faces, outfits and line style only. Medium close-up, 85mm, the reverse angle of the previous shot of the same room, from the window side looking back into the room: Alvin on the right third with his head at about 68% across and his far shoulder ending at about 82% across so a clear strip of window and wall shows beyond him, seen from the top of his head to his lap with a clear band of shadowed wall above his hair (his hair never touching the top edge), in the same worn armchair as before, a squat armchair upholstered in mottled, faded brown fabric with a low rounded back on short exposed wooden legs (not leather), turned toward the window, his face in three-quarter profile lit by the cool evening window light, the hoarded room behind him falling into shadow: a narrow aisle between floor-to-ceiling towers of tied blank newspapers and books leading back to a dark doorway, the edge of the same tall window with half-open venetian blinds clearly visible at the far right edge of the frame, its cold light falling on his face, and far behind at the end of the aisle, about fifteen paces away, in soft focus, the small soft silhouette of Dr. Yalom (round wire-rim glasses catching a glint, full blond beard, tousled dark-blond hair, not a moustache alone) in a grey overcoat seated on a small wooden chair near the doorway, leaning forward with his hands open; Sunnyvale bungalow in 1982 at 7:30 in the evening, cold blue-grey window light from the right as the single source, only a faint warm glow from the hallway beyond the doorway, no table lamp: Alvin Cross: man in his early-to-mid 30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, angular jaw, blue eyes; olive knit sweater over a collared shirt, grey trousers; sitting turned away from the room, arms crossed tight with both hands tucked out of sight under the opposite arms, shoulders closed and slightly hunched, ashamed: eyes lowered to the floor away from the room, upper lids dropped, brows NOT lowered over the eyes: the inner ends of the brows tilted gently upward with a faint crease above them, smooth between the brows, mouth a tight unhappy line with the corners turned slightly down, jaw tight but not clenched in anger, a faint flush on the cheek; the face of a man who is embarrassed and hurt, not scowling, not glaring, not stern. Every paper and spine completely blank. Anime illustration in the style of Attack on Titan (Wit Studio era): clean line art with medium tapered ink lines, flat cel shading with matte shadows, muted earthy palette of olive, slate grey, brick and dusty gold, restrained natural lighting from one motivated source, faces clearly readable with natural, unexaggerated expressions (no scowl, no glare, no smirk, never staring into the lens), cinematic 16:9 widescreen framing, cinematic anime film still, painterly but quiet background, gentle depth of field, light film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner, no black bars, full-bleed 16:9.",
+    "pass": false
+  },
+  {
+    "shot": "S18",
+    "replaces": "S18",
+    "file": "assets/flow2k_raw/molly-v2/S18/r2-2.png",
+    "source": "1K",
+    "scores": {
+      "beat": 8.5,
+      "character": 8,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 8
+    },
+    "total": 8.4,
+    "expression_ok": true,
+    "defects": [
+      "Background figure has light-brown hair and a moustache only, no round glasses or full beard: soft silhouette, but it does not read as Yalom (character).",
+      "No window or venetian blinds in frame, though the brief asks for the same window as R56 to sell the cut; total under 9.0."
+    ],
+    "minor": [
+      "Expression right: brows drawn together with inner ends lifted, eyes lowered, flush on the cheek, mouth a tight down-turned line - ashamed, not scowling.",
+      "Chair matches R56 (mottled brown fabric).",
+      "Alvin's shoulder reaches the right edge, head at ~83%: limited Ken Burns room.",
+      "Light-switch plate by the doorway (no text)."
+    ],
+    "ai_tells": [],
+    "better_than_current": true,
+    "revised_prompt": "Use the attached AOT-CAST-SHEET as the reference for faces, outfits and line style only. Medium close-up, 85mm, the reverse angle of the previous shot of the same room, from the window side looking back into the room: Alvin on the right third with his head at about 68% across and his far shoulder ending at about 82% across so a clear strip of window and wall shows beyond him, seen from the top of his head to his lap with a clear band of shadowed wall above his hair (his hair never touching the top edge), in the same worn armchair as before, a squat armchair upholstered in mottled, faded brown fabric with a low rounded back on short exposed wooden legs (not leather), turned toward the window, his face in three-quarter profile lit by the cool evening window light, the hoarded room behind him falling into shadow: a narrow aisle between floor-to-ceiling towers of tied blank newspapers and books leading back to a dark doorway, the edge of the same tall window with half-open venetian blinds clearly visible at the far right edge of the frame, its cold light falling on his face, and far behind at the end of the aisle, about fifteen paces away, in soft focus, the small soft silhouette of Dr. Yalom (round wire-rim glasses catching a glint, full blond beard, tousled dark-blond hair, not a moustache alone) in a grey overcoat seated on a small wooden chair near the doorway, leaning forward with his hands open; Sunnyvale bungalow in 1982 at 7:30 in the evening, cold blue-grey window light from the right as the single source, only a faint warm glow from the hallway beyond the doorway, no table lamp: Alvin Cross: man in his early-to-mid 30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, angular jaw, blue eyes; olive knit sweater over a collared shirt, grey trousers; sitting turned away from the room, arms crossed tight with both hands tucked out of sight under the opposite arms, shoulders closed and slightly hunched, ashamed: eyes lowered to the floor away from the room, upper lids dropped, brows NOT lowered over the eyes: the inner ends of the brows tilted gently upward with a faint crease above them, smooth between the brows, mouth a tight unhappy line with the corners turned slightly down, jaw tight but not clenched in anger, a faint flush on the cheek; the face of a man who is embarrassed and hurt, not scowling, not glaring, not stern. Every paper and spine completely blank. Anime illustration in the style of Attack on Titan (Wit Studio era): clean line art with medium tapered ink lines, flat cel shading with matte shadows, muted earthy palette of olive, slate grey, brick and dusty gold, restrained natural lighting from one motivated source, faces clearly readable with natural, unexaggerated expressions (no scowl, no glare, no smirk, never staring into the lens), cinematic 16:9 widescreen framing, cinematic anime film still, painterly but quiet background, gentle depth of field, light film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner, no black bars, full-bleed 16:9.",
+    "pass": false
+  }
+]

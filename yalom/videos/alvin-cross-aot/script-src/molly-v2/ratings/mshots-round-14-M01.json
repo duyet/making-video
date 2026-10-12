@@ -1,0 +1,53 @@
+[
+  {
+    "shot": "M01",
+    "file": "assets/flow2k_raw/molly-v2/M01/c14-1.png",
+    "scores": {"beat": 7.5, "character": 8.5, "cinematic": 7, "style": 9, "technical": 8.5, "readability": 8.5},
+    "total": 8.0,
+    "pass": false,
+    "defects": [
+      "Right-fifth rule broken: the grandmother (~78-88%) and grandfather (~85-100%) both sit in the right fifth, and the right edge cuts the grandfather's head and shoulder",
+      "Couple not cuddling: Jason and the fiancée sit side by side with a gap between them, no arm round her shoulders and no lean, which loses the book's 'âu yếm nhau suốt cả buổi'",
+      "Expressions: two hard frowns. The fiancée scowls with heavy low brows, and her eyes slide to screen-right toward Alvin and the elders, not toward Jason. Jason in profile has lowered brows and a hard stare, so he reads as glaring, not hurt. Alvin's mild knit is acceptable",
+      "The mother's worried face is right (inner brows up), but her gaze sits close to the lens",
+      "Good: the grandparents are present and read as shocked (the grandfather frozen with his fork, the grandmother lips pressed). The father, off-centre at ~67%, cuts his meat and looks toward the couple, away from the lens. Alvin is 19, blond, no grey. The fiancée has freckles, a ponytail with loose strands, a leather jacket, a cheap floral blouse and red nails",
+      "Hands: fingers clean, five each where visible. No sparkle or readable text (the light-switch plate is unreadable). Ages correct",
+      "The figures sit in one long staged row on the far side; the near side is empty apart from Jason"
+    ],
+    "expression_ok": false,
+    "revised_prompt": "Edit in place: (1) remove the grandmother and grandfather from the right side, extend the wallpaper, window and curtain across the right fifth, and re-seat the grandparents at the far end of the table between the mother and the father (grandfather frozen with his fork mid-air, eyes wide toward the couple; grandmother with a hand at her mouth); (2) close the gap between Jason and the fiancée: his arm round her shoulders, her head leaning toward him, her messy ponytail strands touching his shoulder; (3) soften the fiancée: chin up, brows only slightly lowered, eyes sliding sideways toward Jason, mouth set, uneasy rather than scowling; (4) Jason: inner brow corners raised, eyes hurt and slightly lowered, mouth tight, no glare; (5) mother's eyes turned toward her husband, not the camera. Keep the style, lamp, table and the rest unchanged."
+  },
+  {
+    "shot": "M01",
+    "file": "assets/flow2k_raw/molly-v2/M01/c14-2.png",
+    "scores": {"beat": 7, "character": 8.5, "cinematic": 6.5, "style": 9, "technical": 8.5, "readability": 8.5},
+    "total": 7.78,
+    "pass": false,
+    "defects": [
+      "Hard fail: the fiancée stares straight into the lens with a frown",
+      "The father sits frontal near the centre (~63%), squared to the camera with his gaze at or near the lens, which is the exact defect the brief names",
+      "Right-fifth rule broken: Alvin fills ~84-100% in the foreground and the right edge cuts his shoulder and arm",
+      "Couple close but not cuddling: no arm round her and no lean",
+      "Good: Jason has the right expression (inner brows up, eyes down, hurt rather than glaring). The mother is worried and looking at the couple. The grandfather is open-mouthed and shocked, the grandmother stiff. Alvin, 19 and blond, looks down, uncomfortable. The fiancée's bright orange patterned blouse, freckles and leather jacket are right",
+      "Hands: fingers clean. No sparkle or readable text. Ages correct"
+    ],
+    "expression_ok": false,
+    "revised_prompt": "Not close enough to fix in place (the father is centred and frontal, Alvin is cut by the right edge, the fiancée looks into the lens). Use c14-1 as the base edit instead, or regenerate with the c14 prompt plus: 'the father at the far left end of the table in three-quarter profile, turned toward his wife; Alvin seated on the far side between the mother and the grandparents, fully inside the left four-fifths; the fiancée's eyes on Jason, never on the camera'."
+  },
+  {
+    "shot": "M01",
+    "file": "assets/redraw/M01.png",
+    "scores": {"beat": 6, "character": 8.5, "cinematic": 7.5, "style": 9, "technical": 9, "readability": 8.5},
+    "total": 7.8,
+    "pass": false,
+    "defects": [
+      "Re-rated under the new rules (was 9.08 in round 13): no grandparents, and the mother appears only as a blurred, cut-off back of a head at the right edge, so the 'parents and grandparents' brief is missed",
+      "Expressions: three hard frowns. The fiancée scowls sideways, Jason glares, and Alvin glares at the father. This fails the 'at most one hard frown' rule and the face-audit brief (Jason hurt, Alvin uncomfortable)",
+      "The couple sit stiffly with only a hand clasp and neat hair, not tousled and cuddling",
+      "The right edge cuts a foreground figure (the mother's head and shoulder at ~88-100%), which breaks the right-fifth rule",
+      "Good: the father is off the lens with a stiff, shocked look. Ages are right (Alvin 19, blond). No text or sparkle; fingers clean"
+    ],
+    "expression_ok": false,
+    "revised_prompt": "Superseded: build from c14-1 with the in-place edit given above."
+  }
+]

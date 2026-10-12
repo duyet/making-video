@@ -1,0 +1,192 @@
+[
+  {
+    "shot": "R41",
+    "replaces": "F27",
+    "file": "assets/flow2k_raw/molly-v2/R41/r4-3.png",
+    "scores": {
+      "beat": 9,
+      "character": 8.5,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 9
+    },
+    "total": 8.825,
+    "pass": false,
+    "defects": [
+      "The gaze edit worked on the reflection (head now three-quarter toward frame right, eyes meeting the real Alvin) but it also changed the real Alvin's face: wide eyes, parted lips and sweat drop from r3-3 are gone, now a closed-mouth grim stare, so real and reflected expressions no longer match (the r3-2 defect is back)",
+      "Black empty triangles from the rotated canvas in the top-left and top-right corners (also present in r3-3), about x=0-130,y=0-60 and x=2650-2752,y=0-80 at full size"
+    ],
+    "minor": [
+      "Real Alvin's hair still reads darker ash grey than the pale blond reflection",
+      "Reflection still sits centred in the mirror rather than just left of his head (acceptable dream logic now that the gaze is right)",
+      "Curved dark fold strokes across the pyjama back at lower right",
+      "1K upsample: soft",
+      "Corner clean, no sparkle",
+      "Net: not an improvement over r3-3 (8.975); r3-3 stays the best R41"
+    ],
+    "revised_prompt": "Medium shot with a clear 10-degree dutch tilt drawn into the scene itself (no black triangles or empty canvas in any corner, tiles continue to every edge), inside a small grimy tiled 1980s bathroom at night, nightmare, near-monochrome cold blue-grey: the mirror over the sink is a frame within the frame in the left half; the camera is just behind Alvin's right shoulder; Alvin Cross stands in the right third leaning on the sink, his head turned toward the mirror so we see his face in three-quarter rear view (right cheek, jaw, ear, one wide eye): Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, strong angular jaw, heavy brows, blue eyes, guarded calm; striped cotton pyjamas; frozen, his real face clearly terrified: eyes wide, brows raised, lips parted, a bead of sweat at the temple, exactly the same expression as his reflection, his hair the same pale blond as in the mirror. In the mirror his reflection is a physically correct mirror image: the same face seen in three-quarter view, its head turned toward frame right and its eyes looking straight back at his own real eyes, not at the camera, the same frightened open-mouthed expression and the same pyjamas; looming behind his reflection and filling the mirror's upper half, a huge black raven with wings spread, matte blue-black feathers, hooked beak, one gleaming eye. A single bare bulb above the mirror is the only light: hard top light, deep black shadows, cold highlights on tiles and his face, cracked grout and water stains on the tiles, no scribbles or marks, readable not murky, 35mm lens. Natural, candid film still, not posed: one motivated light source, matte shading, restrained atmosphere with no stacked god rays, dust and bloom, lived-in worn props, faces with real age, asymmetry and lines, hands doing something purposeful. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, no text, no captions, no watermark.",
+    "edit_instruction": "Edit r4-3 in place: change only the real Alvin's face on the right to match his reflection: eyes wide, brows raised, lips parted in fear, a bead of sweat at the temple, and his hair the same pale blond as the reflection; extend the grey tile wall into the black triangles in the top-left and top-right corners; keep the reflection's turned gaze, the raven, the light and the tilt unchanged."
+  },
+  {
+    "shot": "R43",
+    "replaces": "X07",
+    "file": "assets/flow2k_raw/molly-v2/R43/r4-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 9.0,
+    "pass": true,
+    "defects": [],
+    "minor": [
+      "Exact side profile finally delivered, clearly not X07's from-behind layout",
+      "Gaunt read is good: dark circles, hollow cheek, stubble, thin neck with tendon",
+      "Hand hovers just in front of his shoulder/collarbone rather than directly above the point of the shoulder; still reads as a hesitant reach",
+      "Eyes read hazel-grey rather than the anchor's green",
+      "Crown of Jason's hair cropped by the top edge (normal for a close-up)",
+      "Sparkle-checker flag at bottom-right is a dark cross where fieldstone mortar lines meet, not a sparkle; png corner clean at boosted contrast. Note: r4-1.orig.jpg/1k.jpg (uncropped Flow output) DO carry the Flow sparkle; only use the cropped png",
+      "1K upsample: soft; the crop lost the fireplace fire"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "R43",
+    "replaces": "X07",
+    "file": "assets/flow2k_raw/molly-v2/R43/r4-2.png",
+    "scores": {
+      "beat": 8.5,
+      "character": 9,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 8.5
+    },
+    "total": 8.825,
+    "pass": false,
+    "defects": [
+      "Hand hovers in front of Jason's chin and throat, not above his shoulder, so it reads as reaching for his face more than hesitating to touch his shoulder"
+    ],
+    "minor": [
+      "More of his crown cut by the top edge than r4-1",
+      "Denim shirt chest pockets read well; gaunt face good",
+      "Dark picture frame top-left is blank",
+      "Corner clean",
+      "1K upsample: soft"
+    ],
+    "revised_prompt": "Close-up in exact side profile, 85mm telephoto, camera at shoulder height and 90 degrees to Jason, in a plain 1982 North Carolina house with pine-board walls, against a bright window behind him: in the left half, in sharp focus, Jason seated sideways to camera in a worn armchair, his head in clean right-facing profile, eyes lowered, head slightly bowed, with clear headroom above his hair: Jason Cross: man about 30, inspired by Eren Yeager, dark brown shoulder-length hair, intense green eyes, defiant tired stare, lean wiry build, light stubble; faded denim jacket over a grey work shirt, dusty work jeans, boots; visibly gaunt and dying: sunken cheek, hollow temple, dark circles, thin neck, a grey wool blanket over his shoulders. Entering from the right edge at shoulder height, the right hand of Alvin Cross: man mid-30s, inspired by Erwin Smith; pale blue shirt sleeve rolled to the forearm, plain steel wristwatch, fingers half-curled and hesitating an inch directly above the top of Jason's near shoulder (not in front of his face or chest), not touching; the gap between hand and shoulder against the bright window at the centre of frame, background a soft warm blur of pine boards and a fieldstone fireplace, hand with five fingers, quiet and tense. Natural, candid film still, not posed: one motivated light source, matte shading, restrained atmosphere with no stacked god rays, dust and bloom, lived-in worn props, faces with real age, asymmetry and lines, hands doing something purposeful. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, no text, no captions, no watermark."
+  },
+  {
+    "shot": "R45",
+    "replaces": "F18",
+    "file": "assets/flow2k_raw/molly-v2/R45/r4-3.png",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 8.5
+    },
+    "total": 8.95,
+    "pass": false,
+    "defects": [
+      "The zoom-out edit was not applied: r4-3 is pixel-for-pixel almost identical to r3-1 (mean luminance difference about 7/255); Alvin's crown still touches the top edge (about x=2100-2450) and his shoulder still runs into the right door jamb"
+    ],
+    "minor": [
+      "Everything else as r3-1: blank paper bundles, Yalom on anchor, good doorway depth",
+      "Flow in-place edits do not reframe; use outpaint/expand canvas or regenerate",
+      "Corner clean",
+      "1K upsample: soft"
+    ],
+    "revised_prompt": "Medium-wide two-shot from a slightly low angle, framed through a dark kitchen doorway (frame within frame, the door jamb and door edge dark and out of focus at the left edge only), 35mm, wide enough that both men are fully inside the frame: in a cramped 1982 kitchen with dirty dishes in the sink and bundles of plain blank grey paper tied with string on the counters, no newspapers, no print, a bare windowsill: a window with half-open slatted blinds throws hard stripes of cool evening light across the room. Right of centre (not at the right edge), seen in profile from mid-thigh up, his whole head inside the frame with a clear band of wall and blinds above his hair (top of his hair at least one eighth of the frame height below the top edge) and empty wall between his shoulder and the right edge, standing with arms crossed tight, eyes lowered to the floor, jaw set: Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, strong angular jaw, heavy brows, blue eyes, guarded calm; olive knit sweater over a collared shirt, grey trousers. His hair is clearly golden blond on top with only a thin grey streak at the temples. Left midground, smaller and deeper in the room, taking one careful step toward him, leaning in slightly, mid-sentence, one hand half-raised: Dr. Yalom: man about 50, inspired by Zeke Yeager, short tousled dark-blond hair, full trimmed blond beard, round wire-rim glasses, calm intellectual face, kind tired eyes, medium build; grey wool overcoat over a brown knit cardigan, dark trousers. The striped light falls between them on the floor, faces readable, no calendars, pictures or notes on the walls. Natural, candid film still, not posed: one motivated light source, matte shading, restrained atmosphere with no stacked god rays, dust and bloom, lived-in worn props, faces with real age, asymmetry and lines, hands doing something purposeful. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, no text, no captions, no watermark.",
+    "edit_instruction": "Flow in-place edit ignores 'zoom out'. If Flow offers outpaint/expand, extend the canvas about 12% upward and 6% to the right (more blinds and wall above Alvin, wall right of his shoulder), then centre-crop back to 16:9; otherwise regenerate with the revised prompt."
+  },
+  {
+    "shot": "R55",
+    "replaces": "X13",
+    "file": "assets/flow2k_raw/molly-v2/R55/r3-3.png",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 9.0,
+    "pass": true,
+    "defects": [],
+    "minor": [
+      "Focus hierarchy finally delivered: hands, bills, pencil and chequebook sharp; Molly's face, glasses and the kitchen soft",
+      "Clearly more cinematic than X13's top-down layout, and no pseudo-text (X13 had scribbled letters)",
+      "Blurred face shows real age lines, not airbrushed",
+      "Molly's hair still touches the top edge; Ken Burns should move on the hands",
+      "Faint pencil-like dashes on the top loose sheet under her left hand, not letters",
+      "Wall-phone keypad blurred, no digits",
+      "Floating dust specks + window glow are mild; not stacked enough to dock",
+      "1K upsample: soft",
+      "Corner clean"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "R47",
+    "replaces": "N12",
+    "file": "assets/flow2k_raw/molly-v2/R47/r2-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 8,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 6
+    },
+    "total": 8.425,
+    "pass": false,
+    "defects": [
+      "Letter-like marker scrawl on a file box in the doorway ('k_ FU'-shaped strokes, about x=2390-2520, y=790-830)",
+      "Alvin's hair is fully silver-grey, reading as a man in his 50s rather than mid-30s blond with grey temples",
+      "A second hanging lamp in the hoard room splits the single-practical lighting"
+    ],
+    "minor": [
+      "Hoard reads strongly (stacked boxes, newspaper towers, bundles spilling into the dining room)",
+      "Empty foreground chair kept",
+      "Newspaper tops carry grey print blocks (no letters)",
+      "Corner clean",
+      "1K upsample: soft"
+    ],
+    "revised_prompt": "Wide static shot, low angle from behind an empty wooden dining chair whose dark silhouetted backrest fills the lower-left foreground, 24mm deep focus, in a cramped 1982 house at night: a small square wooden table under one warm hanging lamp, a hard cone of light on the table and dark shadows around it. At the far side of the table, eating alone, eyes down on a simple plate with a glass of water, one place setting only: Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, strong angular jaw, heavy brows, blue eyes, guarded calm; olive knit sweater over a collared shirt, grey trousers. His hair is golden blond on top with only thin grey at the temples: a 35-year-old man, not grey-haired. Behind him on the right, a dark open doorway into the next room where waist-high and shoulder-high stacks of yellowed newspapers seen edge-on, plain unmarked cardboard file boxes and bundled papers crowd the floor, dimly lit by the spill of the lamp; a few bundles already piled beside a sideboard; every paper, box and label completely blank: no handwriting, no letters, no marker scrawl on any box, no print. The empty chair dominates the foreground, dark negative space above, warm lamp light against cold blue-grey shadow, face readable, a single lamp only. Natural, candid film still, not posed: one motivated light source, matte shading, restrained atmosphere with no stacked god rays, dust and bloom, lived-in worn props, faces with real age, asymmetry and lines, hands doing something purposeful. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, no text, no captions, no watermark.",
+    "edit_instruction": "Edit r2-1 in place: erase the handwriting on the file box in the doorway so the box is plain cardboard; make Alvin's hair golden blond on top with only thin grey at the temples; remove the second lamp in the far room; keep everything else unchanged."
+  },
+  {
+    "shot": "R47",
+    "replaces": "N12",
+    "file": "assets/flow2k_raw/molly-v2/R47/r2-2.png",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 9.0,
+    "pass": true,
+    "defects": [],
+    "minor": [
+      "Hoard reads through the dark doorway (shelves, boxes, newspaper towers) and bundles stand beside the sideboard; empty chair still dominates the foreground, plus a second empty chair at the table",
+      "Alvin pale blond with grey temples, on anchor; he glances off to frame right instead of down at his plate",
+      "Bundle tops carry plain grey print blocks with no letters; boxes blank",
+      "The paper spilling into the dining room shows a little more than the storyboard's 'hint, no reveal' before b14; acceptable since the user asked for the hoard to read",
+      "Single lamp, stained walls, lived-in; no AI tells",
+      "1K upsample: soft",
+      "Corner clean"
+    ],
+    "revised_prompt": ""
+  }
+]

@@ -1,0 +1,173 @@
+[
+ {
+  "shot": "R13",
+  "file": "assets/flow2k_raw/molly-v2/R13/r10-1.png",
+  "scores": {
+   "beat": 8,
+   "character": 9,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 9,
+   "readability": 7
+  },
+  "total": 8.4,
+  "pass": false,
+  "defects": [
+   "Monica's face sits at ~84% of frame width, inside the right-most fifth (crop risk, no Ken Burns room)",
+   "Yalom reads as speaking rather than visibly puzzled; brows not raised",
+   "Monica's open gloved palm is a little decorative/posed"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep the camera angle, the over-the-shoulder Yalom on the left, Alvin's face, cream Panama hat held to his chest in his left hand, charcoal overcoat, white shirt and black tie, the handshake, the willows and golden light; change only: move Monica (silver bun, black coat, one gloved hand open toward Yalom, warm smile) closer to Alvin so her face sits at about 65-70% of frame width with plain willow background at the right edge; give Yalom's visible profile raised brows and a slightly narrowed, searching look of polite puzzlement, mouth closed. Headstones blurred and blank, no fog, no text.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the camera angle, the over-the-shoulder Yalom on the left, Alvin's face, cream Panama hat held to his chest in his left hand, charcoal overcoat, white shirt and black tie, the handshake, the willows and golden light; change only: move Monica (silver bun, black coat, one gloved hand open toward Yalom, warm smile) closer to Alvin so her face sits at about 65-70% of frame width with plain willow background at the right edge; give Yalom's visible profile raised brows and a slightly narrowed, searching look of polite puzzlement, mouth closed. Headstones blurred and blank, no fog, no text.",
+  "res": "1K"
+ },
+ {
+  "shot": "R13",
+  "file": "assets/flow2k_raw/molly-v2/R13/r10-2.png",
+  "scores": {
+   "beat": 8,
+   "character": 9,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 9,
+   "readability": 7
+  },
+  "total": 8.4,
+  "pass": false,
+  "defects": [
+   "Monica's face sits at ~84% of frame width, inside the right-most fifth",
+   "Yalom reads as speaking rather than visibly puzzled"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep the camera angle, the over-the-shoulder Yalom on the left, Alvin's face, cream Panama hat held to his chest in his left hand, charcoal overcoat, white shirt and black tie, the handshake, the willows and golden light; keep Monica's raised gloved gesture and warm smile; change only: shift Monica left, closer to Alvin, so her face sits at about 65-70% of frame width with blank willow background at the right edge; give Yalom's visible profile raised brows and a searching, puzzled look, mouth closed. Headstones blurred and blank, no fog, no text.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the camera angle, the over-the-shoulder Yalom on the left, Alvin's face, cream Panama hat held to his chest in his left hand, charcoal overcoat, white shirt and black tie, the handshake, the willows and golden light; keep Monica's raised gloved gesture and warm smile; change only: shift Monica left, closer to Alvin, so her face sits at about 65-70% of frame width with blank willow background at the right edge; give Yalom's visible profile raised brows and a searching, puzzled look, mouth closed. Headstones blurred and blank, no fog, no text.",
+  "res": "1K"
+ },
+ {
+  "shot": "R13",
+  "file": "assets/flow2k_raw/molly-v2/R13/r10-3.png",
+  "scores": {
+   "beat": 7,
+   "character": 9,
+   "cinematic": 7,
+   "style": 9,
+   "technical": 9,
+   "readability": 6
+  },
+  "total": 7.8,
+  "pass": false,
+  "defects": [
+   "Monica's bun touches the right edge (~97% width); face in right fifth",
+   "Alvin looks into the lens instead of at Yalom (posed, AI tell)",
+   "Yalom profile neutral, not puzzled"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep the camera angle, the over-the-shoulder Yalom on the left, Alvin's face, cream Panama hat held to his chest in his left hand, charcoal overcoat, white shirt and black tie, the handshake, the willows and golden light; change only: Alvin's eyes look at Yalom (screen left), not at the camera, with a polite grateful smile; move Monica left so her whole head and bun sit at about 65-70% of frame width, clear of the right edge; give Yalom raised brows and a puzzled, searching expression. Headstones blurred and blank, no fog, no text.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the camera angle, the over-the-shoulder Yalom on the left, Alvin's face, cream Panama hat held to his chest in his left hand, charcoal overcoat, white shirt and black tie, the handshake, the willows and golden light; change only: Alvin's eyes look at Yalom (screen left), not at the camera, with a polite grateful smile; move Monica left so her whole head and bun sit at about 65-70% of frame width, clear of the right edge; give Yalom raised brows and a puzzled, searching expression. Headstones blurred and blank, no fog, no text.",
+  "res": "1K"
+ },
+ {
+  "shot": "R13",
+  "file": "assets/flow2k_raw/molly-v2/R13/r10-4.png",
+  "scores": {
+   "beat": 8,
+   "character": 9,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 9,
+   "readability": 4
+  },
+  "total": 8.1,
+  "pass": false,
+  "defects": [
+   "Pseudo-inscriptions on headstones: left-edge stone shows letter shapes ('N ALBE…'), right stone has engraved text lines (near hard fail)",
+   "Monica's face ~83% width, in right fifth",
+   "Yalom not clearly puzzled"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep the camera angle, the over-the-shoulder Yalom on the left, Alvin's face, cream Panama hat held to his chest in his left hand, charcoal overcoat, white shirt and black tie, the handshake, the willows and golden light; keep Monica's smile and gloved gesture; change only: make every headstone surface completely smooth and blank with no letters or engraved lines; shift Monica left so her face sits at about 65-70% of frame width; give Yalom raised brows and a puzzled look. No fog, no text.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the camera angle, the over-the-shoulder Yalom on the left, Alvin's face, cream Panama hat held to his chest in his left hand, charcoal overcoat, white shirt and black tie, the handshake, the willows and golden light; keep Monica's smile and gloved gesture; change only: make every headstone surface completely smooth and blank with no letters or engraved lines; shift Monica left so her face sits at about 65-70% of frame width; give Yalom raised brows and a puzzled look. No fog, no text.",
+  "res": "1K"
+ },
+ {
+  "shot": "S11",
+  "file": "assets/flow2k_raw/molly-v2/S11/r3-1.png",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.0,
+  "pass": true,
+  "defects": [
+   "Minor: warm sun mostly on the frames; his face only softly warm-lit"
+  ],
+  "revised_prompt": "",
+  "edit_prompt": "",
+  "res": "1K"
+ },
+ {
+  "shot": "S11",
+  "file": "assets/flow2k_raw/molly-v2/S11/r3-2.png",
+  "scores": {
+   "beat": 7,
+   "character": 9,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.3,
+  "pass": false,
+  "defects": [
+   "Expression neutral/somber, no content smile",
+   "Warm sun only at top; Yalom in flat light"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep the street-side wide view through the café window, the reflections, the table, cup, plants and Yalom's identity, glasses, beard, grey coat and brown cardigan; change only: give Yalom a quiet, content closed-mouth smile with relaxed eyes, and let low warm late-afternoon sun fall through the glass across his table, face and shoulders with long soft shadows. No text, no signage.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the street-side wide view through the café window, the reflections, the table, cup, plants and Yalom's identity, glasses, beard, grey coat and brown cardigan; change only: give Yalom a quiet, content closed-mouth smile with relaxed eyes, and let low warm late-afternoon sun fall through the glass across his table, face and shoulders with long soft shadows. No text, no signage.",
+  "res": "1K"
+ },
+ {
+  "shot": "S11",
+  "file": "assets/flow2k_raw/molly-v2/S11/r3-3.png",
+  "scores": {
+   "beat": 7,
+   "character": 9,
+   "cinematic": 7,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.1,
+  "pass": false,
+  "defects": [
+   "Expression neutral/stern, not content",
+   "Scene dim and cool; no warm late sun on him",
+   "Flat, centred staging"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep the café front, window frames, glass reflections of the car and tree, the marble table, cup and Yalom's identity and clothes; change only: give Yalom a quiet, content closed-mouth smile, and add low warm golden late-afternoon sun shining through the window across the table, his face and shoulders with long warm shadows. No text, no signage.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the café front, window frames, glass reflections of the car and tree, the marble table, cup and Yalom's identity and clothes; change only: give Yalom a quiet, content closed-mouth smile, and add low warm golden late-afternoon sun shining through the window across the table, his face and shoulders with long warm shadows. No text, no signage.",
+  "res": "1K"
+ },
+ {
+  "shot": "S11",
+  "file": "assets/flow2k_raw/molly-v2/S11/r3-4.png",
+  "scores": {
+   "beat": 8,
+   "character": 9,
+   "cinematic": 8,
+   "style": 8,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.5,
+  "pass": false,
+  "defects": [
+   "Muted greyish palette; no clear warm late sun on him",
+   "Faint glow halo around his head/shoulders"
+  ],
+  "revised_prompt": "Edit the attached image into a new 16:9 image: keep the composition, the window, door, reflections, the table, cup, Yalom's pose, identity, clothes and content smile; change only: warm the palette and add low golden late-afternoon sun through the glass across his table, face and shoulders with long soft shadows; remove the glow outline around his head and shoulders. No text, no signage.",
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the composition, the window, door, reflections, the table, cup, Yalom's pose, identity, clothes and content smile; change only: warm the palette and add low golden late-afternoon sun through the glass across his table, face and shoulders with long soft shadows; remove the glow outline around his head and shoulders. No text, no signage.",
+  "res": "1K"
+ }
+]

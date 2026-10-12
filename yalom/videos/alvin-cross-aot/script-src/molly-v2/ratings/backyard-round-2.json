@@ -1,0 +1,250 @@
+[
+ {
+  "shot": "R17",
+  "file": "assets/flow2k_raw/molly-v2/R17/bk2-1.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 8.5,
+   "cinematic": 8,
+   "style": 8.5,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "total": 8.5,
+  "pass": false,
+  "defects": [
+   "portrait on the table too sketchy to read as a woman (gender ambiguous)",
+   "lawn rendered as a dead ochre/sand field rather than sunlit grass",
+   "stiff, symmetrical semicircle staging of guests (AI tell), flat high-angle illustration feel",
+   "tiny background figures mushy at 1K upscale"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the high-corner wide view, the house, the street with parked cars, the fence and open gate, the chairs, the guests and the aged Yalom (white beard, grey overcoat, brown cardigan) standing apart at the back on the left, unchanged. Change only: the lawn becomes green mown grass lit gold by a low late-afternoon sun from the right, long shadows across it; the framed portrait on the table is a clear snapshot of Molly, a smiling woman in her 70s with short grey hair and a soft blouse, faded colour and a white border; break the even semicircle: a few standing guests turned toward each other in loose pairs, one bowing her head.",
+  "res": "1K"
+ },
+ {
+  "shot": "R17",
+  "file": "assets/flow2k_raw/molly-v2/R17/bk2-2.png",
+  "scores": {
+   "beat": 8,
+   "character": 8.5,
+   "cinematic": 7.5,
+   "style": 8.5,
+   "technical": 8,
+   "readability": 9
+  },
+  "total": 8.2,
+  "pass": false,
+  "defects": [
+   "the loose fence panel still stands upright behind Yalom",
+   "flat greenish midday light, no brilliant golden late-afternoon sun",
+   "portrait on the table too sketchy to read as a woman",
+   "stiff symmetrical semicircle staging (AI tell)"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the high-corner wide view, the house, the street with parked cars, the fence and open gate, the chairs, the guests and the aged Yalom standing apart at the back on the left, unchanged. Change only: remove the tall loose wooden panel standing behind Yalom so the fence line runs straight behind him; brilliant low late-afternoon sun from the right, warm gold light on the grass with long shadows; the framed portrait on the table is a clear snapshot of Molly, a smiling woman in her 70s with short grey hair; a few standing guests turned toward each other in loose pairs instead of an even ring.",
+  "res": "1K"
+ },
+ {
+  "shot": "R10",
+  "file": "assets/flow2k_raw/molly-v2/R10/bk2-1.png",
+  "scores": {
+   "beat": 9,
+   "character": 8,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.8,
+  "pass": false,
+  "defects": [
+   "Yalom wears a brown/tan overcoat; the brief and the next shots (R11, R13, R14) have a grey wool overcoat over the brown cardigan, so the coat colour jumps in the cut"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's pose, face, glasses, keys, wristwatch gesture, brown cardigan, the gate, the friends with the bag at the car, the guests and the golden light, unchanged. Change only: Yalom's overcoat becomes a mid-grey wool overcoat (same cut and length) matching the grey coat he wears at the gate.",
+  "res": "1K"
+ },
+ {
+  "shot": "R10",
+  "file": "assets/flow2k_raw/molly-v2/R10/bk2-2.png",
+  "scores": {
+   "beat": 9,
+   "character": 8,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.7,
+  "pass": false,
+  "defects": [
+   "Yalom wears a brown/tan overcoat instead of the grey overcoat of the brief and R11/R13/R14",
+   "light paler and less golden than bk2-1, sky washed out"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's pose, face, glasses, keys, wristwatch gesture, brown cardigan, the gate, the friends with the bag at the car and the guests, unchanged. Change only: Yalom's overcoat becomes a mid-grey wool overcoat; warmer, brilliant low late-afternoon sun from behind the house at frame right, golden sky, gold rim on Yalom's hair and long shadows across the lawn.",
+  "res": "1K"
+ },
+ {
+  "shot": "R11",
+  "file": "assets/flow2k_raw/molly-v2/R11/bk2-1.png",
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.1,
+  "pass": true,
+  "defects": [
+   "minor: lever door handle on a picket garden gate; Monica's hair silver rather than pale blonde (matches existing cast refs)"
+  ],
+  "edit_prompt": "",
+  "res": "1K"
+ },
+ {
+  "shot": "R11",
+  "file": "assets/flow2k_raw/molly-v2/R11/bk2-2.png",
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.0,
+  "pass": true,
+  "defects": [
+   "minor: light a touch flatter and hazier than bk2-1; lever door handle on a picket gate"
+  ],
+  "edit_prompt": "",
+  "res": "1K"
+ },
+ {
+  "shot": "R13",
+  "file": "assets/flow2k_raw/molly-v2/R13/bk2-1.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 9,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "total": 8.6,
+  "pass": false,
+  "defects": [
+   "Monica looks at Yalom/camera side, not at Alvin as briefed",
+   "flat cool daylight, no golden late-afternoon sun",
+   "Alvin and Monica both square to camera, Monica's gloved hand held out decoratively (AI tells)",
+   "handshake fingers slightly mushy under the clasp"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the over-the-shoulder framing, Yalom's grey herringbone coat and courteous closed smile, Alvin's grateful open smile, the hat held in his left hand at picture right, the gate, fence, chairs, portrait table, house and street, unchanged. Change only: Monica turns her head toward Alvin and smiles up at him, her gloved hands clasped in front of her; the handshake shows two clearly gripped right hands with four distinct fingers wrapped round each palm; warm low late-afternoon sun from behind Alvin, gold rim on his hair and shoulders, long shadows on the lawn.",
+  "res": "1K"
+ },
+ {
+  "shot": "R13",
+  "file": "assets/flow2k_raw/molly-v2/R13/bk2-2.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 9,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "total": 8.6,
+  "pass": false,
+  "defects": [
+   "Monica looks toward Yalom, not at Alvin as briefed",
+   "flat cool daylight, no golden sun",
+   "Alvin and Monica square to camera, Monica's decorative outstretched gloved hand",
+   "handshake fingers slightly mushy"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the over-the-shoulder framing, Yalom's grey herringbone coat and courteous closed smile, Alvin's grateful open smile, the hat held in his left hand at picture right, the gate, fence, chairs, portrait table, house and street, unchanged. Change only: Monica turns her head toward Alvin and smiles up at him, her gloved hands clasped in front of her; the handshake shows two clearly gripped right hands with four distinct fingers wrapped round each palm; warm low late-afternoon sun from behind Alvin, gold rim on his hair and shoulders, long shadows on the lawn.",
+  "res": "1K"
+ },
+ {
+  "shot": "R14",
+  "file": "assets/flow2k_raw/molly-v2/R14/bk2-1.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "total": 8.7,
+  "pass": false,
+  "defects": [
+   "Alvin and Monica walk straight away toward the gate/fence rather than back toward the house",
+   "flat midday daylight, no golden late-afternoon sun",
+   "small swirl mark still on Yalom's left glasses lens; stray ink scribble on the knuckles of the chin hand"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's pose, puzzled face, hand at the chin, glasses, grey coat, the portrait table, chairs, fence, gate, street and house, unchanged. Change only: Alvin (Panama hat) and Monica turn to walk diagonally toward the house porch at frame right, seen in three-quarter back view; remove the small curl mark on the lens over Yalom's eye and the dark scribble on his knuckles; warm golden low late-afternoon sun from the right, long shadows across the lawn.",
+  "res": "1K"
+ },
+ {
+  "shot": "R14",
+  "file": "assets/flow2k_raw/molly-v2/R14/bk2-2.png",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "total": 8.8,
+  "pass": false,
+  "defects": [
+   "flat midday daylight, no golden late-afternoon sun",
+   "small swirl mark still on Yalom's left glasses lens; stray ink scribble on the knuckles of the chin hand"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep Yalom's pose, puzzled face, hand at the chin, glasses, grey coat, Alvin and Monica walking toward the house, the portrait table, chairs, fence, gate, street and house, unchanged. Change only: remove the small curl mark on the lens over Yalom's eye and the dark scribble on the knuckles of his chin hand; warm golden low late-afternoon sun from the right, gold rim on Yalom's hair, long shadows across the lawn.",
+  "res": "1K"
+ },
+ {
+  "shot": "S08",
+  "file": "assets/flow2k_raw/molly-v2/S08/bk2-1.png",
+  "scores": {
+   "beat": 8,
+   "character": 8,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.5,
+  "pass": false,
+  "defects": [
+   "Yalom's gaze sits almost on the lens instead of on Alvin; heavy lower lids, uncertainty not read (inner brows not lifted)",
+   "Yalom in a brown coat, while R11/R13/R14 have the grey overcoat",
+   "light flat, not golden"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the over-the-shoulder framing with Alvin's shoulder and grey hair in the foreground, the house, guests, chairs and portrait table, and Yalom's face, beard and glasses, unchanged. Change only: Yalom's eyes turn clearly to frame right onto Alvin's face, inner brows lifted, eyes open and a little unsure, a polite even closed-lip smile; his coat becomes the grey wool overcoat over the brown cardigan; warm low late-afternoon sun from frame right with long shadows on the lawn.",
+  "res": "1K"
+ },
+ {
+  "shot": "S08",
+  "file": "assets/flow2k_raw/molly-v2/S08/bk2-2.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 8,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.6,
+  "pass": false,
+  "defects": [
+   "Yalom in a brown coat, while R11/R13/R14 have the grey overcoat",
+   "expression reads polite but more knowing than uncertain: inner brows not lifted, slightly heavy lids",
+   "light flat, not golden"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the over-the-shoulder framing with Alvin's shoulder in the foreground, the house, guests, chairs and portrait table, Yalom's gaze toward Alvin, his beard and glasses, unchanged. Change only: Yalom's inner brows lift slightly and his eyes open a little wider, a polite even closed-lip smile that reads unsure; his coat becomes the grey wool overcoat over the brown cardigan; warm low late-afternoon sun from frame right with long shadows on the lawn.",
+  "res": "1K"
+ }
+]

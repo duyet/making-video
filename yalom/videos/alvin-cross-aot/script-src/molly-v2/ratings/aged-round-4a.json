@@ -1,0 +1,92 @@
+[
+  {
+    "shot": "R10",
+    "file": "assets/flow2k_raw/molly-v2/R10/r4-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 8.9,
+    "pass": false,
+    "defects": [
+      "Sun sits at the far right edge, not ahead of him on the path, so the bright halo around the figure is unmotivated and reads as a pasted glow",
+      "His shadow is short (about one body length), not the long golden-hour shadow stretching back to camera",
+      "Foreground still crowded with rows of headstones on both sides (especially bottom-right), eating the negative space",
+      "Line art soft from the 2x local upscale (acceptable at 1080p)"
+    ],
+    "revised_prompt": "Edit the existing image R10-r3a into a new image: keep the extreme-wide composition, the curving pale path from the bottom-left to the right third, the small figure's size and position, the golden sky with the low sun, the willow on the left, the dry golden grass and the near foreground headstones exactly as they are. Change only these: 1) put the sun directly behind the walking man and make it glow: a strong warm backlit halo around his figure, his back in soft shadow as a near-silhouette with a thin bright golden rim on his head, shoulders and coat, and a gentle warm anamorphic lens flare streak with soft bloom from the sun; 2) push both his hands into his grey overcoat pockets, elbows slightly out, silver-white short hair readable; 3) remove most of the small headstones dotted in rows across the middle and far hills, leaving only a few irregular clusters of varied shapes and heights so the lawn reads as open negative space; 4) make the willow on the right edge larger so its drooping branches frame the right side, matching the left. Headstones stay completely blank with no inscriptions or marks. No fog, no mist, no text, no letters, no watermark, no sparkle or star, no black bars, full-bleed 16:9. Additionally: place the low sun just above the horizon at the end of the path, directly ahead of and slightly above the walking man, so his halo is motivated by it; his shadow very long, stretching from his feet back along the path almost to the bottom-left corner; keep only three or four small blank headstones in the foreground, none in the bottom-right quarter, the near lawn open golden grass.",
+    "edit_prompt": "Edit the existing image R10-r4a into a new image: keep the extreme-wide composition, the curving pale path from the bottom-left to the right third, the small grey-coated figure's size and position, both framing willows, the golden sky and the dry golden grass exactly as they are. Change only these: 1) move the low sun from the right edge to sit just above the horizon at the far end of the path, directly behind the walking man's head, so his warm backlit halo and thin golden rim come from it, with a soft anamorphic flare streak; 2) make his shadow much longer, stretching from his feet back down the path toward the camera for several body lengths; 3) remove the foreground headstones in the bottom-right quarter and thin the rows on the left to two or three irregular blank stones, leaving open golden grass as negative space; 4) crisp up the line art on the figure and path. No fog, no mist, no text, no letters, no watermark, no sparkle or star, no black bars, full-bleed 16:9."
+  },
+  {
+    "shot": "R11",
+    "file": "assets/flow2k_raw/molly-v2/R11/r4-1.png",
+    "scores": {
+      "beat": 8,
+      "character": 7.5,
+      "cinematic": 7.5,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 8
+    },
+    "total": 8.0,
+    "pass": false,
+    "defects": [
+      "Frame-within-frame is weak: only one stone post and a few bars at the left edge, nothing on the right, so it does not read as looking through the open gate",
+      "Yalom's hair is tousled with locks over the forehead and ears, not combed straight back (both ears visible) like R06/M05",
+      "Monica is cut by the right frame edge, with no room for a Ken Burns move",
+      "Alvin and Yalom stand at almost the same depth in a flat line; Alvin is not clearly a few steps behind",
+      "No long shadows across the path; the background is a pale hazy glow rather than crisp golden-hour light"
+    ],
+    "revised_prompt": "Use the existing project image clean-N03 only as a composition reference and the existing project image clean-M05 and clean-R06 as the identity reference for aged Yalom, and the existing project image clean-R06 and clean-R07 as the identity reference for aged Alvin. Medium-wide shot, eye level, 50mm lens, camera placed outside the cemetery looking in through the open wrought-iron gate: dark iron bars and stone gate posts very close to the lens, large, soft and out of focus, filling the left and right edges of the frame as a frame-within-frame, the three figures seen beyond them, a sunlit gravel path inside an old California cemetery, sunny late-afternoon golden-hour light in crystal-clear air, no fog, no mist, no haze, saturated warm amber sunlight, the low sun visible behind the figures through the willows with a soft lens flare, strong golden backlight, long shadows stretching across the path toward the camera, weeping willows behind; no headstone anywhere near the figures or the path, only a few small distant headstones far back, each a plain smooth uncarved slab with nothing engraved on it, no inscriptions, no carved marks, letters or numbers; crisp, sharp, saturated background with warm golden sky, distant trees and stones as crisp as the near ones, no golden haze, no whitened atmospheric glow, no grey or pale wash. On the left third of the frame, a full step ahead of the others and closest to the gate, walking toward the gate and the camera with his body facing the camera, turning his head back over his right shoulder to look behind him at the man calling him, a mild questioning look, hands in his coat pockets: Dr. Yalom about 80, inspired by an aged Zeke Yeager, silver-white short tousled hair, full trimmed silver-white beard, round wire-rim glasses, kind tired eyes with deep crow's feet, slightly stooped; grey wool overcoat open over a brown knit cardigan; hair neat, short and combed smoothly straight back off the forehead in one smooth mass like clean-R06, forehead fully clear, both ears visible, not wild, tousled or flyaway; no strands falling over the forehead or ears; face lines drawn as a few fine soft lines. On the right third, three full steps behind Yalom and further from the camera, clearly separated from him by open path, approaching him: Alvin Cross about 70, inspired by an aged Erwin Smith, tall and upright, silver-white hair in the same neat side part, strong angular jaw softened by age, heavy grey brows, blue eyes, lined face, quiet warmth; charcoal suit, white shirt, black tie, dark overcoat and a cream Panama hat with a black band worn on his head; deep lines at the eyes and mouth so he clearly reads as about 70, the same face as clean-R07; one hand slightly raised in a polite greeting, calling to him, mouth just open on a word. Beside him, a little behind: Monica: woman about 60, inspired by Historia Reiss aged to about 60, small and slender, silver-blonde hair in a low bun, large blue eyes, gentle quiet face with visible fine lines at the eyes and mouth so she clearly reads as about 60, soft smile; black funeral dress under a black wool coat, black leather gloves. Golden rim light on all three heads with warm bounce light keeping every face readable, every present-day face visibly 30+ years older than in 1982, consistent with clean-M05 and clean-R06. Quiet, unhurried. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain, no text, no letters, no captions, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9. No headstones anywhere in the midground or near background; only a few distant plain rounded stones seen far away with no markings at all: the background is only weeping willows, oak trunks, golden grass and sky. Additionally: the open gate leaves frame both sides, a dark stone post and soft iron bars on the left edge AND an open iron gate leaf with soft bars on the right edge, the arch's top bar softly across the top; Monica fully inside the frame with space between her and the right gate bars; Alvin and Monica clearly deeper in the frame, smaller than Yalom; long hard shadows of all three falling across the path toward camera.",
+    "edit_prompt": "Edit the existing image R11-r4a into a new image: keep the three characters' faces, clothes, Alvin's Panama hat and raised hand, Monica's face and gloves, the willows and the golden backlit sun exactly as they are. Change only these: 1) add the open wrought-iron gate as a full frame-within-frame: keep the dark stone post and bars on the left edge, add a matching soft out-of-focus open iron gate leaf with vertical bars on the right edge and a curved iron top bar softly across the top; 2) comb Yalom's silver-white hair smoothly straight back off the forehead in one neat mass like clean-R06, forehead clear, both ears visible, no loose locks; 3) move Alvin and Monica a few steps further back up the path so they are smaller than Yalom, and bring Monica fully inside the frame with space between her and the right gate bars; 4) add long hard golden-hour shadows of all three stretching across the path toward the camera, and make the background crisp warm gold instead of pale white haze. No fog, no mist, no text, no letters, no watermark, no sparkle or star, no black bars, full-bleed 16:9."
+  },
+  {
+    "shot": "R12",
+    "file": "assets/flow2k_raw/molly-v2/R12/r4-1.png",
+    "scores": {
+      "beat": 8.5,
+      "character": 9,
+      "cinematic": 7.5,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 8
+    },
+    "total": 8.4,
+    "pass": false,
+    "defects": [
+      "The top of his hair is cut by the top edge (no headroom), and the hat is cut by the bottom edge, leaving no room for a push-in",
+      "Camera is at eye level, not slightly low",
+      "Light is flat and frontal: no warm side light carving the face and no golden rim or sun flare; the background reads as a generic green park, not golden willow-and-flare bokeh",
+      "Soft line art from the 2x local upscale"
+    ],
+    "revised_prompt": "Edit the existing image R12-r3a (aged Alvin close-up holding the cream Panama hat to his chest) into a new image: keep his face, silver-white hair, smile, hand, hat, suit, white shirt and black tie exactly the same, and change only: (1) zoom out and reframe so his whole head sits clearly below the top edge with a hand's width of headroom above his hair and his face centred on the right third, with both shoulders and the whole hat inside the frame and space between his right shoulder and the right edge; (2) camera slightly low, looking a little up at him; (3) his eyes lifted from the hat to look toward someone just off frame left at eye height; (4) warm golden late-afternoon side light from the right carving his lined face, with a soft golden rim on his hair; (5) the background trees much softer, a creamy out-of-focus bokeh of willow fronds with a soft sun flare; (6) his overcoat dark charcoal grey, not brown. Same Attack on Titan (Wit Studio era) anime style and palette, no text, no letters, no captions, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9. Additionally: a full hand's width of empty headroom above his hair, the whole hat inside the frame; camera clearly below his chin looking up; hard warm golden sun from frame right lighting one side of his face, the other side in soft shadow, a bright golden rim on his hair; background warm amber willow bokeh with a soft sun flare in the upper left, no green park.",
+    "edit_prompt": "Edit the existing image R12-r4a into a new image: keep his face, expression, silver-white hair, left hand holding the cream Panama hat to his chest, charcoal overcoat, white shirt and black tie exactly as they are. Change only these: 1) zoom out slightly so there is a hand's width of empty space above his hair and the whole hat sits inside the bottom edge, his face still on the right third; 2) tilt the camera slightly lower so we look a little up at him; 3) relight him with warm golden late-afternoon sun from frame right, carving the right side of his lined face with the left side in soft shadow, plus a bright golden rim on his hair and shoulder; 4) turn the background into warm amber, creamy out-of-focus willow fronds with a soft sun flare in the upper left, less green. No fog, no mist, no text, no letters, no watermark, no sparkle or star, no black bars, full-bleed 16:9."
+  },
+  {
+    "shot": "S07",
+    "file": "assets/flow2k_raw/molly-v2/S07/r4-1.png",
+    "scores": {
+      "beat": 8.5,
+      "character": 8.5,
+      "cinematic": 7.5,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 9
+    },
+    "total": 8.4,
+    "pass": false,
+    "defects": [
+      "Framed as a medium shot (torso and table), not a close-up; face is centred rather than centre-left",
+      "Light is flat: no clear golden rim on the hair, beard or glasses from the window",
+      "Hand is raised high beside the cup like a gesture and reads a little claw-like, not frozen halfway to the cup",
+      "Mouth is open as if speaking rather than lips barely parted; face slightly more gaunt than M05/R06",
+      "Background on the right (plant, wall, picture frame, lamp) is still sharp and busy"
+    ],
+    "revised_prompt": "Edit the existing image S07-r3a into a new image: keep the café, window, street bokeh, marble table, coffee cup, his grey overcoat and brown cardigan, his round wire-rim glasses, the eye-level camera, his position centre-left and his head and gaze facing frame right exactly as they are. Change only these: 1) comb all his silver-white hair straight back off the forehead in one smooth neat mass, both ears visible, forehead completely clear, no centre parting, no forelocks or loose strands over the forehead; 2) make his face match clean-R06 and clean-M05 (about 80, fuller and gentler): soften and remove most of the hatched wrinkles, keep only crow's feet and two soft forehead lines, no hollow cheeks; 3) close his mouth to lips only barely parted in astonished recognition, not speaking; 4) lift his right hand so it hangs frozen a few centimetres above the cup, not touching it, five clean fingers; 5) brighten the golden rim light from the window behind him so a clear glowing edge outlines his hair, beard and glasses; 6) blur the wall, plant and lamp on the right into soft warm shadow and creamy bokeh. No text, no letters, no watermark, no sparkle or star, no black bars, full-bleed 16:9. Additionally: a true close-up, head and shoulders filling the frame, face on the centre-left; his right hand rises into the lower edge of the frame just above the cup rim, fingers relaxed and slightly curled, frozen; a bright golden rim from the window behind outlining his hair, beard and glasses; lips only barely parted; the right side of the frame warm dark bokeh with nothing sharp.",
+    "edit_prompt": "Edit the existing image S07-r4a into a new image: keep his combed-back silver-white hair, face, glasses, beard, grey overcoat, brown cardigan, the café window and street bokeh, the cup, and his gaze toward frame right exactly as they are. Change only these: 1) push in to a close-up so his head and shoulders fill the frame, his face on the centre-left; 2) lower his right hand so it hangs frozen just above the cup rim at the bottom edge, fingers relaxed and gently curled, five clean fingers; 3) close his mouth to lips only barely parted; 4) add a bright warm golden rim light from the window behind him outlining his hair, beard and glasses, with a soft warm fill on his face; 5) blur the plant, wall, picture frame and lamp on the right into soft warm dark bokeh; 6) soften his face slightly toward clean-M05, a little fuller, fewer hatched lines. No fog, no mist, no text, no letters, no watermark, no sparkle or star, no black bars, full-bleed 16:9."
+  }
+]

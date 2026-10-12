@@ -1,0 +1,185 @@
+[
+  {
+    "shot": "R12",
+    "file": "assets/flow2k_raw/molly-v2/R12/r11-1.png",
+    "res": "1K",
+    "scores": {
+      "beat": 7,
+      "character": 9,
+      "cinematic": 8,
+      "style": 9,
+      "technical": 8,
+      "readability": 8
+    },
+    "total": 8.1,
+    "pass": false,
+    "defects": [
+      "Hat hand only shows as fingertips at the bottom edge; wrist and sleeve are cut, so you can't reliably tell it's the anatomical left hand",
+      "Hat and hand crammed against the bottom frame edge, leaving no room for a Ken Burns move",
+      "OTS close-up with Yalom soft at left is good; face matches R13; warm grateful look toward Yalom",
+      "Mild AI tells: smooth, even rim light and glossy face shading"
+    ],
+    "edit_prompt": "",
+    "revised_prompt": ""
+  },
+  {
+    "shot": "R12",
+    "file": "assets/flow2k_raw/molly-v2/R12/r11-2.png",
+    "res": "1K",
+    "scores": {
+      "beat": 8,
+      "character": 9,
+      "cinematic": 8,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 8.6,
+    "pass": false,
+    "defects": [
+      "Hat hand clearly reads as the anatomical left (sleeve enters from picture-right) and matches R13 exactly; 5-digit hand is clean",
+      "Shot size is a waist-up medium, not the close-up the beat asks for; it repeats R13's size and eye-level angle, which breaks the CU-low to M-eye variety rule",
+      "Nearly a crop of R13 minus Monica, so the cut adds little new",
+      "Grateful look toward Yalom works; no headstones"
+    ],
+    "edit_prompt": "",
+    "revised_prompt": ""
+  },
+  {
+    "shot": "R12",
+    "file": "assets/flow2k_raw/molly-v2/R12/r11-3.png",
+    "res": "1K",
+    "scores": {
+      "beat": 6,
+      "character": 9,
+      "cinematic": 8,
+      "style": 9,
+      "technical": 8,
+      "readability": 7
+    },
+    "total": 7.7,
+    "pass": false,
+    "defects": [
+      "No hand visible: the hat is cut by the bottom edge, so hat-to-chest in the left hand doesn't read",
+      "Gaze lands almost straight into the lens instead of toward Yalom off-left",
+      "Centred, symmetrical portrait staging"
+    ],
+    "edit_prompt": "",
+    "revised_prompt": ""
+  },
+  {
+    "shot": "R12",
+    "file": "assets/flow2k_raw/molly-v2/R12/r11-4.png",
+    "res": "1K",
+    "scores": {
+      "beat": 6,
+      "character": 9,
+      "cinematic": 8,
+      "style": 9,
+      "technical": 8,
+      "readability": 7
+    },
+    "total": 7.7,
+    "pass": false,
+    "defects": [
+      "No hand visible: only the top of the hat brim at the bottom edge, so the hat-hand rule can't be judged",
+      "Good tight CU on the right third with Yalom soft in the foreground, but the gaze is near-lens",
+      "Hat cut by the frame edge"
+    ],
+    "edit_prompt": "",
+    "revised_prompt": ""
+  },
+  {
+    "shot": "R11",
+    "file": "assets/flow2k_raw/molly-v2/R11/r11-1.png",
+    "res": "1K",
+    "scores": {
+      "beat": 9,
+      "character": 7,
+      "cinematic": 8,
+      "style": 9,
+      "technical": 9,
+      "readability": 8
+    },
+    "total": 8.3,
+    "pass": false,
+    "defects": [
+      "Monica looks ~45-50 (smooth face, no lines), clearly younger than the ~60 Monica in R13",
+      "Alvin looks a little younger and smoother than R13",
+      "AI tells: glossy rim light on every coat edge, sun bloom and haze stacked, all three near-facing camera",
+      "Monica sits at ~91% width next to the gate post, leaving little Ken Burns room on the right"
+    ],
+    "edit_prompt": "",
+    "revised_prompt": ""
+  },
+  {
+    "shot": "R11",
+    "file": "assets/flow2k_raw/molly-v2/R11/r11-2.png",
+    "res": "1K",
+    "scores": {
+      "beat": 9,
+      "character": 8,
+      "cinematic": 8,
+      "style": 9,
+      "technical": 9,
+      "readability": 8
+    },
+    "total": 8.5,
+    "pass": false,
+    "defects": [
+      "Monica's age is about right, but her brows tilt worried and her eye bags are heavy, a slightly sad read for a warm approach",
+      "Alvin a little younger and smoother than R13",
+      "AI tells: rim light on every edge, sun bloom and haze, everyone near-facing camera",
+      "Monica close to the right edge and gate post"
+    ],
+    "edit_prompt": "",
+    "revised_prompt": ""
+  },
+  {
+    "shot": "R11",
+    "file": "assets/flow2k_raw/molly-v2/R11/r11-3.png",
+    "res": "1K",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 8,
+      "style": 9,
+      "technical": 9,
+      "readability": 8
+    },
+    "total": 8.7,
+    "pass": false,
+    "defects": [
+      "Best R11: Monica ~60 with a gentle smile matches R13; Yalom (glasses, beard) and hat-on Alvin calling with a raised hand all read",
+      "Alvin still slightly smoother and younger than R13",
+      "AI tells: glossy rim light, sun bloom and haze, staging where everyone near-faces camera",
+      "Monica at ~91% width beside the gate post, so Ken Burns room on the right is tight",
+      "Blank headstones, no text, no watermark"
+    ],
+    "edit_prompt": "",
+    "revised_prompt": ""
+  },
+  {
+    "shot": "R11",
+    "file": "assets/flow2k_raw/molly-v2/R11/r11-4.png",
+    "res": "1K",
+    "scores": {
+      "beat": 9,
+      "character": 7,
+      "cinematic": 8,
+      "style": 9,
+      "technical": 9,
+      "readability": 8
+    },
+    "total": 8.3,
+    "pass": false,
+    "defects": [
+      "Monica over-aged (~70+) with a downturned, sad mouth, which mismatches R13 and the warm beat",
+      "Alvin a little younger than R13",
+      "AI tells: rim light, sun bloom and haze, everyone near-facing camera",
+      "Monica close to the right edge"
+    ],
+    "edit_prompt": "",
+    "revised_prompt": ""
+  }
+]

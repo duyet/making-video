@@ -1,0 +1,264 @@
+[
+ {
+  "shot": "R08",
+  "file": "assets/flow2k_raw/molly-v2/R08/r7-1.png",
+  "res": "1K",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 8,
+   "readability": 8
+  },
+  "total": 8.8,
+  "pass": false,
+  "defects": [
+   "1K",
+   "Coffee cup almost fully cut off by the bottom edge and his hand around it barely visible (the edit asked for the cup fully visible)",
+   "Otherwise good: California street with palms, warm window beam on face, wistful closed mouth"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep aged Yalom's face, expression, swept-back silver-white hair, beard, round glasses, grey overcoat over the brown cardigan, the window, the potted plant, the California street with palms and the golden window light exactly the same, and change only: zoom out slightly so the white coffee cup and saucer sit fully inside the frame on the table at the bottom with his left hand resting around it, and keep his shoulder clear of the right-most fifth. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no signage, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+ },
+ {
+  "shot": "R08",
+  "file": "assets/flow2k_raw/molly-v2/R08/r7-2.png",
+  "res": "1K",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.0,
+  "pass": true,
+  "defects": [
+   "1K",
+   "Cup still slightly cropped by the bottom edge (minor)",
+   "Beat, identity and window light all read well; no text on the street or cars"
+  ],
+  "edit_prompt": ""
+ },
+ {
+  "shot": "S07",
+  "file": "assets/flow2k_raw/molly-v2/S07/r7-1.png",
+  "res": "1K",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.7,
+  "pass": false,
+  "defects": [
+   "1K",
+   "Top of his hair touches the top frame edge; the headroom asked for in the edit did not happen",
+   "Raised hand reaches into the right-most fifth",
+   "Light is flat; there is little golden rim, so cinematic is only adequate"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep aged Yalom's surprised face (brows raised, eyes wide, lips parted), round glasses, swept-back silver-white hair, beard, grey overcoat over the brown cardigan, the café window on the left, the cup and his hand frozen above it exactly the same, and change only: (1) zoom the camera out about 15 percent so there is clear headroom above his hair and his raised hand sits left of the right-most fifth; (2) a warm low golden sun from the window behind him putting a clear rim on the back of his hair and beard, with soft warm fill on his face. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no signage, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+ },
+ {
+  "shot": "S07",
+  "file": "assets/flow2k_raw/molly-v2/S07/r7-2.png",
+  "res": "1K",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.7,
+  "pass": false,
+  "defects": [
+   "1K",
+   "Near-identical to r7-1 (~1% pixel difference): hair touches the top edge, no headroom",
+   "Hand reaches into the right-most fifth; flat light"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep aged Yalom's surprised face (brows raised, eyes wide, lips parted), round glasses, swept-back silver-white hair, beard, grey overcoat over the brown cardigan, the café window on the left, the cup and his hand frozen above it exactly the same, and change only: (1) zoom the camera out about 15 percent so there is clear headroom above his hair and his raised hand sits left of the right-most fifth; (2) a warm low golden sun from the window behind him putting a clear rim on the back of his hair and beard, with soft warm fill on his face. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no signage, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+ },
+ {
+  "shot": "R11",
+  "file": "assets/flow2k_raw/molly-v2/R11/r6-1.png",
+  "res": "1K",
+  "scores": {
+   "beat": 7,
+   "character": 7,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 7.8,
+  "pass": false,
+  "defects": [
+   "1K",
+   "Yalom faces forward and looks frame-left; he does not turn back toward Alvin, so the call doesn't land",
+   "Monica reads ~40, not ~60; Alvin's face reads ~55",
+   "Hazy golden mist band behind the group (the prompt asked for no haze)",
+   "Monica sits in the right-most fifth against the gate post"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the open wrought-iron gate framing, the sunlit path, the willows, aged Yalom's outfit, hair and position, Alvin's Panama hat, raised hand and dark overcoat exactly the same, and change only: (1) Yalom's head and shoulders turned back over his right shoulder toward Alvin with a mild questioning look; (2) Monica clearly about 60: fine lines at the eyes and mouth, slightly softer jaw, silver-blonde low bun; Alvin clearly about 70 with deeper lines; (3) clear air behind them, no haze or mist; (4) shift Alvin and Monica slightly left so Monica is clear of the right-most fifth. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no signage, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+ },
+ {
+  "shot": "R11",
+  "file": "assets/flow2k_raw/molly-v2/R11/r6-2.png",
+  "res": "1K",
+  "scores": {
+   "beat": 7,
+   "character": 7,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 7.8,
+  "pass": false,
+  "defects": [
+   "1K",
+   "Same as r6-1 (about 5% difference): Yalom not turning back, Monica too young, haze, Monica in the right-most fifth"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the open wrought-iron gate framing, the sunlit path, the willows, aged Yalom's outfit, hair and position, Alvin's Panama hat, raised hand and dark overcoat exactly the same, and change only: (1) Yalom's head and shoulders turned back over his right shoulder toward Alvin with a mild questioning look; (2) Monica clearly about 60: fine lines at the eyes and mouth, slightly softer jaw, silver-blonde low bun; Alvin clearly about 70 with deeper lines; (3) clear air behind them, no haze or mist; (4) shift Alvin and Monica slightly left so Monica is clear of the right-most fifth. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no signage, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+ },
+ {
+  "shot": "R13",
+  "file": "assets/flow2k_raw/molly-v2/R13/r7-1.png",
+  "res": "1K",
+  "scores": {
+   "beat": 8,
+   "character": 8,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 4,
+   "readability": 7
+  },
+  "total": 0.0,
+  "weighted_before_hard_fail": 7.4,
+  "pass": false,
+  "defects": [
+   "1K",
+   "HARD FAIL: the handshake at frame centre (the focal point) has an extra cluster of pale fingertips under the grip, a melted hand",
+   "Hand count is otherwise 6: Monica 2 gloved, Alvin hat in his left hand plus the right hand shaking, Yalom shaking plus one in his pocket",
+   "Yalom's face is in the right-most fifth and his body is cut by the right edge; the edit asked for a group shift left that didn't happen",
+   "Monica's mouth is closed, so she isn't speaking",
+   "Headstones are blank (OK)"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep Monica, Alvin (bareheaded, cream Panama hat held to his chest in his left hand, dark overcoat, white shirt, black tie, same face), aged Yalom (swept-back silver-white hair, beard, round glasses, grey overcoat over the brown cardigan, puzzled raised brows), the willows, the blank headstones and the golden light exactly the same, and change only: (1) redraw the handshake as one clean clasp of exactly two hands, Alvin's right and Yalom's right, with no extra fingers or knuckles below the grip; (2) shift the whole group left so Yalom's head and shoulders are fully inside the frame at about 70 percent across, with only lawn and willow in the right-most fifth; (3) Monica mid-sentence, lips parted in a warm smile. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no signage, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+ },
+ {
+  "shot": "R13",
+  "file": "assets/flow2k_raw/molly-v2/R13/r7-2.png",
+  "res": "1K",
+  "scores": {
+   "beat": 9,
+   "character": 8,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 4,
+   "readability": 7
+  },
+  "total": 0.0,
+  "weighted_before_hard_fail": 7.7,
+  "pass": false,
+  "defects": [
+   "1K",
+   "HARD FAIL: the same melted handshake as r7-1, with extra pale fingertips under the grip at frame centre",
+   "Yalom's face is in the right-most fifth and his body is cut by the right edge",
+   "Monica is speaking (good); 6 hands otherwise correct; long path shadows; blank stones"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep Monica (speaking), Alvin (bareheaded, cream Panama hat held to his chest in his left hand, dark overcoat, white shirt, black tie, same face), aged Yalom (swept-back silver-white hair, beard, round glasses, grey overcoat over the brown cardigan, puzzled raised brows), the willows, the path shadows, the blank headstones and the golden light exactly the same, and change only: (1) redraw the handshake as one clean clasp of exactly two hands, Alvin's right and Yalom's right, with no extra fingers or knuckles below the grip; (2) shift the whole group left so Yalom's head and shoulders are fully inside the frame at about 70 percent across, with only lawn and willow in the right-most fifth. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no signage, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+ },
+ {
+  "shot": "S08",
+  "file": "assets/flow2k_raw/molly-v2/S08/r6-1.png",
+  "res": "1K",
+  "scores": {
+   "beat": 8,
+   "character": 7,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.4,
+  "pass": false,
+  "defects": [
+   "1K",
+   "The foreground man has jet-black hair and a young profile, so he can't be aged Alvin (silver-white, ~70)",
+   "Yalom's awkward closed-mouth smile and knitted brows read well; golden backlight; no fog"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep aged Yalom's face, awkward closed-mouth polite smile, round glasses, beard, swept-back silver-white hair, grey overcoat over the brown cardigan, the willow background, the golden light and the framing exactly the same, and change only: the out-of-focus foreground man at right becomes aged Alvin seen from behind: neat silver-white side-parted hair, clean-shaven, dark charcoal overcoat collar, with no face visible. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no signage, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+ },
+ {
+  "shot": "S08",
+  "file": "assets/flow2k_raw/molly-v2/S08/r6-2.png",
+  "res": "1K",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.0,
+  "pass": true,
+  "defects": [
+   "1K",
+   "Passes: silver-haired, clean-shaven Alvin from behind in the out-of-focus foreground; polite closed-mouth smile with faintly knitted brows; golden backlight; no fog",
+   "Foreground shoulder fills the right side, which is acceptable as soft OTS framing"
+  ],
+  "edit_prompt": ""
+ },
+ {
+  "shot": "R12",
+  "file": "assets/flow2k_raw/molly-v2/R12/r6-1.png",
+  "res": "1K",
+  "scores": {
+   "beat": 8,
+   "character": 8,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 8,
+   "readability": 9
+  },
+  "total": 8.2,
+  "pass": false,
+  "defects": [
+   "1K",
+   "The hat is held in his RIGHT hand (fingers point to his left), which breaks the match with R13's left hand",
+   "Hat and hand are cut by the bottom edge, with no wrist visible; the 'whole hat' zoom-out didn't happen",
+   "Soft, fairly flat light, little golden side light; eyes downcast rather than on Yalom"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep aged Alvin's face, silver-white side-parted hair, warm closed-mouth smile, dark overcoat, white shirt, black tie and the willow bokeh exactly the same, and change only: (1) the cream Panama hat held crown-out to his chest in his LEFT hand, entering from frame right with the fingers pointing toward frame left; (2) zoom out slightly so the whole hat, his hand and wrist are inside the frame with headroom above his hair; (3) his eyes lifted toward someone off frame right at eye height; (4) warm low golden side light from frame right on his lined face. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no signage, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+ },
+ {
+  "shot": "R12",
+  "file": "assets/flow2k_raw/molly-v2/R12/r6-2.png",
+  "res": "1K",
+  "scores": {
+   "beat": 8,
+   "character": 8,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 8,
+   "readability": 8
+  },
+  "total": 8.1,
+  "pass": false,
+  "defects": [
+   "1K",
+   "The hat is held in his RIGHT hand, a mismatch with R13's left hand",
+   "Top of his hair touches the top edge; hat and hand are cut by the bottom edge",
+   "Light is flat"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep aged Alvin's face, silver-white side-parted hair, warm closed-mouth smile, dark overcoat, white shirt, black tie and the willow bokeh exactly the same, and change only: (1) the cream Panama hat held crown-out to his chest in his LEFT hand, entering from frame right with the fingers pointing toward frame left; (2) zoom out about 15 percent so there is clear headroom and the whole hat, his hand and wrist are inside the frame; (3) warm low golden side light from frame right on his lined face; his face stays on the left-centre, nothing important in the right-most fifth. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no signage, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+ }
+]

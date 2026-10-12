@@ -1,0 +1,69 @@
+[
+  {
+    "shot": "R92",
+    "replaces": "N19",
+    "file": "assets/flow2k_raw/molly-v2/R92/r4-1.png",
+    "source": "1K",
+    "scores": {
+      "beat": 8.5,
+      "character": 8.5,
+      "cinematic": 8,
+      "style": 8,
+      "technical": 8.5,
+      "readability": 8.5
+    },
+    "total": 8.35,
+    "pass": false,
+    "defects": [
+      "snapshot has no white paper border and no visible grain: soft painted figures with no line art (an improvement), but reads as a painting in a frame rather than a 1990s print",
+      "Alvin's hand rests on her upper back/shoulder blade near the shoulder, not on her upper arm (fourth round running)",
+      "Alvin's hair touches the top edge; no headroom despite the prompt",
+      "heavy uniform black outlines, more comic-book than the reference close-ups"
+    ],
+    "minor": [
+      "Monica's hair pure silver-white, reads ~62-65",
+      "snapshot backdrop autumn foliage rather than sunny garden",
+      "single pair of glasses, plain envelopes (fixed vs r3-2)",
+      "1K upscale softness (not penalised)"
+    ],
+    "ai_tells": [
+      "decorative hand on back/shoulder",
+      "photo-within-photo painted rather than photographic (no border/grain)"
+    ],
+    "better_than_current": false,
+    "notes": "Faces consistent with R12/R13 aged designs; Monica's holding hands clean, Alvin's hand four fingers, no fusion. No text; bottom-right clean, no sparkle. Shelf beside her sells the 'just picked it up' moment."
+  },
+  {
+    "shot": "R92",
+    "replaces": "N19",
+    "file": "assets/flow2k_raw/molly-v2/R92/r4-2.png",
+    "source": "1K",
+    "scores": {
+      "beat": 9,
+      "character": 8.5,
+      "cinematic": 8.5,
+      "style": 8.5,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 8.75,
+    "pass": false,
+    "defects": [
+      "Alvin's hand still lands on the back of her shoulder, not on her upper arm (fourth round running)",
+      "Alvin's hair touches the top edge; no headroom despite the prompt"
+    ],
+    "minor": [
+      "snapshot is the best yet (soft, grainy white border, faded warm colour, no ink lines, golden-blond father ~45, mother, boy ~8, girl ~5) but backdrop is autumn-tinted rather than sunny garden",
+      "Monica's hair pure silver-white, reads ~62-65",
+      "outlines a little heavier than the reference close-ups",
+      "bright window behind them is the one source but pushes slight backlight on the figures",
+      "1K upscale softness (not penalised)"
+    ],
+    "ai_tells": [
+      "decorative hand on shoulder"
+    ],
+    "better_than_current": true,
+    "notes": "Above r2-2 (8.68) on the snapshot fix and candid staging; still fails pass (total < 9.0). Faces match R12/R13; hands clean. Envelopes blank, single pair of glasses; no text; bottom-right clean, no sparkle.",
+    "revised_prompt": "Use the attached AOT-CAST-SHEET and the two attached close-ups l2-ref-aged-alvin.png and l2-ref-aged-monica.png as the references for the present-day faces (Alvin about 70, Monica about 60) and line style only. Medium-wide shot, camera pulled back two steps so both figures are seen to the waist, 40mm at chest height, slightly off-axis candid framing as if the camera just happened to be there, both heads well inside the frame and placed in the middle third of the image height: a wide band of plain wall (at least one-fifth of the frame height) above the top of Alvin's hair, his head clearly lower than the top edge with empty wall above it, and some space on the right edge, present day, a lived-in California living room in late-morning light. On the left third: Monica about 60, inspired by an aged Historia Reiss, small and slender, ash-blonde hair streaked with silver (clearly still blonde-toned, warm pale gold, not white or grey) loosely pinned up with a few loose strands, large blue eyes with fine crow's feet and soft lines around the mouth, only light forehead lines, a woman of sixty rather than seventy, gentle quiet face; a soft oatmeal cardigan over a pale blouse; she has just picked up a small framed snapshot from a crowded bookshelf beside her (books leaning at angles, a chipped mug, one single pair of reading glasses (only one pair in the whole image), a potted plant, a small stack of plain unmarked envelopes) and holds the frame in both hands, tilting it toward her husband, a small private smile, mid-moment. Just behind her on the right: Alvin Cross about 70, inspired by an aged Erwin Smith, tall, silver-white hair in a neat side part, strong angular jaw softened by age, heavy grey brows, blue eyes, lined face with real wrinkles and slight asymmetry, quiet warmth; a grey knit cardigan over an open-collared white shirt; standing at her side, slightly behind, leaning in to look at the photo, his arm around her back and his hand holding the outer side of her far upper arm just above her elbow, at the same height as the picture frame, his fingers wrapped around her sleeve; his hand is low on her arm, well below her shoulder, and her shoulders and upper back are completely free with no hand on them, a soft amused smile. Both look at the photo, not at the camera, their faces in three-quarter view. The snapshot inside the frame, angled toward the camera in the lower middle of the image, must look like an actual faded 1990s colour photograph, not a drawing: painted only in soft blurred colour patches with no outlines and no line art at all inside the print, like an out-of-focus photo seen at arm's length, soft photographic focus, visible film grain, warm orange-magenta colour shift, slightly washed-out blacks, a thin white paper border on all four sides, a small worn corner; it shows Alvin about 45 (golden-blond hair, clearly blond, not grey or white, no wrinkles) and Monica about 38 (long pale blonde hair) with a boy about eight and a girl about five, standing close together in a sunny garden, small in the photo. One soft window light from the left, matte shading, natural colours, no rim light, no god rays, no dust motes, no haze or bloom; worn, slightly cluttered, real-looking props. Line weight and shading match the attached close-ups: clean thin-to-medium ink lines with tapered ends, not heavy uniform black comic-book outlines, no grungy paper texture. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, flat cel shading with matte shadows, muted natural earthy palette, restrained natural lighting from one motivated source, faces clearly readable with real age and asymmetry, cinematic 16:9 widescreen framing, cinematic anime film still, painterly but quiet background, gentle depth of field. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner, no black bars, full-bleed 16:9."
+  }
+]

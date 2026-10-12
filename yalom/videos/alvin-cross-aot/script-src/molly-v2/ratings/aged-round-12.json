@@ -1,0 +1,93 @@
+[
+  {
+    "shot": "R13",
+    "file": "assets/flow2k_raw/molly-v2/R13/r12-1.png",
+    "res": "1K",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 8.9,
+    "pass": false,
+    "defects": [
+      "Light is soft warm afternoon, not low golden hour: no long shadows across the path",
+      "Yalom's puzzlement is faint (lips closed, only a slight brow knit)",
+      "Alvin's overcoat reads dark brown over a grey waistcoat vs R12 charcoal (minor)",
+      "Handshake small and slightly muddled at Yalom's wrapped fingertips (acceptable)"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep the composition, all three people, their faces, clothes, hands, the handshake, the hat and the blank headstones exactly as they are. Change only: make the light a low warm golden-hour sun from the left with amber tones and soft long shadows across the path, and give Yalom's profile raised brows and slightly parted lips, visibly puzzled. Keep Monica's open-mouthed smile. Natural and candid, matte shading, no fog, no god rays, no text, no letters, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9. Anime illustration in the style of Attack on Titan (Wit Studio era).",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep the composition, all three people, their faces, clothes, hands, the handshake, the hat and the blank headstones exactly as they are. Change only: make the light a low warm golden-hour sun from the left with amber tones and soft long shadows across the path, and give Yalom's profile raised brows and slightly parted lips, visibly puzzled. Keep Monica's open-mouthed smile. Natural and candid, matte shading, no fog, no god rays, no text, no letters, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9. Anime illustration in the style of Attack on Titan (Wit Studio era)."
+  },
+  {
+    "shot": "R13",
+    "file": "assets/flow2k_raw/molly-v2/R13/r12-2.png",
+    "res": "1K",
+    "scores": {
+      "beat": 8.5,
+      "character": 9,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 8.8,
+    "pass": false,
+    "defects": [
+      "Light is pale soft afternoon, not golden hour; no long shadows",
+      "Monica has only a small closed smile, not speaking",
+      "Yalom's puzzlement faint (lips closed)",
+      "Alvin's coat dark brown vs R12 charcoal (minor)"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep the composition, all three people, their faces, clothes, hands, the handshake, the hat and the blank headstones exactly as they are. Change only: make the light a low warm golden-hour sun from the left with amber tones and soft long shadows across the path, give Monica a warm open-mouthed smile as if speaking, and give Yalom's profile raised brows and slightly parted lips, visibly puzzled. Natural and candid, matte shading, no fog, no god rays, no text, no letters, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9. Anime illustration in the style of Attack on Titan (Wit Studio era).",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep the composition, all three people, their faces, clothes, hands, the handshake, the hat and the blank headstones exactly as they are. Change only: make the light a low warm golden-hour sun from the left with amber tones and soft long shadows across the path, give Monica a warm open-mouthed smile as if speaking, and give Yalom's profile raised brows and slightly parted lips, visibly puzzled. Natural and candid, matte shading, no fog, no god rays, no text, no letters, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9. Anime illustration in the style of Attack on Titan (Wit Studio era)."
+  },
+  {
+    "shot": "R13",
+    "file": "assets/flow2k_raw/molly-v2/R13/r12-3.png",
+    "res": "1K",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 9.0,
+    "pass": true,
+    "defects": [
+      "Monica smiles with closed mouth rather than speaking (minor)",
+      "Yalom's puzzlement reads via furrowed brow and parted lips, not raised brows (minor)",
+      "No visible long shadows despite the amber golden grade (minor)",
+      "Alvin's coat dark brown vs R12 charcoal (minor)"
+    ],
+    "revised_prompt": "",
+    "edit_prompt": ""
+  },
+  {
+    "shot": "R13",
+    "file": "assets/flow2k_raw/molly-v2/R13/r12-4.png",
+    "res": "1K",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 8.9,
+    "pass": false,
+    "defects": [
+      "Light is soft warm afternoon, not low golden hour; no long shadows",
+      "Monica has only a small closed smile, not speaking (minor)",
+      "Alvin's coat dark brown vs R12 charcoal (minor)"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep the composition, all three people, their faces, clothes, hands, the handshake, the hat and the blank headstones exactly as they are. Change only: make the light a low warm golden-hour sun from the left with amber tones and soft long shadows across the path, and give Monica a warm open-mouthed smile as if speaking. Keep Yalom's puzzled parted lips. Natural and candid, matte shading, no fog, no god rays, no text, no letters, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9. Anime illustration in the style of Attack on Titan (Wit Studio era).",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep the composition, all three people, their faces, clothes, hands, the handshake, the hat and the blank headstones exactly as they are. Change only: make the light a low warm golden-hour sun from the left with amber tones and soft long shadows across the path, and give Monica a warm open-mouthed smile as if speaking. Keep Yalom's puzzled parted lips. Natural and candid, matte shading, no fog, no god rays, no text, no letters, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9. Anime illustration in the style of Attack on Titan (Wit Studio era)."
+  }
+]

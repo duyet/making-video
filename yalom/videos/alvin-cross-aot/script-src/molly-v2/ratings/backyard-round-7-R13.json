@@ -1,0 +1,98 @@
+[
+ {
+  "shot": "R13",
+  "file": "assets/flow2k_raw/molly-v2/R13/bk7-1.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 8,
+   "cinematic": 8.0,
+   "style": 8.5,
+   "technical": 7.5,
+   "readability": 8.5
+  },
+  "total": 8.17,
+  "defects": [
+   "brown/tan jacket on Yalom, not a grey overcoat",
+   "Yalom smile shows upper teeth, a bit broad for 'polite, a little uncertain'",
+   "handshake mush: Alvin's clasping hand has a lumpy blob thumb and Yalom's hand is barely legible (finger count unreadable)",
+   "Yalom is a back/three-quarter over-shoulder figure filling the left third; staging is fine, but all 4 candidates are near-identical edits",
+   "Monica fully in frame horizontally (cut at waist by the bottom edge only, acceptable); hat in Alvin's left hand OK; no cemetery"
+  ],
+  "edit_prompt": "Edit the attached image, keep everything (backyard, fence, house, Alvin with cream Panama hat held to chest in his left hand, Monica, AoT cel style, golden light). Change only: Yalom's coat to a grey wool overcoat; Yalom's mouth closed in a small polite, slightly uncertain smile, brows lifted a little at the inner corners, no teeth; redraw the handshake clearly: two right hands clasped, Alvin's thumb over the back of Yalom's hand, five fingers each, Yalom's sleeve cuff visible; Alvin's mouth closed in a warm, grateful smile.",
+  "res": "1K",
+  "watermark": false,
+  "pass": false
+ },
+ {
+  "shot": "R13",
+  "file": "assets/flow2k_raw/molly-v2/R13/bk7-2.png",
+  "scores": {
+   "beat": 7.0,
+   "character": 7,
+   "cinematic": 7.5,
+   "style": 8.5,
+   "technical": 7.5,
+   "readability": 8.5
+  },
+  "total": 7.67,
+  "defects": [
+   "Yalom grins broadly with full teeth and cheek lift: violates the closed-mouth courteous-smile rule",
+   "olive jacket, not a grey overcoat",
+   "handshake mush: Alvin's clasping hand has a lumpy blob thumb and Yalom's hand is barely legible (finger count unreadable)",
+   "Yalom is a back/three-quarter over-shoulder figure filling the left third; staging is fine, but all 4 candidates are near-identical edits",
+   "Monica fully in frame horizontally (cut at waist by the bottom edge only, acceptable); hat in Alvin's left hand OK; no cemetery"
+  ],
+  "edit_prompt": "Edit the attached image, keep everything (backyard, fence, house, Alvin with cream Panama hat held to chest in his left hand, Monica, AoT cel style, golden light). Change only: Yalom's coat to a grey wool overcoat; Yalom's mouth closed in a small polite, slightly uncertain smile, brows lifted a little at the inner corners, no teeth; redraw the handshake clearly: two right hands clasped, Alvin's thumb over the back of Yalom's hand, five fingers each, Yalom's sleeve cuff visible; Alvin's mouth closed in a warm, grateful smile.",
+  "res": "1K",
+  "watermark": false,
+  "pass": false
+ },
+ {
+  "shot": "R13",
+  "file": "assets/flow2k_raw/molly-v2/R13/bk7-3.png",
+  "scores": {
+   "beat": 7.5,
+   "character": 7.5,
+   "cinematic": 7.5,
+   "style": 8.5,
+   "technical": 7.5,
+   "readability": 8.5
+  },
+  "total": 7.83,
+  "defects": [
+   "Yalom open-mouthed smile with teeth; Alvin also open-mouthed, reads chatty not grateful",
+   "olive-grey jacket rather than a grey overcoat",
+   "handshake mush: Alvin's clasping hand has a lumpy blob thumb and Yalom's hand is barely legible (finger count unreadable)",
+   "Yalom is a back/three-quarter over-shoulder figure filling the left third; staging is fine, but all 4 candidates are near-identical edits",
+   "Monica fully in frame horizontally (cut at waist by the bottom edge only, acceptable); hat in Alvin's left hand OK; no cemetery"
+  ],
+  "edit_prompt": "Edit the attached image, keep everything (backyard, fence, house, Alvin with cream Panama hat held to chest in his left hand, Monica, AoT cel style, golden light). Change only: Yalom's coat to a grey wool overcoat; Yalom's mouth closed in a small polite, slightly uncertain smile, brows lifted a little at the inner corners, no teeth; redraw the handshake clearly: two right hands clasped, Alvin's thumb over the back of Yalom's hand, five fingers each, Yalom's sleeve cuff visible; Alvin's mouth closed in a warm, grateful smile.",
+  "res": "1K",
+  "watermark": false,
+  "pass": false
+ },
+ {
+  "shot": "R13",
+  "file": "assets/flow2k_raw/molly-v2/R13/bk7-4.png",
+  "scores": {
+   "beat": 7.5,
+   "character": 7.5,
+   "cinematic": 7.5,
+   "style": 8.5,
+   "technical": 7.5,
+   "readability": 8.5
+  },
+  "total": 7.83,
+  "defects": [
+   "Yalom open smile with visible teeth, broader than courteous",
+   "brown jacket on Yalom, not a grey overcoat",
+   "handshake mush: Alvin's clasping hand has a lumpy blob thumb and Yalom's hand is barely legible (finger count unreadable)",
+   "Yalom is a back/three-quarter over-shoulder figure filling the left third; staging is fine, but all 4 candidates are near-identical edits",
+   "Monica fully in frame horizontally (cut at waist by the bottom edge only, acceptable); hat in Alvin's left hand OK; no cemetery"
+  ],
+  "edit_prompt": "Edit the attached image, keep everything (backyard, fence, house, Alvin with cream Panama hat held to chest in his left hand, Monica, AoT cel style, golden light). Change only: Yalom's coat to a grey wool overcoat; Yalom's mouth closed in a small polite, slightly uncertain smile, brows lifted a little at the inner corners, no teeth; redraw the handshake clearly: two right hands clasped, Alvin's thumb over the back of Yalom's hand, five fingers each, Yalom's sleeve cuff visible; Alvin's mouth closed in a warm, grateful smile.",
+  "res": "1K",
+  "watermark": false,
+  "pass": false
+ }
+]

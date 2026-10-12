@@ -1,0 +1,97 @@
+[
+  {
+    "shot": "M01",
+    "file": "assets/flow2k_raw/molly-v2/M01/c7-1.png",
+    "scores": {"beat": 8, "character": 8.5, "cinematic": 7, "style": 9, "technical": 8.5, "readability": 7},
+    "total": 7.98,
+    "pass": false,
+    "defects": [
+      "Candid instruction failed again: Alvin (19, blond side part, no grey - correct) now sits dead centre at the far end and stares straight into the lens; the mother also looks toward camera rather than at Jason",
+      "Camera is frontal and the staging is a symmetrical row of faces (couple left, Alvin centre, parents right) - not the diagonal low corner angle asked for; reads posed",
+      "Seating swapped: the father is on the far right in the foreground, his shoulder, arm and waistcoat cut by the right edge (~82-100% across); no Ken Burns room",
+      "Good: fiancée readable (freckles, ponytail, brown leather jacket, wary sideways stare), Jason's hand rests over hers on the cloth (clasp readable but small), father's hands flat and fork down, plates empty/untouched, wood panelling and single hanging lamp, tension in the mother's worried face",
+      "Minor: small 's'-shaped sweat mark on the mother's cheek; damask runner busy but not text-like; no sparkle or text"
+    ],
+    "revised_prompt": "Medium-wide shot, 35mm, camera low at the near-left corner of the table looking diagonally down its length toward the far right, late-1960s rural Virginia dining room with dark wood-panelled walls in shadow, single warm hanging lamp, a roast and untouched plates. Seating: the father sits at the FAR END of the table (head of the table) at about 55% across, the mother on the far side beside him at about 40%, Jason and the fiancée on the near left side with their backs three-quarter to camera, Alvin on the near right side seen in three-quarter profile at about 70% across, with plain dark panelled wall filling the right 20% of the frame; nobody touches the right edge. Nobody looks toward the camera: the father turns his head to stare at the fiancée with his hands flat on the table and his fork lying on his plate, the mother looks anxiously at Jason, the fiancée meets the father's stare, Jason looks at his father, Alvin turns his head to watch Jason in profile. Jason's hand clearly clasps the fiancée's hand on the tablecloth in the foreground. Cast: Alvin's father, country doctor: man about 45, inspired by Grisha Yeager, long dark hair tied back, round glasses, stubble, tired kind face, brown waistcoat over a white shirt, his fork set down; beside him the mother, rigid, polite smile frozen. On the near left, in sharp focus and clearly lit: Jason's fiancée age 17: inspired by Ymir, tall for her age, freckles across the nose, dark hair tied back in a short ponytail, sharp wary eyes; brown leather jacket over her shoulders, jeans; sitting very straight, chin up, meeting the parents' stares with a guarded defiant look. Beside her, holding her hand on the table: Jason age 17: teenager inspired by young Eren Yeager, dark brown shoulder-length hair, intense green eyes, defiant stare, lean build; worn denim jacket over a white T-shirt. On the near right: Alvin age 19: young man inspired by young Erwin Smith, neat blond side part with no grey, heavy brows, blue eyes, serious disapproving calm, tall lean build; white shirt with sleeves rolled; watching his brother in silence. Every face clearly readable. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, late-1960s rural America, calm natural expressions, no text, no captions, no watermark, keep the bottom-right corner plain and every person within the left 85% of the frame, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No sparkle icon in any corner."
+  },
+  {
+    "shot": "S02",
+    "file": "assets/flow2k_raw/molly-v2/S02/c7-1.png",
+    "scores": {"beat": 9, "character": 9, "cinematic": 9, "style": 9, "technical": 9, "readability": 9},
+    "total": 9.0,
+    "pass": true,
+    "defects": [
+      "Edit achieved, rest of frame identical (blinds, phone, thin manila folder with blank sheets, banker's lamp): hair and beard now warm golden blond, round wire glasses, ear now visible behind the side hair",
+      "Minor: the new hair colour is a touch bright/ginger-gold and flatly shaded compared with the muted palette (same note as R01 round 6); no text, bottom-right plain"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "S05",
+    "file": "assets/flow2k_raw/molly-v2/S05/c7-1.png",
+    "scores": {"beat": 9, "character": 9, "cinematic": 9, "style": 9, "technical": 9, "readability": 8.5},
+    "total": 8.95,
+    "pass": false,
+    "defects": [
+      "Edit had no effect: pixel-identical to c6-1 apart from re-encode noise (no pixel differs by more than 40 levels); armchair still runs off the right edge and the far shoulder sits at ~92%",
+      "Embroidery still reads exactly 'Alvin Cross' (allowed) but looks like a crisp printed label (minor)",
+      "Ties the current file (8.95); does not beat it"
+    ],
+    "revised_prompt": "EDIT of S05/c6-1: the 'zoom out' instruction has failed twice in the manual editor, so use canvas expansion instead: place the image at about 88% size on a wider canvas anchored to the left and outpaint only the new strip on the right: continue the brown leather armchair so its whole right arm is inside the frame, then wooden bookshelves with plain unlabelled book spines beside it, same blind-stripe light. Do not change the two men, the faces or the embroidered 'Alvin Cross'. No other text, bottom-right corner plain, no watermark."
+  },
+  {
+    "shot": "S09",
+    "file": "assets/flow2k_raw/molly-v2/S09/c7-1.png",
+    "scores": {"beat": 9, "character": 9, "cinematic": 8.5, "style": 9, "technical": 8.5, "readability": 8.5},
+    "total": 8.78,
+    "pass": false,
+    "defects": [
+      "Partly achieved: Yalom's head now turned away (lost profile, ear and only the edges of beard and wire glasses visible) and hair and beard tinted golden blond; Alvin, door, dark interior and shrubs unchanged",
+      "No real warm rim light from the porch bulb: Yalom's hair is flat golden with no edge highlight on hair or shoulders, coat still lit flat cool blue",
+      "Hair tint reads a little ginger/orange rather than dark golden blond",
+      "Carried over: door still swings outward onto the porch, porch bulb clipped by the top edge; Alvin's silver temples not clearly visible",
+      "Below the current file (8.83)"
+    ],
+    "revised_prompt": "EDIT of S09/c7-1 (manual editor): keep this image identical and change only: add a thin warm amber rim light from the porch bulb along the top and right edge of Yalom's hair, his right ear and the top of his right coat shoulder; darken his hair slightly toward a dark golden blond (less orange); give Alvin a touch of silver-grey at the temples only. No text, bottom-right corner plain, no watermark."
+  },
+  {
+    "shot": "S10",
+    "file": "assets/flow2k_raw/molly-v2/S10/c7-1.png",
+    "scores": {"beat": 9, "character": 9, "cinematic": 9, "style": 9, "technical": 9, "readability": 8.5},
+    "total": 8.95,
+    "pass": false,
+    "defects": [
+      "Half achieved: the extra coiled loop at the phone base is gone, one cord now runs handset to base",
+      "Phone not moved: the rotary base is still cut by the right and bottom edges with no desk visible to its right",
+      "Carried over: wrist of the gesturing hand slightly long; dial carries tiny unreadable glyph marks (acceptable, not readable text)",
+      "Marginally above the current file (8.93) but below the pass bar"
+    ],
+    "revised_prompt": "EDIT of S10/c7-1: place the image at about 90% size on a wider canvas anchored to the left and top and outpaint only the new strip on the right and bottom: complete the beige rotary phone base, the wooden desk surface to the right of it and the lower blinds. Do not change Yalom, his hands, the receiver, the cord or the lamp. No text, bottom-right corner plain, no watermark."
+  },
+  {
+    "shot": "S13",
+    "file": "assets/flow2k_raw/molly-v2/S13/c7-1.png",
+    "scores": {"beat": 9, "character": 9, "cinematic": 9, "style": 9, "technical": 9, "readability": 9},
+    "total": 9.0,
+    "pass": true,
+    "defects": [
+      "Edit achieved, rest identical: the parents' photo is now a soft, faded sepia snapshot with small soft faces and a light border, no longer drawn line art",
+      "Clock 03:14 allowed; no other text; strictly non-sexual; moonlight shaft clean",
+      "Brief conflict to resolve (scored with round-6 calibration, not docked): NEW-SHOTS-2026-10-11 now dates S13 to ~1972 with 'no grey at all', but Alvin still shows silver-grey at the temple; clock is a red LED digital rather than the analogue flip clock in the brief (minor)"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "S14",
+    "file": "assets/flow2k_raw/molly-v2/S14/c7-1.png",
+    "scores": {"beat": 9, "character": 9, "cinematic": 9, "style": 9, "technical": 9, "readability": 8},
+    "total": 8.9,
+    "pass": false,
+    "defects": [
+      "Edit not achieved: a small paper scrap at the drawer was removed, but scribble-like strokes remain on the front edge of the counter at the right (~80-95% across, ~70% down), now spread a little further left",
+      "Rest unchanged and good: eyes lowered, lips pressed, arm folded, plain grey newspaper stacks, cool window light",
+      "Ties the current file (8.90); does not beat it"
+    ],
+    "revised_prompt": "EDIT of S14/c7-1 (manual editor, use a brush mask on the counter's front edge from the sink to the right frame edge): repaint that strip as plain flat beige laminate with one clean dark line along its edge, no marks, no strokes, no scratches. Keep everything else identical. No text, no letters, bottom-right corner plain, no watermark."
+  }
+]

@@ -1,0 +1,71 @@
+[
+ {
+  "shot": "S18",
+  "replaces": "R80 (stand-in), new b15 shot",
+  "file": "assets/flow2k_raw/molly-v2/S18/re1-1.png",
+  "source": "1K",
+  "scores": {
+   "beat": 8.5,
+   "character": 9,
+   "cinematic": 8.25,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 8.5
+  },
+  "total": 8.6,
+  "pass": false,
+  "expression_ok": true,
+  "defects": [
+   "Edit change 1 failed: no window or venetian blinds anywhere in frame; right edge is still plain dark wall, so there is no cool window key on Alvin's face and the cut into R56 (window behind the chair) still has no shared window.",
+   "Edit change 2 failed: Yalom is the same size and position as r3-1 (~35% frame height, midground, sharp), not a small soft far figure; he still looks roughly toward camera/Alvin."
+  ],
+  "minor": [
+   "Only real change: a small warm table lamp now glows beside the doorway behind Yalom, giving a motivated warm practical deep in the room (one r3-1 defect partly fixed).",
+   "Yalom's open reaching hand became clasped hands on his knees: quieter, more patient read; glasses and blond beard intact.",
+   "Alvin's face, ashamed expression (eyes lowered and wet, inner brows lifted, tight down-turned mouth), arms crossed, olive sweater, chair: essentially identical to r3-1; the eyes are not noticeably further down/away than r3-1.",
+   "Crossed hands clean (same as r3-1, no extra digits).",
+   "Bottom-right corner clean, no 4-point sparkle; no readable text on stacks or the switch plate.",
+   "Horizontal stripes behind Alvin's face/chest are the edges of paper/book stacks, not venetian blinds; right edge (x>2400) is plain blue-grey wall in r3-1 and both edits.",
+   "1K upscale softness (not penalised)."
+  ],
+  "ai_tells": [
+   "flat even light on Alvin with no motivated key"
+  ],
+  "better_than_current": true
+ },
+ {
+  "shot": "S18",
+  "replaces": "R80 (stand-in), new b15 shot",
+  "file": "assets/flow2k_raw/molly-v2/S18/re1-2.png",
+  "source": "1K",
+  "scores": {
+   "beat": 8.25,
+   "character": 9,
+   "cinematic": 8.25,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 8.5
+  },
+  "total": 8.54,
+  "pass": false,
+  "expression_ok": true,
+  "defects": [
+   "Edit change 1 failed: no window or blinds in frame; right edge still plain wall; no cool window key on Alvin's face.",
+   "Edit change 2 failed: Yalom same size/position as r3-1 (~35% frame height, not small or far), only slightly softer.",
+   "The doorway behind Yalom was replaced by a dead-end wall with more stacks, so the reverse angle no longer shows the doorway Yalom stands in for R56; Yalom now sits in a closed aisle, which weakens geography and the cut."
+  ],
+  "minor": [
+   "Warm lamp on the back wall adds a motivated warm practical; denser stacks read more hoarded.",
+   "Yalom's hands now clasped; glasses and beard readable.",
+   "Alvin's face, ashamed expression (eyes lowered and wet, inner brows lifted, tight down-turned mouth), arms crossed, olive sweater, chair: essentially identical to r3-1; the eyes are not noticeably further down/away than r3-1.",
+   "Crossed hands clean (same as r3-1, no extra digits).",
+   "Bottom-right corner clean, no 4-point sparkle; no readable text on stacks or the switch plate.",
+   "Horizontal stripes behind Alvin's face/chest are the edges of paper/book stacks, not venetian blinds; right edge (x>2400) is plain blue-grey wall in r3-1 and both edits.",
+   "1K upscale softness (not penalised)."
+  ],
+  "ai_tells": [
+   "flat even light on Alvin with no motivated key"
+  ],
+  "better_than_current": false
+ }
+]

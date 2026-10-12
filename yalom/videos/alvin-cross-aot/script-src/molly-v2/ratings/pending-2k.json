@@ -1,0 +1,388 @@
+[
+ {
+  "shot": "R87",
+  "flow_asset": "R87-r2-2",
+  "worker": "l2"
+ },
+ {
+  "shot": "R83",
+  "flow_asset": "R83-r3-2",
+  "worker": "l2"
+ },
+ {
+  "shot": "R16",
+  "flow_asset": "R16-r5a",
+  "worker": "ag"
+ },
+ {
+  "shot": "M07",
+  "flow_asset": "M07-ms3b",
+  "worker": "ms"
+ },
+ {
+  "shot": "R80",
+  "flow_asset": "l2-R80-r6-1",
+  "worker": "l2"
+ },
+ {
+  "shot": "S16",
+  "flow_asset": "l2-S16-r1-2",
+  "worker": "l2"
+ },
+ {
+  "shot": "R08",
+  "flow_asset": "ag-R08-r7b",
+  "worker": "ag"
+ },
+ {
+  "shot": "R15",
+  "flow_asset": "ag-R15-r7b",
+  "worker": "ag"
+ },
+ {
+  "shot": "R10",
+  "flow_asset": "ag-R10-r7a",
+  "worker": "ag"
+ },
+ {
+  "shot": "M05",
+  "flow_asset": "Man closing file folder (renamed ms-M05-5b if it stuck)",
+  "worker": "ms"
+ },
+ {
+  "shot": "S09",
+  "flow_asset": "S09-ms2b",
+  "worker": "ms"
+ },
+ {
+  "shot": "S11",
+  "flow_asset": "Old man sitting in caf\u00e9 [img e6b9216c]",
+  "worker": "ag"
+ },
+ {
+  "shot": "R13",
+  "flow_asset": "Three people shaking hands [img ed691c14]",
+  "worker": "ag"
+ },
+ {
+  "shot": "R01",
+  "flow_asset": "R01-ms3b (latest version)",
+  "worker": "ms"
+ },
+ {
+  "shot": "R55",
+  "flow_asset": "lb-R55-r3e",
+  "worker": "lb"
+ },
+ {
+  "shot": "R47",
+  "flow_asset": "lb-R47-r2b",
+  "worker": "lb"
+ },
+ {
+  "shot": "S02",
+  "flow_asset": "S02-ms3b (latest version)",
+  "worker": "ms"
+ },
+ {
+  "shot": "S12",
+  "flow_asset": "l2-S12-x3-2",
+  "worker": "l2"
+ },
+ {
+  "shot": "R12",
+  "flow_asset": "Man editing image [img bb795814]",
+  "worker": "ag"
+ },
+ {
+  "shot": "R90",
+  "flow_asset": "l2-R90-re1-2",
+  "worker": "l2"
+ },
+ {
+  "shot": "R84",
+  "flow_asset": "l2-R84-r11-2",
+  "worker": "l2"
+ },
+ {
+  "shot": "R86",
+  "flow_asset": "l2-R86-r3-1",
+  "worker": "l2"
+ },
+ {
+  "shot": "S05",
+  "flow_asset": "ms-canvas-S05.jpg (latest version; upload of widened c7-1, outpainted)",
+  "worker": "ms"
+ },
+ {
+  "shot": "R85",
+  "flow_asset": "l2-R85-r6-2",
+  "worker": "l2"
+ },
+ {
+  "shot": "S10",
+  "flow_asset": "ms-canvas-S10.jpg (latest version, lamp edit)",
+  "worker": "ms"
+ },
+ {
+  "shot": "R17",
+  "flow_asset": "backyard R17 bk4-2 (fresh eye-level wide, 2nd of 4 in grid row)",
+  "worker": "ag"
+ },
+ {
+  "shot": "S19",
+  "flow_asset": "l2-S19-r2-2",
+  "worker": "l2"
+ },
+ {
+  "shot": "S08",
+  "flow_asset": "backyard S08 bk4-1 (edit of ag-S08-bk3-1.jpg)",
+  "worker": "ag"
+ },
+ {
+  "shot": "S20",
+  "flow_asset": "l2-S20-r2-2",
+  "worker": "l2"
+ },
+ {
+  "shot": "R46",
+  "flow_asset": "lb-R46-r5e",
+  "worker": "lb"
+ },
+ {
+  "shot": "S18",
+  "flow_asset": "l2-S18-re1-1",
+  "worker": "l2"
+ },
+ {
+  "shot": "M04",
+  "flow_asset": "Man sitting in therapy session (edit/63be6d42-fa3f-4919-9541-e85de2919eff latest version)",
+  "worker": "ms"
+ },
+ {
+  "shot": "S15",
+  "flow_asset": "Man sitting in therapy session (S15, edit/755bcbdf-1548-40f6-bd41-9943d246eb69)",
+  "worker": "ms"
+ },
+ {
+  "shot": "R14",
+  "flow_asset": "backyard R14 bk6-2 (fresh, ref ag-R11-bk2-1)",
+  "worker": "ag"
+ },
+ {
+  "shot": "R92",
+  "flow_asset": "l2-R92-na1-1",
+  "worker": "l2"
+ },
+ {
+  "shot": "S15",
+  "flow_asset": "Man looking down in office (edit/acf628ae latest version)",
+  "worker": "ms"
+ },
+ {
+  "shot": "S18",
+  "flow_asset": "l2-S18-margin.jpg (edit/3215749a latest version)",
+  "worker": "l2"
+ },
+ {
+  "shot": "R57",
+  "flow_asset": "untitled manual gen (2nd of 2), prompt starts 'Low-angle close insert at tabletop height', ref lb-S13-nightstand.jpg",
+  "worker": "lb"
+ },
+ {
+  "shot": "S13",
+  "flow_asset": "untitled manual gen (1st of 2), prompt starts 'High-angle top shot, 24mm looking down at a narrow bed', ref lb-R57-nightstand.jpg",
+  "worker": "lb"
+ },
+ {
+  "shot": "S10",
+  "flow_asset": "Man on telephone at desk (edit/304d886c)",
+  "worker": "ms"
+ },
+ {
+  "shot": "R05",
+  "flow_asset": "Man looking at X-ray (edit/86c8f7af latest version)",
+  "worker": "lb"
+ },
+ {
+  "shot": "M04",
+  "flow_asset": "Man smiling in office chair (edit/6500f4cc)",
+  "worker": "ms"
+ },
+ {
+  "shot": "R13",
+  "flow_asset": "ag-R13-bk8-margin.jpg (edit/edb7f082 latest version)",
+  "worker": "ag",
+  "note": "outpainted margin canvas: apply default crop after 2K download"
+ },
+ {
+  "shot": "M04",
+  "flow_asset": "Man smiling in office chair (edit/6500f4cc latest version)",
+  "worker": "ms"
+ },
+ {
+  "shot": "R92",
+  "flow_asset": "l2-R92-rn2-margin.jpg (edit/ddc8bd00 latest version)",
+  "worker": "l2"
+ },
+ {
+  "shot": "R01",
+  "flow_asset": "ms-canvas-R01.jpg (edit/22b08998 latest version)",
+  "worker": "ms"
+ },
+ {
+  "shot": "R01",
+  "flow_asset": "ms-canvas-R01.jpg (edit/22b08998 latest version)",
+  "worker": "ms"
+ },
+ {
+  "shot": "R59",
+  "flow_asset": "untitled manual gen (2nd of 2), prompt starts 'Medium-wide shot, 35mm lens, slightly low angle from just behind', ref lb-yalom-ref.jpg",
+  "worker": "lb"
+ },
+ {
+  "shot": "R01",
+  "flow_asset": "ms-canvas-R01.jpg (edit/22b08998 latest version)",
+  "worker": "ms"
+ },
+ {
+  "shot": "S02",
+  "flow_asset": "Man closing manila folder (edit/c88bfcde)",
+  "worker": "ms"
+ },
+ {
+  "shot": "R86",
+  "flow_asset": "R86 n1 2nd output (inked radiology reading room, desk lamp)",
+  "worker": "l2"
+ },
+ {
+  "shot": "R60",
+  "flow_asset": "lb-R60-margin.jpg (edit/eb351fb2 latest version)",
+  "worker": "lb"
+ },
+ {
+  "shot": "S02",
+  "flow_asset": "Man closing manila folder (edit/c88bfcde latest version)",
+  "worker": "ms"
+ },
+ {
+  "shot": "R42",
+  "flow_asset": "untitled manual gen (2nd of 2), prompt starts 'Wide shot, 28mm lens, from across a quiet suburban street'",
+  "worker": "lb"
+ },
+ {
+  "shot": "R84",
+  "flow_asset": "Doctor lecturing in auditorium (edit/c3620193)",
+  "worker": "ms"
+ },
+ {
+  "shot": "R41",
+  "flow_asset": "lb-R41-margin.jpg (edit/8746a5d3 latest version)",
+  "worker": "lb"
+ },
+ {
+  "shot": "R84",
+  "flow_asset": "Doctor lecturing in auditorium (edit/c3620193 latest version)",
+  "worker": "ms"
+ },
+ {
+  "shot": "R85",
+  "flow_asset": "R85 n3 2nd output (Yalom close single)",
+  "worker": "l2"
+ },
+ {
+  "shot": "R88",
+  "flow_asset": "R88 n1 1st output (wide doorway Molly)",
+  "worker": "l2"
+ },
+ {
+  "shot": "M02",
+  "flow_asset": "ms-M02-base.jpg (edit/51f69d00, first edit version)",
+  "worker": "ms"
+ },
+ {
+  "shot": "M07",
+  "flow_asset": "ms-M07-base.jpg (edit/64f42481 latest version)",
+  "worker": "ms"
+ },
+ {
+  "shot": "R58",
+  "flow_asset": "ms-R58.jpg (outpaint+sweater edit, then Jason blanket edit)",
+  "worker": "sf"
+ },
+ {
+  "shot": "M06",
+  "flow_asset": "ms-M06.jpg (outpaint+age edit, then hair/face edit)",
+  "worker": "sf"
+ },
+ {
+  "shot": "S22",
+  "flow_asset": "Man speaking on phone (generated with N15 ref) + ms-S22.jpg outpaint",
+  "worker": "sf"
+ },
+ {
+  "shot": "S23",
+  "flow_asset": "Man looking out airplane window (R43 ref) + ms-S23.jpg outpaint",
+  "worker": "sf"
+ },
+ {
+  "shot": "R91",
+  "flow_asset": "ms-R91.jpg (outpaint + film edit)",
+  "worker": "sf"
+ },
+ {
+  "shot": "S14",
+  "flow_asset": "ms-S14.jpg (3rd edit: lowered gaze)",
+  "worker": "sf"
+ },
+ {
+  "shot": "R51",
+  "flow_asset": "ms-R51 outpaint of sb-R51 edit (edit/fac06340 latest)",
+  "worker": "sb"
+ },
+ {
+  "shot": "R02",
+  "flow_asset": "ms-R02 edit of sb-R02 (edit/ce2b756a latest)",
+  "worker": "sb"
+ },
+ {
+  "shot": "R03",
+  "flow_asset": "ms-R03 edit of sb-R03 (edit/1a5dab60)",
+  "worker": "sb"
+ },
+ {
+  "shot": "R11",
+  "flow_asset": "People at backyard memorial (M05 ref) + ms-R11.jpg outpaint + light/portrait edits",
+  "worker": "sf"
+ },
+ {
+  "shot": "R06",
+  "flow_asset": "ms-R06 edit of sb-R06 (edit/098018c0)",
+  "worker": "sb"
+ },
+ {
+  "shot": "S07",
+  "flow_asset": "ms-S07 edit of sb-S07 then margin outpaint (edit/2f1943fe)",
+  "worker": "sb"
+ },
+ {
+  "shot": "S21",
+  "flow_asset": "Doctor speaking at lecture room (R43+N15 refs) + ms-S21.jpg outpaint + 3 edits",
+  "worker": "sf"
+ },
+ {
+  "shot": "R43",
+  "flow_asset": "Flow generate with R58 ref + edits + margin outpaint (edit/b4b18918)",
+  "worker": "sb"
+ },
+ {
+  "shot": "M01",
+  "flow_asset": "ms-M01.jpg (outpaint + natural/cast edits, then grandmother/father/jacket edit)",
+  "worker": "sf"
+ },
+ {
+  "shot": "S17",
+  "flow_asset": "ms-S17.jpg (empty-doorway edit, then streetlight/glance edit)",
+  "worker": "sf"
+ }
+]

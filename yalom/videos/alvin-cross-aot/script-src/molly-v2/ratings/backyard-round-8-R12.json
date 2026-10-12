@@ -1,0 +1,95 @@
+[
+ {
+  "shot": "R12",
+  "file": "assets/flow2k_raw/molly-v2/R12/bk8-2.png",
+  "scores": {
+   "beat": 9,
+   "character": 8.5,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "total": 8.75,
+  "pass": false,
+  "defects": [
+   "no headroom: the top of Alvin's silver hair touches and is cut by the top frame edge after the outpaint/crop",
+   "suit reads dark olive-green rather than black (character sheet: black suit)",
+   "hat sits low at the stomach rather than pressed to the chest; the hand is fixed (thumb + 4 fingers, natural curl) but slightly small",
+   "smile is a touch lopsided (left corner higher); stays earnest, not a smirk, but borderline",
+   "glow outline is gone; no sparkle/star in the bottom-right corner"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the over-the-shoulder composition with the soft, out-of-focus aged Yalom (silver hair, beard, round glasses) in the left foreground, the sunny backyard memorial with the house, white folding chairs and portrait table softly blurred behind, the AoT cel style and golden-hour light, and aged Alvin's face, warm earnest small smile and hand. Change only: lower Alvin slightly in frame so there is a small band of sky/background above his silver-white hair; make his suit true black (white shirt, black tie); raise the cream Panama hat with its black band so it is held flat against the left side of his chest, with his hand resting naturally on the brim; make both corners of his closed-lip smile even. He keeps looking at Yalom, not at the camera. No glow or rim light around him, no text, no watermark.",
+  "res": "1K",
+  "watermark": "none (bottom-right inspected by eye)"
+ },
+ {
+  "shot": "R12",
+  "file": "assets/flow2k_raw/molly-v2/R12/bk8-4.png",
+  "scores": {
+   "beat": 9.0,
+   "character": 8.75,
+   "cinematic": 8.75,
+   "style": 9.0,
+   "technical": 8.75,
+   "readability": 9.0
+  },
+  "total": 8.875,
+  "pass": false,
+  "defects": [
+   "hat still sits mid-chest/upper stomach rather than flat against the chest; it is shown open-side out with the crown interior visible, slightly odd read",
+   "smile slightly asymmetric (one corner higher); still warm and earnest, not a smirk, but borderline",
+   "held hand fine (thumb + 4 fingers, aged veins), no glow outline; heavy dark ink outline only",
+   "headroom fixed (clear sky band above hair); suit now true black; bottom-right clean, no sparkle/star"
+  ],
+  "edit_prompt": "Keep everything; only raise the cream Panama hat so it is held flat against the left side of his chest, crown outward, hand on the brim, and even out both corners of his closed-lip smile. No glow, no text, no watermark.",
+  "res": "1K",
+  "watermark": "none (bottom-right crop inspected at full res)"
+ },
+ {
+  "shot": "R12",
+  "file": "assets/flow2k_raw/molly-v2/R12/bk8-5.png",
+  "scores": {
+   "beat": 9.0,
+   "character": 9.0,
+   "cinematic": 8.75,
+   "style": 9.0,
+   "technical": 8.5,
+   "readability": 9.0
+  },
+  "total": 8.875,
+  "pass": false,
+  "defects": [
+   "hand laid flat across the crown with four straight, parallel, evenly spaced fingers; reads stiff and pasted on, the same issue that marked down bk4-2",
+   "hat now crown-out with black band, held against the chest; the fix worked",
+   "smile now even, closed-lip, warm; no smirk; looking at Yalom, not the lens",
+   "no glow outline, only dark ink lines; bottom-right is clean, no sparkle or star"
+  ],
+  "edit_prompt": "Keep everything; only relax his hand on the hat: fingers gently curled over the brim edge at different angles, thumb behind the brim, as if lightly holding it to his chest. No glow, no text, no watermark.",
+  "res": "1K",
+  "watermark": "none (bottom-right crop inspected at full res)"
+ },
+ {
+  "shot": "R12",
+  "file": "assets/flow2k_raw/molly-v2/R12/bk8-6.png",
+  "scores": {
+   "beat": 9.0,
+   "character": 9.0,
+   "cinematic": 8.75,
+   "style": 9.0,
+   "technical": 8.25,
+   "readability": 9.0
+  },
+  "total": 8.833,
+  "pass": false,
+  "defects": [
+   "hand edit had almost no effect: still four straight, parallel, evenly spaced fingers laid flat across the crown, no curl over the brim, thumb not behind brim",
+   "new artifact: knuckle creases on index/middle fingers drawn as odd letter-like glyphs ('D', 'U' shapes), worse than bk8-5's plain lines",
+   "rest unchanged from bk8-5: even warm closed-lip smile, looking at Yalom, crown-out hat with black band, black suit/tie, good headroom",
+   "no glow outline; bottom-right clean, no sparkle or star"
+  ],
+  "edit_prompt": "Keep everything; redraw only his right hand: fingertips curled over the top edge of the brim at varied angles, knuckles bent, thumb hidden behind the brim, simple ink knuckle lines. No glow, no text, no watermark.",
+  "res": "2K",
+  "watermark": "none (bottom-right crop inspected at full res)"
+ }
+]

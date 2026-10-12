@@ -1,0 +1,56 @@
+[
+  {
+    "shot": "R92",
+    "replaces": "N19",
+    "file": "assets/flow2k_raw/molly-v2/R92/r5-1.png",
+    "source": "1K",
+    "scores": {"beat": 8.5, "character": 8.5, "cinematic": 8, "style": 8, "technical": 8.5, "readability": 8.5},
+    "total": 8.35,
+    "pass": false,
+    "defects": [
+      "snapshot regressed vs r4-2: only three figures (father, mother, one child), so the boy ~8 / girl ~5 family is wrong",
+      "snapshot is an inked anime drawing with outlines, no white paper border, no grain; reads as a drawing, not a faded 1990s print",
+      "Alvin's hair nearly touches the top edge (a few px gap); the required one-fifth wall band above his head is missing"
+    ],
+    "minor": [
+      "hand fixed: his hand grips her near upper arm just above the elbow, clean 4 fingers + thumb, nothing on her shoulder; but it reaches from the front, not an arm around her back to the far elbow",
+      "hard diagonal light wedge on the back wall with no visible window reads close to a stylised light shaft",
+      "Monica's hair now warm ash-blonde, reads ~60 (best yet); faces consistent with R12/R13",
+      "heavy uniform black outlines, more comic-book than the reference close-ups",
+      "1K upscale softness (not penalised)"
+    ],
+    "ai_tells": [
+      "photo-within-photo drawn with ink lines rather than photographic",
+      "graphic light wedge on wall"
+    ],
+    "better_than_current": false,
+    "notes": "No text (envelopes blank, book spines unlettered), one pair of glasses, bottom-right clean, no sparkle. Crowded shelf sells the 'just picked it up' moment."
+  },
+  {
+    "shot": "R92",
+    "replaces": "N19",
+    "file": "assets/flow2k_raw/molly-v2/R92/r5-2.png",
+    "source": "1K",
+    "scores": {"beat": 8.5, "character": 9, "cinematic": 8.5, "style": 8, "technical": 8.5, "readability": 9},
+    "total": 8.6,
+    "pass": false,
+    "defects": [
+      "snapshot is an inked anime drawing with clear outlines, no white paper border, no grain (worse than r4-2's print)",
+      "Alvin's hair is cut by the top edge; no headroom despite the prompt (fifth round running)"
+    ],
+    "minor": [
+      "snapshot family correct: golden-blond father ~45, blonde mother, boy ~8, girl ~5, autumn-tinted garden",
+      "hand fixed: his hand holds her near upper arm above the elbow, clean anatomy, shoulders free; still reached from the front rather than an arm around her back",
+      "window at left is a visible single motivated source, matte shading, no rays or dust",
+      "crowded bookshelf became a low ledge of books beside a plant; glasses and envelope on the table, so the 'picked from a crowded shelf' cue is weaker",
+      "Monica blonde-grey, reads ~62; faces consistent with R12/R13",
+      "heavy uniform black outlines",
+      "1K upscale softness (not penalised)"
+    ],
+    "ai_tells": [
+      "photo-within-photo drawn with ink lines rather than photographic"
+    ],
+    "better_than_current": false,
+    "notes": "Fixes the hand-on-shoulder issue r4-2 had, but loses the convincing faded print and still clips the head; nets below r4-2 (8.75). No text, one pair of glasses, bottom-right clean, no sparkle."
+  }
+]

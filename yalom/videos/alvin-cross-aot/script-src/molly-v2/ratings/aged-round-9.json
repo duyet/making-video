@@ -1,0 +1,160 @@
+[
+  {
+    "shot": "R13",
+    "file": "assets/flow2k_raw/molly-v2/R13/r9-1.png",
+    "res": "1K",
+    "scores": {
+      "beat": 8,
+      "character": 9,
+      "cinematic": 8,
+      "style": 9,
+      "technical": 8,
+      "readability": 6
+    },
+    "total": 8.1,
+    "pass": false,
+    "defects": [
+      "Monica's shoulder and arm are cut by the right frame edge and her face sits in the right-most fifth",
+      "left foreground headstone carries letter-like glyphs ('AAA B'), not blank",
+      "Yalom is seen almost fully from behind; puzzlement barely reads",
+      "Monica's gloved hand rests on her chest instead of opening toward Yalom"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep the over-the-shoulder three-shot, aged Yalom's back and profile on the left, the same aged Alvin (bareheaded, cream Panama hat held to his chest in his left hand, open charcoal overcoat, white shirt, black tie) shaking Yalom's hand at centre, smiling aged Monica in black, willows, golden-hour backlight, no fog, the AOT cel style. Change only: move Monica and Alvin left so Monica is fully inside the frame and nothing important is in the right-most fifth (fill it with soft willow and blurred lawn); make every headstone a plain blank stone with no carving or letters; turn Yalom's head a little more toward camera so his raised brows and puzzled squint read in profile; Monica's one gloved hand open, palm up, toward Yalom.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep the over-the-shoulder three-shot, aged Yalom's back and profile on the left, the same aged Alvin (bareheaded, cream Panama hat held to his chest in his left hand, open charcoal overcoat, white shirt, black tie) shaking Yalom's hand at centre, smiling aged Monica in black, willows, golden-hour backlight, no fog, the AOT cel style. Change only: move Monica and Alvin left so Monica is fully inside the frame and nothing important is in the right-most fifth (fill it with soft willow and blurred lawn); make every headstone a plain blank stone with no carving or letters; turn Yalom's head a little more toward camera so his raised brows and puzzled squint read in profile; Monica's one gloved hand open, palm up, toward Yalom."
+  },
+  {
+    "shot": "R13",
+    "file": "assets/flow2k_raw/molly-v2/R13/r9-2.png",
+    "res": "1K",
+    "scores": {
+      "beat": 8,
+      "character": 9,
+      "cinematic": 8,
+      "style": 9,
+      "technical": 9,
+      "readability": 8
+    },
+    "total": 8.5,
+    "pass": false,
+    "defects": [
+      "Yalom's profile reads neutral/stern, not puzzled",
+      "Monica's gloved hand is placed on her chest (decorative), not open toward Yalom",
+      "Monica's face sits in the right-most fifth, tight to the edge for a Ken Burns move",
+      "soft haze/bloom flattens the golden-hour shape"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep the over-the-shoulder three-shot, aged Yalom's back and profile on the left, the same aged Alvin (bareheaded, cream Panama hat held to his chest in his left hand, open charcoal overcoat, white shirt, black tie) shaking Yalom's hand at centre, smiling aged Monica in black, willows, golden-hour backlight, no fog, the AOT cel style. Change only: Yalom's visible profile shows raised brows and a slight puzzled squint, mouth slightly open as if trying to place the face; Monica's one gloved hand opens palm up toward Yalom; shift Monica and Alvin slightly left so no face is in the right-most fifth; reduce the haze so the low sun gives a clear warm rim on the three heads with longer shadows on the path. Headstones stay blank.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep the over-the-shoulder three-shot, aged Yalom's back and profile on the left, the same aged Alvin (bareheaded, cream Panama hat held to his chest in his left hand, open charcoal overcoat, white shirt, black tie) shaking Yalom's hand at centre, smiling aged Monica in black, willows, golden-hour backlight, no fog, the AOT cel style. Change only: Yalom's visible profile shows raised brows and a slight puzzled squint, mouth slightly open as if trying to place the face; Monica's one gloved hand opens palm up toward Yalom; shift Monica and Alvin slightly left so no face is in the right-most fifth; reduce the haze so the low sun gives a clear warm rim on the three heads with longer shadows on the path. Headstones stay blank."
+  },
+  {
+    "shot": "R13",
+    "file": "assets/flow2k_raw/molly-v2/R13/r9-3.png",
+    "res": "1K",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 8,
+      "style": 9,
+      "technical": 8,
+      "readability": 6
+    },
+    "total": 8.4,
+    "pass": false,
+    "defects": [
+      "left background headstone shows letter-like glyphs ('AAENS'), not blank",
+      "Monica's face sits in the right-most fifth",
+      "handshake: Alvin's hand has a stray dark blot and a slightly lumpy knuckle line"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep the over-the-shoulder three-shot, aged Yalom's back and profile on the left, the same aged Alvin (bareheaded, cream Panama hat held to his chest in his left hand, open charcoal overcoat, white shirt, black tie) shaking Yalom's hand at centre, smiling aged Monica in black, willows, golden-hour backlight, no fog, the AOT cel style, with Monica's open gloved palm toward Yalom as is. Change only: make the headstone behind Yalom's shoulder (and all others) plain blank stone with no carving or letters; clean the handshake into two clear interlocked right hands with no blots; shift Monica and Alvin slightly left so no face is in the right-most fifth.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep the over-the-shoulder three-shot, aged Yalom's back and profile on the left, the same aged Alvin (bareheaded, cream Panama hat held to his chest in his left hand, open charcoal overcoat, white shirt, black tie) shaking Yalom's hand at centre, smiling aged Monica in black, willows, golden-hour backlight, no fog, the AOT cel style, with Monica's open gloved palm toward Yalom as is. Change only: make the headstone behind Yalom's shoulder (and all others) plain blank stone with no carving or letters; clean the handshake into two clear interlocked right hands with no blots; shift Monica and Alvin slightly left so no face is in the right-most fifth."
+  },
+  {
+    "shot": "R13",
+    "file": "assets/flow2k_raw/molly-v2/R13/r9-4.png",
+    "res": "1K",
+    "scores": {
+      "beat": 8,
+      "character": 9,
+      "cinematic": 8,
+      "style": 9,
+      "technical": 8,
+      "readability": 8
+    },
+    "total": 8.3,
+    "pass": false,
+    "defects": [
+      "light reads as flat green midday, not golden hour (no low sun, no flare)",
+      "Monica's black glove has grey blotchy patches",
+      "Monica's gloved hand rests on her chest rather than opening toward Yalom",
+      "Monica's face sits in the right-most fifth"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep the over-the-shoulder three-shot, aged Yalom's back and profile on the left, the same aged Alvin (bareheaded, cream Panama hat held to his chest in his left hand, open charcoal overcoat, white shirt, black tie) shaking Yalom's hand at centre, smiling aged Monica in black, willows, golden-hour backlight, no fog, the AOT cel style. Change only: relight to golden hour with a low warm sun behind the couple, warm rim light on hair and shoulders, long shadows across the path, gentle flare top left; Monica's glove a clean matte black with her palm open toward Yalom; shift Monica and Alvin slightly left so no face is in the right-most fifth. Headstones stay blank.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep the over-the-shoulder three-shot, aged Yalom's back and profile on the left, the same aged Alvin (bareheaded, cream Panama hat held to his chest in his left hand, open charcoal overcoat, white shirt, black tie) shaking Yalom's hand at centre, smiling aged Monica in black, willows, golden-hour backlight, no fog, the AOT cel style. Change only: relight to golden hour with a low warm sun behind the couple, warm rim light on hair and shoulders, long shadows across the path, gentle flare top left; Monica's glove a clean matte black with her palm open toward Yalom; shift Monica and Alvin slightly left so no face is in the right-most fifth. Headstones stay blank."
+  },
+  {
+    "shot": "S11",
+    "file": "assets/flow2k_raw/molly-v2/S11/r2-1.png",
+    "res": "1K",
+    "scores": {
+      "beat": 8,
+      "character": 9,
+      "cinematic": 8,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 8.6,
+    "pass": false,
+    "defects": [
+      "medium-wide rather than a wide: Yalom fills about a third of the frame height, not small",
+      "warm late sun does not fall on Yalom; interior is dim and flat, the sun is only on the street at right",
+      "staging is centred and fairly symmetrical"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep aged Yalom (swept-back silver hair, white beard, round wire glasses, olive coat over brown cardigan vest) alone at his café table with a coffee cup, the view in through the café window from the street with soft reflections on the glass, the AOT cel style, with his quiet content smile and closed eyes. Change only: pull the camera back to a true wide so he is small (about a fifth of the frame height) on the left third, with more café façade, sidewalk and window frame around him; a low warm late-afternoon sun shafts through the glass across his table, face and shoulders with long warm shadows; keep the right-most fifth empty façade and glass, with no signage or text.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep aged Yalom (swept-back silver hair, white beard, round wire glasses, olive coat over brown cardigan vest) alone at his café table with a coffee cup, the view in through the café window from the street with soft reflections on the glass, the AOT cel style, with his quiet content smile and closed eyes. Change only: pull the camera back to a true wide so he is small (about a fifth of the frame height) on the left third, with more café façade, sidewalk and window frame around him; a low warm late-afternoon sun shafts through the glass across his table, face and shoulders with long warm shadows; keep the right-most fifth empty façade and glass, with no signage or text."
+  },
+  {
+    "shot": "S11",
+    "file": "assets/flow2k_raw/molly-v2/S11/r2-2.png",
+    "res": "1K",
+    "scores": {
+      "beat": 7,
+      "character": 9,
+      "cinematic": 7,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 8.1,
+    "pass": false,
+    "defects": [
+      "medium shot, not wide: Yalom is large in frame",
+      "no warm late sun: flat grey-green daylight, mood reads overcast",
+      "smile is faint, reads more pensive than content"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep aged Yalom (swept-back silver hair, white beard, round wire glasses, olive coat over brown cardigan vest) alone at his café table with a coffee cup, the view in through the café window from the street with soft reflections on the glass, the AOT cel style. Change only: pull back to a wide shot so he is small on the left third inside the window, with the café façade and sidewalk around him; add a low golden late-afternoon sun through the glass onto his face, hands and table; give him a soft content closed-mouth smile; keep the right-most fifth empty glass and façade, no text.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep aged Yalom (swept-back silver hair, white beard, round wire glasses, olive coat over brown cardigan vest) alone at his café table with a coffee cup, the view in through the café window from the street with soft reflections on the glass, the AOT cel style. Change only: pull back to a wide shot so he is small on the left third inside the window, with the café façade and sidewalk around him; add a low golden late-afternoon sun through the glass onto his face, hands and table; give him a soft content closed-mouth smile; keep the right-most fifth empty glass and façade, no text."
+  },
+  {
+    "shot": "S11",
+    "file": "assets/flow2k_raw/molly-v2/S11/r2-3.png",
+    "res": "1K",
+    "scores": {
+      "beat": 6,
+      "character": 9,
+      "cinematic": 7,
+      "style": 8,
+      "technical": 8,
+      "readability": 8
+    },
+    "total": 7.5,
+    "pass": false,
+    "defects": [
+      "medium close shot, not wide: Yalom fills most of the frame, little room for a slow move",
+      "expression reads wistful/melancholy rather than contentedly smiling",
+      "coffee cup has blotchy brown smudge artifacts",
+      "warm sun only on the left window frame, not on Yalom"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep aged Yalom (swept-back silver hair, white beard, round wire glasses, olive coat over brown cardigan vest) alone at his café table with a coffee cup, the view in through the café window from the street with soft reflections on the glass, the AOT cel style. Change only: pull back to a wide exterior shot so he is small on the left third within the window, with the façade, sidewalk and window frame around him; a clean plain cup; warm late sun falling across him and the table; a quiet content closed-mouth smile; keep the right-most fifth empty façade, no text.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep aged Yalom (swept-back silver hair, white beard, round wire glasses, olive coat over brown cardigan vest) alone at his café table with a coffee cup, the view in through the café window from the street with soft reflections on the glass, the AOT cel style. Change only: pull back to a wide exterior shot so he is small on the left third within the window, with the façade, sidewalk and window frame around him; a clean plain cup; warm late sun falling across him and the table; a quiet content closed-mouth smile; keep the right-most fifth empty façade, no text."
+  }
+]

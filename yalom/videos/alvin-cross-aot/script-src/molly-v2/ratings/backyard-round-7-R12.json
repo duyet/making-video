@@ -1,0 +1,86 @@
+[
+ {
+  "shot": "R12",
+  "file": "assets/flow2k_raw/molly-v2/R12/bk7-1.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 8.5,
+   "cinematic": 8.5,
+   "style": 8.5,
+   "technical": 8.5,
+   "readability": 8.5
+  },
+  "total": 8.5,
+  "pass": false,
+  "defects": [
+   "hat held by Alvin's RIGHT hand (wrist from picture left), not the left hand on picture right as briefed; four fingers still spread flat across the crown - posed, stiff",
+   "faint pale bloom along hair/shoulder edge against the bright background; frame a bit empty at right"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the sunny backyard memorial, house, fence, white folding chairs, golden-hour light, AoT cel style, aged Yalom soft over-the-shoulder at left and aged Alvin (silver hair, dark suit, black tie, warm small smile looking at Yalom). Change only: Alvin holds the cream Panama hat against his chest with his LEFT hand (the hand on picture right, wrist coming from picture right), fingers loosely curled over the brim, relaxed and slightly bent, not flat or spread; matte edges with no light outline around Alvin. No text, no watermark.",
+  "res": "1K",
+  "watermark": "none (bottom-right inspected by eye)"
+ },
+ {
+  "shot": "R12",
+  "file": "assets/flow2k_raw/molly-v2/R12/bk7-2.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 8.5,
+   "cinematic": 8.5,
+   "style": 8.5,
+   "technical": 8.0,
+   "readability": 8.5
+  },
+  "total": 8.417,
+  "pass": false,
+  "defects": [
+   "hand is RIGHT hand again and fingers splay widely across the crown - the stiff/splayed look the fix was meant to remove",
+   "hat clipped by bottom edge; light rim along Alvin's hair against the sky"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the sunny backyard memorial, house, fence, white folding chairs, golden-hour light, AoT cel style, aged Yalom soft over-the-shoulder at left and aged Alvin (silver hair, dark suit, black tie, warm small smile looking at Yalom). Change only: Alvin holds the cream Panama hat against his chest with his LEFT hand (the hand on picture right, wrist coming from picture right), fingers loosely curled over the brim, relaxed and slightly bent, not flat or spread; matte edges with no light outline around Alvin. No text, no watermark.",
+  "res": "1K",
+  "watermark": "none (bottom-right inspected by eye)"
+ },
+ {
+  "shot": "R12",
+  "file": "assets/flow2k_raw/molly-v2/R12/bk7-3.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 8.5,
+   "cinematic": 9.0,
+   "style": 8.5,
+   "technical": 8.5,
+   "readability": 8.5
+  },
+  "total": 8.583,
+  "pass": false,
+  "defects": [
+   "RIGHT hand on hat with fingers fanned flat - still stiff",
+   "extra mourners incl. a grey-haired woman behind Alvin staring toward camera pull focus; slight glow on hair edge"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the sunny backyard memorial, house, fence, white folding chairs, golden-hour light, AoT cel style, aged Yalom soft over-the-shoulder at left and aged Alvin (silver hair, dark suit, black tie, warm small smile looking at Yalom). Change only: Alvin holds the cream Panama hat against his chest with his LEFT hand (the hand on picture right, wrist coming from picture right), fingers loosely curled over the brim, relaxed and slightly bent, not flat or spread; matte edges with no light outline around Alvin. No text, no watermark.",
+  "res": "1K",
+  "watermark": "none (bottom-right inspected by eye)"
+ },
+ {
+  "shot": "R12",
+  "file": "assets/flow2k_raw/molly-v2/R12/bk7-4.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 8.5,
+   "cinematic": 8.5,
+   "style": 9.0,
+   "technical": 8.5,
+   "readability": 8.5
+  },
+  "total": 8.583,
+  "pass": false,
+  "defects": [
+   "RIGHT hand (wrist from picture left) instead of the left; fingers more relaxed but still pressed flat and spread",
+   "hat cut by bottom frame edge; mild halo on Alvin's hair"
+  ],
+  "edit_prompt": "Edit the attached image into a new 16:9 image: keep the sunny backyard memorial, house, fence, white folding chairs, golden-hour light, AoT cel style, aged Yalom soft over-the-shoulder at left and aged Alvin (silver hair, dark suit, black tie, warm small smile looking at Yalom). Change only: Alvin holds the cream Panama hat against his chest with his LEFT hand (the hand on picture right, wrist coming from picture right), fingers loosely curled over the brim, relaxed and slightly bent, not flat or spread; matte edges with no light outline around Alvin. No text, no watermark.",
+  "res": "1K",
+  "watermark": "none (bottom-right inspected by eye)"
+ }
+]

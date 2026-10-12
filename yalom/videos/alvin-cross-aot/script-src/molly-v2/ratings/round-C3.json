@@ -1,0 +1,82 @@
+[
+  {
+    "shot": "R06",
+    "file": "assets/flow2k_raw/molly-v2/R06/r3-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 8,
+      "cinematic": 8,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 8.6,
+    "pass": false,
+    "defects": [
+      "Yalom's hair is wild and flyaway with tufts toward the forehead, bushier than the neat swept-back mass in M05",
+      "Yalom's face carries a dense web of wrinkles, reads closer to 90 than 80 and heavier than M05",
+      "Prompted golden rim light and long cup shadows are missing; light is flat and even, so the frame reads as an illustration, not a film frame",
+      "No foreground layer; depth comes only from background customers"
+    ],
+    "revised_prompt": "Create 1 new image, 16:9, using the attached character sheet AOT-CAST-SHEET and the existing project images N16 and M05 as references for faces, outfits, set and light. Wide two-shot at a window table in a small sunlit California café, wooden chairs, a marble-top table with two coffee cups and a small vase, warm late-afternoon sun through the window, a few other customers as soft background shapes; keep the exact composition, café set and light of image N16: the large café window spans the whole background behind the table with the sunny street and parked cars of N16 seen through it, not a side window with interior customers on the left, full-bleed image filling the whole 16:9 frame edge to edge with no black bar or letterbox at the top or bottom. Left: Dr. Yalom about 80, inspired by an aged Zeke Yeager, silver-white short tousled hair, full trimmed silver-white beard, round wire-rim glasses, kind tired eyes with deep crow's feet, slightly stooped; grey wool overcoat open over a brown knit cardigan; the same person as the Yalom in image M05, with his short hair combed back off the forehead exactly like M05: hair brushed straight back and up from the forehead and temples, both ears fully visible, no strands falling over the forehead, temples or ears; the hair neat and swept back in one smooth mass like M05, not wild or flyaway; face lines drawn as a few fine soft lines like M05, not a dense web of wrinkles; sitting with hands around his cup, leaning in slightly, listening. Right: Alvin Cross about 70, inspired by an aged Erwin Smith, tall and upright, silver-white hair in the same neat side part, strong angular jaw softened by age, heavy grey brows, blue eyes, lined face, quiet warmth; navy blazer over an open-collared white shirt; a cream Panama hat with a black band resting on the table beside his cup; sitting relaxed, speaking calmly, mouth barely open, soft relaxed eyes rather than a wide stare. Both men visibly about 30 years older than in 1982. Light: strong low warm late-afternoon sun coming through the window behind the table, backlighting both men: a bright golden rim line clearly visible along both men's hair, ears and shoulders, warm sun glare in the window glass, long soft shadows of the cups, vase and hat stretching toward the camera across the marble, faces still clearly lit by soft warm bounce light; slight foreground depth with the out-of-focus edge of a chair back at the lower left. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, no text, no letters, no captions, no watermark. Keep every corner of the frame clean painted background: no sparkle, star, logo or icon anywhere, especially the bottom-right corner: the area right of Alvin's knee and the chair back there is plain painted wood and shadow only. Do not copy any logo, sparkle or star mark or any black bar from the reference images."
+  },
+  {
+    "shot": "R06",
+    "file": "assets/flow2k_raw/molly-v2/R06/r3-2.png",
+    "scores": {
+      "beat": 9,
+      "character": 8,
+      "cinematic": 8,
+      "style": 9,
+      "technical": 9,
+      "readability": 0
+    },
+    "total": 0,
+    "pass": false,
+    "defects": [
+      "HARD FAIL: four-point sparkle/star clearly painted at about x2560,y1340 on the chair back right of Alvin's knee (not in the removed Flow mark area)",
+      "Yalom's hair wild and flyaway, bushier than M05; dense wrinkles read older than 80",
+      "Prompted golden rim light and long shadows missing; flat even light"
+    ],
+    "revised_prompt": "Create 1 new image, 16:9, using the attached character sheet AOT-CAST-SHEET and the existing project images N16 and M05 as references for faces, outfits, set and light. Wide two-shot at a window table in a small sunlit California café, wooden chairs, a marble-top table with two coffee cups and a small vase, warm late-afternoon sun through the window, a few other customers as soft background shapes; keep the exact composition, café set and light of image N16: the large café window spans the whole background behind the table with the sunny street and parked cars of N16 seen through it, not a side window with interior customers on the left, full-bleed image filling the whole 16:9 frame edge to edge with no black bar or letterbox at the top or bottom. Left: Dr. Yalom about 80, inspired by an aged Zeke Yeager, silver-white short tousled hair, full trimmed silver-white beard, round wire-rim glasses, kind tired eyes with deep crow's feet, slightly stooped; grey wool overcoat open over a brown knit cardigan; the same person as the Yalom in image M05, with his short hair combed back off the forehead exactly like M05: hair brushed straight back and up from the forehead and temples, both ears fully visible, no strands falling over the forehead, temples or ears; the hair neat and swept back in one smooth mass like M05, not wild or flyaway; face lines drawn as a few fine soft lines like M05, not a dense web of wrinkles; sitting with hands around his cup, leaning in slightly, listening. Right: Alvin Cross about 70, inspired by an aged Erwin Smith, tall and upright, silver-white hair in the same neat side part, strong angular jaw softened by age, heavy grey brows, blue eyes, lined face, quiet warmth; navy blazer over an open-collared white shirt; a cream Panama hat with a black band resting on the table beside his cup; sitting relaxed, speaking calmly, mouth barely open, soft relaxed eyes rather than a wide stare. Both men visibly about 30 years older than in 1982. Light: strong low warm late-afternoon sun coming through the window behind the table, backlighting both men: a bright golden rim line clearly visible along both men's hair, ears and shoulders, warm sun glare in the window glass, long soft shadows of the cups, vase and hat stretching toward the camera across the marble, faces still clearly lit by soft warm bounce light; slight foreground depth with the out-of-focus edge of a chair back at the lower left. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, no text, no letters, no captions, no watermark. Keep every corner of the frame clean painted background: no sparkle, star, logo or icon anywhere, especially the bottom-right corner: the area right of Alvin's knee and the chair back there is plain painted wood and shadow only. Do not copy any logo, sparkle or star mark or any black bar from the reference images."
+  },
+  {
+    "shot": "R08",
+    "file": "assets/flow2k_raw/molly-v2/R08/r3-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 7,
+      "cinematic": 8,
+      "style": 9,
+      "technical": 9,
+      "readability": 0
+    },
+    "total": 0,
+    "pass": false,
+    "defects": [
+      "HARD FAIL: four-point sparkle/star clearly painted at about x2560,y1340 on the wooden booth back (not in the removed Flow mark area)",
+      "Yalom's hair falls in strands over the forehead from a near-centre parting, not combed back like M05",
+      "Sun band on the face is weak; light reads evenly diffused"
+    ],
+    "revised_prompt": "Create 1 new image, 16:9, using the attached character sheet AOT-CAST-SHEET and the existing project images N18 and M05 as references for faces, outfits, set and light. Close-up at the same sunlit café window table of Dr. Yalom about 80, inspired by an aged Zeke Yeager, silver-white short tousled hair, full trimmed silver-white beard, round wire-rim glasses, kind tired eyes with deep crow's feet, slightly stooped; grey wool overcoat open over a brown knit cardigan; the same person as the Yalom in image M05, hair kept short and combed back off the forehead as in M05: brushed straight back and up from the forehead with no centre parting and no fringe, both ears and temples fully visible, nothing falling over the forehead or ears, swept back in one smooth mass from the hairline like M05 with no strands hanging down in front; keep the exact framing, café and light of image N18; turned a little toward the window, gazing out at the street, a bright shaft of warm late-afternoon sunlight from the window falling across the near side of his face in a clear warm band, catching the rims of his glasses with a small glint, the far side of his face in soft shadow, a faint moved expression with the mouth closed, crow's feet drawn as a few fine soft lines (no deep cut-like marks on the cheek), a coffee cup in front of him, the café interior softly blurred behind. Visibly about 30 years older than in 1982. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, no text, no letters, no captions, no watermark. Keep every corner of the frame clean painted background: no sparkle, star, logo or icon anywhere, especially the bottom-right corner: the wooden booth back behind his right shoulder is plain painted wood grain only. Do not copy any logo, sparkle or star mark or any black bar from the reference images."
+  },
+  {
+    "shot": "R08",
+    "file": "assets/flow2k_raw/molly-v2/R08/r3-2.png",
+    "scores": {
+      "beat": 8,
+      "character": 9,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 8.8,
+    "pass": false,
+    "defects": [
+      "Café set and window view no longer match N18: a cobbled European street with tall stone buildings replaces N18's California street with parked sedans and trees, the potted plant and booth are gone, so it breaks continuity with R06/N16",
+      "Bottom-right quadrant clean, no black bars; hair, glint and light band are good"
+    ],
+    "revised_prompt": "Edit the existing image R08-r2b into a new image: keep the framing, café, coat, beard, glasses, face and pose exactly the same, and change only three things: (1) his hair becomes short silver-white hair brushed straight back and up off the forehead with no centre parting and no fringe, both ears and temples fully visible, exactly like the aged Yalom in image M05; (2) a clear warm band of late-afternoon sunlight from the window falls across the near side of his face, with a small glint on the rims of his glasses; (3) the café set and window view become exactly those of image N18: through the large window on the left a sunny California street with parked 1970s-80s sedans along the curb and green street trees, a leafy potted plant on the sill between the window and him, a wooden booth back behind him and softly blurred customers on the right, so it matches the same café as N16. Same Attack on Titan (Wit Studio era) anime style, no text, no letters, no captions, no watermark, no sparkle, star, logo or icon anywhere."
+  }
+]

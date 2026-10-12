@@ -1,0 +1,101 @@
+[
+  {
+    "shot": "R92",
+    "file": "assets/redraw/R92.png",
+    "baseline": true,
+    "replaces": "N19",
+    "source": "2K",
+    "scores": {
+      "beat": 5.5,
+      "character": 4,
+      "cinematic": 6,
+      "style": 7,
+      "technical": 8.5,
+      "readability": 9
+    },
+    "total": 6.25,
+    "pass": false,
+    "defects": [
+      "AGE ERROR: present-day couple drawn ~45/~38 (blond, unlined) instead of Alvin ~70 silver-white and Monica ~60 silver-blonde as in R12/R13",
+      "no candid action: stiff posed stance, both standing beside a frame on a table rather than picking it up and looking at it together",
+      "Alvin's hand laid flat on the table edge and Monica's hand on his arm read as decorative placement",
+      "framed photo drawn in the same glossy anime style, no faded print look, and it shows the family with the same-age parents as the foreground couple, so there is no 'years earlier' contrast"
+    ],
+    "minor": [
+      "daisies and a second frame crowd the top-right edge"
+    ],
+    "ai_tells": [
+      "posed portrait staging",
+      "glossy rim light on hair and shoulders",
+      "god rays + dust motes + window bloom haze stacked",
+      "airbrushed ageless glamour faces",
+      "decorative hand placement",
+      "photo-within-photo in the same glossy style"
+    ],
+    "better_than_current": false,
+    "notes": "Previously 9.08; re-scored under the 'Natural, not AI-looking' rule (6 tells, cinematic and style docked) and the present-day age requirement (character < 8). No text; no sparkle bottom-right."
+  },
+  {
+    "shot": "R92",
+    "replaces": "N19",
+    "file": "assets/flow2k_raw/molly-v2/R92/r2-1.png",
+    "source": "1K",
+    "scores": {
+      "beat": 7,
+      "character": 8.5,
+      "cinematic": 8.5,
+      "style": 8,
+      "technical": 8.5,
+      "readability": 9
+    },
+    "total": 8.13,
+    "pass": false,
+    "defects": [
+      "snapshot shows the parents already old (white-haired Alvin and Monica) instead of Alvin ~45 / Monica ~38, so the 'years earlier' memory reads wrong",
+      "snapshot drawn in the same ink-line style, no white paper border, no fading or grain: not a real 1990s print"
+    ],
+    "minor": [
+      "Alvin's hand rests on her shoulder, not her upper arm",
+      "Monica reads closer to 65-70 than 60 (heavy forehead and cheek lines, pure grey hair)",
+      "heavier comic-book outlines than the redraw set",
+      "Alvin's head close to the top edge, limited headroom for Ken Burns"
+    ],
+    "ai_tells": [
+      "photo-within-photo drawn in the same style as the scene"
+    ],
+    "better_than_current": true,
+    "notes": "Faces match R12/R13 (aged Erwin-type Alvin, aged Historia-type Monica). Hands clean (both of hers on the frame, his on her shoulder, five digits). Envelope stamp has no letters; no text; bottom-right clean, no sparkle. Single window light, matte, lived-in shelf: natural rule mostly satisfied."
+  },
+  {
+    "shot": "R92",
+    "replaces": "N19",
+    "file": "assets/flow2k_raw/molly-v2/R92/r2-2.png",
+    "source": "1K",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 8.5,
+      "style": 8,
+      "technical": 8.5,
+      "readability": 8.5
+    },
+    "total": 8.68,
+    "pass": false,
+    "defects": [
+      "below the 9.0 bar: snapshot has the right content (younger blond couple ~45/~38, boy ~8, girl ~5, garden, white border with water stains) but is still drawn with ink outlines and cel colour, so it does not read as a real photograph",
+      "style: heavier, grungier comic-book outlines and paper texture than the R12/R13 redraw set; would stand out slightly in a cut"
+    ],
+    "minor": [
+      "Alvin's hand on her shoulder rather than her upper arm (mild decorative feel)",
+      "tight framing: Alvin's hair touches the top edge, right edge crops his arm; little room for a slow push",
+      "Monica slightly over-aged for 60 (pure silver hair, heavy forehead lines)",
+      "1K upscale softness (not penalised)"
+    ],
+    "ai_tells": [
+      "photo-within-photo still drawn in line art (partially mitigated by border and stains)"
+    ],
+    "better_than_current": true,
+    "notes": "Best of the round: candid mid-moment, both looking at the photo with small smiles, one window light from the left, matte shading, crowded worn shelf (cracked mugs, glasses, plant, mail). Faces match R12/R13. Hands correct (all fingers, no fusion). No readable text (envelopes are blank lines/stamp only); bottom-right clean, no sparkle.",
+    "revised_prompt": "Use the attached AOT-CAST-SHEET and the two attached close-ups l2-ref-aged-alvin.png and l2-ref-aged-monica.png as the references for the present-day faces (Alvin about 70, Monica about 60) and line style only. Medium shot slightly wider than a close two-shot, 50mm at eye level, slightly off-axis candid framing as if the camera just happened to be there, both heads fully inside the frame with clear headroom above Alvin's hair and some space on the right edge, present day, a lived-in California living room in late-morning light. On the left third: Monica about 60, inspired by an aged Historia Reiss, small and slender, silver-blonde hair (still a trace of blonde, not pure white) loosely pinned up with a few loose strands, large blue eyes with fine crow's feet and soft lines around the mouth, only light forehead lines, a woman of sixty rather than seventy, gentle quiet face; a soft oatmeal cardigan over a pale blouse; she has just picked up a small framed snapshot from a crowded bookshelf beside her (books leaning at angles, a chipped mug, a pair of reading glasses, a potted plant, a small stack of plain unmarked envelopes) and holds the frame in both hands, tilting it toward her husband, a small private smile, mid-moment. Just behind her on the right: Alvin Cross about 70, inspired by an aged Erwin Smith, tall, silver-white hair in a neat side part, strong angular jaw softened by age, heavy grey brows, blue eyes, lined face with real wrinkles and slight asymmetry, quiet warmth; a grey knit cardigan over an open-collared white shirt; leaning in to look at the photo over her shoulder, his hand resting lightly on the outside of her upper arm just above the elbow (not on her shoulder), relaxed fingers, a soft amused smile. Both look at the photo, not at the camera, their faces in three-quarter view. The snapshot inside the frame, angled toward the camera in the lower middle of the image, must look like an actual faded 1990s colour photograph, not a drawing: no ink outlines inside the photo, soft photographic focus, visible film grain, warm orange-magenta colour shift, slightly washed-out blacks, a thin white paper border on all four sides, a small worn corner; it shows Alvin about 45 (blond hair just starting to grey, no wrinkles) and Monica about 38 (long pale blonde hair) with a boy about eight and a girl about five, standing close together in a sunny garden, small in the photo. One soft window light from the left, matte shading, natural colours, no rim light, no god rays, no dust motes, no haze or bloom; worn, slightly cluttered, real-looking props. Line weight and shading match the attached close-ups: clean medium-weight ink lines, not heavy comic-book outlines, no grungy paper texture. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, flat cel shading with matte shadows, muted natural earthy palette, restrained natural lighting from one motivated source, faces clearly readable with real age and asymmetry, cinematic 16:9 widescreen framing, cinematic anime film still, painterly but quiet background, gentle depth of field. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner, no black bars, full-bleed 16:9."
+  }
+]

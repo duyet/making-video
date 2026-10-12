@@ -1,0 +1,1 @@
+Local crop of assets/redraw/S01.png (S01 c2-1) to window x610-2750, y180-1384 (16:9) so the closed folder sits at frame centre; resized to 2752x1536.

@@ -1,0 +1,50 @@
+[
+  {
+    "shot": "R92",
+    "replaces": "N19",
+    "file": "assets/flow2k_raw/molly-v2/R92/r8-1.png",
+    "source": "1K",
+    "scores": {"beat": 7.5, "character": 8, "cinematic": 7, "style": 7.5, "technical": 7.5, "readability": 8.5},
+    "total": 7.6,
+    "pass": false,
+    "defects": [
+      "headroom thin again: Alvin's hair ~60px from the top edge, no wall band above his head",
+      "his hand rests on her side/back at waist level beside her bent elbow, not on her forearm between elbow and wrist",
+      "snapshot reads as a small painting in a dark wooden frame: no white paper border, no visible grain, so it does not read as a 1990s colour print; young Monica's long hair not clearly shown",
+      "Monica's hair reads grey-white rather than ash-blonde streaked with silver; heavy uniform outlines"
+    ],
+    "minor": [
+      "candid pick-from-shelf moment reads well: crowded shelf (leaning books, two chipped mugs, one pair of glasses, plain envelopes, plant), both in three-quarter view looking at the photo",
+      "faces broadly consistent with R12/R13, warm soft expressions; hands clean",
+      "one soft window light from left, matte, no rays/dust; edges fully painted; bottom-right clean, no sparkle; no text",
+      "1K upscale softness (not penalised)"
+    ],
+    "ai_tells": ["uniform heavy outline weight", "photo-within-photo painted in illustration style rather than as a snapshot"],
+    "better_than_current": false
+  },
+  {
+    "shot": "R92",
+    "replaces": "N19",
+    "file": "assets/flow2k_raw/molly-v2/R92/r8-2.png",
+    "source": "1K",
+    "scores": {"beat": 8.5, "character": 8, "cinematic": 8, "style": 8, "technical": 8.5, "readability": 9},
+    "total": 8.3,
+    "pass": false,
+    "defects": [
+      "staging is presentational: Monica stands square to camera holding a loose print up at her chest like a display, gaze near the lens line; shelf behind her is tidy rather than crowded and she is not mid-pick, so the candid moment is weaker",
+      "she holds a loose unframed print, not a frame picked from the shelf",
+      "Monica's hair reads silver-grey with only a faint warm tint, not ash-blonde; she reads closer to 65 than 60",
+      "outlines still heavy and uniform versus the thin tapered lines of the reference close-ups"
+    ],
+    "minor": [
+      "best snapshot of the series: white paper border, faded warm colour, soft focus, light grain; blond Alvin ~45, long-blonde Monica ~38, boy ~8, girl ~5 clearly readable; picture side toward camera",
+      "his hand rests correctly on her forearm just above the wrist cuff, five clean digits; her hands clean",
+      "headroom fixed: about 17% of frame height of plain wall above Alvin's hair (short of the requested quarter but clear)",
+      "Alvin face consistent with R12 (silver hair, lined, warm), looking at the photo",
+      "one soft window light from left, matte, no rays/dust; edges fully painted; bottom-right clean, no sparkle; no text on envelopes or spines",
+      "1K upscale softness (not penalised)"
+    ],
+    "ai_tells": ["uniform heavy outline weight", "posed side-by-side staging with photo held up to camera"],
+    "better_than_current": false
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "shot": "S10",
+    "file": "assets/flow2k_raw/molly-v2/S10/c10-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 9,
+      "style": 8.5,
+      "technical": 9,
+      "readability": 9.5
+    },
+    "total": 9.0,
+    "pass": true,
+    "defects": [
+      "Lamp fixed: one banker's lamp with a single straight brass stem from a round base behind the phone to the shade; the horizontal arm to the right edge is gone and nothing else in the frame changed (Yalom, both hands, receiver, cord, phone, folder, blinds identical to c9-1)",
+      "The shade is now a saturated emerald green, the most saturated colour in the frame, and pulls the eye from Yalom's face toward the centre-right; slightly outside the muted olive/brass palette (style 8.5)",
+      "Small bent rod sticking out of the right end of the shade (~77% across, 25% down); reads as a shade knob, not a second support, minor",
+      "Patched spot near 93% / 87% blends into the desk-edge grain; only a faint diagonal smear streak at full size, no trace of the star; no text or sparkle anywhere (dial letters unreadable)",
+      "Beats the current S10 (c9-1, 8.98)"
+    ],
+    "revised_prompt": ""
+  },
+  {
+    "shot": "S13",
+    "file": "assets/flow2k_raw/molly-v2/S13/c10-1.png",
+    "scores": {
+      "beat": 8.5,
+      "character": 9,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 8.5
+    },
+    "total": 8.75,
+    "pass": false,
+    "defects": [
+      "Best S13 lighting so far: one long bright moonlight shaft crosses the floor and the bed; wide dark negative space of bare floorboards on the left; bed fully inside the frame with a thin dark strip to its right",
+      "Clock is a digital LCD box reading 3:05, not a flip clock with white flip cards (brief); LCD reads modern for 1972",
+      "Parents' photo matches F26 well (round glasses, long hair, waistcoat and tie, nurse cap) as a grey snapshot; Alvin early twenties, blond, no grey, white T-shirt, eyes open, mouth closed, five clean fingers flat on the chest; no text or sparkle besides the clock digits",
+      "Mixed perspective again: the TV set at bottom-left is drawn in front elevation (screen facing the camera) while the floor and bed are top-down; the nightstand shows its front drawer",
+      "Face still at ~80% across and the bed edge at ~96%; less crowded than c9-1 but little Ken Burns room on the subject side",
+      "Does not beat the current S13 (c8-2, 8.78) by the numbers (8.75)"
+    ],
+    "revised_prompt": "[edit of S13/c10-1] Replace the digital clock on the nightstand with a small analogue flip clock seen from above: a rounded cream plastic case with two rows of white split flip cards showing 3:05 behind a clear window; keep its size and position. Redraw the television set at the bottom-left as seen straight from above like the rest of the room: only the top of the wooden TV cabinet and its dresser visible, square to the walls, no screen facing the camera. Change nothing else: keep Alvin, his face, his hand, the blanket, the photo, the moonlight shaft and the floor identical. No text other than the clock, bottom-right corner plain, no watermark."
+  },
+  {
+    "shot": "S13",
+    "file": "assets/flow2k_raw/molly-v2/S13/c10-2.png",
+    "scores": {
+      "beat": 8.5,
+      "character": 9,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 8,
+      "readability": 8
+    },
+    "total": 8.53,
+    "pass": false,
+    "defects": [
+      "Photo matches F26 (round glasses, waistcoat and tie, nurse cap) as a sepia-grey snapshot; Alvin young, no grey, tense open eyes, mouth closed, hand flat on the chest with five fingers; strong slanted moonlight shaft",
+      "Clock again reads as a digital/LCD-style display '3 05' with a divider, not white flip cards",
+      "TV set top-left rotated about 30 degrees and drawn in three-quarter elevation; dresser bottom-left also in side view with a folder on it: the same mixed-perspective defect as c9-1",
+      "Figure large: bed spans ~62-96%, the right arm outside the blanket runs down to ~90% across and the bottom edge; crowded on the subject side",
+      "Does not beat the current S13 (c8-2, 8.78)"
+    ],
+    "revised_prompt": "High-angle top shot, 24mm looking straight down, one consistent overhead perspective for every object, the narrow bed set off-centre between 50% and 78% across with a wide strip of dark bare floor to its right as well, the figure small in the frame with wide dark negative space of bare floorboards on the left, every piece of furniture drawn square to the walls and seen only from directly above (tops of the dresser and TV cabinet only, no screens or fronts visible), a small plain rented room in early-1970s California at night, the lamp just switched off, cold blue moonlight through thin curtains falling in one long bright slanted shaft across the bed: young Alvin Cross: man in his early twenties, inspired by young Erwin Smith, tall and lean, blond hair in a neat side part with no grey at all, heavy brows, blue eyes, lean young face; plain white cotton T-shirt, fully covered by a clean pale blanket up to his chest, both arms under the blanket except one hand; lying on his back wide awake, eyes open and fixed on the ceiling, one hand pressed flat on his chest over his pounding heart, a tired tense stillness, brows slightly drawn, mouth closed. On the nightstand on the left side of the bed, clearly visible in the moonlight and nothing else on it: a framed photograph of his smiling parents (the same photo as the attached image), painted as a soft faded sepia snapshot, and a small analogue flip clock with two rows of white split flip cards (not a digital display) showing a little past three. The floor and dresser are bare: no papers or books anywhere. Face clearly readable in the moonlight. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, 1970s California, calm natural expressions, no text, no captions, no watermark, keep the bottom-right corner plain, no numbers other than the clock, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain."
+  },
+  {
+    "shot": "M01",
+    "file": "assets/flow2k_raw/molly-v2/M01/c10-1.png",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 8.5
+    },
+    "total": 8.78,
+    "pass": false,
+    "defects": [
+      "Over-the-shoulder setup works: the mother is a dark shoulder and bun in the right foreground, the table recedes to the father under one hanging lamp; everyone fully inside the frame; Alvin (19, no grey) in profile at ~80% watching Jason, clear of the right edge",
+      "Fiancée readable: freckles, short ponytail, brown leather jacket, wary sideways glare at the mother; Jason 17 in denim; father with round glasses, long hair, waistcoat, fork down; roast untouched; clear tension; no text or sparkle",
+      "Clasp present but weak: Jason's denim-cuffed hand rests on top of her leather-cuffed hand rather than holding it, and his other hand sits on a plate, so the eye has to search for it",
+      "Jason's stare lands almost on the lens and the father looks just beside it; the fiancée and Jason sit squared to the camera in a row instead of three-quarter profile facing right across the table",
+      "Mother's foreground head is sharp rather than out of focus; two dark slash marks on Alvin's cheek",
+      "Beats the current M01 (8.48)"
+    ],
+    "revised_prompt": "[edit of M01/c10-1] Turn Jason's eyes and head a little to the right so he glares at the mother's side of the table, clearly not at the camera, and turn the father's eyes toward the fiancée. Make Jason's left hand visibly hold the fiancée's hand: his fingers wrapped around hers on the tablecloth, his denim cuff over her brown leather cuff, five fingers each. Soften the mother's foreground shoulder and bun into a dark out-of-focus shape. Remove the two dark slash marks on Alvin's cheek. Keep the faces, outfits, lamp, roast, plates and framing identical. No text, bottom-right corner plain, no watermark."
+  },
+  {
+    "shot": "M01",
+    "file": "assets/flow2k_raw/molly-v2/M01/c10-2.png",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 9,
+      "readability": 7.5
+    },
+    "total": 8.75,
+    "pass": false,
+    "defects": [
+      "Clearest clasp of all rounds: Jason's denim-cuffed hand closes over the fiancée's leather-cuffed hand on the cloth, clean fingers; fiancée readable (freckles, ponytail, leather jacket, guarded scowl); father and Jason look toward the mother's side, which reads as tension at her rather than at the lens",
+      "Alvin pressed against the right edge: face at ~90% across, shoulder and shirt cut by the frame edge (readability 7.5)",
+      "The mother's back is large and central (~55-85% across), blocking the roast and splitting the frame; it reads less as a shoulder and more as a wall",
+      "Fiancée close to the left edge (~6-25%); no text or sparkle",
+      "Does not beat c10-1; would beat the current M01 (8.48)"
+    ],
+    "revised_prompt": "Over-the-shoulder medium-wide shot, 35mm, camera behind and slightly above the MOTHER's left shoulder at the near end of the table, the mother only a small dark out-of-focus shoulder and bun in the bottom-right corner (no wider than 15% of the frame), looking down the table away from her; late-1960s rural Virginia dining room with dark wood-panelled walls in shadow, single warm hanging lamp, a roast and untouched plates clearly visible in the centre. Seating, with nobody facing the camera: on the LEFT side of the table, in three-quarter profile facing right, the fiancée at about 20% across and Jason beside her at about 35%; at the FAR end at about 55% across the father in three-quarter view looking at the fiancée; on the RIGHT side at about 72% across, Alvin in profile facing left, watching Jason, with plain dark panelled wall filling the right 15% of the frame beyond him and his shoulders fully inside the frame. Everyone looks at someone at the table; nobody looks toward the camera. On the tablecloth between the fiancée and Jason, Jason's hand (denim cuff) holds her hand (brown leather cuff). Cast: Alvin's father, country doctor: man about 45, inspired by Grisha Yeager, long dark hair tied back, round glasses, stubble, tired kind face, brown waistcoat over a white shirt, his fork set down; the mother, rigid, polite smile frozen. Jason's fiancée age 17: inspired by Ymir, tall for her age, freckles across the nose, dark hair tied back in a short ponytail, sharp wary eyes; brown leather jacket over her shoulders, jeans; sitting very straight, chin up, a guarded defiant look. Jason age 17: teenager inspired by young Eren Yeager, dark brown shoulder-length hair, intense green eyes, defiant stare, lean build; worn denim jacket over a white T-shirt. Alvin age 19: young man inspired by young Erwin Smith, neat blond side part with no grey, heavy brows, blue eyes, serious disapproving calm, tall lean build; white shirt with sleeves rolled. Every face clearly readable. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, late-1960s rural America, calm natural expressions, no text, no captions, no watermark, keep the bottom-right corner plain, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain."
+  }
+]

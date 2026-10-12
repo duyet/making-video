@@ -1,0 +1,585 @@
+[
+ {
+  "shot": "R80",
+  "replaces": "B23",
+  "file": "assets/flow2k_raw/molly-v2/R80/r1-1.png",
+  "scores": {
+   "beat": 9,
+   "character": 8.5,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 7.5,
+   "readability": 6.5
+  },
+  "total": 8.33,
+  "pass": false,
+  "defects": [
+   "newspaper on the bottom-centre stack carries a letter-like masthead ('LTTS'-style glyphs) plus print columns: pseudo-text against 'all papers blank'",
+   "Alvin's body sits off to the left of the armchair back (torso and legs hang outside the seat): broken seating anatomy",
+   "Alvin's hair reads grey/white from behind, not blond with silver temples"
+  ],
+  "minor": [
+   "Alvin lit flat, not a dark silhouette against the window",
+   "Yalom's arm and coat cut by the right edge"
+  ],
+  "better_than_old": true,
+  "revised_prompt": "Use AOT-CAST-SHEET and the uploaded image L2-B23.png as references for faces, outfits, set and line style. Wide shot, 24mm lens, deep focus, low static camera, 1982, inside Alvin's small Sunnyvale living room at dusk, the floor buried under towering stacks of old books, phone books, yellowed newspapers and X-ray film jackets with only narrow paths between them, the stacks framing both sides of the frame like dark canyon walls; at the far end, a huge padded armchair turned toward a tall bright window, and in it Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, strong angular jaw, heavy brows, blue eyes, guarded calm; olive knit sweater over a collared shirt, grey trousers; seated squarely in the armchair facing the window, small in the middle third, seen from behind as a near-black silhouette against the cold bright window, only a thin cold rim of light on his blond hair (blond with silver temples, not grey or white), back turned, head slightly bowed, motionless, wide negative space of empty window light around him; in the foreground with his face on the right-third line about 70% across the frame, his whole head, shoulders and hand well inside the frame with a clear margin to the right edge, Dr. Yalom: man about 50, inspired by Zeke Yeager, short tousled dark-blond hair, full trimmed blond beard, round wire-rim glasses, calm intellectual face, kind tired eyes, medium build; grey wool overcoat over a brown knit cardigan, dark trousers; standing half-lit by the window light, one hand on the back of a plain wooden chair, looking toward Alvin across the long narrow path, silent; cold blue-grey window light, dust in the air, long shadows, heavy silence. All papers and newspapers completely blank: plain bundled paper edges tied with twine, no mastheads, no headlines, no columns, no print lines, no letters anywhere. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, faces always clearly readable, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+ },
+ {
+  "shot": "R80",
+  "replaces": "B23",
+  "file": "assets/flow2k_raw/molly-v2/R80/r1-2.png",
+  "scores": {
+   "beat": 9,
+   "character": 8.5,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 8
+  },
+  "total": 8.73,
+  "pass": false,
+  "defects": [
+   "Yalom pressed against the right edge (face ~89% across, hand cut at bottom-right): little Ken Burns room",
+   "Alvin's hair reads grey/white, not blond with silver temples",
+   "Alvin not a true silhouette: window light flat, no rim"
+  ],
+  "minor": [
+   "bundled newspapers carry print-line texture (no letters)",
+   "symmetrical one-point canyon is strong but Yalom feels tacked on"
+  ],
+  "better_than_old": true,
+  "revised_prompt": "Use AOT-CAST-SHEET and the uploaded image L2-B23.png as references for faces, outfits, set and line style. Wide shot, 24mm lens, deep focus, low static camera, 1982, inside Alvin's small Sunnyvale living room at dusk, the floor buried under towering stacks of old books, phone books, yellowed newspapers and X-ray film jackets with only narrow paths between them, the stacks framing both sides of the frame like dark canyon walls; at the far end, a huge padded armchair turned toward a tall bright window, and in it Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, strong angular jaw, heavy brows, blue eyes, guarded calm; olive knit sweater over a collared shirt, grey trousers; seated squarely in the armchair facing the window, small in the middle third, seen from behind as a near-black silhouette against the cold bright window, only a thin cold rim of light on his blond hair (blond with silver temples, not grey or white), back turned, head slightly bowed, motionless, wide negative space of empty window light around him; in the foreground with his face on the right-third line about 70% across the frame, his whole head, shoulders and hand well inside the frame with a clear margin to the right edge, Dr. Yalom: man about 50, inspired by Zeke Yeager, short tousled dark-blond hair, full trimmed blond beard, round wire-rim glasses, calm intellectual face, kind tired eyes, medium build; grey wool overcoat over a brown knit cardigan, dark trousers; standing half-lit by the window light, one hand on the back of a plain wooden chair, looking toward Alvin across the long narrow path, silent; cold blue-grey window light, dust in the air, long shadows, heavy silence. All papers and newspapers completely blank: plain bundled paper edges tied with twine, no mastheads, no headlines, no columns, no print lines, no letters anywhere. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, faces always clearly readable, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+ },
+ {
+  "shot": "R81",
+  "replaces": "F14",
+  "file": "assets/flow2k_raw/molly-v2/R81/r1-1.png",
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "total": 9.05,
+  "pass": true,
+  "defects": [],
+  "minor": [
+   "only one wrist visible; second hand's fingers interlace without a visible forearm (reads fine at speed)",
+   "armchair arm sits in the background left, not soft foreground"
+  ],
+  "better_than_old": true,
+  "revised_prompt": ""
+ },
+ {
+  "shot": "R81",
+  "replaces": "F14",
+  "file": "assets/flow2k_raw/molly-v2/R81/r1-2.png",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.9,
+  "pass": false,
+  "defects": [
+   "blind-stripe light weak: soft even light on the knuckles, less of the motivated shaft the re-shoot asked for"
+  ],
+  "minor": [
+   "hands cleaner than r1-1 (both thumbs visible)"
+  ],
+  "better_than_old": true,
+  "revised_prompt": ""
+ },
+ {
+  "shot": "R82",
+  "replaces": "N10",
+  "file": "assets/flow2k_raw/molly-v2/R82/r1-1.png",
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 8.5
+  },
+  "total": 9.08,
+  "pass": true,
+  "defects": [],
+  "minor": [
+   "tray paper and folder show tiny pseudo-print lines; embroidered name garbled but on the chest (allowed)",
+   "high angle is moderate rather than steep"
+  ],
+  "better_than_old": true,
+  "revised_prompt": ""
+ },
+ {
+  "shot": "R82",
+  "replaces": "N10",
+  "file": "assets/flow2k_raw/molly-v2/R82/r1-2.png",
+  "scores": {
+   "beat": 9,
+   "character": 8,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.7,
+  "pass": false,
+  "defects": [
+   "Alvin's hair silver-grey and face harsher/older than the mid-30s anchor",
+   "Alvin pushed to the right edge zone (~76%) with a newspaper of pseudo-print beside him"
+  ],
+  "minor": [
+   "basement mood is strong but the window shaft hits empty floor, not the subject"
+  ],
+  "better_than_old": true,
+  "revised_prompt": ""
+ },
+ {
+  "shot": "R83",
+  "replaces": "B02",
+  "file": "assets/flow2k_raw/molly-v2/R83/r1-2.png",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 7.5
+  },
+  "total": 8.68,
+  "pass": false,
+  "defects": [
+   "portrait frame runs off the right edge: subject at the very edge, no room for a slow push",
+   "the mourners' heads are cut by the top edge, leaving a row of headless torsos"
+  ],
+  "minor": [
+   "sun flare weak; Molly gains an apron vs the plaid-only old portrait (matches her anchor)"
+  ],
+  "better_than_old": true,
+  "revised_prompt": "Use AOT-CAST-SHEET and the uploaded images L2-B02.png and L2-N01.png as references for faces, outfits, set and line style. Insert shot, 85mm telephoto, camera low at table height, an outdoor funeral memorial table on a sunny lawn in golden hour: a plain wooden frame standing entirely inside the image on the right third, slightly angled toward camera, its right edge at about 85% of the frame width with a clear margin to the right edge holding a drawn portrait of Molly: woman in her 50s, Hange-like practical energy, brown hair in a loose tied-back ponytail, small round glasses, warm no-nonsense face, sturdy build; beige apron over a rolled-sleeve checked shirt, work trousers smiling warmly (head and shoulders only, the portrait face clean with no lettering), white lilies in soft out-of-focus foreground blur at the bottom left, behind the table, farther back so their heads and shoulders sit fully inside the frame, a blurred row of seated mourners in dark clothes on folding chairs as soft warm bokeh, nobody cut by the top edge, strong golden backlight with a gentle sun flare kissing the top edge, long shadows on the white tablecloth, shallow depth of field, no lettering, no name plaques. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, faces always clearly readable, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+ },
+ {
+  "shot": "R84",
+  "replaces": "B14",
+  "file": "assets/flow2k_raw/molly-v2/R84/r1-1.png",
+  "scores": {
+   "beat": 9,
+   "character": 8.5,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8,
+   "readability": 9
+  },
+  "total": 8.65,
+  "pass": false,
+  "defects": [
+   "projector beam is drawn backwards: narrow at Yalom/screen and widening toward camera, so light seems to come from the screen",
+   "audience heads simplified and cloned"
+  ],
+  "minor": [
+   "Alvin wears a grey jacket, not the anchor white coat (fine for a lecture, seen from behind)",
+   "Yalom small; face readable at zoom"
+  ],
+  "better_than_old": true,
+  "revised_prompt": "Use AOT-CAST-SHEET and the uploaded images L2-B14.png and L2-F10.png as references for faces, outfits, set and line style. Wide shot, 28mm lens, from the back of a 1982 medical conference lecture hall: in the right-third foreground, the out-of-focus back of the head and shoulders of Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, strong angular jaw, heavy brows, blue eyes, commanding calm; white doctor coat with \"Alvin Cross\" embroidered in dark blue on the left chest, pale blue shirt, dark tie seen strictly from behind as a dark silhouette, the plain back of the white coat with no lettering, no embroidery and no marks on the back or shoulders, his blond hair rim-lit; rows of doctors in white coats as dim silhouettes leading toward the front; in the left third at a plain wooden lectern, Dr. Yalom: man about 50, inspired by Zeke Yeager, short tousled dark-blond hair, full trimmed blond beard, round wire-rim glasses, calm intellectual face, kind tired eyes, medium build; brown knit cardigan over a shirt, no overcoat; speaking calmly with one hand open toward the audience, lit from the front by the beam of a slide projector that stands on a cart at the back of the hall behind the camera: the beam starts narrow just above the audience's heads near the camera and widens as it travels forward over the rows to the screen, dust floating in the beam; the large projection screen behind him blank and softly glowing; the rest of the hall in cool institutional slate shadow. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, faces always clearly readable, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+ },
+ {
+  "shot": "R84",
+  "replaces": "B14",
+  "file": "assets/flow2k_raw/molly-v2/R84/r1-2.png",
+  "scores": {
+   "beat": 9,
+   "character": 8.5,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 6
+  },
+  "total": 8.53,
+  "pass": false,
+  "defects": [
+   "blue embroidered script letters on the BACK of Alvin's coat at the bottom-right edge (lettering off-chest; only the tops visible, not readable, else a hard fail)"
+  ],
+  "minor": [
+   "projector beam physically correct with dust; good depth",
+   "Yalom at the left edge zone"
+  ],
+  "better_than_old": false,
+  "revised_prompt": "Use AOT-CAST-SHEET and the uploaded images L2-B14.png and L2-F10.png as references for faces, outfits, set and line style. Wide shot, 28mm lens, from the back of a 1982 medical conference lecture hall: in the right-third foreground, the out-of-focus back of the head and shoulders of Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, strong angular jaw, heavy brows, blue eyes, commanding calm; white doctor coat with \"Alvin Cross\" embroidered in dark blue on the left chest, pale blue shirt, dark tie seen strictly from behind as a dark silhouette, the plain back of the white coat with no lettering, no embroidery and no marks on the back or shoulders, his blond hair rim-lit; rows of doctors in white coats as dim silhouettes leading toward the front; in the left third at a plain wooden lectern, Dr. Yalom: man about 50, inspired by Zeke Yeager, short tousled dark-blond hair, full trimmed blond beard, round wire-rim glasses, calm intellectual face, kind tired eyes, medium build; brown knit cardigan over a shirt, no overcoat; speaking calmly with one hand open toward the audience, lit from the front by the beam of a slide projector that stands on a cart at the back of the hall behind the camera: the beam starts narrow just above the audience's heads near the camera and widens as it travels forward over the rows to the screen, dust floating in the beam; the large projection screen behind him blank and softly glowing; the rest of the hall in cool institutional slate shadow. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, faces always clearly readable, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+ },
+ {
+  "shot": "R85",
+  "replaces": "X04",
+  "file": "assets/flow2k_raw/molly-v2/R85/r1-1.png",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.9,
+  "pass": false,
+  "defects": [
+   "light is even and soft: no warm window shaft on Yalom's face, the main ask of the re-shoot",
+   "pen is writing, not still (listening beat)"
+  ],
+  "minor": [
+   "Alvin's shoulder hair ash-brown"
+  ],
+  "better_than_old": true,
+  "revised_prompt": "Use AOT-CAST-SHEET and the uploaded image L2-X04.png as references for faces, outfits, set and line style. Medium close-up, 85mm telephoto, over the out-of-focus shoulder and blond hair of a man in a white doctor coat in the left foreground (blurred, no face, plain coat with no lettering on the back): Dr. Yalom: man about 50, inspired by Zeke Yeager, short tousled dark-blond hair, full trimmed blond beard, round wire-rim glasses, calm intellectual face, kind tired eyes, medium build; brown knit cardigan over a shirt, no overcoat; seated in a worn brown leather armchair in a quiet 1982 Stanford therapy office, on the right third, listening with full attention, head tilted a little, eyes steady and kind, mouth closed, fountain pen resting motionless in his fingers above a small notebook on his knee, not writing; a hard warm diagonal window shaft through half-open blinds striping across his eyes and glasses, the rest of his body and the room falling into deep slate shadow, strong contrast, bookshelves behind sunk in darkness, creamy bokeh, face fully readable. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, faces always clearly readable, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+ },
+ {
+  "shot": "R85",
+  "replaces": "X04",
+  "file": "assets/flow2k_raw/molly-v2/R85/r1-2.png",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 8.5
+  },
+  "total": 8.78,
+  "pass": false,
+  "defects": [
+   "Yalom's writing hand cut by the bottom-right edge",
+   "flat light, no window shaft on the face"
+  ],
+  "minor": [
+   "better listening expression than r1-1"
+  ],
+  "better_than_old": true,
+  "revised_prompt": "Use AOT-CAST-SHEET and the uploaded image L2-X04.png as references for faces, outfits, set and line style. Medium close-up, 85mm telephoto, over the out-of-focus shoulder and blond hair of a man in a white doctor coat in the left foreground (blurred, no face, plain coat with no lettering on the back): Dr. Yalom: man about 50, inspired by Zeke Yeager, short tousled dark-blond hair, full trimmed blond beard, round wire-rim glasses, calm intellectual face, kind tired eyes, medium build; brown knit cardigan over a shirt, no overcoat; seated in a worn brown leather armchair in a quiet 1982 Stanford therapy office, on the right third, listening with full attention, head tilted a little, eyes steady and kind, mouth closed, fountain pen resting motionless in his fingers above a small notebook on his knee, not writing; a hard warm diagonal window shaft through half-open blinds striping across his eyes and glasses, the rest of his body and the room falling into deep slate shadow, strong contrast, bookshelves behind sunk in darkness, creamy bokeh, face fully readable. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, faces always clearly readable, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+ },
+ {
+  "shot": "R86",
+  "replaces": "F10",
+  "file": "assets/flow2k_raw/molly-v2/R86/r1-1.png",
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 8.5
+  },
+  "total": 8.98,
+  "pass": false,
+  "defects": [
+   "hair cut by the top edge, embroidered name cut by the bottom edge"
+  ],
+  "minor": [
+   "face lit warm/flat rather than by the cold lightbox glow"
+  ],
+  "better_than_old": true,
+  "revised_prompt": ""
+ },
+ {
+  "shot": "R86",
+  "replaces": "F10",
+  "file": "assets/flow2k_raw/molly-v2/R86/r1-2.png",
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.03,
+  "pass": true,
+  "defects": [],
+  "minor": [
+   "lightbox glow does not reach the face (warm flat skin); a cold blue rim on the cheek would lift it",
+   "full profile rather than 3/4; smile slightly smug",
+   "embroidered 'Alvin Cross' on the chest (allowed)",
+   "similar lightbox profile to R91 at b02: keep them apart in the cut"
+  ],
+  "better_than_old": true,
+  "revised_prompt": ""
+ },
+ {
+  "shot": "R87",
+  "replaces": "N02",
+  "file": "assets/flow2k_raw/molly-v2/R87/r1-1.png",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 7.5
+  },
+  "total": 8.68,
+  "pass": false,
+  "defects": [
+   "Molly crammed against the right edge: face ~91% across, ponytail cut by the frame",
+   "eye-level, not the low angle asked for; Yalom seated, neutral rather than helpless"
+  ],
+  "minor": [
+   "warm memory haze present; ladder geometry acceptable"
+  ],
+  "better_than_old": false,
+  "revised_prompt": "Use AOT-CAST-SHEET and the uploaded image L2-N02.png as references for faces, outfits, set and line style. Wide shot, 35mm lens, camera low near the grass looking up (clear low angle), bright sky and oak canopy filling the top half, a sunny California back garden in the early 1980s, a warm hazy memory: in the foreground with her face on the right-third line about 65% across the frame, her whole head, ponytail, pointing hand and hip hand well inside the frame with a clear margin to the right edge, Molly: woman in her 50s, Hange-like practical energy, brown hair in a loose tied-back ponytail, small round glasses, warm no-nonsense face, sturdy build; beige apron over a rolled-sleeve checked shirt, work trousers; seen from slightly below, one hand on her hip, the other pointing up with calm authority; above her a workman in overalls on an aluminium ladder in a large old oak cutting one thick branch, framed against a bright sky, sawdust drifting in the light; in the left background, small on the back porch step, Dr. Yalom: man about 50, inspired by Zeke Yeager, short tousled dark-blond hair, full trimmed blond beard, round wire-rim glasses, calm intellectual face, kind tired eyes, medium build; brown knit cardigan over a shirt, no overcoat; standing on the porch step, coffee cup in one hand, the other hand raised palm-up in a small helpless shrug, eyebrows raised, a resigned half-smile; golden afternoon backlight streaming through the oak branches, soft memory haze and bloom, long shadows across the lawn. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, faces always clearly readable, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+ },
+ {
+  "shot": "R87",
+  "replaces": "N02",
+  "file": "assets/flow2k_raw/molly-v2/R87/r1-2.png",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 7.5
+  },
+  "total": 8.68,
+  "pass": false,
+  "defects": [
+   "Molly at the right edge again (face ~89%, ponytail and hip hand cut)",
+   "eye-level camera"
+  ],
+  "minor": [
+   "second workman with rope adds clutter; Yalom standing reads better"
+  ],
+  "better_than_old": false,
+  "revised_prompt": "Use AOT-CAST-SHEET and the uploaded image L2-N02.png as references for faces, outfits, set and line style. Wide shot, 35mm lens, camera low near the grass looking up (clear low angle), bright sky and oak canopy filling the top half, a sunny California back garden in the early 1980s, a warm hazy memory: in the foreground with her face on the right-third line about 65% across the frame, her whole head, ponytail, pointing hand and hip hand well inside the frame with a clear margin to the right edge, Molly: woman in her 50s, Hange-like practical energy, brown hair in a loose tied-back ponytail, small round glasses, warm no-nonsense face, sturdy build; beige apron over a rolled-sleeve checked shirt, work trousers; seen from slightly below, one hand on her hip, the other pointing up with calm authority; above her a workman in overalls on an aluminium ladder in a large old oak cutting one thick branch, framed against a bright sky, sawdust drifting in the light; in the left background, small on the back porch step, Dr. Yalom: man about 50, inspired by Zeke Yeager, short tousled dark-blond hair, full trimmed blond beard, round wire-rim glasses, calm intellectual face, kind tired eyes, medium build; brown knit cardigan over a shirt, no overcoat; standing on the porch step, coffee cup in one hand, the other hand raised palm-up in a small helpless shrug, eyebrows raised, a resigned half-smile; golden afternoon backlight streaming through the oak branches, soft memory haze and bloom, long shadows across the lawn. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, faces always clearly readable, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+ },
+ {
+  "shot": "R88",
+  "replaces": "N01",
+  "file": "assets/flow2k_raw/molly-v2/R88/r1-1.png",
+  "scores": {
+   "beat": 9.5,
+   "character": 9.5,
+   "cinematic": 8,
+   "style": 9,
+   "technical": 9,
+   "readability": 9.5
+  },
+  "total": 9.08,
+  "pass": true,
+  "defects": [],
+  "minor": [
+   "composition still centred; doorway frame only a thin dark strip at left",
+   "memory haze moderate"
+  ],
+  "better_than_old": true,
+  "revised_prompt": ""
+ },
+ {
+  "shot": "R88",
+  "replaces": "N01",
+  "file": "assets/flow2k_raw/molly-v2/R88/r1-2.png",
+  "scores": {
+   "beat": 9.5,
+   "character": 9.5,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 6.5
+  },
+  "total": 8.98,
+  "pass": false,
+  "defects": [
+   "bills and checkbook carry letter-like pseudo-text ('CHAFFER', signature scrawl)"
+  ],
+  "minor": [
+   "best frame-within-frame of the pair; with blank papers it would pass"
+  ],
+  "better_than_old": true,
+  "revised_prompt": ""
+ },
+ {
+  "shot": "R89",
+  "replaces": "X01",
+  "file": "assets/flow2k_raw/molly-v2/R89/r1-1.png",
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9.5
+  },
+  "total": 9.18,
+  "pass": true,
+  "defects": [],
+  "minor": [
+   "tiny figures under the arcade"
+  ],
+  "better_than_old": true,
+  "revised_prompt": ""
+ },
+ {
+  "shot": "R89",
+  "replaces": "X01",
+  "file": "assets/flow2k_raw/molly-v2/R89/r1-2.png",
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 9.5
+  },
+  "total": 9.08,
+  "pass": true,
+  "defects": [],
+  "minor": [
+   "building runs edge to edge; pool centred rather than from the bottom-left corner"
+  ],
+  "better_than_old": true,
+  "revised_prompt": ""
+ },
+ {
+  "shot": "R90",
+  "replaces": "F17",
+  "file": "assets/flow2k_raw/molly-v2/R90/r1-1.png",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "total": 8.93,
+  "pass": false,
+  "defects": [
+   "golden hour weak: muted brown light, no warm sun on Alvin's face",
+   "Yalom foreground too sharp and too large (left half), not a soft OTS shape"
+  ],
+  "minor": [
+   "Alvin's hair ash-grey; hand on the door edge acceptable"
+  ],
+  "better_than_old": true,
+  "revised_prompt": "Use AOT-CAST-SHEET and the uploaded image L2-F17.png as references for faces, outfits, set and line style. Medium shot, 50mm lens, over the shoulder: at the front door of a modest 1980s California bungalow with peeling paint and an overgrown porch, golden late-afternoon light; in the left foreground, strongly out of focus and occupying only the left quarter of the frame, the shoulder and back of the head of Dr. Yalom: man about 50, inspired by Zeke Yeager, short tousled dark-blond hair, full trimmed blond beard, round wire-rim glasses, calm intellectual face, kind tired eyes, medium build; grey wool overcoat over a brown knit cardigan, dark trousers; in the doorway with his face at about 68% of the frame width, fully inside the frame with clear margin to the right edge, Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, strong angular jaw, heavy brows, blue eyes, guarded calm; olive knit sweater over a collared shirt, grey trousers; holding the door open only halfway with his right hand gripping the inner door edge (five clear fingers), his body blocking the gap, guarded; a strong low golden-hour sun from the left rakes across his face, blond hair and the peeling door frame in warm orange light against the black hallway; behind him the dark hallway falls into a black void with only the faint edges of stacked papers hinting at what is inside. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, faces always clearly readable, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+ },
+ {
+  "shot": "R90",
+  "replaces": "F17",
+  "file": "assets/flow2k_raw/molly-v2/R90/r1-2.png",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 7
+  },
+  "total": 8.73,
+  "pass": false,
+  "defects": [
+   "Alvin at the right edge (face ~93% across, hand and body cut)"
+  ],
+  "minor": [
+   "good foreground blur and golden light"
+  ],
+  "better_than_old": false,
+  "revised_prompt": "Use AOT-CAST-SHEET and the uploaded image L2-F17.png as references for faces, outfits, set and line style. Medium shot, 50mm lens, over the shoulder: at the front door of a modest 1980s California bungalow with peeling paint and an overgrown porch, golden late-afternoon light; in the left foreground, strongly out of focus and occupying only the left quarter of the frame, the shoulder and back of the head of Dr. Yalom: man about 50, inspired by Zeke Yeager, short tousled dark-blond hair, full trimmed blond beard, round wire-rim glasses, calm intellectual face, kind tired eyes, medium build; grey wool overcoat over a brown knit cardigan, dark trousers; in the doorway with his face at about 68% of the frame width, fully inside the frame with clear margin to the right edge, Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples, strong angular jaw, heavy brows, blue eyes, guarded calm; olive knit sweater over a collared shirt, grey trousers; holding the door open only halfway with his right hand gripping the inner door edge (five clear fingers), his body blocking the gap, guarded; a strong low golden-hour sun from the left rakes across his face, blond hair and the peeling door frame in warm orange light against the black hallway; behind him the dark hallway falls into a black void with only the faint edges of stacked papers hinting at what is inside. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, faces always clearly readable, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner."
+ },
+ {
+  "shot": "R91",
+  "replaces": "B15",
+  "file": "assets/flow2k_raw/molly-v2/R91/r1-1.png",
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 8.5
+  },
+  "total": 9.08,
+  "pass": true,
+  "defects": [],
+  "minor": [
+   "lightbox cut by the right edge; embroidered name cropped at bottom; faint pseudo-print poster on the dark back wall"
+  ],
+  "better_than_old": true,
+  "revised_prompt": ""
+ },
+ {
+  "shot": "R91",
+  "replaces": "B15",
+  "file": "assets/flow2k_raw/molly-v2/R91/r1-2.png",
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.13,
+  "pass": true,
+  "defects": [],
+  "minor": [
+   "cold rim on hair and coat, ghost face clear; Alvin at ~30% leaves push room",
+   "b02 still goes X02 -> B15 (two lightbox frames back to back)"
+  ],
+  "better_than_old": true,
+  "revised_prompt": ""
+ },
+ {
+  "shot": "R92",
+  "replaces": "N19",
+  "file": "assets/flow2k_raw/molly-v2/R92/r1-1.png",
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 8.5
+  },
+  "total": 9.08,
+  "pass": true,
+  "defects": [],
+  "minor": [
+   "Alvin's crown touches the top edge; photo frame touches the right edge",
+   "both children dark-haired (old N19: dark boy + blond girl): check against M07",
+   "couple only lightly soft, rack-focus feel moderate"
+  ],
+  "better_than_old": true,
+  "revised_prompt": ""
+ },
+ {
+  "shot": "R92",
+  "replaces": "N19",
+  "file": "assets/flow2k_raw/molly-v2/R92/r1-2.png",
+  "scores": {
+   "beat": 9.5,
+   "character": 8.5,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.93,
+  "pass": false,
+  "defects": [
+   "photo frame cut by the right edge",
+   "Alvin's hair silver, reads older than ~40"
+  ],
+  "minor": [
+   "both children blond"
+  ],
+  "better_than_old": true,
+  "revised_prompt": ""
+ }
+]

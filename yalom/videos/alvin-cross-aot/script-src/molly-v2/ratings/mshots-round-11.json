@@ -1,0 +1,33 @@
+[
+  {
+    "shot": "S13",
+    "file": "assets/flow2k_raw/molly-v2/S13/c11-1.png",
+    "scores": {"beat": 9, "character": 9, "cinematic": 8.5, "style": 9, "technical": 9, "readability": 8.5},
+    "total": 8.85,
+    "pass": false,
+    "defects": [
+      "Both asked fixes landed: the clock is now a cream-cased flip clock with two white split cards reading 3 05 (period-correct for 1972); the front-facing TV is gone, replaced by the flat top of a dark cabinet at bottom-left seen from above, so the room is in one overhead perspective (only the nightstand still shows its front drawer, minor)",
+      "Alvin unchanged and right: early twenties, blond, no grey, white T-shirt, eyes open, mouth closed, five clean fingers flat on the chest; parents' photo still matches F26; the sparkle at bottom-right in c10-1 is gone; no text besides the clock digits",
+      "The edit reframed: a punch-in of about 1.4x. The bed now runs from ~64% to ~96% across and is cut off at the bottom of the frame (foot not visible). Face still at ~80%, and the bed edge is ~4% from the right edge, which leaves little Ken Burns room on the subject side",
+      "The left cabinet is now a featureless dark slab with a small stray bracket at its right edge (~22% across, 55% down); the large empty dark floor reads as negative space but carries less room detail",
+      "Beats the current S13 (8.78) by the numbers (8.85)"
+    ],
+    "revised_prompt": "[edit of S13/c11-1] Pull the camera back slightly (zoom out about 15%) so the whole narrow bed, including its foot, fits inside the frame with a strip of dark bare floorboards about 8% wide to the right of the bed; keep the overhead angle. Draw the nightstand only from directly above (its top only, no front drawer). Keep the flip clock showing 3 05, the parents' photo, Alvin's face, his hand, the blanket, the moonlight shaft and the dark cabinet top at bottom-left identical. No text other than the clock, bottom-right corner plain, no watermark."
+  },
+  {
+    "shot": "M01",
+    "file": "assets/flow2k_raw/molly-v2/M01/c11-1.png",
+    "scores": {"beat": 9, "character": 9, "cinematic": 9, "style": 9, "technical": 8.5, "readability": 8.5},
+    "total": 8.88,
+    "pass": false,
+    "defects": [
+      "Fixed: Jason now glares to the right across the table, clearly not at the lens; the mother's foreground head and shoulder are now soft and out of focus, which gives a real over-the-shoulder depth layer; the father's eyes shift toward the left side of the table (toward the fiancée), though they still read close to the lens",
+      "Not fixed: the two dark slash marks on Alvin's cheek are still there (one long diagonal, one short)",
+      "Clasp only slightly better: Jason's hand rests on top of her hand with the fingers curled over it, his denim cuff above her leather cuff; it still reads as a hand placed on hers, not a grip. Fingers clean on all visible hands",
+      "The edit reframed (punch-in of about 1.35x): the blurred mother now fills ~65-100% across and her head edge touches Alvin's face at ~84%, so Alvin (19, no grey, profile, clear) is pinched between her and the father; less headroom above the lamp",
+      "Fiancée (freckles, ponytail, brown leather jacket, guarded glare), Jason 17 in denim, father with round glasses, long hair, waistcoat; roast untouched; no text or sparkle (the bottom-right sparkle of c10-1 is gone)",
+      "Beats the current M01 (c10-1, 8.78) by the numbers (8.88)"
+    ],
+    "revised_prompt": "[edit of M01/c11-1] Remove the two dark slash marks from Alvin's cheek so his cheek is clean, smooth skin with only normal cel shading. Make the clasp a real grip: Jason's fingers wrapped around the fiancée's hand and her fingers closing back around his, both hands turned toward each other on the tablecloth, his denim cuff and her brown leather cuff, five fingers each. Turn the father's eyes clearly to his right toward the fiancée, away from the camera. Shrink the blurred mother in the foreground so she fills only the right 25% of the frame and leaves a clear gap of dark wall between her head and Alvin's face. Keep the faces, outfits, lamp, roast, plates and everything else identical. No text, bottom-right corner plain, no watermark."
+  }
+]

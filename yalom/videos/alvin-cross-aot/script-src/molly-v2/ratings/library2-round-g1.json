@@ -1,0 +1,140 @@
+[
+ {
+  "shot": "R92",
+  "replaces": "N19",
+  "source": "1K",
+  "file": "assets/flow2k_raw/molly-v2/R92/rna1-1.png",
+  "variant": "a",
+  "scores": {
+   "beat": 8.5,
+   "character": 8.5,
+   "cinematic": 8,
+   "style": 8,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "total": 8.4,
+  "expression_ok": true,
+  "ai_tells": [
+   "Alvin square-ish to camera, three figures strung across the frame (semi-presentational)",
+   "clean western-comic outlines, near-zero film grain"
+  ],
+  "defects": [
+   "Not three-quarters back: Alvin's face is frontal 3/4 to camera, the brief's over-the-shoulder candid angle did not take.",
+   "Son's brows knitted/worried while mid-sentence: reads anxious, not warm (mild emotion mismatch).",
+   "Son's free hand is an open presenting gesture rather than busy with the coat.",
+   "Monica's hair shows no silver; she reads closer to 65-70 than 60.",
+   "Film grain barely visible; line art heavier and more western-comic than the AOT redraw set."
+  ],
+  "minor": [
+   "Alvin matches R06's aged Alvin well (silver side part, lined face, crow's feet); open, even smile toward his son, looking at him, not the lens; no smirk.",
+   "Monica laughing with crinkled eyes, warm; hands clean, five fingers, casserole held naturally.",
+   "Alvin's hands drying the plate are clean and correct.",
+   "Fridge postcards/sticky note carry only scribble lines, nothing readable; crayon drawing has no letters; bottom-right corner clean, no sparkle.",
+   "Warm window + yellow pendant, lived-in clutter (mugs, fruit, rack, coat on chair): far less 'AI-looking' than re2-2."
+  ],
+  "better_than_current": true,
+  "revised_prompt": "Use the attached AOT-CAST-SHEET and the two attached close-ups (l2-ref-aged-alvin, l2-ref-aged-monica) only as face and line-style references. Medium-wide candid shot, 35mm at chest height from about three-quarters behind Alvin, as if a family member snapped it from the doorway: the back of Alvin's head and his left shoulder soft in the left foreground, his face seen only in three-quarter profile as he turns toward his son, nobody squared to the camera, a cramped lived-in present-day California kitchen in the late afternoon, the only light a warm low sun through a small window over the sink plus an uneven yellow ceiling lamp, real clutter: dish rack, mismatched mugs, a fruit bowl, one child's crayon drawing (pictures only) and two faded snapshot photos stuck to the fridge with magnets, no postcards, notes, lists or anything with writing, a coat over a chair back: Alvin Cross about 70, inspired by an aged Erwin Smith, tall, silver-white hair in a neat side part, lined face, heavy grey brows relaxed and lifted, an easy unguarded smile with lips parted, crow's feet; grey cardigan over an open-collared shirt, sleeves pushed up; he is drying a plate with a dish towel, half turned toward his grown son. Monica about 60, inspired by an aged Historia Reiss, small, honey-blonde hair clearly streaked with silver, loosely pinned up, crow's feet, laughing softly at something the son said, eyes crinkled, mouth open in a real laugh, oatmeal cardigan; she is reaching past Alvin to put a casserole dish on the counter. Their son about 30, tall, sandy-brown hair, seen in profile, shrugging on a coat to leave with both hands on the coat, mid-sentence, telling a funny story: brows relaxed and lifted, eyes amused, a lopsided grin, no frown or worried brow. Nobody touches anyone's shoulder; every hand is busy with a dish, a towel or a coat. A warm, ordinary, in-between family moment. Hands natural with five fingers each. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, matte flat cel shading with soft natural shadows, muted earthy palette of olive, slate grey, brick and dusty gold, one motivated light source, evenly lit and easy to read, never murky, cinematic 16:9 widescreen framing, calm natural expressions, faces with real age, asymmetry and lines, no glossy rim light, no god rays, no floating dust motes, no bloom haze, nobody looking at the camera, no posed portrait staging, no text, no captions, no watermark, cinematic anime film still, visible real 35mm film grain and slightly uneven exposure.",
+  "pass": false
+ },
+ {
+  "shot": "R92",
+  "replaces": "N19",
+  "source": "1K",
+  "file": "assets/flow2k_raw/molly-v2/R92/rna1-2.png",
+  "variant": "a",
+  "scores": {
+   "beat": 8.25,
+   "character": 8.5,
+   "cinematic": 8.25,
+   "style": 8,
+   "technical": 8.5,
+   "readability": 8.5
+  },
+  "total": 8.34,
+  "expression_ok": true,
+  "ai_tells": [
+   "Alvin stands squarely facing camera, centred",
+   "fridge papers dense with letter-like scribble"
+  ],
+  "defects": [
+   "Alvin squared to the camera and centred: the most posed of the four, not three-quarters back.",
+   "Fridge covered with notes/flyers of letter-like scribble lines (unreadable, but close to text clutter).",
+   "Son's brows worried/anxious mid-sentence (mild mismatch).",
+   "Monica's hair no visible silver."
+  ],
+  "minor": [
+   "Better depth than rna1-1: foreground dish rack, mugs and fruit, backlit window behind Monica.",
+   "Faces warm: Alvin open smile toward the son (off-lens), Monica laughing; hands clean on plate, towel, glass dish and coat.",
+   "No readable text; bottom-right corner clean."
+  ],
+  "better_than_current": true,
+  "pass": false
+ },
+ {
+  "shot": "R92",
+  "replaces": "N19",
+  "source": "1K",
+  "file": "assets/flow2k_raw/molly-v2/R92/rnb1-1.png",
+  "variant": "b",
+  "scores": {
+   "beat": 8.5,
+   "character": 8.5,
+   "cinematic": 8.25,
+   "style": 8.25,
+   "technical": 8.5,
+   "readability": 0
+  },
+  "total": 0,
+  "expression_ok": true,
+  "ai_tells": [
+   "Monica frontal, laughing toward camera with eyes shut and blush (anime-cute)",
+   "everything clean and evenly lit"
+  ],
+  "defects": [
+   "HARD FAIL: the cereal box reads 'Cereal' in large letters (plus pseudo-text) mid-frame.",
+   "Monica faces the camera frontally, standing apart at the right; reads staged, and her face is youthful-generic Historia rather than a 32-year-old with lines.",
+   "Alvin's brow sits low and heavy (Erwin default) though the smile is open."
+  ],
+  "minor": [
+   "Alvin reads strongly as Erwin-Alvin (blond side part, loosened tie, rolled sleeves) and the zip action is lovely and candid; hands on the zip clean.",
+   "Daughter's face warm, mouth open chattering; looking at her father, not the lens.",
+   "Wall phone with coiled cord, lunch box, coat on chair: good period clutter; bottom-right corner clean."
+  ],
+  "better_than_current": false,
+  "revised_prompt": "Use the attached AOT-CAST-SHEET only as the face and line-style reference for Alvin. Medium-wide candid shot, 35mm at chest height from about three-quarters behind, as if a relative snapped it from the hallway, Alvin's shoulder and back in the near foreground, Monica further back turned three-quarters away from camera, a cramped lived-in mid-1980s California family kitchen on a weekday evening, the only light an uneven warm ceiling lamp and the glow of a small window at dusk, real clutter: a dish rack, mismatched mugs, plain unlabelled jars and a paper grocery bag, crayon drawings (pictures only) taped to the fridge, a lunch box, a coat over a chair back, a wall phone with a coiled cord seen from the side; no packaging, boxes, labels or signs with any letters: Alvin Cross about 40, inspired by Erwin Smith, tall, blond hair in a neat side part with faint silver at the temples, blue eyes, angular face with a few new lines, brows relaxed and lifted (no lowered or heavy brow), eyes fully open and soft on his daughter, no heavy upper lids, an easy, even, open smile with both mouth corners lifted equally, crow's feet; rolled shirt sleeves, loosened tie; he is crouching to zip up his small daughter's coat with both hands. Monica about 32, inspired by Historia Reiss, small, long pale blonde hair tied back loosely with loose strands, blue eyes, looking down at the child as she laughs softly, head turned away from the camera, eyes crinkled, mouth open in a real laugh, a cardigan over a blouse, carrying a casserole dish to the table with oven mitts. Their daughter about 6, blonde, wriggling and chattering, seen in profile. Nobody touches anyone's shoulder; every hand is busy with a zip, a dish or a coat. A warm, ordinary, in-between family moment. Hands natural with five fingers each. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, matte flat cel shading with soft natural shadows, muted earthy palette of olive, slate grey, brick and dusty gold, one motivated light source, evenly lit and easy to read, never murky, cinematic 16:9 widescreen framing, calm natural expressions, faces with real age, asymmetry and lines, no glossy rim light, no god rays, no floating dust motes, no bloom haze, nobody looking at the camera, no posed portrait staging, no text, no captions, no watermark, cinematic anime film still, visible real 35mm film grain, faded 1980s colour and slightly uneven exposure.",
+  "pass": false
+ },
+ {
+  "shot": "R92",
+  "replaces": "N19",
+  "source": "1K",
+  "file": "assets/flow2k_raw/molly-v2/R92/rnb1-2.png",
+  "variant": "b",
+  "scores": {
+   "beat": 8.5,
+   "character": 8.5,
+   "cinematic": 8.5,
+   "style": 8.25,
+   "technical": 8.5,
+   "readability": 0
+  },
+  "total": 0,
+  "expression_ok": false,
+  "ai_tells": [
+   "Monica laughing with eyes shut, blush marks",
+   "evenly lit, spotless surfaces"
+  ],
+  "defects": [
+   "HARD FAIL: the cereal box reads 'Cereal' (plus 'CORES'-like pseudo-text).",
+   "Alvin's expression drifts into the hard-fail smirk: closed-mouth, one-sided lift, heavy upper lid, low brow.",
+   "Monica's face youthful-generic, eyes shut."
+  ],
+  "minor": [
+   "Best composition of the set: Alvin crouched left, child centre, Monica back right with oven mitts, depth through the room.",
+   "Zip hands clean; daughter warm; fridge drawings have no letters; bottom-right corner clean."
+  ],
+  "better_than_current": false,
+  "pass": false
+ }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "shot": "S12",
+    "replaces": "X06 (stand-in)",
+    "file": "assets/flow2k_raw/molly-v2/S12/r3-1.png",
+    "source": "1K",
+    "scores": {
+      "beat": 9,
+      "character": 8,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 8.5
+    },
+    "total": 8.68,
+    "pass": false,
+    "defects": [
+      "Glance back lands on the lens: eyes look straight at the viewer instead of toward the staircase (round-2 defect not fully fixed; the one remaining AI tell)",
+      "Hair renders near-black and eyes grey; brief and M01 have dark brown hair and green eyes",
+      "Small light-switch plate on the left hallway wall (by the door frame) carries a glyph that reads like 'S'/'5'; tiny and dark, not a hard fail, but an unwanted mark"
+    ],
+    "minor": [
+      "Strong fix of the round-2 direction problem: back three-quarters to us, body facing out, hand on the knob, duffel over shoulder: clearly leaving",
+      "Wide, lonely frame-within-frame down the hall, one moonlight source with a long shadow toward camera, faint streetlamp; empty tin box foreground",
+      "He still stands just inside the threshold rather than with one foot on the porch",
+      "Hand on knob clean (4 fingers visible, no melt); boots and legs fine; bottom-right corner clean, no sparkle; wall photos are dark unreadable shapes",
+      "Mild 1K upscale softness on face lines (not penalised)"
+    ],
+    "ai_tells": [
+      "subject looking into the lens"
+    ],
+    "revised_prompt": "Use the attached AOT-YOUNG-SHEET (Jason at 17) and AOT-CAST-SHEET as the references for face, outfit and line style only. Wide shot, 24mm from deep inside the dark late-1960s rural Virginia family house, camera far back at the foot of the stairs looking down the long front hallway, frame-within-frame through the open front door, the house asleep with all lamps off, cold blue moonlight through the doorway as the one light source and a faint warm streetlamp glow far outside, family photos on the hallway wall as dark unreadable shapes, bare wallpapered walls with no light switch plate or wall plaque, an empty open tin box on a side table in the soft dark foreground, lots of empty dark hallway around him so he looks small and alone: Jason age 17: teenager inspired by young Eren Yeager, dark chestnut-brown shoulder-length hair (clearly brown, not black, catching the moonlight), intense green eyes, defiant stare, lean build; worn denim jacket over a plain white T-shirt, jeans; alone, already standing on the porch threshold with his back three-quarters to the camera, one foot out on the porch boards, body facing out into the night, a heavy canvas duffel bag over one shoulder, the near hand pulling the door behind him, head turned back over his shoulder in three-quarter profile for one last glance toward the dark staircase on the left of the frame, his green eyes looking down and to the side at the stairs, never at the viewer or the lens, jaw set; his figure is about one third of the frame height, placed on the right third inside the door frame. No money visible, no other person anywhere in the shot. His face is clearly lit by the moonlight. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, late-1960s rural America, calm natural expressions, no text, no captions, no watermark, no house number, no legible money markings, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain."
+  },
+  {
+    "shot": "S12",
+    "replaces": "X06 (stand-in)",
+    "file": "assets/flow2k_raw/molly-v2/S12/r3-2.png",
+    "source": "1K",
+    "scores": {
+      "beat": 7.5,
+      "character": 7.5,
+      "cinematic": 7.5,
+      "style": 8.5,
+      "technical": 8.5,
+      "readability": 9
+    },
+    "total": 7.9,
+    "pass": false,
+    "defects": [
+      "Body and face turned three-quarters toward the camera, not back to us; no over-the-shoulder glance, so it reads as a stride past the lens rather than slipping out",
+      "Eyes look toward the lens; hair black and eyes pale blue-grey, not dark brown / green as in the brief and M01",
+      "Wall photos show clear, eerie faces instead of dark unreadable shapes; with the big newel post splitting the frame the left half is busy and pulls focus",
+      "Figure sits at the far right edge by the door jamb, leaving little room for a Ken Burns move toward the right"
+    ],
+    "minor": [
+      "Hands OK (one on bag strap, one loose fist), no extra fingers",
+      "Bottom-right corner clean, no sparkle, no text or numbers found",
+      "Tin box foreground and moonlit porch are good"
+    ],
+    "ai_tells": [
+      "subject looking into the lens",
+      "faces in the wall photos drawn in the same glossy style (photo-within-photo tell)"
+    ],
+    "revised_prompt": "Use the attached AOT-YOUNG-SHEET (Jason at 17) and AOT-CAST-SHEET as the references for face, outfit and line style only. Wide shot, 24mm from deep inside the dark late-1960s rural Virginia family house, camera far back at the foot of the stairs looking down the long front hallway, frame-within-frame through the open front door, the house asleep with all lamps off, cold blue moonlight through the doorway as the one light source and a faint warm streetlamp glow far outside, family photos on the hallway wall as dark unreadable shapes, bare wallpapered walls with no light switch plate or wall plaque, an empty open tin box on a side table in the soft dark foreground, lots of empty dark hallway around him so he looks small and alone: Jason age 17: teenager inspired by young Eren Yeager, dark chestnut-brown shoulder-length hair (clearly brown, not black, catching the moonlight), intense green eyes, defiant stare, lean build; worn denim jacket over a plain white T-shirt, jeans; alone, already standing on the porch threshold with his back three-quarters to the camera, one foot out on the porch boards, body facing out into the night, a heavy canvas duffel bag over one shoulder, the near hand pulling the door behind him, head turned back over his shoulder in three-quarter profile for one last glance toward the dark staircase on the left of the frame, his green eyes looking down and to the side at the stairs, never at the viewer or the lens, jaw set; his figure is about one third of the frame height, placed on the right third inside the door frame. No money visible, no other person anywhere in the shot. His face is clearly lit by the moonlight. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, late-1960s rural America, calm natural expressions, no text, no captions, no watermark, no house number, no legible money markings, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain."
+  }
+]

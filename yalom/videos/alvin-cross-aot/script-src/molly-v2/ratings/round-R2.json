@@ -1,0 +1,41 @@
+[
+ {
+  "shot": "R03",
+  "file": "assets/flow2k_raw/molly-v2/R03/r2-1.png",
+  "scores": {
+   "beat": 9,
+   "character": 10,
+   "style": 8,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.1,
+  "pass": true,
+  "defects": [
+   "No people by design; character axis not applicable (scored 10)",
+   "Warm sepia cast is slightly heavier and more textured than the N05/F12 redraws, but the frame is bright and clearly lit, not grey or dim",
+   "Camera reads as roughly knee/seat height (vanishing point at armchair seat level), stacks rise out of frame on both sides",
+   "Zero legible text: all stacks, boxes and loose sheets blank (one floor sheet has a faint non-letter scribble); no watermark trace in bottom-right"
+  ],
+  "revised_prompt": ""
+ },
+ {
+  "shot": "R05",
+  "file": "assets/flow2k_raw/molly-v2/R05/r2-1.png",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.0,
+  "pass": true,
+  "defects": [
+   "Expression reads more stern/frowning than haunted (minor)",
+   "Embroidery is a script font vs the sans-serif on N06 (minor); reads exactly 'Alvin Cross', no M.D. or other text; folder labels and film jackets blank",
+   "Clean profile facing the lightbox, room and face clearly lit; bottom-right corner shows only a faint smudge, no recognisable sparkle"
+  ],
+  "revised_prompt": ""
+ }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "shot": "R13",
+    "file": "assets/flow2k_raw/molly-v2/R13/r2-1.png",
+    "scores": {
+      "beat": 8,
+      "character": 8.5,
+      "cinematic": 7,
+      "style": 9,
+      "technical": 2,
+      "readability": 6
+    },
+    "total": 0.0,
+    "pass": false,
+    "hard_fail": true,
+    "defects": [
+      "HARD FAIL: Alvin has three hands - one on the hat, one in the handshake (both coming from his right side) and a third hanging at his left side below the coat cuff",
+      "left background headstone behind Monica carries rows of pseudo-inscription marks (letter-like lines); large foreground headstone is blank",
+      "light is flat pale daylight, little golden-hour rim and no visible flare; weak cinematic mood",
+      "Alvin face/coat/hat match R07/R12 well; Monica and Yalom aged correctly; three-shot composition matches beat",
+      "weighted axes would be 6.9; flow_unsparkle --check ok, no star, no black bars"
+    ],
+    "revised_prompt": "Use the existing project image clean-R04 only as a composition reference and the existing project image clean-M05 and clean-R06 as the identity reference for aged Yalom, and the existing project image clean-R06 and clean-R07 as the identity reference for aged Alvin. Medium three-shot, eye level, 50mm lens: on a sunlit cemetery path under weeping willows, sunny late-afternoon golden-hour light in clear air, no fog, no mist, no haze, the low sun behind the group giving warm rim light and a soft lens flare at the upper left, long shadows on the gravel, the soft out-of-focus trunk and hanging fronds of a weeping willow in the left foreground for depth (no headstone anywhere near the three people), only a few tiny featureless grey stone shapes far in the deep background, completely smooth with no marks. Left: Monica: woman about 60, inspired by Historia Reiss aged to about 60, small and slender, silver-blonde hair in a low bun, large blue eyes, gentle quiet face with fine lines, soft smile; black funeral dress under a black wool coat, black leather gloves; smiling warmly and speaking, one gloved hand open toward Yalom. Centre: Alvin Cross about 70, inspired by an aged Erwin Smith, tall and upright, silver-white hair in the same neat side part, strong angular jaw softened by age, heavy grey brows, blue eyes, lined face, quiet warmth; charcoal suit, white shirt, black tie, dark overcoat and a cream Panama hat with a black band; his outfit exactly: a dark charcoal wool overcoat worn open over the charcoal suit, crisp white shirt, plain black tie, and the cream Panama hat with a plain black band, held crown-out against his chest in his left hand so he is bareheaded (the same man, hat and coat as the matching close-up); Alvin has exactly two arms and two hands, never three: his LEFT forearm is folded flat across his chest and his LEFT hand alone presses the hat to his chest, his RIGHT arm reaches straight forward from his right shoulder and his RIGHT hand alone shakes Yalom's; neither of his arms hangs at his side and no third hand or extra sleeve cuff appears anywhere below or beside him; his right hand shaking Yalom's hand at the centre of the frame, a polite grateful smile. Right: Dr. Yalom about 80, inspired by an aged Zeke Yeager, silver-white short tousled hair, full trimmed silver-white beard, round wire-rim glasses, kind tired eyes with deep crow's feet, slightly stooped; grey wool overcoat open over a brown knit cardigan; hair neat, short and swept straight back off the forehead in one smooth mass, both ears visible, not wild or flyaway; face lines drawn as a few fine soft lines; shaking Alvin's hand, polite but visibly puzzled, brows slightly raised and faintly knitted, eyes searching Alvin's face, trying to place him. The clasped hands are the focal point at frame centre, all three heads fully inside the frame with space above, strong low amber golden-hour sun clearly behind the group, a visible warm lens flare at the upper left and a warm orange rim on every head and long shadows toward camera, not flat midday daylight, warm bounce light keeps all three faces readable. every present-day face visibly 30+ years older than in 1982, consistent with clean-M05 and clean-R06. Hands clean and simple, five fingers each. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain, no text, no letters, no captions, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+  },
+  {
+    "shot": "R17",
+    "file": "assets/flow2k_raw/molly-v2/R17/r1-1.png",
+    "scores": {
+      "beat": 6,
+      "character": 8,
+      "cinematic": 7.5,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 0
+    },
+    "total": 0.0,
+    "pass": false,
+    "hard_fail": true,
+    "defects": [
+      "HARD FAIL: headstone bottom right carries crisp letter-like text ('UIEDMTCKXSC'-style) plus engraved lines; several mid-ground headstones near Yalom show pseudo-inscription lines",
+      "not an extreme wide: Yalom fills ~2/3 of frame height in the foreground, camera near eye level rather than high angle from a hill",
+      "Yalom hair tousled with fringe over the forehead, not swept straight back",
+      "golden-hour backlight, flare through willows, no fog - light and casket/crowd placement good",
+      "weighted axes would be 6.8; flow_unsparkle --check ok, no star, no black bars"
+    ],
+    "revised_prompt": "Use the existing project image clean-N21 only as a composition reference and the existing project image clean-M05 and clean-R06 as the identity reference for aged Yalom. Extreme wide shot, clearly high angle looking down from the top of a low hill, 24mm lens with deep focus, every person small in a big landscape: an outdoor funeral gathering on the lawn of an old California cemetery, sunny late-afternoon golden-hour light in clear air, no fog, no mist, no haze, warm sun breaking through large oaks and weeping willows. In the middle third, about twenty mourners in dark coats stand in loose rows around a simple casket on a stand with white flowers and a small easel with a framed portrait kept tiny and unreadable. On the left third, a small lone figure no taller than one fifth of the frame height, standing slightly apart from the crowd on open grass, seen in three-quarter view from above, hands in his coat pockets, head slightly bowed: Dr. Yalom about 80, inspired by an aged Zeke Yeager, silver-white short tousled hair, full trimmed silver-white beard, round wire-rim glasses, kind tired eyes with deep crow's feet, slightly stooped; grey wool overcoat open over a brown knit cardigan; hair neat, short and swept straight back off the forehead in one smooth mass, both ears visible, not wild or flyaway; face lines drawn as a few fine soft lines. Long golden-hour shadows rake across the grass toward the camera, a lens flare through willow leaves at the top right, out-of-focus willow fronds hanging into the top-left corner and soft grass in the bottom-left foreground for depth, no headstones anywhere near Yalom, the crowd or the casket, only a few tiny smooth featureless grey stone shapes far in the distance with no marks, lines or engravings, rolling hills and trees beyond in warm atmospheric perspective. every present-day face visibly 30+ years older than in 1982, consistent with clean-M05. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain, no text, no letters, no captions, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+  },
+  {
+    "shot": "S08",
+    "file": "assets/flow2k_raw/molly-v2/S08/r1-1.png",
+    "scores": {
+      "beat": 7,
+      "character": 8,
+      "cinematic": 7.5,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 7.5
+    },
+    "total": 7.8,
+    "pass": false,
+    "hard_fail": false,
+    "defects": [
+      "framed as a medium (waist up), not a medium close-up",
+      "foreground over-the-shoulder man reads as a blond/brown-haired bearded man with glasses (like 1982 Yalom), not aged silver clean-shaven Alvin",
+      "background is milky and hazy, reading as light mist against the no-fog golden-hour brief",
+      "pseudo-inscription marks on the left headstone and on the mausoleum door plaque (blurred, not readable)",
+      "Yalom's awkward polite smile, knitted brows and hands in pockets match the beat; face consistent with M05",
+      "flow_unsparkle --check ok, no star, no black bars"
+    ],
+    "revised_prompt": "Use the existing project image clean-F20 only as a composition reference and the existing project image clean-M05 and clean-R06 as the identity reference for aged Yalom. Medium close-up framing head and upper chest only, eye level, 100mm telephoto, slightly over the shoulder: the dark charcoal overcoat shoulder and the back of the silver-white neatly side-parted head of a tall clean-shaven man about 70 with no glasses and no beard (aged Alvin, as in clean-R07), soft and out of focus in the right foreground, his face not visible, on a sunlit cemetery path under weeping willows, sunny late-afternoon golden-hour light in crisp clear air with a saturated warm amber sky, no fog, no mist, no haze, no milky white glow, behind him only weeping willows and a sunlit lawn as soft bokeh, no headstones, no mausoleum, no plaques and no stone structures anywhere in the frame. On the left third, facing the man: Dr. Yalom about 80, inspired by an aged Zeke Yeager, silver-white short tousled hair, full trimmed silver-white beard, round wire-rim glasses, kind tired eyes with deep crow's feet, slightly stooped; grey wool overcoat open over a brown knit cardigan; hair neat, short and swept straight back off the forehead in one smooth mass, both ears visible, not wild or flyaway; face lines drawn as a few fine soft lines, dark trousers. He gives a polite, slightly awkward smile toward the man, the smile not reaching his eyes, brows faintly knitted as he searches his memory for a face he cannot place, both hands hidden in his coat pockets. Golden backlight rims his silver-white hair and glasses, warm bounce light keeps the face fully readable, willow fronds as creamy bokeh, room for a slow push-in. every present-day face visibly 30+ years older than in 1982, consistent with clean-M05. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain, no text, no letters, no captions, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+  }
+]

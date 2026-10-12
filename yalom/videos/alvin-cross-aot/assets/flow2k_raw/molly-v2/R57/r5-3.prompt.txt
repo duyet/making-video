@@ -1,0 +1,2 @@
+[Flow in-place edit of lb-R57-r4e (R57/r4-3):]
+Change only the alarm clock hands: remove the short hand pointing at 4, leaving exactly two hands, a short hour hand on 3 and a long minute hand on 12. Then make the photo inside the frame look like an old printed snapshot: softer focus, faded warm colour, visible film grain, lower contrast line work. Keep everything else the same.

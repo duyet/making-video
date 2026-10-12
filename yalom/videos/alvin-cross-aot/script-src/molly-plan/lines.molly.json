@@ -1,0 +1,322 @@
+[
+ {
+  "id": "m01",
+  "act": 1,
+  "timecode": "00:00–00:15",
+  "beat": 1,
+  "text": "Vài tháng trước, tôi đến dự tang lễ của Molly, người đã làm việc cùng tôi suốt nhiều thập kỷ.",
+  "visual": "Wide shot: Tang lễ ngoài trời, nắng chiều chiếu qua tán cây. Yalom đứng giữa đám đông."
+ },
+ {
+  "id": "m02",
+  "act": 1,
+  "timecode": "00:00–00:15",
+  "beat": 2,
+  "text": "Bà là người tôi vô cùng quý mến, dù đôi khi cũng khiến tôi phát điên.",
+  "visual": "Push-in: Máy quay tiến đến ảnh Molly bên những bó hoa. Dissolve vào ký ức."
+ },
+ {
+  "id": "m03",
+  "act": 1,
+  "timecode": "00:15–00:31",
+  "beat": 1,
+  "text": "Molly quản lý gần như mọi thứ trong nhà tôi, từ hóa đơn đến giấy tờ, sửa chữa.",
+  "visual": "Montage nhanh: Molly sắp xếp hồ sơ → thanh toán hóa đơn → chỉ đạo đội thợ."
+ },
+ {
+  "id": "m04",
+  "act": 1,
+  "timecode": "00:15–00:31",
+  "beat": 2,
+  "text": "Tôi từng đuổi việc bà vài lần, nhưng rồi phải thừa nhận rằng mình không thể thiếu bà.",
+  "visual": "Yalom đứng nhìn Molly chỉ đạo việc tỉa cây lớn trong vườn, vẻ bất lực. Match cut: Cánh tủ đóng → cổng tang lễ mở."
+ },
+ {
+  "id": "m05",
+  "act": 1,
+  "timecode": "00:31–00:53",
+  "beat": 1,
+  "text": "Khi tôi chuẩn bị rời tang lễ, một người đàn ông đội mũ Panama tiến đến cùng vợ.",
+  "visual": "Tracking shot: Yalom bước ra cổng, Alvin gọi ông lại."
+ },
+ {
+  "id": "m06",
+  "act": 1,
+  "timecode": "00:31–00:53",
+  "beat": 2,
+  "text": "Anh tự giới thiệu là Alvin Cross, bệnh nhân cũ của tôi. Vợ anh nói rằng cuộc hôn nhân và hai đứa con của họ có được một phần là nhờ tôi.",
+  "visual": "Medium shot: Alvin bắt tay Yalom và giới thiệu Monica. Ba người vui vẻ trao đổi, Monica mỉm cười nhìn chồng."
+ },
+ {
+  "id": "m07",
+  "act": 1,
+  "timecode": "00:31–00:53",
+  "beat": 3,
+  "text": "Nhưng điều khiến tôi bối rối là… tôi chẳng nhớ Alvin là ai.",
+  "visual": "Close-up: Ánh mắt Yalom bối rối, cố nhớ lại. Giảm âm thanh môi trường."
+ },
+ {
+  "id": "m08",
+  "act": 1,
+  "timecode": "00:53–01:07",
+  "beat": 1,
+  "text": "Tối hôm ấy, tôi lục tìm hồ sơ cũ. Alvin Cross. Năm 1982. Mười hai giờ trị liệu.",
+  "visual": "Top shot: Yalom mở tủ hồ sơ, tay lướt qua các tập giấy → dừng ở hồ sơ Alvin."
+ },
+ {
+  "id": "m09",
+  "act": 1,
+  "timecode": "00:53–01:07",
+  "beat": 2,
+  "text": "Và khi mở tập hồ sơ, tôi nhớ ra một trường hợp mà mình từng tin rằng đã thất bại.",
+  "visual": "Extreme close-up: Lật trang giấy đầu tiên. Match cut: Trang giấy chuyển thành cánh cửa phòng trị liệu năm 1982."
+ },
+ {
+  "id": "m10",
+  "act": 2,
+  "timecode": "01:07–01:28",
+  "beat": 1,
+  "text": "Alvin là một bác sĩ chẩn đoán hình ảnh tại Stanford.",
+  "visual": "Establishing: Bệnh viện Stanford thập niên 1980."
+ },
+ {
+  "id": "m11",
+  "act": 2,
+  "timecode": "01:07–01:28",
+  "beat": 2,
+  "text": "Sau khi nghe tôi nói về cảm xúc của bệnh nhân ung thư, anh bắt đầu nhìn những tấm phim X-quang khác đi. Không chỉ là hình ảnh của bệnh tật, mà còn là cuộc đời của những con người.",
+  "visual": "Alvin đứng xem phim X-quang trên bảng sáng → chuyển sang phòng trị liệu, hai người trao đổi."
+ },
+ {
+  "id": "m12",
+  "act": 2,
+  "timecode": "01:07–01:28",
+  "beat": 3,
+  "text": "Sự thay đổi ấy còn đến từ cái chết của em trai anh, Jason.",
+  "visual": "Close-up: Alvin cúi mắt khi nhắc đến Jason. Dissolve sang ký ức gia đình."
+ },
+ {
+  "id": "m13",
+  "act": 2,
+  "timecode": "01:28–01:56",
+  "beat": 1,
+  "text": "Hai anh em đã không nói chuyện với nhau suốt mười lăm năm sau một cuộc xung đột gia đình.",
+  "visual": "Flashback: Bữa tối gia đình căng thẳng → Jason bỏ đi."
+ },
+ {
+  "id": "m14",
+  "act": 2,
+  "timecode": "01:28–01:56",
+  "beat": 2,
+  "text": "Rồi Jason bất ngờ gọi. Anh mắc ung thư phổi và muốn Alvin xem phim chụp. Alvin lập tức đến thăm em.",
+  "visual": "Close-up: Điện thoại reo, Alvin nhận cuộc gọi → lái xe trên đường đất ở North Carolina."
+ },
+ {
+  "id": "m15",
+  "act": 2,
+  "timecode": "01:28–01:56",
+  "beat": 3,
+  "text": "Anh cố giúp đỡ, cố nối lại tình thân. Nhưng khoảng cách giữa họ quá lớn. Không lâu sau, Jason qua đời.",
+  "visual": "Wide shot: Hai anh em ngồi xa nhau trong căn nhà đơn sơ, lò sưởi đá nằm giữa khung hình. Alvin ngập ngừng muốn chạm vai Jason. Cut: Chiếc ghế trống."
+ },
+ {
+  "id": "m16",
+  "act": 2,
+  "timecode": "01:56–02:16",
+  "beat": 1,
+  "text": "Sau cái chết của Jason, Alvin bắt đầu sợ công việc của chính mình. Mỗi tấm phim đều khiến anh nhớ đến em trai.",
+  "visual": "Medium shot: Alvin đứng lặng trong phòng đọc phim X-quang. Hình ảnh Jason thoáng xuất hiện như một ký ức."
+ },
+ {
+  "id": "m17",
+  "act": 2,
+  "timecode": "01:56–02:16",
+  "beat": 2,
+  "text": "Tôi dần nhận ra điều khiến anh đau đớn không chỉ là sự mất mát, mà còn là những điều chưa kịp nói, những cơ hội hàn gắn đã mãi biến mất.",
+  "visual": "Trở về phòng trị liệu: Alvin cúi đầu, Yalom lặng lẽ lắng nghe. Slow pull-out: Hai người nhỏ dần trong khung hình."
+ },
+ {
+  "id": "m18",
+  "act": 2,
+  "timecode": "02:16–02:38",
+  "beat": 1,
+  "text": "Alvin thường xuyên gặp ác mộng. Trong mơ, một con chim đen đuổi theo anh giữa bóng tối.",
+  "visual": "Dream sequence: Alvin nhìn gương → bóng chim đen bay ngang → đèn tối dần."
+ },
+ {
+  "id": "m19",
+  "act": 2,
+  "timecode": "02:16–02:38",
+  "beat": 2,
+  "text": "Khi cùng anh khám phá giấc mơ và những mất mát trong quá khứ, tôi nhận ra một nỗi sợ sâu xa hơn.",
+  "visual": "Flash memory: Ảnh cha mẹ, hành lang bệnh viện, chiếc ghế trống."
+ },
+ {
+  "id": "m20",
+  "act": 2,
+  "timecode": "02:16–02:38",
+  "beat": 3,
+  "text": "Alvin không chỉ sợ mất đi người thân. Anh còn đang đối diện với nỗi sợ về cái chết của chính mình.",
+  "visual": "Cut: Alvin mở mắt trong phòng trị liệu, gương mặt căng thẳng. Chuyển: Tiếng cánh chim tan vào tiếng đồng hồ."
+ },
+ {
+  "id": "m21",
+  "act": 2,
+  "timecode": "02:38–02:56",
+  "beat": 1,
+  "text": "Tôi cũng phát hiện Alvin có một cuộc sống rất cô độc. Anh ăn một mình, dành cuối tuần một mình và không có ai thực sự thân thiết.",
+  "visual": "Montage: Alvin ăn trong căng tin → chèo kayak một mình → trở về căn nhà lúc tối."
+ },
+ {
+  "id": "m22",
+  "act": 2,
+  "timecode": "02:38–02:56",
+  "beat": 2,
+  "text": "Những mối quan hệ tình cảm đều sớm kết thúc. Điều kỳ lạ là Alvin dường như không muốn tìm hiểu lý do.",
+  "visual": "Wide static: Alvin ăn tối ở bàn ăn chỉ có một người. Giữ hình chiếc ghế trống phía đối diện. Match cut: Chiếc ghế thành ghế trong phòng trị liệu."
+ },
+ {
+  "id": "m23",
+  "act": 2,
+  "timecode": "02:56–03:16",
+  "beat": 1,
+  "text": "Qua nhiều buổi trị liệu, Alvin dần khá hơn. Những cơn ác mộng biến mất, công việc không còn khiến anh sợ hãi. Anh nghĩ mình đã sẵn sàng kết thúc.",
+  "visual": "Montage sáng dần: Alvin làm việc bình tĩnh → ngủ yên → mỉm cười trong phòng trị liệu."
+ },
+ {
+  "id": "m24",
+  "act": 2,
+  "timecode": "02:56–03:16",
+  "beat": 2,
+  "text": "Nhưng tôi vẫn băn khoăn liệu nỗi sợ cái chết có liên quan đến một phần cuộc đời mà anh chưa thực sự sống như mong muốn.",
+  "visual": "Two-shot: Yalom nghiêng người hỏi chuyện, Alvin ngả lưng và khoanh tay, bắt đầu phòng thủ. Slow push-in vào nét mặt Alvin."
+ },
+ {
+  "id": "m25",
+  "act": 2,
+  "timecode": "03:16–03:34",
+  "beat": 1,
+  "text": "Tôi tiếp tục tìm hiểu vì sao Alvin tránh né những mối quan hệ gần gũi.",
+  "visual": "Close-up: Alvin im lặng, nhìn tránh Yalom."
+ },
+ {
+  "id": "m26",
+  "act": 2,
+  "timecode": "03:16–03:34",
+  "beat": 2,
+  "text": "Cuối cùng, anh hé lộ một bí mật. Mọi phụ nữ anh từng hẹn hò đều rời xa sau khi đến nhà anh.",
+  "visual": "Flash visual: Một phụ nữ đứng trước cửa nhà, rồi rời đi. Không cho thấy bên trong."
+ },
+ {
+  "id": "m27",
+  "act": 2,
+  "timecode": "03:16–03:34",
+  "beat": 3,
+  "text": "Tôi quyết định đề nghị một điều khác thường: buổi trị liệu tiếp theo sẽ diễn ra tại nhà Alvin.",
+  "visual": "Two-shot: Yalom đưa ra đề nghị, Alvin sững lại. Hard cut: Cánh cửa nhà Alvin vào buổi tối."
+ },
+ {
+  "id": "m28",
+  "act": 2,
+  "timecode": "03:34–04:01",
+  "beat": 1,
+  "text": "Khi bước vào, tôi thực sự choáng váng. Khắp căn nhà là những chồng sách, báo cũ, hồ sơ, phim X-quang. Chỉ còn vài lối đi nhỏ.",
+  "visual": "POV reveal: Camera bước qua cửa, từ từ lộ căn nhà đầy đồ. Tracking dọc lối đi hẹp."
+ },
+ {
+  "id": "m29",
+  "act": 2,
+  "timecode": "03:34–04:01",
+  "beat": 2,
+  "text": "Alvin ngồi quay lưng về phía tôi, không nói một lời.",
+  "visual": "Wide static: Alvin ngồi trên ghế, quay lưng nhìn cửa sổ. Yalom đứng ở phía xa. Giữ 2 giây im lặng."
+ },
+ {
+  "id": "m30",
+  "act": 2,
+  "timecode": "03:34–04:01",
+  "beat": 3,
+  "text": "Tôi cố gắng đến gần, cố giúp anh đối diện với sự xấu hổ. Nhưng anh không muốn tiếp tục. Và lần này, tôi không thể thuyết phục được anh.",
+  "visual": "Slow tracking: Yalom tìm đường đến ghế gần Alvin. Ông ngồi xuống, cố trao đổi nhưng Alvin chỉ lắc đầu. Cut to black: Tiếng cửa đóng."
+ },
+ {
+  "id": "m31",
+  "act": 2,
+  "timecode": "04:01–04:15",
+  "beat": 1,
+  "text": "Sáng hôm sau, Alvin gọi điện để chấm dứt trị liệu.",
+  "visual": "Close-up: Điện thoại trên bàn reo. Yalom nghe máy, nét mặt dần trầm xuống."
+ },
+ {
+  "id": "m32",
+  "act": 2,
+  "timecode": "04:01–04:15",
+  "beat": 2,
+  "text": "Tôi biết có lẽ mình đã thúc ép anh quá mức. Và trong nhiều năm sau đó, tôi vẫn tự hỏi liệu mình đã làm hỏng ca trị liệu ấy.",
+  "visual": "Ông đặt điện thoại, ngồi một mình bên hồ sơ. Match cut: Yalom trẻ đóng tập hồ sơ → Yalom lớn tuổi đóng tập hồ sơ ở hiện tại."
+ },
+ {
+  "id": "m33",
+  "act": 3,
+  "timecode": "04:15–04:27",
+  "beat": 1,
+  "text": "Vì thế, khi gặp lại Alvin sau hơn ba mươi năm, tôi rất muốn biết cuộc đời anh đã thay đổi ra sao.",
+  "visual": "Match cut: Hồ sơ đóng lại → Yalom lớn tuổi bước vào quán cà phê."
+ },
+ {
+  "id": "m34",
+  "act": 3,
+  "timecode": "04:15–04:27",
+  "beat": 2,
+  "text": "Và điều khiến tôi tò mò nhất… tại sao anh lại xuất hiện trong tang lễ của Molly?",
+  "visual": "Two-shot: Alvin và Yalom ngồi đối diện trò chuyện. Máy quay tiến gần vào Alvin khi Yalom nêu câu hỏi trong VO."
+ },
+ {
+  "id": "m35",
+  "act": 3,
+  "timecode": "04:27–04:48",
+  "beat": 1,
+  "text": "Alvin nhắc tôi một điều tôi đã hoàn toàn quên mất. Ngay sau buổi gặp cuối, chính tôi đã giới thiệu Molly cho anh.",
+  "visual": "Reaction shot: Alvin mỉm cười giải thích, Yalom ngạc nhiên."
+ },
+ {
+  "id": "m36",
+  "act": 3,
+  "timecode": "04:27–04:48",
+  "beat": 2,
+  "text": "Bà giúp anh thu xếp lại căn nhà, rồi tiếp tục chăm lo mọi việc suốt hơn ba mươi năm.",
+  "visual": "Montage ký ức: Molly bước vào căn nhà ngổn ngang → sắp xếp hồ sơ → căn phòng dần gọn gàng → thời gian trôi qua."
+ },
+ {
+  "id": "m37",
+  "act": 3,
+  "timecode": "04:27–04:48",
+  "beat": 3,
+  "text": "Giờ đây, Alvin có Monica, hai người con và một cuộc sống mà tôi chưa từng hình dung khi chúng tôi chia tay.",
+  "visual": "Warm shot: Alvin và Monica bên ảnh gia đình với hai con. Dissolve về Yalom lặng người trong quán cà phê."
+ },
+ {
+  "id": "m38",
+  "act": 3,
+  "timecode": "04:48–05:00",
+  "beat": 1,
+  "text": "Tôi không phải lúc nào cũng biết điều gì thực sự giúp một con người thay đổi.",
+  "visual": "Close-up: Yalom nhìn ra cửa sổ, ánh nắng chiều trên gương mặt."
+ },
+ {
+  "id": "m39",
+  "act": 3,
+  "timecode": "04:48–05:00",
+  "beat": 2,
+  "text": "Nhưng đôi khi, sự quan tâm chân thành lại mở ra những con đường mà ta chưa bao giờ dự đoán được.",
+  "visual": "Soft dissolve: Molly trong ký ức đang chăm chú làm việc."
+ },
+ {
+  "id": "m40",
+  "act": 3,
+  "timecode": "04:48–05:00",
+  "beat": 3,
+  "text": "Cảm ơn bà, Molly.",
+  "visual": "Fade to black: Dòng chữ THANK YOU, MOLLY. Nhạc piano kết nhẹ."
+ }
+]

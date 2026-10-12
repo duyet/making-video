@@ -1,0 +1,125 @@
+[
+  {
+    "shot": "R84",
+    "replaces": "B14",
+    "file": "assets/flow2k_raw/molly-v2/R84/r10-1.png",
+    "source": "1K",
+    "scores": {
+      "beat": 7,
+      "character": 7,
+      "cinematic": 7.5,
+      "style": 8.5,
+      "technical": 8.5,
+      "readability": 7.5
+    },
+    "total": 7.53,
+    "defects": [
+      "No projector beam at all: the screen just glows; the asked single cone from behind camera covering the screen is missing",
+      "Alvin again the nearest-row figure at the right: blond head ~80-87% across, shoulders run to ~94% and off the bottom edge, crisp line detail and grey-lit, not a soft dark out-of-focus silhouette; he occupies the right fifth",
+      "Yalom has only a moustache, no full blond beard (anchor miss)"
+    ],
+    "minor": [
+      "Yalom: dark-blond tousled hair, round glasses, brown cardigan, open hand at wooden lectern; reads ~50",
+      "Screen blank with all edges inside; no projector in shot; varied audience",
+      "Large dark-haired foreground head bottom-left cut by the frame edge",
+      "Bottom-right corner clean, no sparkle; no text/logos; 1K softness not penalised"
+    ],
+    "ai_tells": [
+      "symmetric one-point staging with glowing slab screen"
+    ],
+    "better_than_current": false,
+    "pass": false
+  },
+  {
+    "shot": "R84",
+    "replaces": "B14",
+    "file": "assets/flow2k_raw/molly-v2/R84/r10-2.png",
+    "source": "1K",
+    "scores": {
+      "beat": 7.5,
+      "character": 7,
+      "cinematic": 8,
+      "style": 8.5,
+      "technical": 8.5,
+      "readability": 7.5
+    },
+    "total": 7.75,
+    "defects": [
+      "Two mirrored beams fan out from the top centre to the left and right walls; they bracket the screen instead of one cone covering it",
+      "Alvin still crisp, lit and the largest figure on the right: head ~78% across, shoulders to ~88% and off the bottom edge, not a soft dark silhouette; he is at the edge of the right fifth (two strangers to his right)",
+      "Yalom has only a moustache, no full blond beard (anchor miss)",
+      "Alvin holds a paper with dense pseudo-text lines (not legible, so not a hard fail, but an unrequested text-like element)"
+    ],
+    "minor": [
+      "Wood-panelled hall and stage read as 1982; no projector in shot; screen blank, edges inside",
+      "Yalom anchor otherwise right: dark-blond hair, round glasses, brown cardigan, open speaking hand",
+      "Bottom-right corner clean, no sparkle; 1K softness not penalised"
+    ],
+    "ai_tells": [
+      "twin mirrored decorative beams",
+      "symmetric centred screen slab"
+    ],
+    "better_than_current": false,
+    "pass": false
+  },
+  {
+    "shot": "S12",
+    "replaces": "X06 (stand-in)",
+    "file": "assets/flow2k_raw/molly-v2/S12/r8-1.png",
+    "source": "1K",
+    "scores": {
+      "beat": 8,
+      "character": 7.5,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 8,
+      "readability": 8.5
+    },
+    "total": 8.15,
+    "defects": [
+      "Door seen from the side, not head-on: frame-within-frame cut by the right edge, open door leaf against the right border",
+      "Visible eye pale/blank with no clear pupil, mouth open; hair reads reddish and longer than M01/F30",
+      "Outfit reads as a grey button shirt, no denim jacket or white T-shirt"
+    ],
+    "minor": [
+      "Lit upstairs window top-left, staircase, empty tin on table foreground: good story props",
+      "Bare walls, no switch plate, no frames; alone; moon outside",
+      "Boot near the bottom-right corner (subject close to edge for Ken Burns)",
+      "Bottom-right corner clean, no sparkle; no text"
+    ],
+    "ai_tells": [
+      "moon placed decoratively in the doorway"
+    ],
+    "better_than_current": false,
+    "pass": false
+  },
+  {
+    "shot": "S12",
+    "replaces": "X06 (stand-in)",
+    "file": "assets/flow2k_raw/molly-v2/S12/r8-2.png",
+    "source": "1K",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 9.0,
+    "defects": [
+      "Door is nearly head-on but sits right of centre with the open leaf near the right edge; hallway depth is short (camera close, not far down a hallway)",
+      "Figure about 70% of frame height, larger than the lonely-small target; white T-shirt only peeks at the hem"
+    ],
+    "minor": [
+      "Fixes r7-1's defects: bare walls (no switch plate, no frames), small warm lit upstairs window visible top-left",
+      "Jason matches M01/F30: dark chestnut-brown shoulder-length hair, Eren-like profile, eye with clear pupil and iris, set jaw; worn denim jacket, jeans, canvas duffel; alone",
+      "Head turned back in profile, chin lifted, looking up the stairs toward the window; body toward the night",
+      "Cold moonlit doorway vs warm window; open empty tin foreground left; matte natural shading",
+      "Door hand and free hand clean; bottom-right corner clean, no sparkle; no text or numbers"
+    ],
+    "ai_tells": [],
+    "better_than_current": true,
+    "pass": true
+  }
+]

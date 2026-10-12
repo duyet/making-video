@@ -1,0 +1,231 @@
+[
+  {
+    "shot": "R12",
+    "file": "assets/flow2k_raw/molly-v2/R12/r9-1.png",
+    "res": "1K",
+    "scores": {
+      "beat": 6,
+      "character": 9,
+      "cinematic": 7,
+      "style": 9,
+      "technical": 8,
+      "readability": 9
+    },
+    "total": 7.7,
+    "pass": false,
+    "defects": [
+      "head turned toward frame RIGHT with eyes into the lens; brief needs a grateful look toward Yalom off frame LEFT (R13 has him facing left)",
+      "hat hand reads anatomically as his RIGHT hand (back of hand to camera, thumb on picture-left, wrist from below); R13 hat rule wants his LEFT hand entering from picture-right, cuff at picture-right, fingers curled over the brim pointing left",
+      "face at ~38% from left with the empty space on the right, the opposite of the brief's face-on-right-third / negative space left",
+      "frontal posed portrait staring at camera (AI tell)"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep the man's face, age, silver side-parted hair, smile, dark overcoat, white shirt, black tie, cream Panama hat, willows and golden light exactly the same, and change only: (1) mirror the framing so his face sits on the right third with open soft willow space on the left; (2) his head and eyes turn toward FRAME LEFT, looking at a man just out of frame on the left, not at the camera; (3) the hat is held against his chest by HIS OWN LEFT hand, which enters from the RIGHT side of the picture with the coat cuff at picture-right and the fingers curled over the brim pointing toward picture-left, thumb on top, exactly like the man in the middle of the reference three-shot. No headstones, no text, no sparkle, full-bleed 16:9.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep the man's face, age, silver side-parted hair, smile, dark overcoat, white shirt, black tie, cream Panama hat, willows and golden light exactly the same, and change only: (1) mirror the framing so his face sits on the right third with open soft willow space on the left; (2) his head and eyes turn toward FRAME LEFT, looking at a man just out of frame on the left, not at the camera; (3) the hat is held against his chest by HIS OWN LEFT hand, which enters from the RIGHT side of the picture with the coat cuff at picture-right and the fingers curled over the brim pointing toward picture-left, thumb on top, exactly like the man in the middle of the reference three-shot. No headstones, no text, no sparkle, full-bleed 16:9."
+  },
+  {
+    "shot": "R12",
+    "file": "assets/flow2k_raw/molly-v2/R12/r9-2.png",
+    "res": "1K",
+    "scores": {
+      "beat": 6,
+      "character": 9,
+      "cinematic": 7,
+      "style": 8,
+      "technical": 8,
+      "readability": 9
+    },
+    "total": 7.6,
+    "pass": false,
+    "defects": [
+      "head turned toward frame RIGHT with eyes into the lens; brief needs a grateful look toward Yalom off frame LEFT (R13 has him facing left)",
+      "hat hand reads anatomically as his RIGHT hand (back of hand to camera, thumb on picture-left, wrist from below); R13 hat rule wants his LEFT hand entering from picture-right, cuff at picture-right, fingers curled over the brim pointing left",
+      "face at ~38% from left with the empty space on the right, the opposite of the brief's face-on-right-third / negative space left",
+      "frontal posed portrait staring at camera (AI tell)",
+      "greener, cooler light than R13's warm golden hour"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep the man's face, age, silver side-parted hair, smile, dark overcoat, white shirt, black tie, cream Panama hat, willows and golden light exactly the same, and change only: (1) mirror the framing so his face sits on the right third with open soft willow space on the left; (2) his head and eyes turn toward FRAME LEFT, looking at a man just out of frame on the left, not at the camera; (3) the hat is held against his chest by HIS OWN LEFT hand, which enters from the RIGHT side of the picture with the coat cuff at picture-right and the fingers curled over the brim pointing toward picture-left, thumb on top, exactly like the man in the middle of the reference three-shot. No headstones, no text, no sparkle, full-bleed 16:9. Make the light warm late-afternoon gold like the reference.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep the man's face, age, silver side-parted hair, smile, dark overcoat, white shirt, black tie, cream Panama hat, willows and golden light exactly the same, and change only: (1) mirror the framing so his face sits on the right third with open soft willow space on the left; (2) his head and eyes turn toward FRAME LEFT, looking at a man just out of frame on the left, not at the camera; (3) the hat is held against his chest by HIS OWN LEFT hand, which enters from the RIGHT side of the picture with the coat cuff at picture-right and the fingers curled over the brim pointing toward picture-left, thumb on top, exactly like the man in the middle of the reference three-shot. No headstones, no text, no sparkle, full-bleed 16:9. Make the light warm late-afternoon gold like the reference."
+  },
+  {
+    "shot": "R12",
+    "file": "assets/flow2k_raw/molly-v2/R12/r9-3.png",
+    "res": "1K",
+    "scores": {
+      "beat": 6,
+      "character": 9,
+      "cinematic": 7,
+      "style": 9,
+      "technical": 8,
+      "readability": 9
+    },
+    "total": 7.7,
+    "pass": false,
+    "defects": [
+      "head turned toward frame RIGHT with eyes into the lens; brief needs a grateful look toward Yalom off frame LEFT (R13 has him facing left)",
+      "hat hand reads anatomically as his RIGHT hand (back of hand to camera, thumb on picture-left, wrist from below); R13 hat rule wants his LEFT hand entering from picture-right, cuff at picture-right, fingers curled over the brim pointing left",
+      "face at ~38% from left with the empty space on the right, the opposite of the brief's face-on-right-third / negative space left",
+      "frontal posed portrait staring at camera (AI tell)"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep the man's face, age, silver side-parted hair, smile, dark overcoat, white shirt, black tie, cream Panama hat, willows and golden light exactly the same, and change only: (1) mirror the framing so his face sits on the right third with open soft willow space on the left; (2) his head and eyes turn toward FRAME LEFT, looking at a man just out of frame on the left, not at the camera; (3) the hat is held against his chest by HIS OWN LEFT hand, which enters from the RIGHT side of the picture with the coat cuff at picture-right and the fingers curled over the brim pointing toward picture-left, thumb on top, exactly like the man in the middle of the reference three-shot. No headstones, no text, no sparkle, full-bleed 16:9.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep the man's face, age, silver side-parted hair, smile, dark overcoat, white shirt, black tie, cream Panama hat, willows and golden light exactly the same, and change only: (1) mirror the framing so his face sits on the right third with open soft willow space on the left; (2) his head and eyes turn toward FRAME LEFT, looking at a man just out of frame on the left, not at the camera; (3) the hat is held against his chest by HIS OWN LEFT hand, which enters from the RIGHT side of the picture with the coat cuff at picture-right and the fingers curled over the brim pointing toward picture-left, thumb on top, exactly like the man in the middle of the reference three-shot. No headstones, no text, no sparkle, full-bleed 16:9."
+  },
+  {
+    "shot": "R12",
+    "file": "assets/flow2k_raw/molly-v2/R12/r9-4.png",
+    "res": "1K",
+    "scores": {
+      "beat": 6,
+      "character": 9,
+      "cinematic": 6,
+      "style": 8,
+      "technical": 8,
+      "readability": 9
+    },
+    "total": 7.4,
+    "pass": false,
+    "defects": [
+      "head turned toward frame RIGHT with eyes into the lens; brief needs a grateful look toward Yalom off frame LEFT (R13 has him facing left)",
+      "hat hand reads anatomically as his RIGHT hand (back of hand to camera, thumb on picture-left, wrist from below); R13 hat rule wants his LEFT hand entering from picture-right, cuff at picture-right, fingers curled over the brim pointing left",
+      "face at ~38% from left with the empty space on the right, the opposite of the brief's face-on-right-third / negative space left",
+      "frontal posed portrait staring at camera (AI tell)",
+      "glowing backlit rim and bloom haze on the hair stack with the frontal pose (AI tells)"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep the man's face, age, silver side-parted hair, smile, dark overcoat, white shirt, black tie, cream Panama hat, willows and golden light exactly the same, and change only: (1) mirror the framing so his face sits on the right third with open soft willow space on the left; (2) his head and eyes turn toward FRAME LEFT, looking at a man just out of frame on the left, not at the camera; (3) the hat is held against his chest by HIS OWN LEFT hand, which enters from the RIGHT side of the picture with the coat cuff at picture-right and the fingers curled over the brim pointing toward picture-left, thumb on top, exactly like the man in the middle of the reference three-shot. No headstones, no text, no sparkle, full-bleed 16:9. Replace the glowing backlit bloom with one low warm sun from the left and matte shading.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep the man's face, age, silver side-parted hair, smile, dark overcoat, white shirt, black tie, cream Panama hat, willows and golden light exactly the same, and change only: (1) mirror the framing so his face sits on the right third with open soft willow space on the left; (2) his head and eyes turn toward FRAME LEFT, looking at a man just out of frame on the left, not at the camera; (3) the hat is held against his chest by HIS OWN LEFT hand, which enters from the RIGHT side of the picture with the coat cuff at picture-right and the fingers curled over the brim pointing toward picture-left, thumb on top, exactly like the man in the middle of the reference three-shot. No headstones, no text, no sparkle, full-bleed 16:9. Replace the glowing backlit bloom with one low warm sun from the left and matte shading."
+  },
+  {
+    "shot": "R11",
+    "file": "assets/flow2k_raw/molly-v2/R11/r9-1.png",
+    "res": "1K",
+    "scores": {
+      "beat": 7,
+      "character": 7,
+      "cinematic": 7,
+      "style": 8,
+      "technical": 8,
+      "readability": 9
+    },
+    "total": 7.5,
+    "pass": false,
+    "defects": [
+      "Monica looks ~40 (smooth face, platinum hair), not ~60 like R13's lined silver-haired Monica",
+      "Alvin under the hat looks ~55, smoother than R13's ~70 Alvin",
+      "Yalom is near centre (~45%), almost level with Alvin, and only glances sideways; brief wants him a step ahead on the left third, turning back over his shoulder",
+      "Alvin's raised palm faces the camera instead of Yalom; three-across lineup reads staged",
+      "light haze/bloom in the background despite no-fog rule"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep the iron gate framing, golden backlight, path, willows, the three costumes, Alvin's cream Panama hat on his head and his open-mouthed call exactly the same, and change only: (1) the woman in black is visibly about 60: lined face, crow's feet, soft jowls, silver-grey hair in a low bun, like the woman in the reference three-shot; (2) the man in the hat is visibly about 70: deeper lines, sagging cheeks, silver hair at the temples, the same face as the reference; (3) the bearded old man walks one full step ahead, nearer the gate on the left third, and turns his head and shoulders back over his right shoulder toward the man in the hat; (4) the hat man's raised hand is turned toward the bearded man, not the camera; (5) clear air, no haze. No text, no sparkle, full-bleed 16:9.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep the iron gate framing, golden backlight, path, willows, the three costumes, Alvin's cream Panama hat on his head and his open-mouthed call exactly the same, and change only: (1) the woman in black is visibly about 60: lined face, crow's feet, soft jowls, silver-grey hair in a low bun, like the woman in the reference three-shot; (2) the man in the hat is visibly about 70: deeper lines, sagging cheeks, silver hair at the temples, the same face as the reference; (3) the bearded old man walks one full step ahead, nearer the gate on the left third, and turns his head and shoulders back over his right shoulder toward the man in the hat; (4) the hat man's raised hand is turned toward the bearded man, not the camera; (5) clear air, no haze. No text, no sparkle, full-bleed 16:9."
+  },
+  {
+    "shot": "R11",
+    "file": "assets/flow2k_raw/molly-v2/R11/r9-2.png",
+    "res": "1K",
+    "scores": {
+      "beat": 7,
+      "character": 7,
+      "cinematic": 8,
+      "style": 8,
+      "technical": 8,
+      "readability": 9
+    },
+    "total": 7.7,
+    "pass": false,
+    "defects": [
+      "Monica looks ~40 (smooth face, platinum hair), not ~60 like R13's lined silver-haired Monica",
+      "Alvin under the hat looks ~55, smoother than R13's ~70 Alvin",
+      "Yalom is near centre (~45%), almost level with Alvin, and only glances sideways; brief wants him a step ahead on the left third, turning back over his shoulder",
+      "Alvin's raised palm faces the camera instead of Yalom; three-across lineup reads staged",
+      "Yalom's hair falls forward (shaggy fringe) instead of swept straight back"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep the iron gate framing, golden backlight, path, willows, the three costumes, Alvin's cream Panama hat on his head and his open-mouthed call exactly the same, and change only: (1) the woman in black is visibly about 60: lined face, crow's feet, soft jowls, silver-grey hair in a low bun, like the woman in the reference three-shot; (2) the man in the hat is visibly about 70: deeper lines, sagging cheeks, silver hair at the temples, the same face as the reference; (3) the bearded old man walks one full step ahead, nearer the gate on the left third, and turns his head and shoulders back over his right shoulder toward the man in the hat; (4) the hat man's raised hand is turned toward the bearded man, not the camera; (5) the bearded man's hair is combed straight back off the forehead with both ears visible. No text, no sparkle, full-bleed 16:9.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep the iron gate framing, golden backlight, path, willows, the three costumes, Alvin's cream Panama hat on his head and his open-mouthed call exactly the same, and change only: (1) the woman in black is visibly about 60: lined face, crow's feet, soft jowls, silver-grey hair in a low bun, like the woman in the reference three-shot; (2) the man in the hat is visibly about 70: deeper lines, sagging cheeks, silver hair at the temples, the same face as the reference; (3) the bearded old man walks one full step ahead, nearer the gate on the left third, and turns his head and shoulders back over his right shoulder toward the man in the hat; (4) the hat man's raised hand is turned toward the bearded man, not the camera; (5) the bearded man's hair is combed straight back off the forehead with both ears visible. No text, no sparkle, full-bleed 16:9."
+  },
+  {
+    "shot": "S07",
+    "file": "assets/flow2k_raw/molly-v2/S07/r9-1.png",
+    "res": "1K",
+    "scores": {
+      "beat": 7,
+      "character": 9,
+      "cinematic": 7,
+      "style": 9,
+      "technical": 8,
+      "readability": 7
+    },
+    "total": 7.8,
+    "pass": false,
+    "defects": [
+      "hair touches/cut by the top edge: no headroom",
+      "Yalom near frame centre, hand raised by his chest rather than frozen above the cup",
+      "unexplained blurred olive diagonal shape at the right edge",
+      "flat, evenly lit; no golden rim"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep the old man's face, astonished expression, glasses, swept-back hair, beard, coat, cardigan, gaze toward frame right and the café exactly the same, and change only: (1) pull the camera back so his whole head sits below the top edge with clear headroom, framed from mid-chest up, his face centre-left; (2) his raised hand frozen a few centimetres directly above the white cup on the marble table; (3) remove the blurred olive shape at the right edge; (4) a soft warm window edge on his hair from behind, matte fill on his face. No text, no sparkle, full-bleed 16:9.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep the old man's face, astonished expression, glasses, swept-back hair, beard, coat, cardigan, gaze toward frame right and the café exactly the same, and change only: (1) pull the camera back so his whole head sits below the top edge with clear headroom, framed from mid-chest up, his face centre-left; (2) his raised hand frozen a few centimetres directly above the white cup on the marble table; (3) remove the blurred olive shape at the right edge; (4) a soft warm window edge on his hair from behind, matte fill on his face. No text, no sparkle, full-bleed 16:9."
+  },
+  {
+    "shot": "S07",
+    "file": "assets/flow2k_raw/molly-v2/S07/r9-2.png",
+    "res": "1K",
+    "scores": {
+      "beat": 7,
+      "character": 7,
+      "cinematic": 8,
+      "style": 9,
+      "technical": 9,
+      "readability": 7
+    },
+    "total": 7.7,
+    "pass": false,
+    "defects": [
+      "hair touches/cut by the top edge: no headroom",
+      "hair is shaggy and falls over the forehead and ears, breaking the swept-back hair fix (M05/R06)"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep the old man's face, astonished expression, glasses, beard, coat, cardigan, gaze toward frame right, his hand frozen above the cup, the cup, window light and brick café exactly the same, and change only: (1) his short silver-white hair combed straight back off the forehead, both ears visible; (2) pull the camera back slightly so there is clear headroom above his hair. No text, no sparkle, full-bleed 16:9.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep the old man's face, astonished expression, glasses, beard, coat, cardigan, gaze toward frame right, his hand frozen above the cup, the cup, window light and brick café exactly the same, and change only: (1) his short silver-white hair combed straight back off the forehead, both ears visible; (2) pull the camera back slightly so there is clear headroom above his hair. No text, no sparkle, full-bleed 16:9."
+  },
+  {
+    "shot": "S07",
+    "file": "assets/flow2k_raw/molly-v2/S07/r9-3.png",
+    "res": "1K",
+    "scores": {
+      "beat": 6,
+      "character": 9,
+      "cinematic": 7,
+      "style": 8,
+      "technical": 9,
+      "readability": 7
+    },
+    "total": 7.6,
+    "pass": false,
+    "defects": [
+      "hair touches/cut by the top edge: no headroom",
+      "expression reads mildly attentive (brows level, eyes only slightly open, small mouth), not the surprise of hearing something forgotten",
+      "cooler, flatter light than R06's golden café; busy street with cars competes"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep the old man's face, glasses, swept-back hair, beard, coat, gaze toward frame right, his hand frozen above the cup and the café exactly the same, and change only: (1) his expression becomes surprised: brows lifted high, eyes wide behind the glasses, lips parted; (2) pull the camera back so there is clear headroom above his hair; (3) warm late-afternoon window light with a soft golden edge on his hair. No text, no sparkle, full-bleed 16:9.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep the old man's face, glasses, swept-back hair, beard, coat, gaze toward frame right, his hand frozen above the cup and the café exactly the same, and change only: (1) his expression becomes surprised: brows lifted high, eyes wide behind the glasses, lips parted; (2) pull the camera back so there is clear headroom above his hair; (3) warm late-afternoon window light with a soft golden edge on his hair. No text, no sparkle, full-bleed 16:9."
+  },
+  {
+    "shot": "S07",
+    "file": "assets/flow2k_raw/molly-v2/S07/r9-4.png",
+    "res": "1K",
+    "scores": {
+      "beat": 6,
+      "character": 9,
+      "cinematic": 8,
+      "style": 8,
+      "technical": 9,
+      "readability": 7
+    },
+    "total": 7.8,
+    "pass": false,
+    "defects": [
+      "hair touches/cut by the top edge: no headroom",
+      "expression reads mildly attentive (brows level, eyes only slightly open, small mouth), not the surprise of hearing something forgotten"
+    ],
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep the old man's face, glasses, swept-back hair, beard, coat, gaze toward frame right, his hand frozen above the cup, the warm light and blurred café exactly the same, and change only: (1) his expression becomes surprised: brows lifted high, eyes wide behind the glasses, lips parted; (2) pull the camera back so there is clear headroom above his hair. No text, no sparkle, full-bleed 16:9.",
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep the old man's face, glasses, swept-back hair, beard, coat, gaze toward frame right, his hand frozen above the cup, the warm light and blurred café exactly the same, and change only: (1) his expression becomes surprised: brows lifted high, eyes wide behind the glasses, lips parted; (2) pull the camera back so there is clear headroom above his hair. No text, no sparkle, full-bleed 16:9."
+  }
+]

@@ -1,0 +1,3 @@
+[outpaint of widened canvas ms-canvas-S05.jpg built from S05/c7-1 at reduced scale, anchored left]
+Fill only the empty flat grey strip on the right (and any grey at the top and bottom edges): continue the brown leather armchair so its whole right arm is inside the frame, then wooden bookshelves with plain unlabelled book spines beside it, same warm blind-stripe light, same Attack on Titan (Wit Studio era) cel style. Do not change the two men, their faces, poses or the embroidered Alvin Cross. No other text, bottom-right corner plain, no watermark.
+[cleanup: large star mark at 1K (1278,670) replaced by an offset texture patch, NOT cropped (cropping would undo the widening); interim Lanczos upscale 1376x768 -> 2752x1536]

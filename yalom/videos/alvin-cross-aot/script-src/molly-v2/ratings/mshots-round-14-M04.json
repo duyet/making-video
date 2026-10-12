@@ -1,0 +1,72 @@
+[
+  {
+    "shot": "M04",
+    "file": "assets/flow2k_raw/molly-v2/M04/c14-1.png",
+    "scores": {
+      "beat": 8.5,
+      "character": 8,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 8.68,
+    "pass": false,
+    "defects": [
+      "Expression mostly fixed: eyes lowered softly toward Yalom, not at the lens; brows level and at rest; few facial lines; a gentle closed-mouth smile with both corners lifted. Reads as quiet, warm relief, not creepy. Not a smirk (both corners, lids relaxed, not one-sided), but the lips are closed, not parted as if exhaling, so the 'just let out a breath' cue is missing",
+      "Posture: sits upright, forward on the seat with both hands on his knees, a slightly formal 'listening' pose. Shoulders are not visibly dropped, and no hand rests loose on the armrest as briefed",
+      "Yalom off anchor: the foreground figure has dark brown/near-black hair and a dark beard, not dark-blond tousled hair. Glasses are round wire-rim and the cardigan is a dark brown knit (ok)",
+      "Alvin on model: blond side part, heavy brows, blue eyes, white coat, blue shirt, loosened tie; silver at the temples is barely visible",
+      "Hands clean: right hand five fingers on the thigh, left hand on the knee with four fingers plus a hidden thumb (natural)",
+      "Good composition: OTS framing, face small in frame, warm blind stripes, leather chair, lamp, tissue box, mug; 1982 office reads. No text, no sparkles, book spines unreadable. Right edge clear (chair ends ~96%, then plain wall)",
+      "Best candidate, but under 9.0: needs Yalom hair fix and parted lips / armrest hand"
+    ],
+    "expression_ok": true,
+    "revised_prompt": "Medium shot, 50mm at seated eye level, a candid in-between moment in a therapy session: in the left foreground the soft out-of-focus dark shoulder and the back of the head of a man about 50 with dark-blond tousled hair, round wire-rim glasses and a short beard, in a brown knit cardigan, about a fifth of the frame; across from him, on the centre-right, Alvin sits in a worn brown leather armchair, seen from the waist up, leaning back into the chair, his face small in the frame, in three-quarter profile turned toward the man, a quiet 1982 Stanford office, one warm source of afternoon light through half-open wooden venetian blinds laying soft stripes over the chair and wall, a few worn books and a mug on a side table, plain walls with no certificates, no diplomas, no lettering, matte shading, no glow, no dust motes. Alvin Cross: man about 35, inspired by Erwin Smith, tall, blond hair in a neat side part with a little silver at the temples, heavy brows, blue eyes, a natural face with few lines; white doctor coat, pale blue shirt, dark tie loosened. His expression: relief after a long struggle, the nightmares are gone; a small relieved half-smile with both mouth corners lifted gently and the lips slightly parted as if he has just let out a breath, brows at rest and level, eyelids relaxed, eyes looking softly at the man opposite (never at the camera), head tilted a little, lips visibly apart with a small dark gap between them as he exhales, shoulders dropped and slumped back against the chair, his right forearm lying along the leather armrest with the hand hanging loose over its end, the other hand open in his lap. No grin, no teeth, no raised brows, no wide eyes, no stare, no smirk. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, restrained ink shadows, flat matte cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, natural restrained lighting, evenly lit and easy to read, cinematic 16:9 widescreen framing, 1980s California, cinematic anime film still, film grain. No text, no letters, no captions, no logos, no watermark, keep the right fifth of the frame quiet background and the bottom-right corner plain."
+  },
+  {
+    "shot": "M04",
+    "file": "assets/flow2k_raw/molly-v2/M04/c14-2.png",
+    "scores": {
+      "beat": 7,
+      "character": 9,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 8.5,
+    "pass": false,
+    "defects": [
+      "HARD FAIL on expression: mouth open in a talking smile with the upper teeth visible, a grin, which the brief bans (no grin, no teeth). Reads chatty/cheerful rather than a quiet exhale of relief",
+      "Eyes on Yalom, not the lens; brows mostly level (ok)",
+      "Yalom on anchor: dark-blond tousled hair, round wire-rim glasses, beard, brown knit cardigan",
+      "Hands clean, five fingers each, but both clasped on the knees, not loose on the armrest",
+      "Same good room and framing as c14-1; silver at the temples visible; no text or sparkles; right edge clear"
+    ],
+    "expression_ok": false,
+    "revised_prompt": ""
+  },
+  {
+    "shot": "M04",
+    "file": "assets/redraw/M04.png",
+    "scores": {
+      "beat": 6.5,
+      "character": 8,
+      "cinematic": 8.5,
+      "style": 8.5,
+      "technical": 8.5,
+      "readability": 9
+    },
+    "total": 7.95,
+    "pass": false,
+    "defects": [
+      "HARD FAIL on expression (the face the user called creepy): fixed closed-mouth grin held wide, inner brows raised, deep nasolabial and forehead lines, wide pale eyes with a fixed intense look. Reads as an uncanny stare-smile, not relief",
+      "Face is large and near-frontal, not small in a three-quarter profile as briefed",
+      "Old rubric score 9.00 no longer holds under the new expression rules",
+      "Setting fine: warm blinds, leather chair, Yalom shoulder with glasses and dark hair in the foreground. No text or sparkles; no hands visible"
+    ],
+    "expression_ok": false,
+    "revised_prompt": ""
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "shot": "R57", "replaces": "F26", "file": "assets/flow2k_raw/molly-v2/R57/r3-3.png",
+    "scores": {"beat": 8.5, "character": 9, "cinematic": 8, "style": 8.5, "technical": 8.5, "readability": 9},
+    "total": 8.55, "pass": false,
+    "defects": [
+      "Clock was not 'strongly blurred': it is only mildly soft, and the new dial is a bright, clean white disc, the brightest object right of the photo; in a cold moonlit room it reads as a lit hotspot and pulls the eye off the parents (cinematic 8)",
+      "Three near-equal hands (vertical hand at 12, one at 3, one at about 4) make the time ambiguous (3:00 or 4:00?) and look slightly synthetic",
+      "Snapshot faces are still crisp anime line art at the same sharpness as the frame, not a soft, faded print (carried over from r2-3)"
+    ],
+    "minor": [
+      "1K softness",
+      "Hard fail from r2-3 cleared: dial is blank with tick marks only, no numerals or lettering anywhere (book cover has only unreadable smudges)",
+      "Parents warm and natural (father crinkled lopsided smile, mother laughing toward him): F26 face brief met",
+      "No star/diamond marks in any corner"
+    ],
+    "edit_instruction": "Change only the alarm clock: dim its dial to the same cool moonlit grey-blue as the pillow behind it (no bright white), keep it blank with tick marks only, give it just two hands, a short hour hand on 3 and a long minute hand on 12, and blur the whole clock as strongly as the bed behind it; keep everything else the same."
+  },
+  {
+    "shot": "R46", "replaces": "F19", "file": "assets/flow2k_raw/molly-v2/R46/r5-3.png",
+    "scores": {"beat": 9, "character": 9, "cinematic": 9, "style": 9, "technical": 9, "readability": 9},
+    "total": 9.0, "pass": true,
+    "defects": [],
+    "minor": [
+      "1K softness",
+      "Relight landed this time: warm hard key from frame right on the nose bridge, a Rembrandt triangle on the cheek, lips and chin edge; ear, jaw, neck and collar fall into one cool teal cel shadow with a crisp terminator. The face is now shaped and motivated",
+      "Expression unchanged and right: weary, heavy-lidded sideways look into the distance, lips parted, chin slightly up; no glare, no smirk, not into the lens",
+      "Teal shadow on the ear/neck is slightly green-cold next to the warm wall; acceptable",
+      "Face sits a little left of centre with the gaze and smoke leading into the right third, enough lead room for a slow push",
+      "Brows are heavy and level rather than lifted at the inner corners; reads worn-defiant, which the beat allows"
+    ]
+  },
+  {
+    "shot": "R58", "replaces": "N08", "file": "assets/flow2k_raw/molly-v2/R58/r3-1.png",
+    "scores": {"beat": 7.5, "character": 8, "cinematic": 7, "style": 8.5, "technical": 7, "readability": 7},
+    "total": 7.48, "pass": false,
+    "defects": [
+      "Jason is not cancer-ravaged: full-faced, healthy build in a denim jacket, only sallow skin and dark rings; the blanket is draped on the chair, not over him (book p.79: skeletal, old before his time)",
+      "Alvin's clasped fingers are knobbly and bead-like (thumb and knuckles malformed) in a mid-frame area",
+      "Jason's shoulder and arm touch the right frame edge again; no room for a Ken Burns move",
+      "Mirror-symmetric staging around a dead-centre fireplace, and flat even light everywhere instead of dim grey window light plus ember glow"
+    ],
+    "minor": [
+      "1K softness",
+      "Alvin's face is close to the brief: worried brows, eyes on Jason, lips parted as if about to speak; hands clasped between the knees, not lecturing",
+      "Alvin's silver-grey temples barely read",
+      "Clean frame: book spines are unreadable smudges, no marks in the corners"
+    ]
+  },
+  {
+    "shot": "R58", "replaces": "N08", "file": "assets/flow2k_raw/molly-v2/R58/r3-2.png",
+    "scores": {"beat": 7.5, "character": 8, "cinematic": 7, "style": 9, "technical": 8, "readability": 7.5},
+    "total": 7.73, "pass": false,
+    "defects": [
+      "Alvin's face fails the brief: brows pulled down and knitted, hard focus, mouth set in a tight downturn; reads stern and disapproving, not awkward and tentative (CINEMATIC 'Expressions')",
+      "Jason's irises are near-white with dark rings round them, a blank, eerie stare (the same defect r2-3 had)",
+      "Mirror-symmetric two-chairs-and-a-fireplace staging again, evenly lit with no real low-key mood",
+      "Jason's armchair and blanket are cut by the right edge (his head now clears it, but the figure is still jammed against it)"
+    ],
+    "minor": [
+      "1K softness",
+      "Best Jason yet for the book: gaunt, sallow, hollow-cheeked, prematurely old, wrapped in a grey blanket, cigarette and overflowing ashtray",
+      "Alvin's hands clasped between the knees are clean",
+      "No text or marks"
+    ],
+    "edit_instruction": "Change only Alvin's face: inner corners of the brows raised, no furrow between the brows, eyes softer and searching Jason's face, lips half-open as if about to speak; and give Jason dull green irises with visible colour instead of white eyes; keep everything else the same. Then extend the canvas on the right so Jason's armchair ends well inside the frame."
+  }
+]

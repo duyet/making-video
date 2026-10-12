@@ -1,0 +1,3 @@
+[edit of ms-canvas-S10.jpg latest version]
+Redraw the brass desk lamp as one ordinary banker's desk lamp: a single straight brass stem rising from a round base on the desk behind the phone to the green-gold shade; remove the horizontal arm that runs to the right edge of the frame. Keep the shade position, the warm light and everything else identical. Do not change Yalom, his hands, the receiver, the cord, the phone or the blinds. No text, bottom-right corner plain, no watermark.
+[cleanup: large star mark at 1K (1278,670) replaced by best-match offset texture patch, NOT cropped; interim Lanczos upscale]

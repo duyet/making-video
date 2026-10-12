@@ -1,0 +1,133 @@
+[
+  {
+    "shot": "S11",
+    "file": "assets/flow2k_raw/molly-v2/S11/r1-2.png",
+    "res": "1K",
+    "scores": {
+      "beat": 9.5,
+      "character": 9,
+      "cinematic": 8.5,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 9.0,
+    "pass": true,
+    "defects": [
+      "Composition is almost a copy of R08 (same window, plant, cars, pose). It will read as a jump cut if R08 is close by in the edit; consider a slow push-in so the two read as one held moment.",
+      "Hand and cup are cut by the bottom edge (acceptable for an MCU)."
+    ],
+    "edit_prompt": "",
+    "revised_prompt": ""
+  },
+  {
+    "shot": "S11",
+    "file": "assets/flow2k_raw/molly-v2/S11/r1-1.png",
+    "res": "1K",
+    "scores": {
+      "beat": 8,
+      "character": 9,
+      "cinematic": 8,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 8.6,
+    "pass": false,
+    "defects": [
+      "The smile is barely there: the face reads wistful or neutral, not fulfilled, which is weak for the film's final ~3 s silent hold.",
+      "Almost the same frame as R08 (window, plant, cars, pose), with flat even light and no flare or soft bokeh, so it adds little over the stand-in."
+    ],
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep the café, the window, the plant, the coffee cup, the old man's face, hair, beard, glasses, grey overcoat, brown cardigan, pose and his position exactly the same, and change only: (1) his expression into a quiet, content, closed-mouth smile, with the corners of the lips gently lifted, softened eyes and crow's feet crinkling, at peace; (2) the street outside the window into a soft, creamy, out-of-focus warm bokeh, with one gentle warm lens-flare orb in the left window area. Keep everything important out of the right-most fifth. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9.",
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep the café, the window, the plant, the coffee cup, the old man's face, hair, beard, glasses, grey overcoat, brown cardigan, pose and his position exactly the same, and change only: (1) his expression into a quiet, content, closed-mouth smile, with the corners of the lips gently lifted, softened eyes and crow's feet crinkling, at peace; (2) the street outside the window into a soft, creamy, out-of-focus warm bokeh, with one gentle warm lens-flare orb in the left window area. Keep everything important out of the right-most fifth. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+  },
+  {
+    "shot": "R15",
+    "file": "assets/flow2k_raw/molly-v2/R15/r7-2.png",
+    "res": "1K",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 9
+    },
+    "total": 9.0,
+    "pass": true,
+    "defects": [
+      "The brass dome lamp and the night window sit in the right-most fifth. Neither is cut, but keep the Ken Burns move away from the right edge.",
+      "The left door-jamb silhouette is about 25% black, which is intentional but heavy.",
+      "Binder labels are blank, with only faint non-readable strokes."
+    ],
+    "edit_prompt": "",
+    "revised_prompt": ""
+  },
+  {
+    "shot": "R15",
+    "file": "assets/flow2k_raw/molly-v2/R15/r7-1.png",
+    "res": "1K",
+    "scores": {
+      "beat": 8,
+      "character": 8.5,
+      "cinematic": 8,
+      "style": 9,
+      "technical": 8.5,
+      "readability": 8.5
+    },
+    "total": 8.3,
+    "pass": false,
+    "defects": [
+      "Yalom turns his head back and looks almost at the camera with a wary, caught-out look. That breaks the voyeur frame-within-frame and the quiet search mood, and it is not the 3/4-from-behind pose the beat asks for.",
+      "The filing cabinet and the open drawer reach into the right-most fifth, and the drawer front is about 84% across the frame.",
+      "The lamp stands behind him by the window, not beside the drawer, so the pool of light on the folders is weak."
+    ],
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep the dark door-frame silhouette, the study, the bookshelves with binders, the brown tufted chair with the grey overcoat, the night window, the brass dome lamp, the grey steel filing cabinet with its open drawer and the old man's hair, beard, glasses, brown cardigan and dark trousers exactly the same, and change only: (1) his head so that it is turned down and away toward the open drawer, seen three-quarter from behind, his eyes on the folders in a quiet, absorbed look, not looking toward the camera, with only a small warm glint of lamp light on his glasses; (2) shift the filing cabinet, the drawer and the man slightly left so that nothing important is in the right-most fifth, leaving only the door jamb and door there. All folder tabs and binder labels blank. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9.",
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep the dark door-frame silhouette, the study, the bookshelves with binders, the brown tufted chair with the grey overcoat, the night window, the brass dome lamp, the grey steel filing cabinet with its open drawer and the old man's hair, beard, glasses, brown cardigan and dark trousers exactly the same, and change only: (1) his head so that it is turned down and away toward the open drawer, seen three-quarter from behind, his eyes on the folders in a quiet, absorbed look, not looking toward the camera, with only a small warm glint of lamp light on his glasses; (2) shift the filing cabinet, the drawer and the man slightly left so that nothing important is in the right-most fifth, leaving only the door jamb and door there. All folder tabs and binder labels blank. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+  },
+  {
+    "shot": "R10",
+    "file": "assets/flow2k_raw/molly-v2/R10/r6-1.png",
+    "res": "1K",
+    "scores": {
+      "beat": 8,
+      "character": 8.5,
+      "cinematic": 7.5,
+      "style": 8.5,
+      "technical": 8,
+      "readability": 8
+    },
+    "total": 8.1,
+    "pass": false,
+    "defects": [
+      "The figure has a glowing yellow aura around his whole body. It is a self-lit halo that the sun does not motivate, because the sun is off to the upper right and not ahead of him on the path, so it reads as a saint or ghost glow, an AI tell.",
+      "The figure is about 76–80% across the frame and the sun is about 80%, so both sit in or touch the right-most fifth (the crop-risk zone).",
+      "The figure is about 1/9 of the frame height (good for an extreme wide), hands are in pockets, the shadow runs toward the camera and the headstones are blank."
+    ],
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep the extreme wide view of the sunlit cemetery, the willows, the blank headstones, the curving pale path and the tiny lone old man in a grey overcoat walking away with his hands in his pockets, at the same small size, exactly the same, and change only: (1) remove the glowing aura around his body, so he is a plain dark backlit silhouette with only a thin warm rim of light on his shoulders and silver hair; (2) move the low golden sun down and left to sit on the horizon at the far end of the path directly ahead of him, at about 60 to 65 percent across the frame, with a soft warm lens flare; (3) move him along the path so he stands at about 60 percent across the frame, with his long shadow stretching straight back along the path toward the camera; (4) keep only grass and willow branches in the right-most fifth. Every headstone smooth and blank. No fog, no mist. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9.",
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep the extreme wide view of the sunlit cemetery, the willows, the blank headstones, the curving pale path and the tiny lone old man in a grey overcoat walking away with his hands in his pockets, at the same small size, exactly the same, and change only: (1) remove the glowing aura around his body, so he is a plain dark backlit silhouette with only a thin warm rim of light on his shoulders and silver hair; (2) move the low golden sun down and left to sit on the horizon at the far end of the path directly ahead of him, at about 60 to 65 percent across the frame, with a soft warm lens flare; (3) move him along the path so he stands at about 60 percent across the frame, with his long shadow stretching straight back along the path toward the camera; (4) keep only grass and willow branches in the right-most fifth. Every headstone smooth and blank. No fog, no mist. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+  },
+  {
+    "shot": "R10",
+    "file": "assets/flow2k_raw/molly-v2/R10/r6-2.png",
+    "res": "1K",
+    "scores": {
+      "beat": 7,
+      "character": 8.5,
+      "cinematic": 7,
+      "style": 8.5,
+      "technical": 6.5,
+      "readability": 8
+    },
+    "total": 7.5,
+    "pass": false,
+    "defects": [
+      "Scale and perspective are broken: the figure is about 1/4 of the frame height but stands on a distant, narrow part of the path, so he is far too big for his depth (giant next to the mid-ground headstones and the path) and looks pasted in.",
+      "It is no longer an extreme wide: the beat asks for the figure to be about 1/8 of the frame height.",
+      "There is still an unmotivated glow behind him, and the sun is at the upper right (about 80%) instead of ahead on the path.",
+      "The figure is about 76% across the frame, close to the right-most fifth."
+    ],
+    "edit_prompt": "Edit the attached image into a new 16:9 image: keep the extreme wide view of the sunlit cemetery, the willows, the blank headstones, the curving pale path and the lone old man in a grey overcoat walking away with his hands in his pockets exactly the same, and change only: (1) shrink him to a tiny figure, about one eighth of the frame height, correctly scaled to where he stands on the path, at about 60 percent across the frame; (2) remove the glow around him, so he is a plain dark backlit silhouette with a thin warm rim light; (3) move the low golden sun onto the horizon at the end of the path directly ahead of him, at about 60 to 65 percent across, with a soft warm lens flare; (4) his long shadow stretching straight back along the path toward the camera; (5) only grass and willow branches in the right-most fifth. Every headstone smooth and blank. No fog, no mist. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9.",
+    "revised_prompt": "Edit the attached image into a new 16:9 image: keep the extreme wide view of the sunlit cemetery, the willows, the blank headstones, the curving pale path and the lone old man in a grey overcoat walking away with his hands in his pockets exactly the same, and change only: (1) shrink him to a tiny figure, about one eighth of the frame height, correctly scaled to where he stands on the path, at about 60 percent across the frame; (2) remove the glow around him, so he is a plain dark backlit silhouette with a thin warm rim light; (3) move the low golden sun onto the horizon at the end of the path directly ahead of him, at about 60 to 65 percent across, with a soft warm lens flare; (4) his long shadow stretching straight back along the path toward the camera; (5) only grass and willow branches in the right-most fifth. Every headstone smooth and blank. No fog, no mist. Anime illustration in the style of Attack on Titan (Wit Studio era), bold clean line art, flat cel shading, no text, no letters, no watermark, no sparkle, star, logo or icon anywhere, no black bars, full-bleed 16:9."
+  }
+]

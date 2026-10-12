@@ -1,0 +1,450 @@
+[
+ {
+  "shot": "M01",
+  "file": "assets/flow2k_raw/molly-v2/M01/c5-1.png",
+  "scores": {
+   "beat": 9,
+   "character": 8.5,
+   "cinematic": 7.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 7.5
+  },
+  "total": 8.38,
+  "pass": false,
+  "defects": [
+   "New beat largely met: fiancée (Ymir-like freckles, dark ponytail, brown leather jacket) clearly readable on the near left with a guarded defiant look; Jason beside her; father Grisha-like (long tied hair, round glasses, stubble, brown waistcoat); mother; Alvin 19 blond side part with no grey; untouched plates, single hanging lamp, wood-panelled room; tension reads",
+   "Posed, symmetrical 'family portrait' staging: four of five people stare straight into the lens (CINEMATIC.md 'Natural' tell), so the scene reads as a lineup rather than a candid tense moment",
+   "Alvin crowded at the right edge: his shoulder and arm are cut by the frame (~85-100% across), no room for a Ken Burns move",
+   "Jason holding her hand is muddled: their hands cluster centre-left but the clasp is not clearly readable",
+   "No text, no sparkle; hands otherwise clean"
+  ],
+  "revised_prompt": "Medium-wide shot, 35mm at seated eye level from a candid three-quarter angle along a late-1960s rural Virginia dining table, nobody looks into the lens, everyone looks at each other or at their plates, all five people fully inside the frame with Alvin's whole head and shoulders at about 78% across and clear wall space to his right, a single warm hanging lamp over the table and dark wood-panelled walls falling into shadow, a roast and untouched plates, strong leading lines down the table: at the far end the parents sit stiff and silent: Alvin's father, country doctor: man about 45, inspired by Grisha Yeager, long dark hair tied back, round glasses, stubble, tired kind face, brown waistcoat over a white shirt, his fork set down; beside him the mother, rigid, polite smile frozen. On the near left, in sharp focus and clearly lit: Jason's fiancée age 17: inspired by Ymir, tall for her age, freckles across the nose, dark hair tied back in a short ponytail, sharp wary eyes; brown leather jacket over her shoulders, jeans; sitting very straight, chin up, her eyes on the father down the table, meeting the parents' stares with a guarded defiant look. Beside her, holding her hand on the table: Jason age 17: teenager inspired by young Eren Yeager, dark brown shoulder-length hair, intense green eyes, defiant stare, lean build; worn denim jacket over a white T-shirt. On the right, across from them: Alvin age 19: young man inspired by young Erwin Smith, neat blond side part with no grey, heavy brows, blue eyes, serious disapproving calm, tall lean build; white shirt with sleeves rolled; watching his brother in silence. Every face clearly readable. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, late-1960s rural America, calm natural expressions, no text, no captions, no watermark, keep the bottom-right corner plain and every person within the left 85% of the frame, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. Jason's hand visibly clasps the fiancée's hand on the tablecloth between them; the father's fork lies on his plate and nobody is eating; the mother's mouth is a thin strained line, not a smile; Alvin's eyes are on Jason. No text, no watermark, no sparkle icon in any corner."
+ },
+ {
+  "shot": "M01",
+  "file": "assets/flow2k_raw/molly-v2/M01/c5-2.png",
+  "scores": {
+   "beat": 8,
+   "character": 8.5,
+   "cinematic": 7,
+   "style": 8.5,
+   "technical": 8.5,
+   "readability": 7.5
+  },
+  "total": 7.98,
+  "pass": false,
+  "defects": [
+   "Fiancée readable with freckles and ponytail, but father is eating (fork in hand over food) and Jason has food on his plate: not 'untouched plates, fork set down'",
+   "Mother smiles openly and warmly, which undercuts the shock/tension of the beat",
+   "No hand-holding between Jason and the fiancée",
+   "Same posed lineup staging as c5-1 (four faces to the lens); flatter greenish ambient light, less shape than c5-1",
+   "Alvin cut by the right edge (shoulder and arm out of frame)",
+   "No text, no sparkle"
+  ],
+  "revised_prompt": "Medium-wide shot, 35mm at seated eye level from a candid three-quarter angle along a late-1960s rural Virginia dining table, nobody looks into the lens, everyone looks at each other or at their plates, all five people fully inside the frame with Alvin's whole head and shoulders at about 78% across and clear wall space to his right, a single warm hanging lamp over the table and dark wood-panelled walls falling into shadow, a roast and untouched plates, strong leading lines down the table: at the far end the parents sit stiff and silent: Alvin's father, country doctor: man about 45, inspired by Grisha Yeager, long dark hair tied back, round glasses, stubble, tired kind face, brown waistcoat over a white shirt, his fork set down; beside him the mother, rigid, polite smile frozen. On the near left, in sharp focus and clearly lit: Jason's fiancée age 17: inspired by Ymir, tall for her age, freckles across the nose, dark hair tied back in a short ponytail, sharp wary eyes; brown leather jacket over her shoulders, jeans; sitting very straight, chin up, her eyes on the father down the table, meeting the parents' stares with a guarded defiant look. Beside her, holding her hand on the table: Jason age 17: teenager inspired by young Eren Yeager, dark brown shoulder-length hair, intense green eyes, defiant stare, lean build; worn denim jacket over a white T-shirt. On the right, across from them: Alvin age 19: young man inspired by young Erwin Smith, neat blond side part with no grey, heavy brows, blue eyes, serious disapproving calm, tall lean build; white shirt with sleeves rolled; watching his brother in silence. Every face clearly readable. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, late-1960s rural America, calm natural expressions, no text, no captions, no watermark, keep the bottom-right corner plain and every person within the left 85% of the frame, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. Jason's hand visibly clasps the fiancée's hand on the tablecloth between them; the father's fork lies on his plate and nobody is eating; the mother's mouth is a thin strained line, not a smile; Alvin's eyes are on Jason. No text, no watermark, no sparkle icon in any corner."
+ },
+ {
+  "shot": "M01",
+  "file": "assets/redraw/M01.png",
+  "scores": {
+   "beat": 4,
+   "character": 8,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 7.5
+  },
+  "total": 7.23,
+  "pass": false,
+  "defects": [
+   "Re-rated on the NEW beat: the fiancée is absent, so the shot no longer shows the engagement dinner (core beat element missing)",
+   "Father not Grisha-inspired (short slicked hair, tie, no round glasses); mother reads ~60 with grey curls",
+   "Doorway frame-within-frame and lamp/window light are good cinematography",
+   "Jason pressed against the right edge mid-exit (old beat)",
+   "No text, no sparkle"
+  ],
+  "revised_prompt": "Medium-wide shot, 35mm at seated eye level from a candid three-quarter angle along a late-1960s rural Virginia dining table, nobody looks into the lens, everyone looks at each other or at their plates, all five people fully inside the frame with Alvin's whole head and shoulders at about 78% across and clear wall space to his right, a single warm hanging lamp over the table and dark wood-panelled walls falling into shadow, a roast and untouched plates, strong leading lines down the table: at the far end the parents sit stiff and silent: Alvin's father, country doctor: man about 45, inspired by Grisha Yeager, long dark hair tied back, round glasses, stubble, tired kind face, brown waistcoat over a white shirt, his fork set down; beside him the mother, rigid, polite smile frozen. On the near left, in sharp focus and clearly lit: Jason's fiancée age 17: inspired by Ymir, tall for her age, freckles across the nose, dark hair tied back in a short ponytail, sharp wary eyes; brown leather jacket over her shoulders, jeans; sitting very straight, chin up, her eyes on the father down the table, meeting the parents' stares with a guarded defiant look. Beside her, holding her hand on the table: Jason age 17: teenager inspired by young Eren Yeager, dark brown shoulder-length hair, intense green eyes, defiant stare, lean build; worn denim jacket over a white T-shirt. On the right, across from them: Alvin age 19: young man inspired by young Erwin Smith, neat blond side part with no grey, heavy brows, blue eyes, serious disapproving calm, tall lean build; white shirt with sleeves rolled; watching his brother in silence. Every face clearly readable. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, late-1960s rural America, calm natural expressions, no text, no captions, no watermark, keep the bottom-right corner plain and every person within the left 85% of the frame, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. Jason's hand visibly clasps the fiancée's hand on the tablecloth between them; the father's fork lies on his plate and nobody is eating; the mother's mouth is a thin strained line, not a smile; Alvin's eyes are on Jason. No text, no watermark, no sparkle icon in any corner."
+ },
+ {
+  "shot": "M02",
+  "file": "assets/flow2k_raw/molly-v2/M02/c5-1.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "total": 8.7,
+  "pass": false,
+  "defects": [
+   "Handset fixed: ordinary-size beige handset at the far side of his head, earpiece at the (hidden) ear, mouthpiece near the jaw, cord continuous to the wall phone; nothing crosses the nose or eye",
+   "Expression is a mild frown/knitted brow; beat asks for still, serious listening, not frowning",
+   "Framed as a medium shot rather than the medium close-up in BEATS.md",
+   "Good depth: dark doorframe foreground, warm sconce, blue dusk window; silver-grey temple visible",
+   "Ties the current 8.70; does not beat it"
+  ],
+  "revised_prompt": "EDIT of M02/c5-1 (manual editor): keep this image identical (kitchen, wall phone, coiled cord, sconce, dusk window, pose, handset) and change only his face: relax the brows so he is not frowning, eyelids slightly lowered, mouth still and neutral, the stunned stillness of a man hearing bad news; and push the camera in slightly so it reads as a medium close-up with his head at about 70% across and his right shoulder fully inside the frame. Bottom-right corner plain, no text, no watermark."
+ },
+ {
+  "shot": "M02",
+  "file": "assets/flow2k_raw/molly-v2/M02/c5-2.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 7.5
+  },
+  "total": 8.55,
+  "pass": false,
+  "defects": [
+   "Medium close-up achieved, handset correct (earpiece at ear, mouthpiece at jaw), cord continuous",
+   "Stronger scowl (heavy furrowed brow) reads as anger rather than still, shocked listening",
+   "Crowded at the right edge: shoulder and sweater run off the right side, face at ~65-85% across, little Ken Burns room",
+   "Strong silver-grey temple; no text"
+  ],
+  "revised_prompt": "EDIT of M02/c5-1 (manual editor): keep this image identical (kitchen, wall phone, coiled cord, sconce, dusk window, pose, handset) and change only his face: relax the brows so he is not frowning, eyelids slightly lowered, mouth still and neutral, the stunned stillness of a man hearing bad news; and push the camera in slightly so it reads as a medium close-up with his head at about 70% across and his right shoulder fully inside the frame. Bottom-right corner plain, no text, no watermark."
+ },
+ {
+  "shot": "M05",
+  "file": "assets/flow2k_raw/molly-v2/M05/c5-1.png",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 8.5,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.85,
+  "pass": false,
+  "defects": [
+   "Beat met: aged Yalom (~80, silver-white hair and beard, round wire glasses, brown cardigan) at the left end of a long desk closing a tan folder, lamp out of focus in the right foreground, blue dusk window",
+   "Glowing outer halo around his hair and shoulder (AI 'outer-glow' tell)",
+   "Folder shows a stacked page block at its edge rather than a single thin folded card",
+   "Face lit evenly rather than from the lamp side; hands clean; no text",
+   "Beats the current 8.60 but below the bar"
+  ],
+  "revised_prompt": "EDIT of M05/c5-1 (manual editor): keep this image identical and change only: remove the glowing halo around his hair and shoulders so the hair edge is a clean ink line with only a faint cool rim from the window; make the folder a single thin worn tan card cover with no visible page block; let the warm lamp light fall from the right onto the right side of his face and hands with the left side in soft shadow. No text, bottom-right corner plain, no watermark."
+ },
+ {
+  "shot": "M05",
+  "file": "assets/flow2k_raw/molly-v2/M05/c5-2.png",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.0,
+  "pass": true,
+  "defects": [
+   "Beat met: aged Yalom (silver-white hair and beard, round glasses, deep lines, brown cardigan) closing a tan folder, eyes lowered, pensive",
+   "Layered depth: big out-of-focus lamp shade in the right foreground, desk band, blue dusk window and bookshelves behind; motivated warm/cool contrast",
+   "Minor: folder has a tab and a slight page block; lamp shade fills much of the right third (bottom-right not a face or key prop, acceptable)",
+   "Hands clean, no halo, no text, no sparkle; beats the current 8.60"
+  ],
+  "revised_prompt": ""
+ },
+ {
+  "shot": "M06",
+  "file": "assets/flow2k_raw/molly-v2/M06/c5-1.png",
+  "scores": {
+   "beat": 9.5,
+   "character": 8.5,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 9.03,
+  "pass": true,
+  "defects": [
+   "Edit achieved: Alvin's face now reads mid-30s with the same ashamed lowered eyes; door has a single knob",
+   "Silver-grey temples lost in the edit: his hair is plain blond all over (anchor wants grey at the temples); face slightly softer/more generic than the Erwin anchor",
+   "Faint dust specks in the light shaft remain restrained; X-ray sheets and stacks unchanged, pages blank",
+   "No text; beats the current 8.95"
+  ],
+  "revised_prompt": ""
+ },
+ {
+  "shot": "R01",
+  "file": "assets/flow2k_raw/molly-v2/R01/c5-1.png",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 5
+  },
+  "total": 8.53,
+  "pass": false,
+  "defects": [
+   "Embroidery misspelt again: the chest reads 'Mlain Cross'/'Alain Cross', not 'Alvin Cross' (readable wrong text in the focal area; hard-fail rule)",
+   "Temple grey slightly stronger as asked; composition, light and pose unchanged and good"
+  ],
+  "revised_prompt": "EDIT of R01/c5-2 (manual editor): keep this image identical (framing, Alvin's pose, lowered eyes, blank coat chest, lamp, tissue box, window shaft) and change only the foreground man: tint his hair and beard a dark golden blond (not brown or olive) and keep him softly out of focus. No text anywhere, bottom-right corner plain, no watermark."
+ },
+ {
+  "shot": "R01",
+  "file": "assets/flow2k_raw/molly-v2/R01/c5-2.png",
+  "scores": {
+   "beat": 9,
+   "character": 8.5,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.9,
+  "pass": false,
+  "defects": [
+   "Embroidery erased cleanly: coat chest blank (allowed: 'Alvin Cross' or absent); no text anywhere",
+   "Over-the-shoulder two-shot, Alvin stiff with lowered eyes on the right third, hard window shaft, slate-green walls; silver-grey temple visible",
+   "Foreground Yalom's hair and beard still read olive-brown rather than dark-blond (anchor)",
+   "Beats the current 8.60 but below the bar"
+  ],
+  "revised_prompt": "EDIT of R01/c5-2 (manual editor): keep this image identical (framing, Alvin's pose, lowered eyes, blank coat chest, lamp, tissue box, window shaft) and change only the foreground man: tint his hair and beard a dark golden blond (not brown or olive) and keep him softly out of focus. No text anywhere, bottom-right corner plain, no watermark."
+ },
+ {
+  "shot": "R02",
+  "file": "assets/flow2k_raw/molly-v2/R02/c5-1.png",
+  "scores": {
+   "beat": 9,
+   "character": 8.5,
+   "cinematic": 8.5,
+   "style": 8.5,
+   "technical": 8.5,
+   "readability": 9
+  },
+  "total": 8.68,
+  "pass": false,
+  "defects": [
+   "Golden specks removed from the door and air (sparkle issue fixed); pages and boxes blank",
+   "The added 'rim' became a glowing outline around Yalom's whole silhouette (sticker-like outer glow, AI tell) instead of a thin rim on hair and shoulder",
+   "Stunned Yalom at ~70% with room on the right; dark foreground stacks and beam intact",
+   "Ties the current 8.68; does not beat it"
+  ],
+  "revised_prompt": "EDIT of R02/c5-1 (manual editor): keep this image identical and change only: remove the glowing outline around Yalom's coat, legs and arms so his silhouette is a clean ink line; keep only a thin warm rim of doorway light on the back of his hair and his right shoulder (the side facing the open door). Keep every page and box blank. Bottom-right corner plain, no text, no watermark."
+ },
+ {
+  "shot": "S02",
+  "file": "assets/flow2k_raw/molly-v2/S02/c5-1.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 8.5,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 9
+  },
+  "total": 8.78,
+  "pass": false,
+  "defects": [
+   "Motion lines gone; coiled cord now a natural loop to the back of the phone base; cool blind stripes on the wall; folder pages blank",
+   "Hair still long over the ears (trim not applied)",
+   "Edit did not keep the image identical: re-composed with the phone moved to frame left and the lamp to the right foreground",
+   "Folder reads like a hardcover book with a thick page block; phone shows no rotary dial from this angle",
+   "Beats the current 8.70 slightly; below the bar"
+  ],
+  "revised_prompt": "EDIT of S02/c5-1 (manual editor): keep this image identical and change only: trim Yalom's dark-blond hair short so both ears are visible and the hair ends above the collar; make the open folder a thin manila folder with a few loose blank sheets (no book binding, no thick page block). Bottom-right corner plain, no text, no watermark."
+ },
+ {
+  "shot": "S05",
+  "file": "assets/flow2k_raw/molly-v2/S05/c5-1.png",
+  "scores": {
+   "beat": 9,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 8.5
+  },
+  "total": 8.95,
+  "pass": false,
+  "defects": [
+   "Gaze edit finally worked: chin dipped, eyelids half-lowered, irises toward the floor at frame right; no longer looks at the questioner",
+   "Head turn away is small; avoidance reads mostly through the eyes",
+   "Shoulder, crossed arm and armchair still reach ~93% and the right edge (crowded)",
+   "Embroidery exactly 'Alvin Cross'; blind stripes and brown-cardigan questioner fine; beats the current 8.83"
+  ],
+  "revised_prompt": "EDIT of S05/c5-1 (manual editor): keep this image identical (face, lowered eyes, blind stripes, questioner, crossed arms, embroidery 'Alvin Cross') and only widen the canvas slightly on the right by outpainting more of the leather armchair and bookshelf, so his right shoulder and arm sit at about 85% across with clear space to the right edge. No text except the embroidered name, bottom-right corner plain, no watermark."
+ },
+ {
+  "shot": "S09",
+  "file": "assets/flow2k_raw/molly-v2/S09/c5-1.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 8.5,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 8,
+   "readability": 8.5
+  },
+  "total": 8.48,
+  "pass": false,
+  "defects": [
+   "Night porch, warm bulb with moths, moonlit siding, Yalom back three-quarters on the left third, Alvin in the doorway: the beat reads",
+   "Alvin stands in the open with his arm extended to the knob of a wide-open door; he does not block the gap, and a newspaper stack inside is visible",
+   "Door geometry odd: the door floats mid-porch between the two men, hinged ambiguously",
+   "Alvin's hair reads ash/platinum-grey overall, not blond with grey only at the temples",
+   "Newspaper stack inside carries masthead-like block marks (not readable)"
+  ],
+  "revised_prompt": "EDIT of S09/c5-2 (manual editor): keep this image identical (porch, bulb, moths, siding, shrubs, Yalom from behind, Alvin's face and outfit) and change only Alvin's pose: he stands squarely in the narrow gap of the half-open door, his left hand gripping the door edge and his shoulder against it so his body blocks the opening, the interior behind him solid darkness with no newspaper stack visible; jaw set, eyes guarded. Warm porch light on both faces. No text, no letters, bottom-right corner plain, no watermark."
+ },
+ {
+  "shot": "S09",
+  "file": "assets/flow2k_raw/molly-v2/S09/c5-2.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 8.5
+  },
+  "total": 8.83,
+  "pass": false,
+  "defects": [
+   "Better: clean door geometry, Alvin in the lit doorway at ~72%, Yalom rim-lit from behind on the left third, dark shrub silhouettes in the right foreground for depth; blond hair with grey temple",
+   "Alvin still not blocking the gap: door open wide, arm extended, interior and a newspaper stack visible behind him",
+   "Rim light on Yalom is weak; porch bulb clipped at the top edge",
+   "Newspaper stack shows faint masthead-like block marks (not readable)"
+  ],
+  "revised_prompt": "EDIT of S09/c5-2 (manual editor): keep this image identical (porch, bulb, moths, siding, shrubs, Yalom from behind, Alvin's face and outfit) and change only Alvin's pose: he stands squarely in the narrow gap of the half-open door, his left hand gripping the door edge and his shoulder against it so his body blocks the opening, the interior behind him solid darkness with no newspaper stack visible; jaw set, eyes guarded. Warm porch light on both faces. No text, no letters, bottom-right corner plain, no watermark."
+ },
+ {
+  "shot": "S10",
+  "file": "assets/flow2k_raw/molly-v2/S10/c5-1.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 7,
+   "readability": 8
+  },
+  "total": 8.38,
+  "pass": false,
+  "defects": [
+   "Persuading Yalom (half-smile, speaking, palm half-up) reads as active and warm",
+   "Cord continuity broken: the handset cord runs left across the desk toward the lamp base while the phone base sits in the right foreground",
+   "Phone base cut by the right edge; Yalom at ~60% rather than the left third",
+   "Framed certificate with signature-like scribbles on the wall (diploma, pseudo-text)"
+  ],
+  "revised_prompt": "EDIT of S10/c5-2 (manual editor): keep this image identical (Yalom, pose, handset, palm-up hand, phone in the right foreground, folder, window, lamp) and change only: remove the framed certificate from the wall behind him so the wall is plain painted wood and grey plaster with only the faint blind stripes; let the warm brass lamp throw a soft warm key on the right side of his face. No text, no letters, bottom-right corner plain, no watermark."
+ },
+ {
+  "shot": "S10",
+  "file": "assets/flow2k_raw/molly-v2/S10/c5-2.png",
+  "scores": {
+   "beat": 9.5,
+   "character": 9,
+   "cinematic": 8.5,
+   "style": 9,
+   "technical": 9,
+   "readability": 8
+  },
+  "total": 8.93,
+  "pass": false,
+  "defects": [
+   "Beat nailed: Yalom on the left third, receiver at ear, open palm turned up toward the lens, raised brows and a reassuring half-smile while speaking; nothing like N15's bad-news reaction",
+   "Rotary phone softly in the right foreground with a continuous cord; hands clean (five fingers)",
+   "Framed certificate on the wall behind with signature-like scribbles (diploma/pseudo-text)",
+   "Light rather flat and frontal; the lamp at the far right is not reading as the key on his face"
+  ],
+  "revised_prompt": "EDIT of S10/c5-2 (manual editor): keep this image identical (Yalom, pose, handset, palm-up hand, phone in the right foreground, folder, window, lamp) and change only: remove the framed certificate from the wall behind him so the wall is plain painted wood and grey plaster with only the faint blind stripes; let the warm brass lamp throw a soft warm key on the right side of his face. No text, no letters, bottom-right corner plain, no watermark."
+ },
+ {
+  "shot": "S13",
+  "file": "assets/flow2k_raw/molly-v2/S13/c5-1.png",
+  "scores": {
+   "beat": 8,
+   "character": 6,
+   "cinematic": 8.5,
+   "style": 8.5,
+   "technical": 7.5,
+   "readability": 7
+  },
+  "total": 7.58,
+  "pass": false,
+  "defects": [
+   "Alvin's hair rendered silver-white all over and the eyes glow blank white: he reads aged and ghostly, not mid-30s blond with grey temples",
+   "Clock and parents' photo crowded against the top edge (clock partly cut)",
+   "Star-like white specks in the moonlight shaft (sparkle tell)",
+   "Strictly non-sexual (T-shirt, blanket); strong top-shot isolation and moon shaft"
+  ],
+  "revised_prompt": "EDIT of S13/c5-2 (manual editor): keep this image identical (top-down bed, Alvin awake, hands on the blanket, nightstand, 03:14 clock, glass, book, moonlight shaft) and change only: remove every white speck and star-like dot from the floor and the moonlight so the beam is clean; add clear silver-grey at Alvin's temples with the rest of the hair blond; make the framed photo look like a real faded 1950s colour snapshot of his smiling parents (soft focus, film grain, white border), not a crisp line drawing. No text except the clock digits, bottom-right corner plain, no watermark."
+ },
+ {
+  "shot": "S13",
+  "file": "assets/flow2k_raw/molly-v2/S13/c5-2.png",
+  "scores": {
+   "beat": 9,
+   "character": 8.5,
+   "cinematic": 8.5,
+   "style": 8.5,
+   "technical": 9,
+   "readability": 7.5
+  },
+  "total": 8.6,
+  "pass": false,
+  "defects": [
+   "Beat met and strictly non-sexual: Alvin in a grey T-shirt under the blanket, awake, staring up, hands resting; nightstand with parents' framed photo, water glass, closed book, clock reading 03:14 (allowed)",
+   "Many star-like white specks scattered over the floor and moonlight shaft (sparkle check)",
+   "Parents' photo is a crisp line drawing in the same style (photo-within-photo tell), not a faded snapshot",
+   "Temple grey not visible; hair plain blond",
+   "Hands and face clean; good high-angle composition with cold blue shaft"
+  ],
+  "revised_prompt": "EDIT of S13/c5-2 (manual editor): keep this image identical (top-down bed, Alvin awake, hands on the blanket, nightstand, 03:14 clock, glass, book, moonlight shaft) and change only: remove every white speck and star-like dot from the floor and the moonlight so the beam is clean; add clear silver-grey at Alvin's temples with the rest of the hair blond; make the framed photo look like a real faded 1950s colour snapshot of his smiling parents (soft focus, film grain, white border), not a crisp line drawing. No text except the clock digits, bottom-right corner plain, no watermark."
+ },
+ {
+  "shot": "S14",
+  "file": "assets/flow2k_raw/molly-v2/S14/c5-1.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 9,
+   "cinematic": 7.5,
+   "style": 9,
+   "technical": 8.5,
+   "readability": 6.5
+  },
+  "total": 8.25,
+  "pass": false,
+  "defects": [
+   "Receiver at ear and arm folded across the chest as asked; morning window, untouched coffee, stacks crowding the counter",
+   "Alvin jammed against the right edge with the wall phone cut in half by the frame",
+   "Foreground newspapers carry masthead/headline-like pseudo-text",
+   "Eyes closed (pained) rather than lowered and firm"
+  ],
+  "revised_prompt": "EDIT of S14/c5-2 (manual editor): keep this image identical (doorway frame, wall phone, cord, pose with arm folded, kitchen) and change only: open his eyes, lowered toward the floor, jaw set and lips pressed, a firm polite refusal rather than pain; make every newspaper in the stacks plain grey paper with no masthead, headline blocks or photos; let a little cool morning window light touch the side of his face. No text, no letters, bottom-right corner plain, no watermark."
+ },
+ {
+  "shot": "S14",
+  "file": "assets/flow2k_raw/molly-v2/S14/c5-2.png",
+  "scores": {
+   "beat": 8.5,
+   "character": 9,
+   "cinematic": 9,
+   "style": 9,
+   "technical": 9,
+   "readability": 7.5
+  },
+  "total": 8.73,
+  "pass": false,
+  "defects": [
+   "Frame-within-frame through the dark doorway, Alvin at ~70% at the beige wall phone, receiver at ear, other arm folded tight, cord continuous; cool morning window, coffee maker, paper stacks: good",
+   "Eyes closed with a pained brow; reads as weary grief more than a polite, firm refusal",
+   "Newspaper stack in the lower foreground shows masthead and headline-like block lettering (pseudo-text)",
+   "Interior warm-lit; the cool 7 a.m. feel is only in the window"
+  ],
+  "revised_prompt": "EDIT of S14/c5-2 (manual editor): keep this image identical (doorway frame, wall phone, cord, pose with arm folded, kitchen) and change only: open his eyes, lowered toward the floor, jaw set and lips pressed, a firm polite refusal rather than pain; make every newspaper in the stacks plain grey paper with no masthead, headline blocks or photos; let a little cool morning window light touch the side of his face. No text, no letters, bottom-right corner plain, no watermark."
+ }
+]

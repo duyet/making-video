@@ -1,0 +1,30 @@
+{
+ "acts": [
+  {
+   "scene": "s01",
+   "label": "I · Tang lễ của Molly"
+  },
+  {
+   "scene": "s06",
+   "label": "II · Vết thương mang tên Jason",
+   "dark": true
+  },
+  {
+   "scene": "s12",
+   "label": "III · Phòng trị liệu"
+  },
+  {
+   "scene": "s18",
+   "label": "IV · Căn nhà đóng băng"
+  }
+ ],
+ "file": {
+  "scene": "s05",
+  "kicker": "Hồ sơ bệnh án · 1982",
+  "name": "Bác sĩ Alvin Cross"
+ },
+ "end": {
+  "title": "Món quà của Molly",
+  "subtitle": "Theo lời kể của bác sĩ Irvin D. Yalom"
+ }
+}

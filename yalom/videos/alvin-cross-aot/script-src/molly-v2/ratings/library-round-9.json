@@ -1,0 +1,43 @@
+[
+  {
+    "shot": "R57",
+    "replaces": "F26",
+    "file": "assets/flow2k_raw/molly-v2/R57/r4-3.png",
+    "scores": {"beat": 8.5, "character": 9, "cinematic": 8.5, "style": 8.5, "technical": 8.5, "readability": 9},
+    "total": 8.65,
+    "pass": false,
+    "defects": [
+      "The clock still has three hands: a long one at 12 and two short ones, one at 3 and one at about 4, splayed in a V. The time still reads as 3:00 or 4:00 and the doubled hour hand looks synthetic (technical 8.5)",
+      "The snapshot faces are still crisp, glossy anime line art, as sharp as the frame around them. The photo does not read as a faded, grainy, slightly blurred real print (CINEMATIC 'Natural': photo-within-photo in the same glossy style), which holds cinematic and style at 8.5"
+    ],
+    "minor": [
+      "1K softness",
+      "Clock fix landed: the dial is now a dim moonlit grey-blue, no longer a hotspot, blurred about as much as the bed, with no numerals",
+      "No readable text: the book cover has only faint unreadable smudges. No star or diamond marks in any corner",
+      "Parents are warm and natural (the father's crinkled, lopsided smile, the mother laughing toward him): F26 face brief met",
+      "Cold moonlit nightstand mood and a period-plausible photo, glass and book fit ~1972"
+    ],
+    "edit_instruction": "Change only the alarm clock hands: remove the short hand pointing at 4, leaving exactly two hands, a short hour hand on 3 and a long minute hand on 12. Then make the photo inside the frame look like an old printed snapshot: softer focus, faded warm colour, visible film grain, lower contrast line work. Keep everything else the same."
+  },
+  {
+    "shot": "R58",
+    "replaces": "N08",
+    "file": "assets/flow2k_raw/molly-v2/R58/r4-3.png",
+    "scores": {"beat": 8.5, "character": 8.5, "cinematic": 7, "style": 9, "technical": 8.5, "readability": 7.5},
+    "total": 8.15,
+    "pass": false,
+    "defects": [
+      "Staging is still mirror-symmetric (two seated figures flanking a dead-centre fireplace) and the light is flat and even across the room. There is no dim grey window light against ember glow and no low-key shape, so it reads as an illustration, not a film frame (cinematic 7)",
+      "Jason's armchair and blanket are still cut by the right frame edge and his figure sits within ~5% of it. There is no room for a Ken Burns move toward him (readability 7.5)",
+      "Jason's new green irises are bright and slightly luminous inside the dark rings, close to a glow. That is acceptable, but a duller, darker green would read less eerie"
+    ],
+    "minor": [
+      "1K softness",
+      "Alvin's face fix landed: inner brows raised, no furrow, eyes searching Jason, lips parted. It reads tentative and pained, matching the N08 brief, and the hands are clasped, not lecturing",
+      "Jason fits the book: gaunt, sallow, hollow-eyed, prematurely old, under a blanket with a cigarette, smoke and an ashtray; his flat, worn sideways look is kept",
+      "Clasped hands and the cigarette hand are clean",
+      "No text and no star or diamond marks in the corners (the mantel boxes are unreadable)"
+    ],
+    "edit_instruction": "Keep both characters exactly as they are. Extend the canvas on the right so Jason's armchair ends well inside the frame with wall visible beyond it. Darken the room: the only light should be cold grey daylight from the left window on Alvin's side and a low orange ember glow on Jason's side, leaving the corners and ceiling in shadow. Make Jason's irises a duller, darker green."
+  }
+]

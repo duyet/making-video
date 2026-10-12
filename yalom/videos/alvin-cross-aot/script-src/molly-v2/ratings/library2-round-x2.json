@@ -1,0 +1,126 @@
+[
+  {
+    "shot": "R84",
+    "replaces": "B14",
+    "file": "assets/flow2k_raw/molly-v2/R84/r9-1.png",
+    "source": "1K",
+    "scores": {
+      "beat": 7.5,
+      "character": 7,
+      "cinematic": 7.5,
+      "style": 8,
+      "technical": 8.5,
+      "readability": 7.5
+    },
+    "total": 7.6,
+    "pass": false,
+    "defects": [
+      "Light origin wrong again: two crossing spotlight beams come from the top-left and top-right corners and strike the stage curtains, not one cone from behind camera covering the screen",
+      "Alvin is again in the near row at the right edge: blond head about 82-90% across, shoulders cut by the bottom edge, only one partial head to his right; crisp line detail, lit grey, not a dark soft out-of-focus silhouette",
+      "Yalom has only a moustache, no full blond beard (anchor miss)"
+    ],
+    "minor": [
+      "Yalom: dark-blond tousled hair, round glasses, brown cardigan, open speaking hand at a wooden lectern; reads about 50",
+      "Screen blank, all four edges inside",
+      "Audience heads varied enough",
+      "Bottom-right corner clean, no sparkle; no text or logos; 1K softness not penalised"
+    ],
+    "ai_tells": [
+      "symmetric one-point staging with glowing slab screen",
+      "twin mirrored stage beams (decorative, unmotivated)"
+    ],
+    "better_than_current": false
+  },
+  {
+    "shot": "R84",
+    "replaces": "B14",
+    "file": "assets/flow2k_raw/molly-v2/R84/r9-2.png",
+    "source": "1K",
+    "scores": {
+      "beat": 7.5,
+      "character": 8,
+      "cinematic": 8,
+      "style": 8.5,
+      "technical": 8.5,
+      "readability": 7.5
+    },
+    "total": 7.95,
+    "pass": false,
+    "defects": [
+      "Beam comes diagonally from the top-right corner, misses most of the screen and lands on the stage/right audience heads; asked: one cone from top-centre covering the whole screen, touching no person",
+      "Alvin is the largest, nearest figure at the right edge: head about 84-92% across, shoulders run off the bottom edge, crisp and grey-lit (not out of focus, not darkest); only one person to his right, so the right fifth is his",
+      "Yalom's beard is a thin chin beard and he grins; reads younger/cheerier than the anchor"
+    ],
+    "minor": [
+      "Projector not in shot",
+      "Screen blank, all four edges inside; varied audience incl. a woman with a bun",
+      "Bottom-right corner clean, no sparkle; no text or logos; 1K softness not penalised"
+    ],
+    "ai_tells": [
+      "symmetric centred screen slab",
+      "beam haze with bloom"
+    ],
+    "better_than_current": false,
+    "revised_prompt": "[Flow agent message, round 10, R84; replaces B14]\nUse the attached AOT-CAST-SHEET as the reference for faces, outfits and line style only. Wide shot, 28mm lens, camera slightly raised (seated eye height on the top step of the rake, looking gently down over the rows so the audience heads read small), camera placed in the last row of a raked 1982 medical conference lecture hall with wood panelling, looking straight down the centre aisle toward the stage, one-point perspective. The large blank white projection screen hangs centred on the stage, about 30% to 62% across the frame, all four edges of the screen fully inside the frame, its top edge well below the top of the frame and clear of the left and right edges. There is NO projector and NO spotlight anywhere in the image, and only ONE beam of light in the whole frame: the slide projector stands directly behind the camera, out of shot. Its single beam enters the image from behind the camera, high above the audience's heads at the top-centre of the frame, as one long cone of pale light that is narrowest near the top edge of the frame and widens steadily as it travels away from the camera toward the stage, its far end covering the whole screen face from corner to corner so the screen glows evenly; no second beam, no beams from the top corners, no diagonal beam from the right; a faint even haze inside the cone, no sparkling dust specks; the beam never touches the walls, the stage floor or any person. In the MIDDLE of the frame, seated in the aisle seat just right of the centre aisle about six rows in front of the camera, at the same depth and size as the people around him (NOT in the nearest row, NOT at the right edge), his head the same size as the neighbouring audience heads (no taller than one eighth of the frame height), softly out of focus (soft blurred edges, no fine line detail), the back of the head and shoulders of Alvin Cross: man mid-30s, inspired by Erwin Smith, tall, blond hair in a neat side part with silver-grey temples (golden blond hair of a man in his thirties, only faint silver at the temples, clearly NOT grey), strong angular jaw, heavy brows, blue eyes, commanding calm; white doctor coat with \"Alvin Cross\" embroidered in dark blue on the left chest, pale blue shirt, dark tie, seen strictly from behind as a dark soft silhouette in shadow, the plain back of the white coat with no lettering, no embroidery and no marks on the back or shoulders, only a thin cold rim of light on his blond hair; his whole head and both shoulders inside the frame: the back of his head between 55% and 63% across the frame and below the stage line, his far shoulder ending before 70% across, and at least three seated audience members, in white coats with dark or brown hair, filling the right third of the frame between his shoulder and the right edge; the nearest row closest to the camera is dark-haired strangers, nothing of him touching any frame edge or the bottom of the frame; he is darker than everything else in the frame, his white coat in deep shadow and his face never visible. Rows of doctors in white coats as dim, varied silhouettes (different hair, heights and postures) on both sides of the aisle leading toward the stage. On the stage, left of the screen at about 22% across the frame, at a plain wooden lectern, Dr. Yalom: man about 50, inspired by Zeke Yeager, short tousled dark-blond hair, a FULL trimmed blond beard covering his jaw and chin (clearly a full beard, not just a moustache or stubble), round wire-rim glasses, calm intellectual face, kind tired eyes, medium build; brown knit cardigan over a shirt, no overcoat; speaking calmly with one hand open toward the audience, mouth slightly open mid-sentence, a thoughtful, not grinning, expression, his face lit by the bright spill from the screen and fully readable, his whole figure from head to the lectern inside the frame. The rest of the hall in cool institutional slate shadow. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, faces always clearly readable, never murky or underexposed, cinematic 16:9 widescreen framing, calm natural expressions, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain. No text, no letters, no captions, no logos, no watermark, no sparkle icon in any corner.\n"
+  },
+  {
+    "shot": "S12",
+    "replaces": "X06 (stand-in)",
+    "file": "assets/flow2k_raw/molly-v2/S12/r7-1.png",
+    "source": "1K",
+    "scores": {
+      "beat": 9,
+      "character": 9,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 9,
+      "readability": 8.5
+    },
+    "total": 8.95,
+    "pass": false,
+    "defects": [
+      "A light-switch plate is mounted on the wall left of the door frame (blank, no digits) although the prompt asked for nothing mounted; this alone keeps readability at 8.5 and the total just under 9.0",
+      "The upstairs window itself is not shown; only a warm glow at the top of the stairs (top-left), so the 'one lit window' target of the glance is implied"
+    ],
+    "minor": [
+      "Fixes r6-2's main defect: head turned back in clean profile, chin lifted, eyes raised up-left toward the staircase",
+      "Jason matches M01/F30: dark chestnut-brown shoulder-length hair, sharp Eren-like profile, green eye, lean; worn denim jacket over white tee, jeans, canvas duffel; alone",
+      "Strong layering: banister and open empty tin in the dark foreground, cold blue doorway, warm stair glow",
+      "Figure about 65% of frame height, larger than the asked one third, but still reads alone in the dark house",
+      "Door hand and bag grip clean; bottom-right corner clean, no sparkle; no text"
+    ],
+    "ai_tells": [],
+    "better_than_current": true
+  },
+  {
+    "shot": "S12",
+    "replaces": "X06 (stand-in)",
+    "file": "assets/flow2k_raw/molly-v2/S12/r7-2.png",
+    "source": "1K",
+    "scores": {
+      "beat": 9,
+      "character": 8.5,
+      "cinematic": 9,
+      "style": 9,
+      "technical": 8,
+      "readability": 9
+    },
+    "total": 8.75,
+    "pass": false,
+    "defects": [
+      "At zoom the visible eye is pale/blank with no clear pupil (focal face, not a hard fail but a technical miss)",
+      "Face reads softer and wistful (mouth open, upturned) rather than the set-jaw Eren look of M01/F30; head tilted almost straight up rather than back over the shoulder toward the window"
+    ],
+    "minor": [
+      "Small warm lit upstairs window clearly visible top-left: best cold/warm story contrast so far",
+      "Head-on doorway frame-within-frame with moon and stars beyond",
+      "No switch plate; only door lock hardware",
+      "Outfit right: denim jacket, white tee, jeans, duffel; alone",
+      "Figure about 65% of frame height",
+      "Bottom-right corner clean, no sparkle; no text"
+    ],
+    "ai_tells": [],
+    "better_than_current": false,
+    "revised_prompt": "[Flow agent message, round 8, S12; replaces X06 (stand-in)]\nUse the attached AOT-YOUNG-SHEET (Jason at 17) and AOT-CAST-SHEET as the references for face, outfit and line style only. Wide shot, 24mm, camera far back in the dark front hallway of a late-1960s rural Virginia family house, looking STRAIGHT down the hallway at the front door head-on (one-point perspective), the open doorway a clear tall rectangle centred-right in the frame with its full dark wooden door frame visible on all four sides as a frame-within-frame, beyond it the moonlit porch and the cold blue night yard; the house asleep, all lamps off, cold blue moonlight through the doorway as the main light, and on the left of the frame the foot of a wooden staircase rising into darkness toward one small lit window on the upstairs landing, the window itself visible in the top-left corner of the frame as a small warm rectangle; plain dark walls, no framed photographs or pictures anywhere, the wall between the staircase and the door frame is bare unbroken plaster with no light switch, no switch plate, no outlet and nothing mounted on it, an empty open tin box on a small side table in the soft dark foreground, lots of empty dark hallway around him so he looks small and alone: Jason age 17: teenager inspired by young Eren Yeager, dark chestnut-brown shoulder-length hair (clearly brown, not black, catching the moonlight), intense green eyes with clearly drawn dark pupils (never blank or white eyes), defiant stare, lean build; worn denim jacket over a plain white T-shirt, jeans; alone, standing inside the door frame on the threshold, small in the frame (his head to his boots about half of the frame height, his head well below the top of the door frame), his body and back turned three-quarters away from the camera toward the night outside, one foot already on the porch boards, a heavy canvas duffel bag over one shoulder, the near hand on the door edge, his head turned back over his shoulder in clean side profile toward the staircase on the left, chin lifted, his eyes raised steeply to the upper left of the frame, looking UP the dark stairs at the small lit upstairs window in the top-left corner for one last glance, mouth closed, his eyes on the stairs and never toward the viewer or the lens, jaw set. No money visible, no other person anywhere in the shot. His face is clearly lit by the moonlight. Anime illustration in the style of Attack on Titan (Wit Studio era): bold clean line art, heavy black ink shadows, flat cel shading, muted earthy palette of olive, slate grey, brick and dusty gold, dramatic but restrained lighting, evenly lit and easy to read, never murky or underexposed, cinematic 16:9 widescreen framing, late-1960s rural America, calm natural expressions, no text, no captions, no watermark, no house number, no legible money markings, cinematic anime film still, anamorphic widescreen composition, painterly backgrounds with atmospheric perspective, motivated dramatic lighting, shallow depth of field, film grain.\n"
+  }
+]
