@@ -1,0 +1,22 @@
+{
+ "thanh": {
+  "name": "Thanh - Clear, Steady and Informative",
+  "voice_id": "N0Z0aL8qHhzwUHwRBcVo",
+  "model": "eleven_v3",
+  "settings": {
+   "stability": 0.5,
+   "similarity_boost": 0.75
+  },
+  "tempo": 1.15
+ },
+ "duc-huy": {
+  "name": "Đuc Huy",
+  "voice_id": "w2KTJ6MO4SIK6nWK4YH8",
+  "model": "eleven_v3",
+  "settings": {
+   "stability": 0.5,
+   "similarity_boost": 0.75
+  },
+  "tempo": 1.3
+ }
+}
