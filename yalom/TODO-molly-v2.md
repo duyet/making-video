@@ -1,0 +1,1 @@
+- 19:12 MOTION.json applied (still 20, push 19, drift 15, pull 8, rise/fall 3; heroes R17 R02 S16 R88); xf 0.6 / dissolve 1.2 per-script; EVEN VO. Rendering preview.
