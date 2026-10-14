@@ -16,7 +16,7 @@ E=0.06
 sh=json.load(open(os.path.join(SC,'shots.json'))); SHOTS,SFX,CAM,FX=sh['shots'],sh['sfx'],sh['cam'],sh['fx']
 SCRIPT_DATA=json.load(open(os.path.join(SC,'script.json')))  # act cards, file card, end title
 # a script may set its own crossfade and dissolve lengths (seconds) and a camera calm factor (motion.py)
-XF=SCRIPT_DATA.get('xf',XF); XFS['dissolve']=SCRIPT_DATA.get('dissolve',XFS['dissolve']); CALM=SCRIPT_DATA.get('calm',1.0)
+XF=SCRIPT_DATA.get('xf',XF); GAP=SCRIPT_DATA.get('gap',GAP); XFS['dissolve']=SCRIPT_DATA.get('dissolve',XFS['dissolve']); CALM=SCRIPT_DATA.get('calm',1.0)
 
 def lift(im, target=128):
   # adaptive exposure: gamma-lift dark frames toward a mid-grey mean, raise the black floor

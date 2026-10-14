@@ -11,6 +11,8 @@ SCRIPT=sys.argv[1]; ADD=sys.argv[2] if len(sys.argv)>2 else None; SC=os.path.joi
 LO,HI=0.9,1.12; LEADIN=0.25  # cut to a shot this long before its cue word
 MINP,MAXADD=0.25,0.6  # fitted pause bounds: never shorter than MINP, never lengthened by more than MAXADD
 voices=json.load(open(os.path.join(P,'voices.json')))
+SJ=os.path.join(SC,'script.json'); SDATA=json.load(open(SJ)) if os.path.exists(SJ) else {}
+for v,tp in SDATA.get('tempo',{}).items(): voices[v]['tempo']=tp  # a script may pace a voice its own way (script.json 'tempo')
 lines=json.load(open(os.path.join(SC,'lines.json'))); ids=[l['id'] for l in lines]
 SHOTS=json.load(open(os.path.join(SC,'shots.json')))['shots']
 probe=lambda f: float(subprocess.check_output(['ffprobe','-v','error','-show_entries','format=duration','-of','csv=p=0',f]))
@@ -36,7 +38,7 @@ for sid in ([] if ADD else ids):
   if need>m: print(f'{sid}: slot raised {m:.2f} -> {need:.2f}s so every voice fits')
 # EVEN=1 or script.json 'even_vo' (single voice): even the delivery instead of fitting shared slots. Each line's speech rate is pulled toward the
 # median words-per-second (within LO..HI) and every internal pause is capped at PCAP, so no line rushes and no sentence stalls.
-SJ=os.path.join(SC,'script.json'); EVEN=(os.environ.get('EVEN')=='1' or (os.path.exists(SJ) and json.load(open(SJ)).get('even_vo'))) and len(use)==1; PCAP=0.5
+EVEN=(os.environ.get('EVEN')=='1' or SDATA.get('even_vo')) and len(use)==1; PCAP=0.5
 if EVEN:
   v0=use[0]; R0=voices[v0]['tempo']; txt={l['id']:l['text'] for l in lines}
   wps={sid:len(txt[sid].split())/(raw[v0,sid]-sum(b-a for a,b in pz[v0,sid])) for sid in ids}
