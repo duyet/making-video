@@ -1,0 +1,410 @@
+{
+ "overall": 9.09,
+ "pass": false,
+ "weights": {
+  "coverage": 0.25,
+  "vo_fit": 0.15,
+  "image": 0.2,
+  "cinematic": 0.15,
+  "cut_logic": 0.1,
+  "continuity": 0.15
+ },
+ "date": "2026-10-11 (re-score of the current 3p plan vs SHEET)",
+ "lines": {
+  "a01": {
+   "coverage": 9.5,
+   "vo_fit": 10,
+   "image": 9.1,
+   "cinematic": 9.0,
+   "cut_logic": 9,
+   "continuity": 9.5,
+   "total": 9.37,
+   "gaps": [
+    "Yalom stands apart from the mourners rather than in the crowd (minor)"
+   ],
+   "pass": true
+  },
+  "a02": {
+   "coverage": 9.5,
+   "vo_fit": 9.5,
+   "image": 9.0,
+   "cinematic": 8.8,
+   "cut_logic": 9,
+   "continuity": 9.0,
+   "total": 9.17,
+   "gaps": [
+    "R87 Yalom on porch reads ~50: flash-montage era, acceptable"
+   ],
+   "pass": true
+  },
+  "a03": {
+   "coverage": 9.5,
+   "vo_fit": 9.5,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 9,
+   "continuity": 9.5,
+   "total": 9.28,
+   "gaps": [
+    "single shot; tracking feel carried by Ken Burns only"
+   ],
+   "pass": true
+  },
+  "a04": {
+   "coverage": 9.5,
+   "vo_fit": 9.5,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 9,
+   "continuity": 9.5,
+   "total": 9.28,
+   "gaps": [
+    "R12 (pending-2k) not re-rated at 2K"
+   ],
+   "pass": true
+  },
+  "a05": {
+   "coverage": 9.0,
+   "vo_fit": 8.5,
+   "image": 9.1,
+   "cinematic": 9.0,
+   "cut_logic": 8.0,
+   "continuity": 9.5,
+   "total": 8.92,
+   "gaps": [
+    "S19 card insert lands on the line head ('Nhưng Yalom'); sheet puts it on 'Alvin là ai', after R14"
+   ],
+   "pass": false
+  },
+  "a06": {
+   "coverage": 9.5,
+   "vo_fit": 9.5,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 9,
+   "continuity": 9.5,
+   "total": 9.28,
+   "gaps": [
+    "S01's closed folder small and off-centre: weak match target from R52"
+   ],
+   "pass": true
+  },
+  "b01": {
+   "coverage": 9.5,
+   "vo_fit": 10,
+   "image": 9.05,
+   "cinematic": 9.0,
+   "cut_logic": 9,
+   "continuity": 9.5,
+   "total": 9.36,
+   "gaps": [],
+   "pass": true
+  },
+  "b02": {
+   "coverage": 9.5,
+   "vo_fit": 9.5,
+   "image": 9.05,
+   "cinematic": 9.0,
+   "cut_logic": 9,
+   "continuity": 9.5,
+   "total": 9.29,
+   "gaps": [
+    "R40 reused in b07",
+    "sheet: cut to therapy session not shown (S21 lecture -> lightbox only)"
+   ],
+   "pass": true
+  },
+  "b03": {
+   "coverage": 9.5,
+   "vo_fit": 9.5,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 9,
+   "continuity": 9.0,
+   "total": 9.2,
+   "gaps": [
+    "S15 tear on cheek: sheet asks only lowered eyes (minor)"
+   ],
+   "pass": true
+  },
+  "b04": {
+   "coverage": 9.0,
+   "vo_fit": 9.5,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 9,
+   "continuity": 6.5,
+   "total": 8.7,
+   "gaps": [
+    "S17 fiancée is long-haired BLONDE: contradicts M01 (dark messy hair) and the sheet anchor (dark ponytail, freckles, brown leather jacket, clearly distinct from Monica)",
+    "S17 not rated since the flip to the with-fiancée version (pending-2k)"
+   ],
+   "pass": false
+  },
+  "b05": {
+   "coverage": 8.5,
+   "vo_fit": 8.5,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 8.5,
+   "continuity": 8.5,
+   "total": 8.68,
+   "gaps": [
+    "N07 shows a car on a dirt road; VO says 'bay đến' (flew)",
+    "R43 on last word hàn gắn: ~1 s on screen",
+    "R43 Alvin in olive sweater vs R58 white shirt + tie in the same visit"
+   ],
+   "pass": false
+  },
+  "b06": {
+   "coverage": 9.5,
+   "vo_fit": 9.5,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 9,
+   "continuity": 8.5,
+   "total": 9.12,
+   "gaps": [
+    "R58 Alvin white shirt + tie vs R43 olive sweater (same cabin visit)",
+    "S20 background Jason without the grey blanket/flannel of R43/R58"
+   ],
+   "pass": true
+  },
+  "b07": {
+   "coverage": 9.0,
+   "vo_fit": 9.5,
+   "image": 9.05,
+   "cinematic": 8.5,
+   "cut_logic": 8.0,
+   "continuity": 9.5,
+   "total": 8.98,
+   "gaps": [
+    "R40 repeated from b02 (callback reads as reuse)",
+    "mood: R05 cold lightbox ok"
+   ],
+   "pass": false
+  },
+  "b08": {
+   "coverage": 9.5,
+   "vo_fit": 9.5,
+   "image": 9.0,
+   "cinematic": 9.5,
+   "cut_logic": 9,
+   "continuity": 8.5,
+   "total": 9.2,
+   "gaps": [
+    "R41 mirror reflection wears a light shirt while Alvin wears a dark one"
+   ],
+   "pass": true
+  },
+  "b09": {
+   "coverage": 9.0,
+   "vo_fit": 9.5,
+   "image": 9.1,
+   "cinematic": 9.0,
+   "cut_logic": 9,
+   "continuity": 9.5,
+   "total": 9.17,
+   "gaps": [
+    "Alvin sharing shown only as hands (R81)"
+   ],
+   "pass": true
+  },
+  "b09a": {
+   "coverage": 9.5,
+   "vo_fit": 9.5,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 9,
+   "continuity": 9.5,
+   "total": 9.28,
+   "gaps": [
+    "R57 (pending-2k) not re-rated"
+   ],
+   "pass": true
+  },
+  "b10": {
+   "coverage": 9.0,
+   "vo_fit": 9.0,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 8.5,
+   "continuity": 9.0,
+   "total": 8.95,
+   "gaps": [
+    "M04 laughing in therapy chair leads before working/sleep order of sheet",
+    "R86 repeats b01 (callback)"
+   ],
+   "pass": false
+  },
+  "b11": {
+   "coverage": 9.0,
+   "vo_fit": 9.0,
+   "image": 9.05,
+   "cinematic": 9.0,
+   "cut_logic": 8.5,
+   "continuity": 9.5,
+   "total": 9.04,
+   "gaps": [
+    "no dining chair -> therapy chair match cut into b12",
+    "R82 eats in a cafeteria, not at home"
+   ],
+   "pass": true
+  },
+  "b12": {
+   "coverage": 9.5,
+   "vo_fit": 9.5,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 9,
+   "continuity": 9.5,
+   "total": 9.28,
+   "gaps": [
+    "R60 (pending-2k) not re-rated"
+   ],
+   "pass": true
+  },
+  "b13": {
+   "coverage": 9.0,
+   "vo_fit": 9.5,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 9,
+   "continuity": 8.5,
+   "total": 9.0,
+   "gaps": [
+    "single shot",
+    "R01 Yalom in a white coat, not the brown cardigan the sheet fixes for 1982 therapy"
+   ],
+   "pass": true
+  },
+  "b13a": {
+   "coverage": 8.5,
+   "vo_fit": 9.5,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 9,
+   "continuity": 8.0,
+   "total": 8.8,
+   "gaps": [
+    "S14 is a bedroom, sheet says kitchen phone",
+    "S14 Alvin reads grey and ~60, not late 30s with silver temples"
+   ],
+   "pass": false
+  },
+  "b14": {
+   "coverage": 9.5,
+   "vo_fit": 9.5,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 9.5,
+   "continuity": 9.5,
+   "total": 9.32,
+   "gaps": [
+    "R02 Yalom near right edge (Ken Burns room)"
+   ],
+   "pass": true
+  },
+  "b15": {
+   "coverage": 7.5,
+   "vo_fit": 7.5,
+   "image": 9.1,
+   "cinematic": 9.0,
+   "cut_logic": 8.0,
+   "continuity": 9.0,
+   "total": 8.32,
+   "gaps": [
+    "S18 Alvin sits in profile facing camera, arms crossed: VO 'ngồi quay lưng' and the book (never turns) need his back to Yalom",
+    "S18 opens the line on the back-turned words; R56 (correct) only on Yalom cố tiếp cận"
+   ],
+   "pass": false
+  },
+  "c01": {
+   "coverage": 9.0,
+   "vo_fit": 9.0,
+   "image": 9.05,
+   "cinematic": 9.0,
+   "cut_logic": 9,
+   "continuity": 9.5,
+   "total": 9.09,
+   "gaps": [
+    "single shot, reused look in b13a S10 and c04"
+   ],
+   "pass": true
+  },
+  "c02": {
+   "coverage": 9.5,
+   "vo_fit": 9.5,
+   "image": 9.05,
+   "cinematic": 9.0,
+   "cut_logic": 9.5,
+   "continuity": 9.5,
+   "total": 9.34,
+   "gaps": [],
+   "pass": true
+  },
+  "c03": {
+   "coverage": 9.5,
+   "vo_fit": 9.5,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 9,
+   "continuity": 9.5,
+   "total": 9.28,
+   "gaps": [],
+   "pass": true
+  },
+  "c04": {
+   "coverage": 9.0,
+   "vo_fit": 9.0,
+   "image": 9.0,
+   "cinematic": 8.5,
+   "cut_logic": 7.5,
+   "continuity": 8.0,
+   "total": 8.62,
+   "gaps": [
+    "S10 reused verbatim from b13a",
+    "M06 Alvin reads ~60 grey-haired; sheet: late 30s with silver temples"
+   ],
+   "pass": false
+  },
+  "c05": {
+   "coverage": 9.5,
+   "vo_fit": 9.0,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 9,
+   "continuity": 9.0,
+   "total": 9.12,
+   "gaps": [
+    "S16 bundles read as letter paper not newspapers"
+   ],
+   "pass": true
+  },
+  "c06": {
+   "coverage": 9.0,
+   "vo_fit": 9.0,
+   "image": 9.05,
+   "cinematic": 9.0,
+   "cut_logic": 9,
+   "continuity": 9.0,
+   "total": 9.01,
+   "gaps": [
+    "R92 is a live kitchen scene, not the family photo the sheet names"
+   ],
+   "pass": true
+  },
+  "c08": {
+   "coverage": 9.5,
+   "vo_fit": 9.5,
+   "image": 9.1,
+   "cinematic": 9.0,
+   "cut_logic": 9,
+   "continuity": 9.5,
+   "total": 9.29,
+   "gaps": [],
+   "pass": true
+  }
+ },
+ "pass_count": 22
+}

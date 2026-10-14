@@ -1,5 +1,5 @@
 {
- "overall": 9.09,
+ "overall": 9.14,
  "pass": false,
  "weights": {
   "coverage": 0.25,
@@ -9,18 +9,20 @@
   "cut_logic": 0.1,
   "continuity": 0.15
  },
- "date": "2026-10-11 (re-score of the current 3p plan vs SHEET)",
+ "date": "2026-10-14 (final 54-shot render)",
+ "pass_count": 26,
  "lines": {
   "a01": {
    "coverage": 9.5,
    "vo_fit": 10,
    "image": 9.1,
    "cinematic": 9.0,
-   "cut_logic": 9,
+   "cut_logic": 9.0,
    "continuity": 9.5,
    "total": 9.37,
    "gaps": [
-    "Yalom stands apart from the mourners rather than in the crowd (minor)"
+    "Yalom stands apart from the mourners rather than in the crowd (minor)",
+    "R83 portrait insert 2.6 s: fine for an insert"
    ],
    "pass": true
   },
@@ -29,11 +31,12 @@
    "vo_fit": 9.5,
    "image": 9.0,
    "cinematic": 8.8,
-   "cut_logic": 9,
+   "cut_logic": 9.5,
    "continuity": 9.0,
-   "total": 9.17,
+   "total": 9.22,
    "gaps": [
-    "R87 Yalom on porch reads ~50: flash-montage era, acceptable"
+    "no cut back to the funeral after the montage (minor)",
+    "pacing now good: 3.9 s + 4.9 s"
    ],
    "pass": true
   },
@@ -42,11 +45,12 @@
    "vo_fit": 9.5,
    "image": 9.0,
    "cinematic": 9.0,
-   "cut_logic": 9,
+   "cut_logic": 9.0,
    "continuity": 9.5,
    "total": 9.28,
    "gaps": [
-    "single shot; tracking feel carried by Ken Burns only"
+    "single shot; tracking feel carried by Ken Burns only",
+    "R11 Monica reads ~70, sheet ~60 (minor)"
    ],
    "pass": true
   },
@@ -55,37 +59,41 @@
    "vo_fit": 9.5,
    "image": 9.0,
    "cinematic": 9.0,
-   "cut_logic": 9,
+   "cut_logic": 9.0,
    "continuity": 9.5,
    "total": 9.28,
    "gaps": [
-    "R12 (pending-2k) not re-rated at 2K"
+    "R12 (pending-2k) not re-rated at 2K",
+    "no handshake in R13 (minor)"
    ],
    "pass": true
   },
   "a05": {
-   "coverage": 9.0,
-   "vo_fit": 8.5,
+   "coverage": 9.5,
+   "vo_fit": 9.5,
    "image": 9.1,
    "cinematic": 9.0,
    "cut_logic": 8.0,
-   "continuity": 9.5,
-   "total": 8.92,
+   "continuity": 8.5,
+   "total": 9.04,
    "gaps": [
-    "S19 card insert lands on the line head ('Nhưng Yalom'); sheet puts it on 'Alvin là ai', after R14"
+    "R14 now 3.0 s (was 2.4)",
+    "order still reads backwards: R14 shows Alvin and Monica walking away, then S19 hands over the card",
+    "punch 'không nhớ Alvin là ai' lands on the card insert, not Yalom's face"
    ],
-   "pass": false
+   "pass": true
   },
   "a06": {
    "coverage": 9.5,
    "vo_fit": 9.5,
    "image": 9.0,
-   "cinematic": 9.0,
-   "cut_logic": 9,
+   "cinematic": 8.8,
+   "cut_logic": 9.0,
    "continuity": 9.5,
-   "total": 9.28,
+   "total": 9.25,
    "gaps": [
-    "S01's closed folder small and off-centre: weak match target from R52"
+    "R15 drop leaves no hole: R16 4.2 s then the 0.4 s match into S01 reads cleanly",
+    "Act 1 lost its frame-within-frame (R15); only R12's over-the-shoulder is left"
    ],
    "pass": true
   },
@@ -94,10 +102,12 @@
    "vo_fit": 10,
    "image": 9.05,
    "cinematic": 9.0,
-   "cut_logic": 9,
+   "cut_logic": 9.0,
    "continuity": 9.5,
    "total": 9.36,
-   "gaps": [],
+   "gaps": [
+    "single establishing shot, 3.2 s for a 2.8 s line: fine; R86 drop leaves no hole here"
+   ],
    "pass": true
   },
   "b02": {
@@ -105,94 +115,97 @@
    "vo_fit": 9.5,
    "image": 9.05,
    "cinematic": 9.0,
-   "cut_logic": 9,
+   "cut_logic": 8.5,
    "continuity": 9.5,
-   "total": 9.29,
+   "total": 9.23,
    "gaps": [
-    "R40 reused in b07",
-    "sheet: cut to therapy session not shown (S21 lecture -> lightbox only)"
+    "R91 3.3 s on 'những con người' reads",
+    "R91 then S15: two eye-level Alvin MCUs back to back (variety rule borderline)"
    ],
    "pass": true
   },
   "b03": {
    "coverage": 9.5,
-   "vo_fit": 9.5,
+   "vo_fit": 9.0,
    "image": 9.0,
    "cinematic": 9.0,
-   "cut_logic": 9,
+   "cut_logic": 8.5,
    "continuity": 9.0,
-   "total": 9.2,
+   "total": 9.07,
    "gaps": [
-    "S15 tear on cheek: sheet asks only lowered eyes (minor)"
+    "S15 flash fixed (3.3 s incl 1.5 s hold_before)",
+    "S15 -> R46 1.6 s face-on-face dissolve gives ~0.6 s double-face mush",
+    "no beat after 'vừa qua đời' (0.47 s to b04)"
    ],
    "pass": true
   },
   "b04": {
-   "coverage": 9.0,
-   "vo_fit": 9.5,
-   "image": 9.0,
-   "cinematic": 9.0,
-   "cut_logic": 9,
-   "continuity": 6.5,
-   "total": 8.7,
-   "gaps": [
-    "S17 fiancée is long-haired BLONDE: contradicts M01 (dark messy hair) and the sheet anchor (dark ponytail, freckles, brown leather jacket, clearly distinct from Monica)",
-    "S17 not rated since the flip to the with-fiancée version (pending-2k)"
-   ],
-   "pass": false
-  },
-  "b05": {
-   "coverage": 8.5,
-   "vo_fit": 8.5,
-   "image": 9.0,
-   "cinematic": 9.0,
-   "cut_logic": 8.5,
-   "continuity": 8.5,
-   "total": 8.68,
-   "gaps": [
-    "N07 shows a car on a dirt road; VO says 'bay đến' (flew)",
-    "R43 on last word hàn gắn: ~1 s on screen",
-    "R43 Alvin in olive sweater vs R58 white shirt + tie in the same visit"
-   ],
-   "pass": false
-  },
-  "b06": {
    "coverage": 9.5,
    "vo_fit": 9.5,
    "image": 9.0,
    "cinematic": 9.0,
-   "cut_logic": 9,
-   "continuity": 8.5,
-   "total": 9.12,
+   "cut_logic": 9.0,
+   "continuity": 9.0,
+   "total": 9.2,
    "gaps": [
-    "R58 Alvin white shirt + tie vs R43 olive sweater (same cabin visit)",
-    "S20 background Jason without the grey blanket/flannel of R43/R58"
+    "fiancée fixed: dark ponytail + brown leather jacket in M01 and S17, distinct from Monica",
+    "S17 not yet rated at 2K"
    ],
    "pass": true
+  },
+  "b05": {
+   "coverage": 9.0,
+   "vo_fit": 9.0,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 9.0,
+   "continuity": 9.5,
+   "total": 9.07,
+   "gaps": [
+    "R51 dropped: 'xem phim X-quang' is not shown (M02 phone carries the call)",
+    "two shots 4.7 / 5.0 s, R43 on 'Alvin bay đến': hurry fixed"
+   ],
+   "pass": true
+  },
+  "b06": {
+   "coverage": 9.0,
+   "vo_fit": 9.0,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 9.0,
+   "continuity": 8.0,
+   "total": 8.85,
+   "gaps": [
+    "S20 hand wears a white shirt cuff; Alvin is in the olive sweater in M02/R43 seconds earlier",
+    "S20 Jason in a denim jacket, not R43's grey blanket/flannel (Flow edit queued)",
+    "R53 empty chair on 'Jason qua đời' is strong"
+   ],
+   "pass": false
   },
   "b07": {
    "coverage": 9.0,
    "vo_fit": 9.5,
    "image": 9.05,
    "cinematic": 8.5,
-   "cut_logic": 8.0,
+   "cut_logic": 9.0,
    "continuity": 9.5,
-   "total": 8.98,
+   "total": 9.09,
    "gaps": [
-    "R40 repeated from b02 (callback reads as reuse)",
-    "mood: R05 cold lightbox ok"
+    "R05 is a near-twin of R91 (b02) and R86 (b10): three lightbox profiles in 70 s",
+    "sheet: Alvin standing still before the film board (wider); R05 is a CU"
    ],
-   "pass": false
+   "pass": true
   },
   "b08": {
-   "coverage": 9.5,
+   "coverage": 9.0,
    "vo_fit": 9.5,
    "image": 9.0,
-   "cinematic": 9.5,
-   "cut_logic": 9,
+   "cinematic": 9.0,
+   "cut_logic": 9.0,
    "continuity": 8.5,
-   "total": 9.2,
+   "total": 9.0,
    "gaps": [
+    "R50 drop: dream is now one frame; 'lights dim' carried by fx only",
     "R41 mirror reflection wears a light shirt while Alvin wears a dark one"
    ],
    "pass": true
@@ -202,7 +215,7 @@
    "vo_fit": 9.5,
    "image": 9.1,
    "cinematic": 9.0,
-   "cut_logic": 9,
+   "cut_logic": 9.0,
    "continuity": 9.5,
    "total": 9.17,
    "gaps": [
@@ -215,7 +228,7 @@
    "vo_fit": 9.5,
    "image": 9.0,
    "cinematic": 9.0,
-   "cut_logic": 9,
+   "cut_logic": 9.0,
    "continuity": 9.5,
    "total": 9.28,
    "gaps": [
@@ -224,39 +237,41 @@
    "pass": true
   },
   "b10": {
-   "coverage": 9.0,
-   "vo_fit": 9.0,
+   "coverage": 9.5,
+   "vo_fit": 9.5,
    "image": 9.0,
-   "cinematic": 9.0,
-   "cut_logic": 8.5,
+   "cinematic": 8.5,
+   "cut_logic": 9.0,
    "continuity": 9.0,
-   "total": 8.95,
+   "total": 9.12,
    "gaps": [
-    "M04 laughing in therapy chair leads before working/sleep order of sheet",
-    "R86 repeats b01 (callback)"
+    "R86 on 'làm việc bình thường' fills the hole",
+    "R86 is the third lightbox profile (R91, R05, R86)",
+    "S13 bed (b09a) -> M03 bed: similar frames soften the 'recovered' turn"
    ],
-   "pass": false
+   "pass": true
   },
   "b11": {
-   "coverage": 9.0,
+   "coverage": 8.5,
    "vo_fit": 9.0,
    "image": 9.05,
    "cinematic": 9.0,
    "cut_logic": 8.5,
    "continuity": 9.5,
-   "total": 9.04,
+   "total": 8.91,
    "gaps": [
-    "no dining chair -> therapy chair match cut into b12",
-    "R82 eats in a cafeteria, not at home"
+    "R49 kayak dropped: the sheet's 'kayaks alone' beat (a kept user choice) is gone",
+    "no dining chair -> therapy chair match into b12; R47 -> R60 is a 0.4 s near-cut",
+    "R82 eats in a cafeteria, not at home (R47 covers home)"
    ],
-   "pass": true
+   "pass": false
   },
   "b12": {
    "coverage": 9.5,
    "vo_fit": 9.5,
    "image": 9.0,
    "cinematic": 9.0,
-   "cut_logic": 9,
+   "cut_logic": 9.0,
    "continuity": 9.5,
    "total": 9.28,
    "gaps": [
@@ -269,28 +284,28 @@
    "vo_fit": 9.5,
    "image": 9.0,
    "cinematic": 9.0,
-   "cut_logic": 9,
+   "cut_logic": 9.0,
    "continuity": 8.5,
    "total": 9.0,
    "gaps": [
     "single shot",
-    "R01 Yalom in a white coat, not the brown cardigan the sheet fixes for 1982 therapy"
+    "R01 Yalom in a cream/white jacket, not the brown cardigan the user fixed for 1982"
    ],
    "pass": true
   },
   "b13a": {
-   "coverage": 8.5,
+   "coverage": 9.0,
    "vo_fit": 9.5,
    "image": 9.0,
    "cinematic": 9.0,
-   "cut_logic": 9,
-   "continuity": 8.0,
-   "total": 8.8,
+   "cut_logic": 9.0,
+   "continuity": 9.0,
+   "total": 9.07,
    "gaps": [
-    "S14 is a bedroom, sheet says kitchen phone",
-    "S14 Alvin reads grey and ~60, not late 30s with silver temples"
+    "S14 Alvin now reads late 30s (fixed)",
+    "S14 is a bedroom phone; sheet says kitchen phone (minor)"
    ],
-   "pass": false
+   "pass": true
   },
   "b14": {
    "coverage": 9.5,
@@ -298,24 +313,27 @@
    "image": 9.0,
    "cinematic": 9.0,
    "cut_logic": 9.5,
-   "continuity": 9.5,
-   "total": 9.32,
+   "continuity": 9.0,
+   "total": 9.25,
    "gaps": [
-    "R02 Yalom near right edge (Ken Burns room)"
+    "R02 cue on 'Danh bạ' gives the reveal 6 s: good",
+    "Yalom's coat changes R59 (dark grey) -> R02 (brown, long) (minor)"
    ],
    "pass": true
   },
   "b15": {
-   "coverage": 7.5,
-   "vo_fit": 7.5,
+   "coverage": 9.0,
+   "vo_fit": 9.0,
    "image": 9.1,
    "cinematic": 9.0,
-   "cut_logic": 8.0,
-   "continuity": 9.0,
-   "total": 8.32,
+   "cut_logic": 8.5,
+   "continuity": 8.5,
+   "total": 8.89,
    "gaps": [
-    "S18 Alvin sits in profile facing camera, arms crossed: VO 'ngồi quay lưng' and the book (never turns) need his back to Yalom",
-    "S18 opens the line on the back-turned words; R56 (correct) only on Yalom cố tiếp cận"
+    "R56 now 3.7 s (better)",
+    "S18 geography jump: R56 has Yalom standing in the doorway, S18 has him seated far back (Flow edit queued)",
+    "Yalom does not 'cố tiếp cận' in S18",
+    "black lift at 181 s shows S18 again before c01 (timeline defect)"
    ],
    "pass": false
   },
@@ -324,11 +342,12 @@
    "vo_fit": 9.0,
    "image": 9.05,
    "cinematic": 9.0,
-   "cut_logic": 9,
+   "cut_logic": 9.0,
    "continuity": 9.5,
    "total": 9.09,
    "gaps": [
-    "single shot, reused look in b13a S10 and c04"
+    "young Yalom at a desk phone three times (S10 b13a, N15 c01, S22 c04)",
+    "opens on the S18 ghost after the black (timeline defect)"
    ],
    "pass": true
   },
@@ -344,40 +363,46 @@
    "pass": true
   },
   "c03": {
-   "coverage": 9.5,
+   "coverage": 9.0,
    "vo_fit": 9.5,
    "image": 9.0,
    "cinematic": 9.0,
-   "cut_logic": 9,
+   "cut_logic": 9.0,
    "continuity": 9.5,
-   "total": 9.28,
-   "gaps": [],
+   "total": 9.15,
+   "gaps": [
+    "S07 drop: single R06 two-shot 5.9 s reads calmly",
+    "sheet's 'CU Yalom surprised' is not shown",
+    "Act 3 has no extreme wide (S11 is the widest)"
+   ],
    "pass": true
   },
   "c04": {
-   "coverage": 9.0,
+   "coverage": 9.5,
    "vo_fit": 9.0,
    "image": 9.0,
    "cinematic": 8.5,
-   "cut_logic": 7.5,
-   "continuity": 8.0,
-   "total": 8.62,
+   "cut_logic": 8.5,
+   "continuity": 9.0,
+   "total": 9.0,
    "gaps": [
-    "S10 reused verbatim from b13a",
-    "M06 Alvin reads ~60 grey-haired; sheet: late 30s with silver temples"
+    "M06 payoff now 3.5 s + 1.8 s hold (was 2.6 s)",
+    "S22 is the same young-Yalom-phoning set-up as N15 22 s earlier"
    ],
-   "pass": false
+   "pass": true
   },
   "c05": {
    "coverage": 9.5,
    "vo_fit": 9.0,
    "image": 9.0,
    "cinematic": 9.0,
-   "cut_logic": 9,
+   "cut_logic": 9.0,
    "continuity": 9.0,
    "total": 9.12,
    "gaps": [
-    "S16 bundles read as letter paper not newspapers"
+    "M07 flash fixed: 5.1 s on 'mỗi tuần'",
+    "S16 bundles read as letter paper, not newspapers",
+    "R08 and S11 (c06) both frame old Yalom at a café window"
    ],
    "pass": true
   },
@@ -386,25 +411,28 @@
    "vo_fit": 9.0,
    "image": 9.05,
    "cinematic": 9.0,
-   "cut_logic": 9,
+   "cut_logic": 8.5,
    "continuity": 9.0,
-   "total": 9.01,
+   "total": 8.96,
    "gaps": [
-    "R92 is a live kitchen scene, not the family photo the sheet names"
+    "R92 now 3.8 s and hold_after 3.0 s as the sheet asks",
+    "S11 dissolve starts on 'bên vợ con': the family fades out under the words naming it",
+    "R92 is a live kitchen scene with one grown child, not the family photo with two children"
    ],
-   "pass": true
+   "pass": false
   },
   "c08": {
    "coverage": 9.5,
    "vo_fit": 9.5,
    "image": 9.1,
    "cinematic": 9.0,
-   "cut_logic": 9,
+   "cut_logic": 9.0,
    "continuity": 9.5,
    "total": 9.29,
-   "gaps": [],
+   "gaps": [
+    "end title: subtitle 'Theo lời kể của bác sĩ Irvin D. Yalom' is low contrast on the light kitchen"
+   ],
    "pass": true
   }
- },
- "pass_count": 22
+ }
 }

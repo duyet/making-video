@@ -1,0 +1,433 @@
+{
+ "overall": 9.12,
+ "pass": false,
+ "weights": {
+  "coverage": 0.25,
+  "vo_fit": 0.15,
+  "image": 0.2,
+  "cinematic": 0.15,
+  "cut_logic": 0.1,
+  "continuity": 0.15
+ },
+ "date": "2026-10-14 (re-paced 58-shot plan)",
+ "lines": {
+  "a01": {
+   "coverage": 9.5,
+   "vo_fit": 10,
+   "image": 9.1,
+   "cinematic": 9.0,
+   "cut_logic": 9.0,
+   "continuity": 9.5,
+   "total": 9.37,
+   "gaps": [
+    "Yalom stands apart from the mourners rather than in the crowd (minor)",
+    "R83 portrait insert 2.6 s: fine for an insert"
+   ],
+   "pass": true
+  },
+  "a02": {
+   "coverage": 9.5,
+   "vo_fit": 9.5,
+   "image": 9.0,
+   "cinematic": 8.8,
+   "cut_logic": 9.5,
+   "continuity": 9.0,
+   "total": 9.22,
+   "gaps": [
+    "no cut back to the funeral after the montage (minor)",
+    "pacing now good: 3.9 s + 4.9 s"
+   ],
+   "pass": true
+  },
+  "a03": {
+   "coverage": 9.5,
+   "vo_fit": 9.5,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 9.0,
+   "continuity": 9.5,
+   "total": 9.28,
+   "gaps": [
+    "single shot; tracking feel carried by Ken Burns only",
+    "R11 Monica reads ~70, sheet ~60 (minor)"
+   ],
+   "pass": true
+  },
+  "a04": {
+   "coverage": 9.5,
+   "vo_fit": 9.5,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 9.0,
+   "continuity": 9.5,
+   "total": 9.28,
+   "gaps": [
+    "R12 (pending-2k) not re-rated at 2K",
+    "no handshake in R13 (minor)"
+   ],
+   "pass": true
+  },
+  "a05": {
+   "coverage": 9.5,
+   "vo_fit": 9.5,
+   "image": 9.1,
+   "cinematic": 9.0,
+   "cut_logic": 8.0,
+   "continuity": 8.5,
+   "total": 9.04,
+   "gaps": [
+    "S19 cue on 'Alvin là ai' fixed",
+    "R14, the key 'doesn't remember' close-up, gets 2.4 s",
+    "R14 already shows Alvin and Monica walking away, then S19 has Alvin handing over his card (order reads backwards)"
+   ],
+   "pass": true
+  },
+  "a06": {
+   "coverage": 9.5,
+   "vo_fit": 9.5,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 8.8,
+   "continuity": 9.5,
+   "total": 9.26,
+   "gaps": [
+    "R52 drop leaves no hole: the file card overlay names Alvin Cross",
+    "R15 2.4 s (incl. 0.8 s hold_before) before R16 continues the same action"
+   ],
+   "pass": true
+  },
+  "b01": {
+   "coverage": 9.5,
+   "vo_fit": 10,
+   "image": 9.05,
+   "cinematic": 9.0,
+   "cut_logic": 9.0,
+   "continuity": 9.5,
+   "total": 9.36,
+   "gaps": [
+    "single establishing shot, 3.2 s for a 2.8 s line: fine; R86 drop leaves no hole here"
+   ],
+   "pass": true
+  },
+  "b02": {
+   "coverage": 9.5,
+   "vo_fit": 9.5,
+   "image": 9.05,
+   "cinematic": 9.0,
+   "cut_logic": 8.5,
+   "continuity": 9.5,
+   "total": 9.23,
+   "gaps": [
+    "R91 2.5 s on the line's idea ('phía sau')",
+    "R91 then S15: two eye-level Alvin MCUs back to back (variety rule borderline)"
+   ],
+   "pass": true
+  },
+  "b03": {
+   "coverage": 9.5,
+   "vo_fit": 9.0,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 7.0,
+   "continuity": 9.0,
+   "total": 8.92,
+   "gaps": [
+    "S15 (sheet: CU Alvin lowers his eyes, first look at the therapy room) is on screen 1.8 s and the 1.6 s dissolve to R46 starts right after: worst flash in the film",
+    "S15 tear on cheek: sheet asks only lowered eyes (minor)"
+   ],
+   "pass": false
+  },
+  "b04": {
+   "coverage": 9.5,
+   "vo_fit": 9.5,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 9.0,
+   "continuity": 9.0,
+   "total": 9.2,
+   "gaps": [
+    "fiancée fixed: dark ponytail + brown leather jacket in M01 and S17, distinct from Monica",
+    "S17 not yet rated at 2K"
+   ],
+   "pass": true
+  },
+  "b05": {
+   "coverage": 9.0,
+   "vo_fit": 9.0,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 8.0,
+   "continuity": 9.5,
+   "total": 8.97,
+   "gaps": [
+    "three shots at 2.5 / 2.6 / 2.9 s: still the most hurried line",
+    "'Alvin bay đến' not shown (S23 dropped); no contradiction now that N07 car is gone",
+    "R43 cue on 'cố giúp đỡ' and olive sweater in M02/R43: both fixed"
+   ],
+   "pass": false
+  },
+  "b06": {
+   "coverage": 9.0,
+   "vo_fit": 9.0,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 9.0,
+   "continuity": 8.0,
+   "total": 8.85,
+   "gaps": [
+    "S20 opens the line under 'khoảng cách' and reads as distance (hand leaves money, Jason turned away): R58 drop is covered",
+    "S20 hand wears a white shirt cuff; Alvin is in the olive sweater in M02/R43 seconds earlier",
+    "S20 Jason in a denim jacket, not the grey blanket/flannel of R43"
+   ],
+   "pass": false
+  },
+  "b07": {
+   "coverage": 9.0,
+   "vo_fit": 9.5,
+   "image": 9.05,
+   "cinematic": 8.5,
+   "cut_logic": 9.0,
+   "continuity": 9.5,
+   "total": 9.09,
+   "gaps": [
+    "R40 repeat gone; 4.4 s single shot reads well",
+    "R05 is a near-twin of R91 (b02): profile left, lightbox right, same light",
+    "sheet: Alvin standing still before the film board (wider); R05 is a CU"
+   ],
+   "pass": true
+  },
+  "b08": {
+   "coverage": 9.0,
+   "vo_fit": 9.5,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 9.0,
+   "continuity": 8.5,
+   "total": 9.0,
+   "gaps": [
+    "R50 drop: dream is now one frame; 'lights dim' carried by fx only",
+    "R41 mirror reflection wears a light shirt while Alvin wears a dark one"
+   ],
+   "pass": true
+  },
+  "b09": {
+   "coverage": 9.0,
+   "vo_fit": 9.5,
+   "image": 9.1,
+   "cinematic": 9.0,
+   "cut_logic": 9.0,
+   "continuity": 9.5,
+   "total": 9.17,
+   "gaps": [
+    "Alvin sharing shown only as hands (R81)"
+   ],
+   "pass": true
+  },
+  "b09a": {
+   "coverage": 9.5,
+   "vo_fit": 9.5,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 9.0,
+   "continuity": 9.5,
+   "total": 9.28,
+   "gaps": [
+    "R57 (pending-2k) not re-rated"
+   ],
+   "pass": true
+  },
+  "b10": {
+   "coverage": 8.5,
+   "vo_fit": 8.5,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 9.0,
+   "continuity": 9.0,
+   "total": 8.8,
+   "gaps": [
+    "R86 drop leaves a hole: 'anh lại có thể làm việc bình thường' plays over M03 sleeping; nothing shows him working",
+    "3p sheet montage is working -> sleeping; M04 (smiling in therapy) is the 1p visual"
+   ],
+   "pass": false
+  },
+  "b11": {
+   "coverage": 9.0,
+   "vo_fit": 9.0,
+   "image": 9.05,
+   "cinematic": 9.0,
+   "cut_logic": 8.5,
+   "continuity": 9.5,
+   "total": 9.04,
+   "gaps": [
+    "no dining chair -> therapy chair match cut into b12",
+    "R82 eats in a cafeteria, not at home (R47 covers home)"
+   ],
+   "pass": true
+  },
+  "b12": {
+   "coverage": 9.5,
+   "vo_fit": 9.5,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 9.0,
+   "continuity": 9.5,
+   "total": 9.28,
+   "gaps": [
+    "R60 (pending-2k) not re-rated"
+   ],
+   "pass": true
+  },
+  "b13": {
+   "coverage": 9.0,
+   "vo_fit": 9.5,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 9.0,
+   "continuity": 8.5,
+   "total": 9.0,
+   "gaps": [
+    "single shot",
+    "R01 Yalom in a cream/white jacket, not the brown cardigan the user fixed for 1982"
+   ],
+   "pass": true
+  },
+  "b13a": {
+   "coverage": 9.0,
+   "vo_fit": 9.5,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 9.0,
+   "continuity": 9.0,
+   "total": 9.07,
+   "gaps": [
+    "S14 Alvin now reads late 30s (fixed)",
+    "S14 is a bedroom phone; sheet says kitchen phone (minor)"
+   ],
+   "pass": true
+  },
+  "b14": {
+   "coverage": 9.5,
+   "vo_fit": 9.5,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 9.5,
+   "continuity": 9.0,
+   "total": 9.25,
+   "gaps": [
+    "R02 cue on 'Danh bạ' gives the reveal 6 s: good",
+    "Yalom's coat changes R59 (dark grey) -> R02 (brown, long) (minor)"
+   ],
+   "pass": true
+  },
+  "b15": {
+   "coverage": 9.0,
+   "vo_fit": 9.0,
+   "image": 9.1,
+   "cinematic": 9.0,
+   "cut_logic": 8.5,
+   "continuity": 8.5,
+   "total": 8.89,
+   "gaps": [
+    "R56 now opens the line (fixed) but this sheet image gets only 2.7 s incl. hold_before",
+    "S18 is a valid reverse (Alvin's back to Yalom), but R56 has Yalom standing in the doorway and S18 has him seated far back: set geography jumps",
+    "Yalom does not 'cố tiếp cận' in S18 (seated, passive)"
+   ],
+   "pass": false
+  },
+  "c01": {
+   "coverage": 9.0,
+   "vo_fit": 9.0,
+   "image": 9.05,
+   "cinematic": 9.0,
+   "cut_logic": 9.0,
+   "continuity": 9.5,
+   "total": 9.09,
+   "gaps": [
+    "young Yalom at the desk phone is used three times (S10 b13a, N15 c01, S22 c04)"
+   ],
+   "pass": true
+  },
+  "c02": {
+   "coverage": 9.5,
+   "vo_fit": 9.5,
+   "image": 9.05,
+   "cinematic": 9.0,
+   "cut_logic": 9.5,
+   "continuity": 9.5,
+   "total": 9.34,
+   "gaps": [],
+   "pass": true
+  },
+  "c03": {
+   "coverage": 9.5,
+   "vo_fit": 9.5,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 8.5,
+   "continuity": 9.5,
+   "total": 9.22,
+   "gaps": [
+    "R06 3.1 s + S07 2.8 s: tight for the act-3 opener",
+    "Act 3 has no extreme wide (S11 is the widest)"
+   ],
+   "pass": true
+  },
+  "c04": {
+   "coverage": 9.5,
+   "vo_fit": 9.0,
+   "image": 9.0,
+   "cinematic": 8.5,
+   "cut_logic": 8.0,
+   "continuity": 9.0,
+   "total": 8.95,
+   "gaps": [
+    "M06 (the payoff: Molly walks into Alvin's house) gets 2.6 s incl. hold",
+    "S22 is a new frame but the same young-Yalom-phoning set-up as N15 22 s earlier",
+    "M06 Alvin now reads young (fixed); R07 drop leaves no hole"
+   ],
+   "pass": false
+  },
+  "c05": {
+   "coverage": 9.5,
+   "vo_fit": 9.0,
+   "image": 9.0,
+   "cinematic": 9.0,
+   "cut_logic": 7.5,
+   "continuity": 9.0,
+   "total": 8.97,
+   "gaps": [
+    "M07 (Molly working over the years) is on screen 1.9 s, then the 1.6 s dissolve to R08: flash",
+    "S16 bundles read as letter paper, not newspapers",
+    "R08 repeats S07's old-Yalom-at-café-window framing"
+   ],
+   "pass": false
+  },
+  "c06": {
+   "coverage": 9.0,
+   "vo_fit": 9.0,
+   "image": 9.05,
+   "cinematic": 9.0,
+   "cut_logic": 7.0,
+   "continuity": 9.0,
+   "total": 8.81,
+   "gaps": [
+    "R92 (Alvin happy with his family: the line's whole point) is on screen 1.8 s before the S11 dissolve",
+    "c06 hold_after 5.0 s; the sheet asks about 3 s",
+    "R92 is a live kitchen scene with one grown child, not the family photo with two children the sheet names"
+   ],
+   "pass": false
+  },
+  "c08": {
+   "coverage": 9.5,
+   "vo_fit": 9.5,
+   "image": 9.1,
+   "cinematic": 9.0,
+   "cut_logic": 9.0,
+   "continuity": 9.5,
+   "total": 9.29,
+   "gaps": [],
+   "pass": true
+  }
+ },
+ "pass_count": 22
+}
