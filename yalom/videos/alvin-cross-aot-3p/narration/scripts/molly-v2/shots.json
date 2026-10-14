@@ -1112,12 +1112,12 @@
   ],
   "a05": [
    {
-    "ref": "R14",
-    "fallback": "F20"
+    "ref": "S19"
    },
    {
-    "ref": "S19",
-    "cue": "Alvin là ai"
+    "ref": "R14",
+    "fallback": "F20",
+    "cue": "không nhớ"
    }
   ],
   "a06": [
@@ -1239,16 +1239,20 @@
     "fallback": "N10"
    },
    {
+    "ref": "R49",
+    "cue": "thành đạt"
+   },
+   {
     "ref": "R47",
     "cue": "không có lấy",
-    "fallback": "N12"
+    "fallback": "N12",
+    "xf": "dissolve"
    }
   ],
   "b12": [
    {
     "ref": "R60",
-    "fallback": "N06",
-    "xf": 0.4
+    "fallback": "N06"
    },
    {
     "ref": "R42",
@@ -1303,7 +1307,8 @@
   ],
   "c01": [
    {
-    "ref": "N15"
+    "ref": "N15",
+    "xf": "cut"
    }
   ],
   "c02": [
@@ -1355,7 +1360,7 @@
    },
    {
     "ref": "S11",
-    "cue": "bên vợ con",
+    "cue": "con",
     "fallback": "R08",
     "xf": "dissolve"
    }
