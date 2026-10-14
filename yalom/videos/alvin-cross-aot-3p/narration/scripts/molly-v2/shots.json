@@ -1068,11 +1068,6 @@
    [
     "dust"
    ]
-  ],
-  "R86": [
-   [
-    "cold"
-   ]
   ]
  },
  "shots": {
@@ -1127,22 +1122,12 @@
   ],
   "a06": [
    {
-    "ref": "R15",
-    "fallback": "X03"
-   },
-   {
     "ref": "R16",
-    "cue": "hồ sơ",
     "fallback": "N04"
    },
    {
-    "ref": "R52",
-    "cue": "Một ca trị liệu",
-    "fallback": "N05"
-   },
-   {
     "ref": "S01",
-    "cue": "bỏ dở",
+    "cue": "Một ca trị liệu",
     "xf": 0.4
    }
   ],
@@ -1150,11 +1135,6 @@
    {
     "ref": "R89",
     "fallback": "X01"
-   },
-   {
-    "ref": "R86",
-    "cue": "bác sĩ chẩn đoán",
-    "fallback": "F10"
    }
   ],
   "b02": [
@@ -1163,13 +1143,8 @@
     "fallback": "B14"
    },
    {
-    "ref": "R40",
-    "cue": "bắt đầu",
-    "fallback": "X02"
-   },
-   {
     "ref": "R91",
-    "cue": "phía sau",
+    "cue": "những con người",
     "fallback": "B15"
    }
   ],
@@ -1201,29 +1176,14 @@
     "fallback": "B18"
    },
    {
-    "ref": "R51",
-    "cue": "xem phim X-quang",
-    "fallback": "F34"
-   },
-   {
-    "ref": "S23",
-    "cue": "Alvin bay đến",
-    "fallback": "N07"
-   },
-   {
     "ref": "R43",
-    "cue": "cố giúp đỡ",
+    "cue": "Alvin bay đến",
     "fallback": "X07"
    }
   ],
   "b06": [
    {
-    "ref": "R58",
-    "fallback": "N08"
-   },
-   {
-    "ref": "S20",
-    "cue": "Không lâu sau"
+    "ref": "S20"
    },
    {
     "ref": "R53",
@@ -1235,22 +1195,12 @@
    {
     "ref": "R05",
     "fallback": "R05"
-   },
-   {
-    "ref": "R40",
-    "cue": "nỗi ám ảnh",
-    "fallback": "X02"
    }
   ],
   "b08": [
    {
     "ref": "R41",
     "fallback": "F27"
-   },
-   {
-    "ref": "R50",
-    "cue": "đuổi theo",
-    "fallback": "F28"
    }
   ],
   "b09": [
@@ -1276,28 +1226,17 @@
   ],
   "b10": [
    {
-    "ref": "M04",
-    "fallback": "X05"
-   },
-   {
-    "ref": "M03",
-    "cue": "Ác mộng biến mất"
+    "ref": "M03"
    },
    {
     "ref": "R86",
-    "cue": "anh lại có thể",
-    "fallback": "F10"
+    "cue": "làm việc bình thường"
    }
   ],
   "b11": [
    {
     "ref": "R82",
     "fallback": "N10"
-   },
-   {
-    "ref": "R49",
-    "cue": "gần như sống",
-    "fallback": "N11"
    },
    {
     "ref": "R47",
@@ -1342,7 +1281,7 @@
    },
    {
     "ref": "R02",
-    "cue": "sững sờ",
+    "cue": "Danh bạ",
     "fallback": "R80"
    },
    {
@@ -1381,20 +1320,11 @@
    {
     "ref": "R06",
     "fallback": "N16"
-   },
-   {
-    "ref": "S07",
-    "cue": "cuối cùng"
    }
   ],
   "c04": [
    {
-    "ref": "R07",
-    "fallback": "N17"
-   },
-   {
     "ref": "S22",
-    "cue": "chính ông",
     "fallback": "N15"
    },
    {
@@ -1409,7 +1339,7 @@
    },
    {
     "ref": "M07",
-    "cue": "chăm lo"
+    "cue": "mỗi tuần"
    },
    {
     "ref": "R08",
