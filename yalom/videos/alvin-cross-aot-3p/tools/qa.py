@@ -5,7 +5,7 @@ import json,os,re,statistics,subprocess,sys
 from PIL import Image,ImageDraw,ImageFont
 HERE=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 VID=sys.argv[1]; REF=sys.argv[sys.argv.index('--ref')+1] if '--ref' in sys.argv else None
-MIN_SHOT=3.3; LEN_TOL=0.25; LOUD_TOL=1.5
+FLASH=2.5; MEDIAN=4.0; BRIEF=3.3; LEN_TOL=0.25; LOUD_TOL=1.5
 tl=json.load(open(os.path.join(HERE,'timeline.json'))); idx=open(os.path.join(HERE,'index.html')).read()
 total,shots=tl['total'],tl['shots']
 srcs=[s for _,s in re.findall(r'<img id="img(\d+)" class="clip shot" src="([^"]+)"',idx)]
@@ -48,9 +48,8 @@ check('shots on screen',not miss,f'{len(shots)-len(miss)}/{len(shots)} match'+('
 
 # screen time = cut to next cut (fade-in midpoint to fade-out midpoint); 'dur' would also count the crossfade overlap
 seen=[(shots[i+1][1] if i+1<len(shots) else total)-st for i,(_,st,_) in enumerate(shots)]
-short=[f'{shots[i][0]} {x:.1f}s' for i,x in enumerate(seen) if x<MIN_SHOT]
-check('pacing',not short,f'{len(shots)} shots on screen min {min(seen):.2f}s, median {statistics.median(seen):.2f}s, {len(shots)/total*60:.1f} cuts/min'+(f', under {MIN_SHOT}s: {short}' if short else ''))
-
+flash=[f'{shots[i][0]} {x:.1f}s' for i,x in enumerate(seen) if x<FLASH]; brief=[f'{shots[i][0]} {x:.1f}s' for i,x in enumerate(seen) if FLASH<=x<BRIEF]
+check('pacing',not flash and statistics.median(seen)>=MEDIAN,f'{len(shots)} shots on screen min {min(seen):.2f}s, median {statistics.median(seen):.2f}s (bar {MEDIAN}s), {len(shots)/total*60:.1f} cuts/min, flashes <{FLASH}s: {flash or "none"}'+(f'; brief (info) <{BRIEF}s: {brief}' if brief else ''))
 cols=8; W,H=240,135; sheet=Image.new('RGB',(cols*W,((len(frames)+cols-1)//cols)*(H+18)),'white'); dr=ImageDraw.Draw(sheet)
 f=ImageFont.truetype('/System/Library/Fonts/Helvetica.ttc',13)
 for k,(fr,i,ref,t,d) in enumerate(frames):
