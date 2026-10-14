@@ -13,6 +13,7 @@ MINP,MAXADD=0.25,0.6  # fitted pause bounds: never shorter than MINP, never leng
 voices=json.load(open(os.path.join(P,'voices.json')))
 SJ=os.path.join(SC,'script.json'); SDATA=json.load(open(SJ)) if os.path.exists(SJ) else {}
 for v,tp in SDATA.get('tempo',{}).items(): voices[v]['tempo']=tp  # a script may pace a voice its own way (script.json 'tempo')
+MINR=SDATA.get('min_rate',0)  # script.json 'min_rate': no line plays slower than this (1.0 = never stretched below the voice's natural speed)
 lines=json.load(open(os.path.join(SC,'lines.json'))); ids=[l['id'] for l in lines]
 SHOTS=json.load(open(os.path.join(SC,'shots.json')))['shots']
 probe=lambda f: float(subprocess.check_output(['ffprobe','-v','error','-show_entries','format=duration','-of','csv=p=0',f]))
@@ -43,14 +44,14 @@ if EVEN:
   v0=use[0]; R0=voices[v0]['tempo']; txt={l['id']:l['text'] for l in lines}
   wps={sid:len(txt[sid].split())/(raw[v0,sid]-sum(b-a for a,b in pz[v0,sid])) for sid in ids}
   MED=statistics.median(wps.values())
-  even_fc={sid:min(max(MED/wps[sid],LO),HI) for sid in ids}
+  even_fc={sid:max(min(max(MED/wps[sid],LO),HI),MINR/R0) for sid in ids}
   for sid in ids:
     r=R0*even_fc[sid]; slots[sid]=round(raw[v0,sid]/r+sum(min(0,PCAP-(b-a)/r) for a,b in pz[v0,sid]),3)
 fits={}; at={}
 for v in use:
   R=voices[v]['tempo']; fits[v]={}
   for sid in ids:
-    f=nat[v,sid]/slots[sid]; fc=min(max(f,LO),HI)
+    f=nat[v,sid]/slots[sid]; fc=max(min(max(f,LO),HI),MINR/R)
     if EVEN: fc=even_fc[sid]
     if shortest(v,sid)>slots[sid]:  # only when adding a voice to fixed slots: speed past HI until the line fits with its pauses at MINP
       pp=pz[v,sid]; fc=(raw[v,sid]-sum(b-a for a,b in pp))/(R*(slots[sid]-len(pp)*MINP)); print(f'{v} {sid}: needs x{fc:.2f}, past the x{HI} clamp')
